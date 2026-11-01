@@ -58,7 +58,7 @@ export function deletePlanItem(userId, id) {
 
 export function getPlan(userId, from = today(), days = 7) {
   const to = addDays(from, days - 1);
-  return getDb().prepare('SELECT * FROM plan_items WHERE user_id=? AND date BETWEEN ? AND ? ORDER BY date, COALESCE(start_time, "99"), id').all(userId, from, to).map(decorate);
+  return getDb().prepare("SELECT * FROM plan_items WHERE user_id=? AND date BETWEEN ? AND ? ORDER BY date, COALESCE(start_time, '99'), id").all(userId, from, to).map(decorate);
 }
 
 /** Pesos por área considerando os processos-alvo (só pesos oficiais verificados; senão, iguais). */
