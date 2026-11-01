@@ -162,8 +162,11 @@ export function generatePlan(userId, { days = 14, from = today() } = {}) {
     if (!allowedDays.has(wd)) continue;
     if (examDate && date > examDate) break;
     studyDayCount++;
-    let left = daily;
+    // Itens mantidos (criados pela estudante/professora ou já feitos) consomem o tempo do dia.
+    const kept = db.prepare("SELECT COALESCE(SUM(minutes),0) m, MAX(start_time) last FROM plan_items WHERE user_id=? AND date=? AND NOT (status='pendente' AND created_by='sistema')").get(userId, date);
+    let left = daily - kept.m;
     let clock = start;
+    if (left < 20) continue;
     const push = (it) => {
       items.push({ ...it, date, start_time: clock });
       clock = addMinutes(clock, it.minutes + (it.minutes >= 40 ? 10 : 5)); // pausas entre blocos

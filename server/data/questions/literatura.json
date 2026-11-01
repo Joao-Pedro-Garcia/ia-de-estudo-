@@ -37,7 +37,7 @@
     "origin": "inedita_ia",
     "style_ref": "ENEM",
     "skills": ["características de estilos de época"],
-    "statement": "Leia o trecho de um soneto escrito por um estudante para uma atividade de imitação de estilos (texto original):\n\n> Se a luz do dia aquece a carne aflita,\n> A noite escura gela o pensamento;\n> Se ao prazer eu me entrego num momento,\n> E no outro a culpa o peito me visita.\n>\n> Ó vida breve, a tudo tão restrita,\n> Que és flor pela manhã e, à tarde, és vento!\n\nO estudante procurou imitar características do Barroco, que se evidenciam:",
+    "statement": "Leia o trecho de um soneto escrito por um estudante para uma atividade de imitação de estilos (texto original):\n\n> Se a luz do dia aquece a carne aflita,\n> A sombra fria gela o pensamento;\n> Se ao prazer eu me entrego num momento,\n> Já no outro a culpa o peito me visita.\n>\n> Ó vida breve, a tudo tão restrita,\n> Que és flor pela manhã e, à tarde, és vento!\n\nO estudante procurou imitar características do Barroco, que se evidenciam:",
     "alternatives": [
       {"key": "A", "text": "no bucolismo e na vida simples no campo, em oposição à cidade."},
       {"key": "B", "text": "no nacionalismo e na exaltação da natureza brasileira."},
@@ -46,12 +46,12 @@
       {"key": "E", "text": "nas antíteses (luz/sombra, prazer/culpa) e na consciência da brevidade da vida, expressando o conflito entre o material e o espiritual."}
     ],
     "answer": "E",
-    "explanation": "O Barroco, no Brasil representado sobretudo por Gregório de Matos e pelo Padre Antônio Vieira, expressa a tensão entre o prazer terreno e a salvação da alma, herança do contexto da Contrarreforma. Essa tensão aparece em antíteses e paradoxos (luz/sombra, prazer/culpa) e na reflexão sobre a fugacidade da vida (\"flor de manhã, à tarde vento\"). Conceito-chave: o Barroco é marcado pelo dualismo (carne x espírito) e pelo uso intenso de antíteses e paradoxos.",
+    "explanation": "O Barroco, no Brasil representado sobretudo por Gregório de Matos e pelo Padre Antônio Vieira, expressa a tensão entre o prazer terreno e a salvação da alma, herança do contexto da Contrarreforma. Essa tensão aparece em antíteses e paradoxos (luz/sombra, prazer/culpa) e na reflexão sobre a fugacidade da vida (\"flor pela manhã e, à tarde, vento\"). Conceito-chave: o Barroco é marcado pelo dualismo (carne x espírito) e pelo uso intenso de antíteses e paradoxos.",
     "wrong_notes": {
       "A": "Bucolismo e vida no campo são traços do Arcadismo.",
       "B": "O nacionalismo é traço do Romantismo.",
       "C": "Culto à forma com impessoalidade e mitologia é próprio do Parnasianismo; o poema é pessoal e angustiado.",
-      "D": "O texto segue métrica e rima regulares; verso livre é traço modernista."
+      "D": "O texto segue a forma fixa do soneto, com versos decassílabos e rimas regulares (aflita/visita/restrita, pensamento/momento/vento); verso livre é traço modernista."
     },
     "concept": "Dualismo e antíteses no Barroco."
   },
