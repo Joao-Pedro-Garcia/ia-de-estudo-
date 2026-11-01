@@ -35,7 +35,7 @@ export default function Dashboard({ me }) {
     <div className="stack">
       <div className="topbar"><div><h1>Olá, {name}!</h1><p className="muted" style={{ margin: 0 }}>Vamos rumo à Medicina, um passo de cada vez.</p></div></div>
       {exam && days >= 0 && (
-        <div className="alert"><strong>{exam.title}</strong> em {days === 0 ? 'hoje' : `${days} dia(s)`} ({fmtDate(exam.date_start)}). {exam.verified ? 'Data oficial verificada.' : 'Data não verificada.'} <a href="#/calendario">Calendário</a></div>
+        <div className="alert"><strong>{exam.title}</strong> em {days === 0 ? 'hoje' : `${days} dia(s)`} ({fmtDate(exam.date_start)}). {exam.verified ? 'Data oficial verificada.' : 'Data não verificada.'} <a href="#/calendario">Calendário</a>{!me.profile?.data_prova && <> · Vai fazer esta prova? <a href="#/perfil">Informe a data no perfil</a> para o plano entrar em reta final.</>}</div>
       )}
       <a href="#/professora" className="card row" style={{ textDecoration: 'none', color: 'inherit', borderColor: 'var(--brand)' }}>
         <Icon name="chat" size={28} />
@@ -53,13 +53,16 @@ export default function Dashboard({ me }) {
           {d.today_plan.length ? d.today_plan.map((it) => (
             <div key={it.id} className="row" style={{ padding: '6px 0', borderBottom: '1px solid var(--border)' }}>
               <input type="checkbox" aria-label="Concluído" checked={it.status === 'feito'} onChange={async (e) => { await api.patch(`/plan/items/${it.id}`, { status: e.target.checked ? 'feito' : 'pendente' }); reload(); }} />
-              <span className="faint" style={{ width: 44 }}>{it.start_time}</span>
+              <span className="faint" style={{ width: 44 }}>{it.start_time || 'livre'}</span>
               <a href={KIND_LINK[it.kind]?.(it)} style={{ flex: 1, textDecoration: it.status === 'feito' ? 'line-through' : 'none', color: 'inherit' }}>
                 <strong>{it.kind_label}</strong>{it.discipline_name ? ` · ${it.discipline_name}` : ''}{it.topic_name ? ` — ${it.topic_name}` : ''}
               </a>
               <span className="faint">{it.minutes}min</span>
             </div>
-          )) : <p className="muted">Nada agendado para hoje. Que tal revisar flashcards?</p>}
+          )) : (
+            <div><p className="muted">Hoje não é dia de estudo no seu plano. {d.flashcards.due ? `Há ${d.flashcards.due} flashcards vencidos, se quiser.` : ''}</p>
+              {d.next_plan.length > 0 && <><strong>Próximo dia ({fmtDate(d.next_plan[0].date)}):</strong><ul>{d.next_plan.map((it) => <li key={it.id}>{it.start_time || 'horário livre'} — {it.kind_label}{it.discipline_name ? ` · ${it.discipline_name}` : ''}{it.topic_name ? ` (${it.topic_name})` : ''}</li>)}</ul></>}
+            </div>)}
         </div>
         <Goals data={d} reload={reload} />
       </div>

@@ -82,6 +82,7 @@ small, .muted { color: var(--text-2); }
 /* Cards / grids */
 .card { background: var(--surface); border: 1px solid var(--border); border-radius: var(--radius); padding: 16px; box-shadow: var(--shadow); }
 .card + .card { margin-top: 12px; }
+.grid > .card, .row > .card, .stack > .card { margin-top: 0; }
 .card h2, .card h3 { margin-bottom: .6rem; }
 .grid { display: grid; gap: 12px; }
 .grid.two { grid-template-columns: 1fr; }
@@ -158,15 +159,15 @@ input:focus, select:focus, textarea:focus, .btn:focus-visible, .chip:focus-visib
 .md ul, .md ol { padding-left: 22px; margin: 0 0 .75rem; }
 
 /* Chat */
-.chat { display: grid; grid-template-columns: 1fr; gap: 12px; height: calc(100vh - 150px); height: calc(100dvh - 150px - env(safe-area-inset-bottom)); }
-@media (min-width: 900px) { .chat { grid-template-columns: 270px 1fr; height: calc(100vh - 110px); } }
+.chat { display: grid; grid-template-columns: minmax(0, 1fr); gap: 12px; height: calc(100vh - 150px); height: calc(100dvh - 150px - env(safe-area-inset-bottom)); }
+@media (min-width: 900px) { .chat { grid-template-columns: 270px minmax(0, 1fr); height: calc(100vh - 110px); } }
 .convlist { display: none; overflow-y: auto; }
 .convlist.open { display: block; }
 @media (min-width: 900px) { .convlist { display: block; } }
 .convlist a { display: block; padding: 9px 10px; border-radius: 10px; text-decoration: none; color: var(--text); }
 .convlist a.active { background: var(--brand-soft); }
 .convlist a .t { font-weight: 600; font-size: .92rem; overflow: hidden; text-overflow: ellipsis; white-space: nowrap; }
-.chatpane { display: flex; flex-direction: column; min-height: 0; background: var(--surface); border: 1px solid var(--border); border-radius: var(--radius); }
+.chatpane { min-width: 0; display: flex; flex-direction: column; min-height: 0; background: var(--surface); border: 1px solid var(--border); border-radius: var(--radius); }
 .msgs { flex: 1; overflow-y: auto; padding: 14px; display: flex; flex-direction: column; gap: 12px; }
 .msg { max-width: 92%; padding: 10px 14px; border-radius: 14px; }
 .msg.user { align-self: flex-end; background: var(--brand); color: var(--brand-ink); border-bottom-right-radius: 4px; }

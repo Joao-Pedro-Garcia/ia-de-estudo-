@@ -1,7 +1,7 @@
 import { useEffect, useState } from 'react';
 import { api } from './lib/api.js';
 import { useRoute, go } from './lib/router.js';
-import { Loading, Icon } from './components/ui.jsx';
+import { Loading, Icon, ErrorBoundary } from './components/ui.jsx';
 import Auth from './pages/Auth.jsx';
 import Onboarding from './pages/Onboarding.jsx';
 import Diagnostic from './pages/Diagnostic.jsx';
@@ -22,6 +22,7 @@ import Calendar from './pages/Calendar.jsx';
 import Memory from './pages/Memory.jsx';
 import MapReport from './pages/MapReport.jsx';
 import More from './pages/More.jsx';
+import Profile from './pages/Profile.jsx';
 
 export const NAV = [
   { to: '/', label: 'Início', icon: 'home' },
@@ -42,6 +43,7 @@ export const NAV = [
   { to: '/central/simulador', label: 'Simulador de notas', icon: 'calc' },
   { to: '/memoria', label: 'Minha evolução', icon: 'brain' },
   { to: '/mapa', label: 'Mapa de aprovação', icon: 'star' },
+  { to: '/perfil', label: 'Meu perfil', icon: 'home' },
 ];
 
 export function toggleTheme() {
@@ -107,8 +109,9 @@ export default function App() {
     case 'calendario': page = <Calendar />; break;
     case 'memoria': page = <Memory />; break;
     case 'mapa': page = <MapReport me={me} />; break;
+    case 'perfil': page = <Profile />; break;
     case 'mais': page = <More me={me} onLogout={logout} />; break;
     default: page = <div className="card">Página não encontrada. <a href="#/">Voltar ao início</a></div>;
   }
-  return <Layout me={me} path={path} onLogout={logout}>{page}</Layout>;
+  return <Layout me={me} path={path} onLogout={logout}><ErrorBoundary resetKey={path}>{page}</ErrorBoundary></Layout>;
 }

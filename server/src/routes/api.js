@@ -89,6 +89,11 @@ api.post('/diagnostic/start', ah(async (req, res) => {
   const d = OB.startDiagnostic(req.user.id, { restart: !!req.body?.restart });
   res.json({ id: d.id, status: d.status });
 }));
+api.post('/diagnostic/redo', ah(async (req, res) => {
+  OB.startDiagnostic(req.user.id, { restart: true });
+  getDb().prepare('UPDATE profiles SET diagnostic_done_at=NULL WHERE user_id=?').run(req.user.id);
+  res.json({ ok: true });
+}));
 api.get('/diagnostic/next', ah(async (req, res) => res.json(OB.nextDiagnosticStep(req.user.id))));
 api.post('/diagnostic/answer', ah(async (req, res) => {
   const b = pick(req.body, { questionId: 'string', chosen: 'string', confidence: 'string' });

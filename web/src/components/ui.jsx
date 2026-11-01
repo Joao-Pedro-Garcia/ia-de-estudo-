@@ -1,5 +1,5 @@
 // Componentes compartilhados: ícones, markdown, estados, questão, gráficos.
-import { useEffect, useMemo, useRef, useState } from 'react';
+import { Component, useEffect, useMemo, useRef, useState } from 'react';
 import { mdToHtml } from '../lib/md.js';
 import { api } from '../lib/api.js';
 
@@ -60,15 +60,18 @@ export function ErrorBox({ error, onRetry }) {
   );
 }
 
-/** Hook simples de carregamento. */
+/** Hook simples de carregamento. Trocar os parâmetros (deps) volta ao estado "carregando" imediatamente. */
 export function useLoad(fn, deps = []) {
-  const [state, set] = useState({ loading: true, data: null, error: null });
+  const key = JSON.stringify(deps);
+  const [state, set] = useState({ loading: true, data: null, error: null, key: null });
   const reload = () => {
     set((s) => ({ ...s, loading: true, error: null }));
-    return fn().then((data) => set({ loading: false, data, error: null })).catch((error) => set({ loading: false, data: null, error }));
+    return fn().then((data) => set({ loading: false, data, error: null, key })).catch((error) => set({ loading: false, data: null, error, key }));
   };
   useEffect(() => { reload(); /* eslint-disable-next-line react-hooks/exhaustive-deps */ }, deps);
-  return { ...state, reload, setData: (d) => set((s) => ({ ...s, data: typeof d === 'function' ? d(s.data) : d })) };
+  const stale = state.key !== key;
+  return { ...state, loading: state.loading || stale, data: stale ? null : state.data, error: stale ? null : state.error, reload,
+    setData: (d) => set((s) => ({ ...s, data: typeof d === 'function' ? d(s.data) : d })) };
 }
 
 export function useCurriculum() {
@@ -247,4 +250,20 @@ export function Source({ url, type, date, verified }) {
       {date && <> · coletado em {String(date).slice(0, 10)}</>}
     </span>
   );
+}
+
+/** Barreira de erro: uma falha numa tela nunca deixa o app em branco. */
+export class ErrorBoundary extends Component {
+  constructor(p) { super(p); this.state = { error: null }; }
+  static getDerivedStateFromError(error) { return { error }; }
+  componentDidUpdate(prev) { if (prev.resetKey !== this.props.resetKey && this.state.error) this.setState({ error: null }); }
+  render() {
+    if (!this.state.error) return this.props.children;
+    return (
+      <div className="alert bad" role="alert">
+        <strong>Algo deu errado nesta tela.</strong> Seus dados estão salvos. <button className="btn small" onClick={() => window.location.reload()}>Recarregar</button>
+        <div className="faint">{String(this.state.error.message || this.state.error)}</div>
+      </div>
+    );
+  }
 }

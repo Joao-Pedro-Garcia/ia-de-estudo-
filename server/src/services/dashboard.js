@@ -70,6 +70,7 @@ export function dashboard(userId) {
     week: weekProgress(userId),
     plan_week: planProgress(userId),
     today_plan: getPlan(userId, today(), 1),
+    next_plan: (() => { const items = getPlan(userId, addDays(today(), 1), 7); const d = items[0]?.date; return d ? items.filter((i) => i.date === d) : []; })(),
     upcoming: upcomingEvents(userId, 5),
   };
 }
