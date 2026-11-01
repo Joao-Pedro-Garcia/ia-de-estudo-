@@ -37,7 +37,7 @@
     "origin": "inedita_ia",
     "style_ref": "ENEM",
     "skills": ["características de estilos de época"],
-    "statement": "Leia o soneto escrito por um estudante para uma atividade de imitação de estilos (texto original):\n\n> Se a luz do dia aquece a carne aflita,\n> A sombra da noite gela o pensamento;\n> Se ao prazer me entrego num momento,\n> No outro a culpa o peito me visita.\n>\n> Ó vida breve, a tudo tão restrita,\n> Que és flor de manhã, à tarde és vento!\n\nO estudante procurou imitar características do Barroco, que se evidenciam:",
+    "statement": "Leia o trecho de um soneto escrito por um estudante para uma atividade de imitação de estilos (texto original):\n\n> Se a luz do dia aquece a carne aflita,\n> A noite escura gela o pensamento;\n> Se ao prazer eu me entrego num momento,\n> E no outro a culpa o peito me visita.\n>\n> Ó vida breve, a tudo tão restrita,\n> Que és flor pela manhã e, à tarde, és vento!\n\nO estudante procurou imitar características do Barroco, que se evidenciam:",
     "alternatives": [
       {"key": "A", "text": "no bucolismo e na vida simples no campo, em oposição à cidade."},
       {"key": "B", "text": "no nacionalismo e na exaltação da natureza brasileira."},
