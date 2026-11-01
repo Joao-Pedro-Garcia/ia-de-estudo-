@@ -1,0 +1,737 @@
+[
+  {
+    "id": "soc-classicos-001",
+    "discipline": "sociologia",
+    "topic": "classicos",
+    "subtopic": "Durkheim",
+    "difficulty": 1,
+    "type": "multipla_escolha",
+    "origin": "inedita_ia",
+    "style_ref": "ENEM",
+    "skills": [
+      "identificação de conceito sociológico"
+    ],
+    "statement": "Ao entrar na faculdade de Medicina, uma estudante percebe que precisa seguir regras que não criou: usar jaleco nos laboratórios, respeitar a hierarquia nos estágios e adotar uma linguagem técnica. Se desrespeitar essas normas, sofre advertências ou olhares de reprovação. Essas regras já existiam antes de ela chegar e continuarão existindo depois que ela se formar.\n\nNa sociologia de Émile Durkheim, as regras descritas são exemplos de",
+    "alternatives": [
+      {
+        "key": "A",
+        "text": "ação social afetiva, orientada pelas emoções do indivíduo."
+      },
+      {
+        "key": "B",
+        "text": "luta de classes, conflito entre proprietários e trabalhadores."
+      },
+      {
+        "key": "C",
+        "text": "alienação, perda do controle do trabalhador sobre o produto do trabalho."
+      },
+      {
+        "key": "D",
+        "text": "fatos sociais, maneiras de agir exteriores ao indivíduo, coercitivas e gerais."
+      },
+      {
+        "key": "E",
+        "text": "tipo ideal, construção teórica usada para comparar casos concretos."
+      }
+    ],
+    "answer": "D",
+    "explanation": "Durkheim define fatos sociais como maneiras de agir, pensar e sentir que são exteriores ao indivíduo (existem antes e independentemente dele), coercitivas (impõem-se, com sanções a quem as desrespeita) e gerais (valem para o grupo). As regras do curso apresentam exatamente essas três características. Conceito-chave: fato social = exterioridade, coercitividade e generalidade.",
+    "wrong_notes": {
+      "A": "Ação social afetiva é conceito de Weber e se refere a ações motivadas por emoções, não a regras coletivas.",
+      "B": "Luta de classes é conceito de Marx sobre conflitos econômicos, não sobre normas institucionais.",
+      "C": "Alienação, em Marx, trata da relação do trabalhador com o trabalho, não da imposição de normas de grupo.",
+      "E": "Tipo ideal é um instrumento metodológico de Weber, não um fenômeno social que coage indivíduos."
+    },
+    "concept": "Fato social (Durkheim): exterioridade, coercitividade e generalidade."
+  },
+  {
+    "id": "soc-classicos-002",
+    "discipline": "sociologia",
+    "topic": "classicos",
+    "subtopic": "Weber",
+    "difficulty": 2,
+    "type": "multipla_escolha",
+    "origin": "inedita_ia",
+    "style_ref": "ENEM",
+    "skills": [
+      "classificação de ações sociais",
+      "interpretação de casos"
+    ],
+    "statement": "Max Weber classificou a ação social em quatro tipos ideais: racional com relação a fins (escolha calculada de meios para atingir um objetivo), racional com relação a valores (ação guiada por convicções, independentemente das consequências), afetiva (movida por emoções) e tradicional (movida por hábitos arraigados).\n\nUm estudante organiza um cronograma, calcula quantas horas deve dedicar a cada disciplina com base no peso de cada uma na prova e escolhe os materiais mais eficientes para ser aprovado em Medicina. Essa ação é do tipo",
+    "alternatives": [
+      {
+        "key": "A",
+        "text": "tradicional."
+      },
+      {
+        "key": "B",
+        "text": "racional com relação a fins."
+      },
+      {
+        "key": "C",
+        "text": "afetiva."
+      },
+      {
+        "key": "D",
+        "text": "racional com relação a valores."
+      },
+      {
+        "key": "E",
+        "text": "coercitiva."
+      }
+    ],
+    "answer": "B",
+    "explanation": "O estudante define um objetivo (a aprovação) e escolhe de forma calculada os meios mais eficientes para alcançá-lo (cronograma, distribuição de horas, materiais). Essa é a ação racional com relação a fins. Não se trata de hábito, de emoção nem de convicção seguida independentemente do resultado. Conceito-chave: ação racional com relação a fins = cálculo de meios para atingir um objetivo.",
+    "wrong_notes": {
+      "A": "A ação não é repetição de hábito, mas planejamento calculado.",
+      "C": "O texto não descreve uma ação movida por emoção.",
+      "D": "Seria o caso de uma ação feita por convicção, independentemente das consequências; aqui, o foco é a eficiência para atingir o resultado.",
+      "E": "\"Coercitiva\" não é um dos tipos de ação de Weber; coercitividade é característica do fato social em Durkheim."
+    },
+    "concept": "Tipos de ação social em Weber: racional com relação a fins."
+  },
+  {
+    "id": "soc-classicos-003",
+    "discipline": "sociologia",
+    "topic": "classicos",
+    "subtopic": "Marx",
+    "difficulty": 3,
+    "type": "multipla_escolha",
+    "origin": "inedita_ia",
+    "style_ref": "ENEM",
+    "skills": [
+      "interpretação de texto",
+      "aplicação de conceito"
+    ],
+    "statement": "Leia o depoimento fictício de uma trabalhadora de uma fábrica de calçados:\n\n> \"Passo nove horas por dia colando a mesma parte do tênis. Não sei quem desenhou o modelo, não decido o ritmo da esteira e nunca poderia comprar o par que ajudo a fabricar, que é vendido por quase o valor do meu salário semanal. No fim do dia, não me reconheço no que faço.\"\n\nO depoimento ilustra, segundo Karl Marx, o conceito de",
+    "alternatives": [
+      {
+        "key": "A",
+        "text": "anomia, ausência de normas que regulem a vida social."
+      },
+      {
+        "key": "B",
+        "text": "solidariedade mecânica, típica de sociedades com pouca divisão do trabalho."
+      },
+      {
+        "key": "C",
+        "text": "dominação carismática, baseada na crença nas qualidades extraordinárias de um líder."
+      },
+      {
+        "key": "D",
+        "text": "ação social tradicional, determinada pelos costumes."
+      },
+      {
+        "key": "E",
+        "text": "alienação do trabalho, em que o trabalhador não controla o processo produtivo nem se reconhece no produto que fabrica."
+      }
+    ],
+    "answer": "E",
+    "explanation": "Para Marx, no capitalismo o trabalhador vende sua força de trabalho e perde o controle sobre o processo (o ritmo da esteira, a tarefa fragmentada) e sobre o produto, que pertence ao capitalista. O trabalho deixa de ser expressão de suas capacidades e se torna estranho a ele. O depoimento mostra essas dimensões: tarefa repetitiva, ausência de decisão, produto inacessível e falta de reconhecimento. Conceito-chave: alienação é o estranhamento do trabalhador em relação ao processo e ao produto do trabalho.",
+    "wrong_notes": {
+      "A": "Anomia é conceito de Durkheim sobre enfraquecimento das normas sociais, não sobre a relação de trabalho.",
+      "B": "Solidariedade mecânica, em Durkheim, caracteriza sociedades com pouca divisão do trabalho, o oposto da fábrica descrita.",
+      "C": "Dominação carismática é conceito weberiano sobre legitimidade do poder.",
+      "D": "O depoimento não fala de costumes, mas da organização capitalista da produção."
+    },
+    "concept": "Alienação do trabalho (Marx)."
+  },
+  {
+    "id": "soc-classicos-004",
+    "discipline": "sociologia",
+    "topic": "classicos",
+    "subtopic": "Durkheim",
+    "difficulty": 4,
+    "type": "multipla_escolha",
+    "origin": "inedita_ia",
+    "style_ref": "ENEM",
+    "skills": [
+      "interpretação de dados",
+      "aplicação de conceito sociológico",
+      "relação sociologia-saúde"
+    ],
+    "statement": "Em *O suicídio* (1897), Émile Durkheim propôs que as taxas de suicídio de uma sociedade variam conforme fatores sociais, e não apenas individuais. Ele descreveu tipos como o egoísta (integração social fraca), o altruísta (integração excessiva, em que o indivíduo se sacrifica pelo grupo), o fatalista (regulação excessiva e opressiva) e o anômico (desregulação, quando normas e expectativas são bruscamente desorganizadas).\n\nUma pesquisa hipotética em uma região observou o seguinte:\n\n| Período | Situação econômica | Variação da taxa de suicídio |\n|---|---|---|\n| Ano 1 | estável | referência |\n| Ano 2 | crise súbita, com falências e desemprego | aumento |\n| Ano 3 | estável | retorno próximo à referência |\n| Ano 4 | enriquecimento súbito por um ciclo especulativo | aumento |\n\nSegundo a teoria de Durkheim, o aumento nos anos 2 e 4 é melhor explicado pelo tipo",
+    "alternatives": [
+      {
+        "key": "A",
+        "text": "anômico, pois tanto a crise quanto a prosperidade súbita desorganizam as normas que regulam desejos e expectativas."
+      },
+      {
+        "key": "B",
+        "text": "altruísta, pois as pessoas se sacrificaram voluntariamente em nome da economia."
+      },
+      {
+        "key": "C",
+        "text": "fatalista, pois os períodos de mudança aumentaram a regulação opressiva sobre os indivíduos."
+      },
+      {
+        "key": "D",
+        "text": "egoísta, pois o enriquecimento sempre isola os indivíduos de suas famílias."
+      },
+      {
+        "key": "E",
+        "text": "individual, pois a sociologia não pode explicar variações nas taxas de suicídio."
+      }
+    ],
+    "answer": "A",
+    "explanation": "O dado decisivo é que a taxa sobe tanto na crise quanto no enriquecimento súbito. O fator comum não é a pobreza nem a riqueza, mas a mudança brusca, que desorganiza as normas que regulam as aspirações e expectativas das pessoas. Durkheim chamou essa desregulação de anomia. Do ponto de vista da saúde pública, isso reforça que o suicídio tem determinantes sociais, além dos individuais, e que é um fenômeno prevenível, que exige atenção em períodos de crise. Conceito-chave: suicídio anômico decorre da desregulação social provocada por mudanças bruscas.",
+    "wrong_notes": {
+      "B": "Nada indica sacrifício pelo grupo; o padrão está associado a rupturas, não a integração excessiva.",
+      "C": "O fatalismo resulta de regulação excessiva e estável; aqui ocorre o contrário, desregulação.",
+      "D": "Não explica o aumento no ano de crise; além disso, a generalização \"sempre\" é indevida.",
+      "E": "Durkheim mostrou justamente que as taxas de suicídio variam segundo fatores sociais."
+    },
+    "concept": "Suicídio anômico (Durkheim): desregulação social em mudanças bruscas."
+  },
+  {
+    "id": "soc-cultura-001",
+    "discipline": "sociologia",
+    "topic": "cultura",
+    "subtopic": "etnocentrismo e relativismo",
+    "difficulty": 1,
+    "type": "multipla_escolha",
+    "origin": "inedita_ia",
+    "style_ref": "ENEM",
+    "skills": [
+      "identificação de conceito"
+    ],
+    "statement": "Um turista, ao visitar uma comunidade ribeirinha no rio Araguaia, comentou: \"Esse povo é atrasado. Comem peixe com farinha em todas as refeições e dormem em redes. Deveriam viver como nós, na cidade\".\n\nA fala do turista é exemplo de",
+    "alternatives": [
+      {
+        "key": "A",
+        "text": "relativismo cultural, pois reconhece que cada cultura tem sua própria lógica."
+      },
+      {
+        "key": "B",
+        "text": "aculturação, pois descreve a fusão das duas culturas."
+      },
+      {
+        "key": "C",
+        "text": "etnocentrismo, pois julga outra cultura tomando os próprios costumes como padrão de superioridade."
+      },
+      {
+        "key": "D",
+        "text": "multiculturalismo, pois valoriza a convivência entre diferentes culturas."
+      },
+      {
+        "key": "E",
+        "text": "alteridade, pois se coloca no lugar do outro para compreendê-lo."
+      }
+    ],
+    "answer": "C",
+    "explanation": "O turista classifica os ribeirinhos como \"atrasados\" porque seus hábitos são diferentes dos dele, tomando seu próprio modo de vida urbano como medida do que é correto. Isso é etnocentrismo: julgar outras culturas a partir dos valores do próprio grupo, considerado superior. Conceito-chave: etnocentrismo é avaliar o outro pelos padrões da própria cultura.",
+    "wrong_notes": {
+      "A": "O relativismo busca compreender cada cultura em seus próprios termos, o oposto da fala do turista.",
+      "B": "Não há fusão de culturas na situação; há apenas um julgamento.",
+      "D": "O turista não valoriza a diversidade; desqualifica a outra cultura.",
+      "E": "Alteridade implica reconhecer e compreender o outro, o que o turista não faz."
+    },
+    "concept": "Etnocentrismo."
+  },
+  {
+    "id": "soc-cultura-002",
+    "discipline": "sociologia",
+    "topic": "cultura",
+    "subtopic": "etnocentrismo e relativismo",
+    "difficulty": 2,
+    "type": "multipla_escolha",
+    "origin": "inedita_ia",
+    "style_ref": "ENEM",
+    "skills": [
+      "análise de situação",
+      "relação cultura-saúde"
+    ],
+    "statement": "Em uma aldeia indígena no Tocantins, a equipe de saúde observou que muitas gestantes não compareciam às consultas de pré-natal. Em vez de concluir que elas eram descuidadas, a equipe conversou com lideranças e parteiras da comunidade, descobriu que o horário das consultas coincidia com atividades coletivas importantes e passou a realizar os atendimentos com participação das parteiras, em horários combinados, mantendo os exames necessários.\n\nA atitude da equipe expressa",
+    "alternatives": [
+      {
+        "key": "A",
+        "text": "etnocentrismo, pois a equipe impôs suas práticas sem considerar a comunidade."
+      },
+      {
+        "key": "B",
+        "text": "uma postura de relativização e diálogo intercultural, que busca compreender a lógica da outra cultura e adaptar o cuidado sem abandonar a qualidade da atenção."
+      },
+      {
+        "key": "C",
+        "text": "assimilação cultural, pois a comunidade abandonou suas práticas tradicionais."
+      },
+      {
+        "key": "D",
+        "text": "relativismo absoluto, pois a equipe deixou de oferecer qualquer cuidado médico."
+      },
+      {
+        "key": "E",
+        "text": "indústria cultural, pois o atendimento foi padronizado para todas as aldeias."
+      }
+    ],
+    "answer": "B",
+    "explanation": "A equipe evitou o julgamento etnocêntrico (\"são descuidadas\") e buscou entender a lógica da comunidade, ouvindo lideranças e parteiras. A partir disso, adaptou horários e incluiu saberes tradicionais, mas manteve os exames necessários. Essa postura de diálogo entre saberes é a base da atenção diferenciada à saúde indígena. Conceito-chave: relativizar é compreender a outra cultura em seus termos, o que permite um cuidado intercultural.",
+    "wrong_notes": {
+      "A": "A equipe fez o contrário de impor: ouviu a comunidade e adaptou o serviço.",
+      "C": "O texto mostra a valorização das práticas tradicionais, como o papel das parteiras, e não seu abandono.",
+      "D": "Os exames foram mantidos; compreender a cultura não significou deixar de cuidar.",
+      "E": "Indústria cultural refere-se à produção de bens culturais como mercadoria; o atendimento foi adaptado, não padronizado."
+    },
+    "concept": "Relativização e diálogo intercultural na saúde."
+  },
+  {
+    "id": "soc-cultura-003",
+    "discipline": "sociologia",
+    "topic": "cultura",
+    "subtopic": "cultura e identidade",
+    "difficulty": 3,
+    "type": "multipla_escolha",
+    "origin": "inedita_ia",
+    "style_ref": "ENEM",
+    "skills": [
+      "interpretação de texto",
+      "análise de identidade cultural na globalização"
+    ],
+    "statement": "No Maranhão, grupos de bumba meu boi mantêm toadas, figurinos bordados e personagens tradicionais, transmitidos há gerações. Nos últimos anos, alguns grupos passaram a divulgar suas apresentações em redes sociais, gravar toadas com instrumentos eletrônicos e se apresentar em festivais em outros países, sem deixar de participar das festas juninas em seus bairros.\n\nDo ponto de vista da sociologia da cultura, a situação descrita mostra que",
+    "alternatives": [
+      {
+        "key": "A",
+        "text": "a cultura popular desaparece obrigatoriamente quando entra em contato com tecnologias globais."
+      },
+      {
+        "key": "B",
+        "text": "as tradições só são autênticas quando permanecem idênticas ao que eram no passado."
+      },
+      {
+        "key": "C",
+        "text": "a globalização produz uma cultura mundial homogênea, sem traços locais."
+      },
+      {
+        "key": "D",
+        "text": "as manifestações culturais são estáticas e independentes das mudanças sociais."
+      },
+      {
+        "key": "E",
+        "text": "as identidades culturais são dinâmicas e podem incorporar elementos novos, em processos de hibridização, sem perder a referência à tradição local."
+      }
+    ],
+    "answer": "E",
+    "explanation": "O texto mostra continuidade (toadas, figurinos, personagens, participação nas festas do bairro) e mudança (redes sociais, instrumentos eletrônicos, festivais internacionais). Isso indica que a cultura não é estática: as identidades se transformam, combinam elementos locais e globais e continuam a afirmar uma referência regional. Autores como Néstor García Canclini chamam esse processo de hibridização cultural. Conceito-chave: a cultura é dinâmica, e a globalização pode gerar hibridização em vez de simples desaparecimento ou homogeneização.",
+    "wrong_notes": {
+      "A": "O texto mostra que a tradição continua, mesmo usando novas tecnologias.",
+      "B": "Visão essencialista: as tradições sempre se transformaram ao longo do tempo.",
+      "C": "O caso mostra a permanência de traços locais; a homogeneização total não ocorre.",
+      "D": "O texto descreve justamente transformações ligadas às mudanças sociais e tecnológicas."
+    },
+    "concept": "Identidade cultural dinâmica e hibridização."
+  },
+  {
+    "id": "soc-cultura-004",
+    "discipline": "sociologia",
+    "topic": "cultura",
+    "subtopic": "cultura e identidade",
+    "difficulty": 4,
+    "type": "multipla_escolha",
+    "origin": "inedita_ia",
+    "style_ref": "ENEM",
+    "skills": [
+      "interpretação de dados",
+      "aplicação de conceito sociológico",
+      "análise de desigualdade educacional"
+    ],
+    "statement": "Para o sociólogo Pierre Bourdieu, o desempenho escolar não depende apenas do esforço individual. Ele chamou de capital cultural o conjunto de conhecimentos, hábitos, linguagem e bens culturais transmitidos pela família, como livros em casa, familiaridade com a norma culta e com museus e o domínio de códigos valorizados pela escola.\n\nUma pesquisa hipotética com candidatos a Medicina obteve:\n\n| Escolaridade dos pais | Candidatos com mais de 50 livros em casa | Taxa de aprovação |\n|---|---|---|\n| Ensino superior completo | 72% | 18% |\n| Ensino médio completo | 31% | 7% |\n| Ensino fundamental ou menos | 9% | 2% |\n\nCom base no conceito de Bourdieu, a interpretação mais adequada dos dados é a de que",
+    "alternatives": [
+      {
+        "key": "A",
+        "text": "a escola tende a valorizar saberes que alguns estudantes já trazem de casa, de modo que desigualdades de origem podem ser convertidas em diferenças de desempenho que parecem apenas mérito individual."
+      },
+      {
+        "key": "B",
+        "text": "a aprovação depende exclusivamente do talento natural de cada estudante, sem relação com sua origem social."
+      },
+      {
+        "key": "C",
+        "text": "os livros em casa são a única causa da aprovação, bastando distribuí-los para eliminar as desigualdades."
+      },
+      {
+        "key": "D",
+        "text": "a escola é uma instituição neutra que anula todas as diferenças sociais entre os alunos."
+      },
+      {
+        "key": "E",
+        "text": "estudantes cujos pais têm menor escolaridade são aprovados com mais frequência, pois se esforçam mais."
+      }
+    ],
+    "answer": "A",
+    "explanation": "Os dados mostram que, quanto maior a escolaridade dos pais, maior a presença de bens culturais em casa e maior a taxa de aprovação. Para Bourdieu, isso ocorre porque a escola cobra e valoriza códigos culturais que são transmitidos de forma desigual pelas famílias. Assim, vantagens herdadas aparecem como \"dom\" ou mérito individual, legitimando desigualdades. Isso não significa que o esforço não importe, nem que os livros sejam causa única, mas que a origem social pesa nos resultados. Conceito-chave: capital cultural e reprodução das desigualdades pela escola.",
+    "wrong_notes": {
+      "B": "Ignora a associação nítida entre origem social e aprovação mostrada na tabela.",
+      "C": "Os livros são um indicador de capital cultural, não sua única dimensão; a correlação não prova causa única.",
+      "D": "Para Bourdieu, a escola não é neutra; tende a reproduzir desigualdades.",
+      "E": "Inverte os dados: o grupo com pais de menor escolaridade tem a menor taxa de aprovação."
+    },
+    "concept": "Capital cultural (Bourdieu) e reprodução das desigualdades escolares."
+  },
+  {
+    "id": "soc-estado-001",
+    "discipline": "sociologia",
+    "topic": "estado",
+    "subtopic": "democracia e cidadania",
+    "difficulty": 1,
+    "type": "multipla_escolha",
+    "origin": "inedita_ia",
+    "style_ref": "ENEM",
+    "skills": [
+      "identificação de conceito"
+    ],
+    "statement": "O sociólogo britânico T. H. Marshall dividiu a cidadania em três tipos de direitos: civis (liberdade de expressão, de ir e vir, propriedade, igualdade perante a lei), políticos (votar, ser votado, participar de partidos) e sociais (educação, saúde, previdência, trabalho).\n\nO acesso gratuito a vacinas e consultas na rede pública de saúde é exemplo de direito",
+    "alternatives": [
+      {
+        "key": "A",
+        "text": "civil."
+      },
+      {
+        "key": "B",
+        "text": "político."
+      },
+      {
+        "key": "C",
+        "text": "eleitoral."
+      },
+      {
+        "key": "D",
+        "text": "social."
+      },
+      {
+        "key": "E",
+        "text": "religioso."
+      }
+    ],
+    "answer": "D",
+    "explanation": "Segundo a classificação de Marshall, direitos sociais são aqueles que garantem um mínimo de bem-estar e participação na riqueza coletiva, como educação, saúde e previdência. O acesso gratuito a vacinas e consultas pela rede pública é um direito social, assegurado no Brasil pela Constituição de 1988. Conceito-chave: saúde pública é direito social na tipologia de Marshall.",
+    "wrong_notes": {
+      "A": "Direitos civis referem-se a liberdades individuais e igualdade perante a lei, não a serviços de saúde.",
+      "B": "Direitos políticos referem-se à participação no governo, como votar e ser votado.",
+      "C": "O direito eleitoral é parte dos direitos políticos, sem relação com serviços de saúde.",
+      "E": "A liberdade religiosa é um direito civil e não corresponde ao acesso à saúde."
+    },
+    "concept": "Tipos de direitos de cidadania (Marshall): civis, políticos e sociais."
+  },
+  {
+    "id": "soc-estado-002",
+    "discipline": "sociologia",
+    "topic": "estado",
+    "subtopic": "movimentos sociais",
+    "difficulty": 2,
+    "type": "multipla_escolha",
+    "origin": "inedita_ia",
+    "style_ref": "ENEM",
+    "skills": [
+      "identificação de características de movimento social"
+    ],
+    "statement": "Em um bairro da periferia de São Luís (MA), moradores se reuniram em uma associação para reivindicar rede de esgoto e coleta de lixo. Organizaram abaixo-assinados, participaram de audiências públicas na Câmara Municipal, fizeram manifestações pacíficas e divulgaram dados sobre casos de doenças no bairro. Após dois anos, a prefeitura incluiu as obras no orçamento.\n\nA mobilização descrita caracteriza um movimento social porque",
+    "alternatives": [
+      {
+        "key": "A",
+        "text": "foi organizada por um partido político com o objetivo de vencer as eleições."
+      },
+      {
+        "key": "B",
+        "text": "consistiu em uma ação coletiva organizada, com objetivos comuns, que pressionou o poder público para conquistar direitos."
+      },
+      {
+        "key": "C",
+        "text": "foi uma reação individual e espontânea de um morador insatisfeito."
+      },
+      {
+        "key": "D",
+        "text": "teve como objetivo derrubar o governo municipal por meio da força."
+      },
+      {
+        "key": "E",
+        "text": "dependeu exclusivamente da iniciativa da prefeitura, sem participação dos moradores."
+      }
+    ],
+    "answer": "B",
+    "explanation": "Movimentos sociais são ações coletivas organizadas e relativamente duradouras, nas quais grupos com interesses ou identidades comuns pressionam o Estado e a sociedade por direitos ou mudanças. O texto mostra organização (associação), objetivo comum (saneamento), estratégias de pressão (abaixo-assinados, audiências, manifestações) e duração (dois anos). Esse tipo de mobilização é parte da cidadania ativa em uma democracia. Conceito-chave: movimento social é ação coletiva organizada por direitos.",
+    "wrong_notes": {
+      "A": "Não há partido envolvido; o objetivo era obter saneamento, não vencer eleições.",
+      "C": "A ação foi coletiva e organizada, não individual e espontânea.",
+      "D": "Os meios foram pacíficos e institucionais; não houve tentativa de tomada do poder.",
+      "E": "As obras resultaram da pressão dos moradores, e não de uma iniciativa isolada da prefeitura."
+    },
+    "concept": "Movimentos sociais como ação coletiva organizada por direitos."
+  },
+  {
+    "id": "soc-estado-003",
+    "discipline": "sociologia",
+    "topic": "estado",
+    "subtopic": "democracia e cidadania",
+    "difficulty": 3,
+    "type": "multipla_escolha",
+    "origin": "inedita_ia",
+    "style_ref": "ENEM",
+    "skills": [
+      "interpretação de texto sociológico",
+      "aplicação de conceito"
+    ],
+    "statement": "Max Weber definiu o Estado moderno como a comunidade humana que, dentro de um território, reivindica com êxito o monopólio do uso legítimo da força física. Para ele, a legitimidade da dominação no Estado moderno é sobretudo legal-racional: as pessoas obedecem a regras impessoais e a autoridades investidas segundo procedimentos estabelecidos.\n\nConsidere a situação: em uma cidade, um grupo armado passa a cobrar \"taxas de proteção\" de comerciantes e a punir moradores segundo suas próprias regras, sem respaldo em lei.\n\nSegundo a definição de Weber, essa situação representa",
+    "alternatives": [
+      {
+        "key": "A",
+        "text": "o pleno funcionamento do Estado moderno, já que existe uso de força no território."
+      },
+      {
+        "key": "B",
+        "text": "um exemplo de dominação legal-racional, pois o grupo criou regras próprias."
+      },
+      {
+        "key": "C",
+        "text": "uma contestação ao monopólio estatal do uso legítimo da força, pois um grupo sem respaldo legal exerce coerção no território."
+      },
+      {
+        "key": "D",
+        "text": "uma forma de democracia direta, pois o grupo é formado por moradores da cidade."
+      },
+      {
+        "key": "E",
+        "text": "a prova de que o Estado moderno não precisa de legitimidade para existir."
+      }
+    ],
+    "answer": "C",
+    "explanation": "Para Weber, o que define o Estado não é simplesmente o uso da força, mas a pretensão bem-sucedida ao monopólio do seu uso legítimo, isto é, reconhecido e baseado em leis. Um grupo armado que cobra taxas e pune sem respaldo legal disputa esse monopólio e exerce uma coerção ilegítima. A situação revela, portanto, um enfraquecimento do Estado naquele território. Conceito-chave: o Estado moderno se define pelo monopólio do uso legítimo da força.",
+    "wrong_notes": {
+      "A": "O uso de força por um grupo não estatal contraria, e não confirma, o monopólio estatal.",
+      "B": "A dominação legal-racional baseia-se em regras impessoais e legítimas, não em regras impostas por um grupo armado.",
+      "D": "Coerção armada sem respaldo legal não é forma de participação democrática.",
+      "E": "Weber enfatiza que a legitimidade é central na definição de Estado e de dominação."
+    },
+    "concept": "Weber: Estado como monopólio do uso legítimo da força."
+  },
+  {
+    "id": "soc-estado-004",
+    "discipline": "sociologia",
+    "topic": "estado",
+    "subtopic": "direitos humanos",
+    "difficulty": 4,
+    "type": "multipla_escolha",
+    "origin": "inedita_ia",
+    "style_ref": "ENEM",
+    "skills": [
+      "comparação de modelos teóricos",
+      "análise histórica da cidadania"
+    ],
+    "statement": "Na Inglaterra, segundo T. H. Marshall, os direitos de cidadania foram conquistados em uma sequência: primeiro os civis (século XVIII), depois os políticos (século XIX) e, por fim, os sociais (século XX). O historiador José Murilo de Carvalho, em *Cidadania no Brasil*, argumenta que no Brasil a sequência foi diferente.\n\nConsidere os fatos:\n\n- Entre 1930 e 1945, o governo Vargas criou leis trabalhistas e previdenciárias, enquanto, sobretudo após 1937, eleições foram suspensas e a liberdade de imprensa foi restringida.\n- Durante a ditadura militar (1964-1985), direitos políticos e civis foram restringidos, ao mesmo tempo em que se expandiram alguns benefícios previdenciários.\n- Ainda hoje, parcelas da população enfrentam dificuldades de acesso à justiça e violações de direitos civis básicos.\n\nA partir dos fatos, a tese de Carvalho sobre a cidadania brasileira pode ser resumida como",
+    "alternatives": [
+      {
+        "key": "A",
+        "text": "uma repetição exata do modelo inglês, com direitos civis consolidados antes de todos os outros."
+      },
+      {
+        "key": "B",
+        "text": "a ausência total de direitos sociais no Brasil até a Constituição de 1988."
+      },
+      {
+        "key": "C",
+        "text": "a conquista simultânea e plena dos três tipos de direitos com a Proclamação da República."
+      },
+      {
+        "key": "D",
+        "text": "a precedência dos direitos políticos, conquistados em eleições livres desde o Império, sobre os demais."
+      },
+      {
+        "key": "E",
+        "text": "uma inversão da sequência inglesa: direitos sociais expandidos em períodos de restrição de direitos políticos e civis, com direitos civis ainda frágeis para parte da população."
+      }
+    ],
+    "answer": "E",
+    "explanation": "Os fatos indicam que no Brasil direitos sociais (leis trabalhistas e previdência) foram ampliados por governos autoritários, justamente quando direitos políticos e civis estavam restringidos. Além disso, os direitos civis, primeiros no modelo inglês, permanecem precários para parte da população. Carvalho conclui que a sequência brasileira inverteu a inglesa, o que ajuda a explicar uma cidadania marcada pela valorização do Executivo e pela fragilidade dos direitos civis. Conceito-chave: na cidadania brasileira, os direitos sociais precederam os demais, invertendo a sequência de Marshall.",
+    "wrong_notes": {
+      "A": "Os fatos mostram que a ordem brasileira não reproduziu o modelo inglês.",
+      "B": "Há direitos sociais desde a Era Vargas; a Constituição de 1988 os ampliou, mas não os criou.",
+      "C": "A República não garantiu plenamente os três tipos de direitos; os fatos citados são posteriores e mostram restrições.",
+      "D": "As eleições do Império e da República Velha eram restritas e marcadas por fraudes; os direitos políticos não precederam os sociais de forma plena."
+    },
+    "concept": "Cidadania no Brasil (José Murilo de Carvalho): inversão da sequência de Marshall."
+  },
+  {
+    "id": "soc-desigualdade-001",
+    "discipline": "sociologia",
+    "topic": "desigualdade",
+    "subtopic": "trabalho",
+    "difficulty": 1,
+    "type": "multipla_escolha",
+    "origin": "inedita_ia",
+    "style_ref": "ENEM",
+    "skills": [
+      "comparação de modelos produtivos"
+    ],
+    "statement": "Em uma fábrica de automóveis organizada nos moldes do toyotismo, os trabalhadores operam várias máquinas, participam de equipes que sugerem melhorias e a produção é feita conforme a demanda, com estoques reduzidos ao mínimo (sistema *just in time*).\n\nEm comparação com o fordismo, o toyotismo caracteriza-se por",
+    "alternatives": [
+      {
+        "key": "A",
+        "text": "produção em massa de produtos padronizados, com grandes estoques."
+      },
+      {
+        "key": "B",
+        "text": "trabalhador especializado em uma única tarefa repetitiva ao longo de toda a jornada."
+      },
+      {
+        "key": "C",
+        "text": "produção flexível, ajustada à demanda, com trabalhador polivalente e estoques reduzidos."
+      },
+      {
+        "key": "D",
+        "text": "eliminação de qualquer tipo de controle de qualidade na linha de produção."
+      },
+      {
+        "key": "E",
+        "text": "retorno ao trabalho artesanal, sem uso de máquinas."
+      }
+    ],
+    "answer": "C",
+    "explanation": "O fordismo baseava-se em produção em massa, linha de montagem, tarefas fragmentadas e repetitivas e grandes estoques. O toyotismo, difundido a partir do Japão, introduziu a produção flexível, ajustada à demanda (just in time), o trabalhador polivalente, que opera várias máquinas, e o trabalho em equipe com controle de qualidade contínuo. Conceito-chave: toyotismo = flexibilidade, just in time e polivalência.",
+    "wrong_notes": {
+      "A": "Descreve o fordismo, com produção em massa e grandes estoques.",
+      "B": "A especialização em tarefa única e repetitiva é típica do fordismo-taylorismo.",
+      "D": "O toyotismo enfatiza o controle de qualidade contínuo, com participação dos trabalhadores.",
+      "E": "O toyotismo é um modelo industrial com máquinas e automação, não artesanal."
+    },
+    "concept": "Toyotismo x fordismo."
+  },
+  {
+    "id": "soc-desigualdade-002",
+    "discipline": "sociologia",
+    "topic": "desigualdade",
+    "subtopic": "desigualdade social",
+    "difficulty": 2,
+    "type": "multipla_escolha",
+    "origin": "inedita_ia",
+    "style_ref": "ENEM",
+    "skills": [
+      "interpretação de indicador",
+      "análise de dados"
+    ],
+    "statement": "O índice de Gini mede a concentração de renda em uma população. Ele varia de 0 (todos têm a mesma renda) a 1 (uma única pessoa concentra toda a renda). Considere duas cidades hipotéticas com a mesma renda média por habitante:\n\n| Cidade | Renda média por habitante | Índice de Gini |\n|---|---|---|\n| X | R$ 2.000 | 0,40 |\n| Y | R$ 2.000 | 0,60 |\n\nA partir dos dados, é correto afirmar que",
+    "alternatives": [
+      {
+        "key": "A",
+        "text": "as duas cidades apresentam a mesma distribuição de renda, pois têm a mesma renda média."
+      },
+      {
+        "key": "B",
+        "text": "a renda está mais concentrada na cidade Y, o que indica maior desigualdade entre seus habitantes."
+      },
+      {
+        "key": "C",
+        "text": "a cidade Y é mais rica, pois tem índice de Gini maior."
+      },
+      {
+        "key": "D",
+        "text": "todos os habitantes da cidade X recebem exatamente R$ 2.000."
+      },
+      {
+        "key": "E",
+        "text": "a cidade X tem desigualdade nula, pois seu índice é menor que 0,5."
+      }
+    ],
+    "answer": "B",
+    "explanation": "A renda média é igual, mas o Gini mostra como essa renda está distribuída. Quanto mais próximo de 1, maior a concentração. A cidade Y (0,60) tem renda mais concentrada que a X (0,40), ou seja, maior desigualdade. A média sozinha esconde essas diferenças. Conceito-chave: o índice de Gini mede desigualdade de distribuição, não o nível de riqueza.",
+    "wrong_notes": {
+      "A": "A média não informa como a renda se distribui; o Gini mostra que as distribuições são diferentes.",
+      "C": "O Gini não mede riqueza; as duas cidades têm a mesma renda média.",
+      "D": "Gini 0,40 indica que há desigualdade; só com Gini 0 todos teriam a mesma renda.",
+      "E": "Desigualdade nula corresponde a Gini 0; 0,40 indica desigualdade considerável."
+    },
+    "concept": "Índice de Gini: medida de concentração de renda."
+  },
+  {
+    "id": "soc-desigualdade-003",
+    "discipline": "sociologia",
+    "topic": "desigualdade",
+    "subtopic": "questão racial e de gênero",
+    "difficulty": 3,
+    "type": "multipla_escolha",
+    "origin": "inedita_ia",
+    "style_ref": "ENEM",
+    "skills": [
+      "interpretação de dados",
+      "crítica a explicações naturalizantes",
+      "relação sociedade-saúde"
+    ],
+    "statement": "Um estudo hipotético em um estado brasileiro apresentou os seguintes indicadores entre mulheres gestantes:\n\n| Indicador | Mulheres brancas | Mulheres negras (pretas e pardas) |\n|---|---|---|\n| Realizaram 7 ou mais consultas de pré-natal | 78% | 58% |\n| Relataram ter sido tratadas com desrespeito no parto | 9% | 17% |\n| Renda domiciliar per capita média | R$ 2.100 | R$ 1.100 |\n\nDiante desses dados, a interpretação sociologicamente mais consistente é a de que",
+    "alternatives": [
+      {
+        "key": "A",
+        "text": "as diferenças indicam desigualdades estruturais, como renda e acesso a serviços, combinadas a práticas discriminatórias nas instituições, o que caracteriza o racismo estrutural e institucional."
+      },
+      {
+        "key": "B",
+        "text": "os dados confirmam a ideia de democracia racial, segundo a qual não existe desigualdade entre grupos raciais no Brasil."
+      },
+      {
+        "key": "C",
+        "text": "as diferenças resultam apenas de escolhas individuais, já que todas têm o mesmo acesso legal ao SUS."
+      },
+      {
+        "key": "D",
+        "text": "as desigualdades decorrem exclusivamente da renda, sem qualquer relação com discriminação."
+      },
+      {
+        "key": "E",
+        "text": "as diferenças se explicam por características biológicas das mulheres negras, que necessitam de menos consultas."
+      }
+    ],
+    "answer": "A",
+    "explanation": "Os dados mostram desvantagens das mulheres negras em renda, acesso ao pré-natal e tratamento recebido. A diferença de renda ajuda a explicar parte do acesso, mas o maior relato de desrespeito no parto aponta para práticas discriminatórias dentro das próprias instituições. Por isso, a interpretação mais consistente combina desigualdade socioeconômica historicamente construída com discriminação institucional, o que a sociologia chama de racismo estrutural. Explicações biológicas ou baseadas apenas em escolhas individuais ignoram essas dimensões. Conceito-chave: o racismo estrutural produz desigualdades de acesso e de tratamento na saúde.",
+    "wrong_notes": {
+      "B": "Os dados mostram desigualdades, contrariando o mito da democracia racial.",
+      "C": "Igualdade legal de acesso não garante igualdade real; renda e tratamento discriminatório interferem.",
+      "D": "A renda explica parte, mas o maior relato de desrespeito no parto indica também discriminação, não apenas renda.",
+      "E": "Explicação biologizante sem base: a necessidade de pré-natal não depende de raça; as diferenças são sociais."
+    },
+    "concept": "Racismo estrutural e institucional na saúde."
+  },
+  {
+    "id": "soc-desigualdade-004",
+    "discipline": "sociologia",
+    "topic": "desigualdade",
+    "subtopic": "questão racial e de gênero",
+    "difficulty": 4,
+    "type": "multipla_escolha",
+    "origin": "inedita_ia",
+    "style_ref": "ENEM",
+    "skills": [
+      "cálculo com dados",
+      "interpretação de tabela",
+      "aplicação de conceito sociológico"
+    ],
+    "statement": "Uma pesquisa hipotética sobre trabalhadores urbanos com emprego em tempo integral obteve as seguintes médias semanais:\n\n| Grupo | Horas de trabalho remunerado | Horas em afazeres domésticos e cuidado de pessoas |\n|---|---|---|\n| Homens | 40 | 11 |\n| Mulheres | 36 | 21 |\n\nConsiderando que o ano tem 52 semanas, a análise correta dos dados é:",
+    "alternatives": [
+      {
+        "key": "A",
+        "text": "as mulheres trabalham menos que os homens, pois têm 4 horas semanais a menos de trabalho remunerado."
+      },
+      {
+        "key": "B",
+        "text": "homens e mulheres têm a mesma carga total de trabalho, pois as diferenças se compensam."
+      },
+      {
+        "key": "C",
+        "text": "as mulheres trabalham, no total, 10 horas a mais por semana, o que equivale a 520 horas por ano."
+      },
+      {
+        "key": "D",
+        "text": "as mulheres somam 57 horas semanais de trabalho, contra 51 dos homens, cerca de 312 horas a mais por ano, o que evidencia a dupla jornada e a divisão sexual do trabalho."
+      },
+      {
+        "key": "E",
+        "text": "os homens somam 57 horas semanais de trabalho, contra 51 das mulheres, o que mostra que a divisão do trabalho doméstico é igualitária."
+      }
+    ],
+    "answer": "D",
+    "explanation": "Somando trabalho remunerado e não remunerado: homens, 40 + 11 = 51 h; mulheres, 36 + 21 = 57 h. A diferença é de 6 h por semana, e em 52 semanas são 6 × 52 = 312 h por ano. Embora tenham menos horas de trabalho remunerado, as mulheres acumulam mais trabalho total por causa das tarefas domésticas e de cuidado. A sociologia chama isso de dupla jornada, expressão da divisão sexual do trabalho, que atribui às mulheres o trabalho de cuidado, geralmente não pago e pouco reconhecido. Conceito-chave: a divisão sexual do trabalho gera dupla jornada feminina.",
+    "wrong_notes": {
+      "A": "Considera só o trabalho remunerado e ignora o trabalho doméstico e de cuidado, também trabalho.",
+      "B": "As diferenças não se compensam: 57 h contra 51 h.",
+      "C": "Comparou apenas as horas domésticas (21 − 11 = 10) sem descontar a diferença no trabalho remunerado.",
+      "E": "Inverte os totais dos grupos e chega a uma conclusão contrária aos dados."
+    },
+    "concept": "Divisão sexual do trabalho e dupla jornada."
+  }
+]

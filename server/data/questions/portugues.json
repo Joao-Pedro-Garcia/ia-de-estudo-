@@ -1,0 +1,562 @@
+[
+  {
+    "id": "por-ortografia-001",
+    "discipline": "portugues",
+    "topic": "ortografia",
+    "subtopic": "acentuação gráfica",
+    "difficulty": 1,
+    "type": "multipla_escolha",
+    "origin": "inedita_ia",
+    "style_ref": "ENEM",
+    "skills": ["aplicação de regras de acentuação"],
+    "statement": "Leia o cartaz afixado em uma Unidade Básica de Saúde de Araguaína (TO):\n\n> **Campanha de vacinação contra a gripe**\n> A saúde começa na prevenção. Procure o posto mais próximo, leve seu cartão do SUS e converse com o médico ou com a equipe de enfermagem. O vírus circula em todo o país: proteja-se também!\n\nA palavra do cartaz acentuada pela mesma regra que justifica o acento em \"saúde\" é:",
+    "alternatives": [
+      {"key": "A", "text": "país"},
+      {"key": "B", "text": "médico"},
+      {"key": "C", "text": "vírus"},
+      {"key": "D", "text": "também"},
+      {"key": "E", "text": "próximo"}
+    ],
+    "answer": "A",
+    "explanation": "Em \"saúde\", o acento marca o \"u\" tônico que forma hiato com a vogal anterior (sa-ú-de) e fica sozinho na sílaba. Em \"país\" (pa-ís), o \"i\" tônico também forma hiato com a vogal anterior e está sozinho na sílaba, acompanhado apenas de \"s\" — mesma regra. As demais palavras são acentuadas por regras de tonicidade: proparoxítonas (médico, próximo), paroxítona terminada em -us (vírus) e oxítona terminada em -em (também). Conceito-chave: a regra do hiato acentua \"i\" e \"u\" tônicos que formam hiato com a vogal anterior, sozinhos na sílaba ou seguidos de \"s\".",
+    "wrong_notes": {
+      "B": "\"Médico\" é proparoxítona; todas as proparoxítonas são acentuadas, regra que não tem relação com hiato.",
+      "C": "\"Vírus\" é paroxítona terminada em -us; o acento decorre da terminação, não de hiato (não há duas vogais em sílabas separadas antes do acento).",
+      "D": "\"Também\" é oxítona terminada em -em, acentuada pela regra das oxítonas.",
+      "E": "\"Próximo\" é proparoxítona; confundir a sílaba tônica com a regra do hiato é o equívoco."
+    },
+    "concept": "Regra de acentuação do hiato (i e u tônicos)."
+  },
+  {
+    "id": "por-ortografia-002",
+    "discipline": "portugues",
+    "topic": "ortografia",
+    "subtopic": "uso do hífen",
+    "difficulty": 2,
+    "type": "multipla_escolha",
+    "origin": "inedita_ia",
+    "style_ref": "ENEM",
+    "skills": ["aplicação do Acordo Ortográfico", "uso do hífen"],
+    "statement": "Um estudante de enfermagem revisava um folheto sobre cuidados pré-natais e precisava conferir a grafia de três palavras, de acordo com o Acordo Ortográfico da Língua Portuguesa em vigor no Brasil. O folheto recomendava o uso de medicamento ___ apenas com prescrição, citava a importância da ___ da gestante e mencionava o exame de ___ morfológico.\n\nA sequência que preenche corretamente as lacunas é:",
+    "alternatives": [
+      {"key": "A", "text": "anti-inflamatório — autoestima — ultrassom"},
+      {"key": "B", "text": "antiinflamatório — auto-estima — ultra-som"},
+      {"key": "C", "text": "anti-inflamatório — auto-estima — ultrassom"},
+      {"key": "D", "text": "anti inflamatório — autoestima — ultrasom"},
+      {"key": "E", "text": "antiinflamatório — autoestima — ultrassom"}
+    ],
+    "answer": "A",
+    "explanation": "Pelo Acordo Ortográfico, usa-se hífen quando o prefixo termina com a mesma vogal que inicia o segundo elemento: anti + inflamatório = anti-inflamatório. Quando o prefixo termina em vogal e o segundo elemento começa por vogal diferente, as palavras se juntam: auto + estima = autoestima. Quando o segundo elemento começa por \"r\" ou \"s\" e o prefixo termina em vogal, junta-se e dobra-se a consoante: ultra + som = ultrassom. Conceito-chave: vogais iguais separam-se com hífen; vogais diferentes se aglutinam; r e s se duplicam.",
+    "wrong_notes": {
+      "B": "Reproduz a grafia anterior ao Acordo: \"antiinflamatório\" sem hífen e \"auto-estima\" e \"ultra-som\" com hífen, todas hoje incorretas.",
+      "C": "Acerta duas grafias, mas mantém o hífen em \"auto-estima\", que caiu porque o prefixo termina em vogal diferente da inicial de \"estima\".",
+      "D": "Separa o prefixo com espaço, o que não existe na norma, e grafa \"ultrasom\" com um \"s\" só, que entre vogais teria som de /z/.",
+      "E": "Junta vogais iguais (\"antiinflamatório\"), quando a regra exige hífen justamente nesse caso."
+    },
+    "concept": "Emprego do hífen com prefixos segundo o Acordo Ortográfico."
+  },
+  {
+    "id": "por-ortografia-003",
+    "discipline": "portugues",
+    "topic": "ortografia",
+    "subtopic": "grafias com dificuldade",
+    "difficulty": 4,
+    "type": "multipla_escolha",
+    "origin": "inedita_ia",
+    "style_ref": "Vestibular federal",
+    "skills": ["distinção de homônimos e parônimos", "análise morfossintática"],
+    "statement": "Leia o trecho de um boletim epidemiológico municipal, com lacunas:\n\n> O motivo ___ os casos de dengue aumentaram em março ainda é discutido pela equipe técnica. ___ quem atribua o crescimento ao calor intenso; outros apontam o ___ descarte de recipientes nos quintais. De todo modo, daqui ___ dois meses termina o período chuvoso, e espera-se queda na transmissão.\n\nDe acordo com a norma-padrão, as lacunas devem ser preenchidas, respectivamente, por:",
+    "alternatives": [
+      {"key": "A", "text": "porque — A — mal — há"},
+      {"key": "B", "text": "por que — Há — mau — a"},
+      {"key": "C", "text": "por que — Há — mal — há"},
+      {"key": "D", "text": "porquê — A — mau — a"},
+      {"key": "E", "text": "por que — Há — mau — há"}
+    ],
+    "answer": "B",
+    "explanation": "Na primeira lacuna, \"por que\" equivale a \"pelo qual\" (o motivo pelo qual), por isso se escreve separado e sem acento. Na segunda, o verbo haver no sentido de existir é impessoal: \"Há quem atribua\". Na terceira, a palavra qualifica o substantivo \"descarte\", logo é adjetivo — \"mau\", antônimo de \"bom\" (\"mal\" é advérbio, antônimo de \"bem\"). Na quarta, a expressão indica tempo futuro (daqui a dois meses), o que exige a preposição \"a\"; \"há\" indicaria tempo passado. Conceito-chave: a escolha entre formas parecidas depende da classe gramatical e do sentido no contexto.",
+    "wrong_notes": {
+      "A": "\"Porque\" junto é conjunção causal, não retoma \"o motivo\"; \"A quem atribua\" elimina o verbo existir; \"mal\" é advérbio; \"há\" indicaria tempo passado.",
+      "C": "Erra ao usar o advérbio \"mal\" para qualificar um substantivo e ao empregar \"há\" (passado) numa referência ao futuro.",
+      "D": "\"Porquê\" com acento é substantivo (\"o porquê\"), e \"A quem atribua\" deixa a oração sem o verbo haver.",
+      "E": "Acerta as três primeiras lacunas, mas usa \"há\" para tempo futuro; \"daqui a\" pede a preposição."
+    },
+    "concept": "Distinção entre por que/porque, há/a e mau/mal."
+  },
+  {
+    "id": "por-morfologia-001",
+    "discipline": "portugues",
+    "topic": "morfologia",
+    "subtopic": "formação de palavras",
+    "difficulty": 2,
+    "type": "multipla_escolha",
+    "origin": "inedita_ia",
+    "style_ref": "ENEM",
+    "skills": ["processos de formação de palavras"],
+    "statement": "Em uma reportagem sobre obesidade infantil, lê-se:\n\n> Especialistas alertam que dietas da moda prometem fazer a criança **emagrecer** rápido, mas podem causar deficiências nutricionais. O ideal é mudar hábitos de toda a família.\n\nA palavra destacada foi formada pelo acréscimo simultâneo de prefixo e sufixo ao radical do adjetivo \"magro\". Esse processo de formação chama-se:",
+    "alternatives": [
+      {"key": "A", "text": "derivação prefixal"},
+      {"key": "B", "text": "derivação sufixal"},
+      {"key": "C", "text": "derivação parassintética"},
+      {"key": "D", "text": "composição por aglutinação"},
+      {"key": "E", "text": "derivação regressiva"}
+    ],
+    "answer": "C",
+    "explanation": "\"Emagrecer\" = e(n)- + magr- + -ecer. Para testar se é parassíntese, retira-se cada afixo: não existem \"emagro\" (sem sufixo) nem \"magrecer\" (sem prefixo). Como prefixo e sufixo entraram ao mesmo tempo, o processo é a derivação parassintética, muito comum em verbos formados a partir de adjetivos (envelhecer, entristecer). Conceito-chave: na parassíntese, prefixo e sufixo são acrescentados simultaneamente; nenhum dos dois pode ser retirado isoladamente.",
+    "wrong_notes": {
+      "A": "Na derivação prefixal só se acrescenta prefixo e a palavra sem ele continua existindo; \"magrecer\" não existe.",
+      "B": "Na derivação sufixal só se acrescenta sufixo; \"emagro\" não existe, logo o sufixo não foi acrescentado sozinho.",
+      "D": "Composição une dois radicais; \"emagrecer\" tem apenas um radical (magr-).",
+      "E": "Derivação regressiva reduz a palavra (ex.: \"pescar\" → \"pesca\"); aqui houve acréscimo de afixos."
+    },
+    "concept": "Derivação parassintética."
+  },
+  {
+    "id": "por-morfologia-002",
+    "discipline": "portugues",
+    "topic": "morfologia",
+    "subtopic": "classes de palavras",
+    "difficulty": 1,
+    "type": "multipla_escolha",
+    "origin": "inedita_ia",
+    "style_ref": "ENEM",
+    "skills": ["identificação de classes de palavras", "derivação imprópria"],
+    "statement": "Em um texto de divulgação sobre saúde cardiovascular, lê-se:\n\n> **O dormir bem** protege o coração: noites curtas e fragmentadas estão associadas ao aumento da pressão arterial.\n\nNo trecho destacado, a palavra \"dormir\" funciona como:",
+    "alternatives": [
+      {"key": "A", "text": "verbo no infinitivo, indicando uma ação em andamento"},
+      {"key": "B", "text": "adjetivo, caracterizando o substantivo \"coração\""},
+      {"key": "C", "text": "advérbio, indicando o modo como o coração é protegido"},
+      {"key": "D", "text": "substantivo, por estar precedida de artigo e nomear uma ação"},
+      {"key": "E", "text": "pronome, retomando um termo anterior do texto"}
+    ],
+    "answer": "D",
+    "explanation": "A presença do artigo definido \"o\" antes de \"dormir\" transforma o verbo em substantivo — processo chamado derivação imprópria (mudança de classe sem alteração de forma). Na oração, \"o dormir bem\" é o sujeito de \"protege\", função típica de substantivo. O advérbio \"bem\" continua modificando a ideia de dormir, mas isso não altera a classe de \"dormir\" no contexto. Conceito-chave: a classe de uma palavra é definida pelo seu emprego na frase; artigo antes de verbo o substantiva.",
+    "wrong_notes": {
+      "A": "Ignora o artigo \"o\", que substantiva o infinitivo; além disso, o infinitivo não indica ação em andamento (isso seria o gerúndio).",
+      "B": "\"Dormir\" não caracteriza \"coração\"; ele é o núcleo do sujeito da oração.",
+      "C": "O advérbio do trecho é \"bem\"; \"dormir\" é o termo modificado por ele.",
+      "E": "Pronomes substituem ou acompanham nomes; \"dormir\" não retoma nenhum termo anterior."
+    },
+    "concept": "Derivação imprópria: verbo substantivado pelo artigo."
+  },
+  {
+    "id": "por-morfologia-003",
+    "discipline": "portugues",
+    "topic": "morfologia",
+    "subtopic": "verbos: tempos e modos",
+    "difficulty": 3,
+    "type": "multipla_escolha",
+    "origin": "inedita_ia",
+    "style_ref": "Vestibular federal",
+    "skills": ["conjugação de verbos irregulares", "futuro do subjuntivo"],
+    "statement": "Leia as orientações de uma bula, com os verbos entre parênteses:\n\n> I. Se você (ver) manchas vermelhas na pele, suspenda o uso e procure atendimento.\n> II. Quando o farmacêutico (pôr) a data de validade na embalagem fracionada, confira-a.\n> III. Se o paciente (manter) a dose correta, os efeitos adversos serão raros.\n\nSegundo a norma-padrão, as formas verbais adequadas são, respectivamente:",
+    "alternatives": [
+      {"key": "A", "text": "ver — pôr — manter"},
+      {"key": "B", "text": "vir — pôr — manter"},
+      {"key": "C", "text": "ver — puser — mantiver"},
+      {"key": "D", "text": "vier — puser — mantiver"},
+      {"key": "E", "text": "vir — puser — mantiver"}
+    ],
+    "answer": "E",
+    "explanation": "As orações iniciadas por \"se\" e \"quando\" indicam hipótese ou tempo futuro e pedem o futuro do subjuntivo. Esse tempo se forma a partir da 3ª pessoa do plural do pretérito perfeito, retirando-se \"-ram\": viram → vir (verbo ver); puseram → puser (pôr); mantiveram → mantiver (manter). Usar o infinitivo (ver, pôr, manter) é um desvio frequente na fala, mas não segue a norma-padrão. Conceito-chave: futuro do subjuntivo = radical do pretérito perfeito (eles ...ram) sem o \"-ram\".",
+    "wrong_notes": {
+      "A": "Usa o infinitivo no lugar do futuro do subjuntivo, desvio comum na oralidade.",
+      "B": "Acerta \"vir\" (de ver), mas mantém os infinitivos \"pôr\" e \"manter\".",
+      "C": "Acerta pôr e manter, mas usa o infinitivo \"ver\" em vez de \"vir\".",
+      "D": "\"Vier\" é o futuro do subjuntivo do verbo VIR (vieram → vier), não do verbo VER."
+    },
+    "concept": "Formação do futuro do subjuntivo de verbos irregulares."
+  },
+  {
+    "id": "por-sintaxe-001",
+    "discipline": "portugues",
+    "topic": "sintaxe",
+    "subtopic": "concordância",
+    "difficulty": 1,
+    "type": "multipla_escolha",
+    "origin": "inedita_ia",
+    "style_ref": "ENEM",
+    "skills": ["concordância verbal", "verbos impessoais"],
+    "statement": "Ao redigir o relatório anual de um hospital regional em Imperatriz (MA), um servidor ficou em dúvida sobre a concordância verbal. A frase que está de acordo com a norma-padrão é:",
+    "alternatives": [
+      {"key": "A", "text": "Houveram muitos casos de síndrome gripal no inverno."},
+      {"key": "B", "text": "Faz dois anos que o setor de hemodiálise foi ampliado."},
+      {"key": "C", "text": "Existe vários protocolos para o atendimento de urgência."},
+      {"key": "D", "text": "Haviam pacientes aguardando transferência no corredor."},
+      {"key": "E", "text": "Fazem três meses que o tomógrafo está em manutenção."}
+    ],
+    "answer": "B",
+    "explanation": "O verbo \"fazer\", quando indica tempo decorrido, é impessoal e fica na 3ª pessoa do singular: \"Faz dois anos\". O mesmo vale para \"haver\" no sentido de existir (\"Houve muitos casos\", \"Havia pacientes\"). Já o verbo \"existir\" é pessoal e concorda com o sujeito: \"Existem vários protocolos\". Conceito-chave: haver (existir) e fazer (tempo) são impessoais e ficam no singular; existir concorda com o sujeito.",
+    "wrong_notes": {
+      "A": "\"Haver\" com sentido de existir é impessoal: o correto é \"Houve muitos casos\".",
+      "C": "\"Existir\" é pessoal e concorda com o sujeito plural \"vários protocolos\": \"Existem\".",
+      "D": "\"Haver\" no sentido de existir não vai para o plural: \"Havia pacientes\".",
+      "E": "\"Fazer\" indicando tempo decorrido é impessoal: \"Faz três meses\"."
+    },
+    "concept": "Verbos impessoais (haver = existir; fazer = tempo) e concordância de existir."
+  },
+  {
+    "id": "por-sintaxe-002",
+    "discipline": "portugues",
+    "topic": "sintaxe",
+    "subtopic": "regência e crase",
+    "difficulty": 2,
+    "type": "multipla_escolha",
+    "origin": "inedita_ia",
+    "style_ref": "ENEM",
+    "skills": ["emprego do acento indicativo de crase"],
+    "statement": "Um agente comunitário de saúde do Bico do Papagaio (TO) escreveu frases para o relatório semanal. Assinale a frase em que o acento indicativo de crase foi empregado de acordo com a norma-padrão.",
+    "alternatives": [
+      {"key": "A", "text": "A equipe começou à visitar as casas logo cedo."},
+      {"key": "B", "text": "Entreguei o resultado do exame à ela pessoalmente."},
+      {"key": "C", "text": "Fomos à comunidade ribeirinha às oito horas."},
+      {"key": "D", "text": "A enfermeira fez referência à uma vacina nova."},
+      {"key": "E", "text": "Os moradores foram até o posto à pé."}
+    ],
+    "answer": "C",
+    "explanation": "Crase é a fusão da preposição \"a\" com o artigo feminino \"a\". Em \"Fomos à comunidade\", o verbo ir exige a preposição \"a\" e \"comunidade\" admite artigo (vou a + a comunidade); em \"às oito horas\", a locução que indica hora exata também leva crase. Não há crase antes de verbos, de pronomes pessoais, de artigo indefinido e de palavras masculinas, porque nesses casos não há artigo feminino \"a\". Conceito-chave: só há crase quando se somam preposição \"a\" e artigo (ou pronome) feminino \"a\".",
+    "wrong_notes": {
+      "A": "Não há crase antes de verbo, pois verbo não é antecedido de artigo.",
+      "B": "Pronomes pessoais como \"ela\" não admitem artigo; o correto é \"a ela\".",
+      "D": "Antes do artigo indefinido \"uma\" não cabe o artigo \"a\"; logo, não há crase.",
+      "E": "\"Pé\" é palavra masculina; na locução \"a pé\" há apenas preposição."
+    },
+    "concept": "Crase: preposição a + artigo feminino a."
+  },
+  {
+    "id": "por-sintaxe-003",
+    "discipline": "portugues",
+    "topic": "sintaxe",
+    "subtopic": "pontuação",
+    "difficulty": 4,
+    "type": "multipla_escolha",
+    "origin": "inedita_ia",
+    "style_ref": "Vestibular federal",
+    "skills": ["orações adjetivas restritivas e explicativas", "efeito de sentido da pontuação"],
+    "statement": "Dois boletins de um surto de sarampo em uma escola trazem frases quase idênticas:\n\n> **Boletim 1:** Os alunos que haviam sido vacinados não apresentaram sintomas.\n> **Boletim 2:** Os alunos, que haviam sido vacinados, não apresentaram sintomas.\n\nConsiderando a diferença de pontuação, conclui-se corretamente que:",
+    "alternatives": [
+      {"key": "A", "text": "as duas frases têm o mesmo sentido, pois as vírgulas apenas marcam pausas de leitura."},
+      {"key": "B", "text": "no Boletim 2, apenas parte dos alunos havia sido vacinada, e só essa parte ficou sem sintomas."},
+      {"key": "C", "text": "o Boletim 1 afirma que todos os alunos da escola foram vacinados e nenhum adoeceu."},
+      {"key": "D", "text": "no Boletim 1, a informação permite supor que havia alunos não vacinados, enquanto no Boletim 2 todos os alunos mencionados estavam vacinados."},
+      {"key": "E", "text": "no Boletim 2, a oração entre vírgulas restringe o grupo de alunos, por isso é chamada de restritiva."}
+    ],
+    "answer": "D",
+    "explanation": "Sem vírgulas (Boletim 1), a oração \"que haviam sido vacinados\" é adjetiva restritiva: delimita um subconjunto dos alunos, o que permite supor a existência de outros alunos, não vacinados, sobre os quais nada se diz. Entre vírgulas (Boletim 2), a oração é adjetiva explicativa: acrescenta uma informação sobre todos os alunos referidos — todos estavam vacinados e nenhum apresentou sintomas. Assim, a pontuação altera o alcance da afirmação, o que é decisivo em textos de saúde pública. Conceito-chave: oração restritiva (sem vírgulas) delimita o grupo; explicativa (entre vírgulas) se aplica a todo o grupo.",
+    "wrong_notes": {
+      "A": "Trata a vírgula como mera pausa respiratória; aqui ela muda a estrutura sintática e o sentido.",
+      "B": "Inverte os conceitos: é o Boletim 1, sem vírgulas, que delimita um subconjunto.",
+      "C": "O Boletim 1 restringe o grupo; não afirma que todos os alunos foram vacinados.",
+      "E": "A oração entre vírgulas é explicativa, não restritiva; confunde a nomenclatura."
+    },
+    "concept": "Oração adjetiva restritiva x explicativa e o papel das vírgulas."
+  },
+  {
+    "id": "por-sintaxe-004",
+    "discipline": "portugues",
+    "topic": "sintaxe",
+    "subtopic": "regência e crase",
+    "difficulty": 4,
+    "type": "multipla_escolha",
+    "origin": "inedita_ia",
+    "style_ref": "Vestibular federal",
+    "skills": ["regência verbal", "relação entre regência e sentido"],
+    "statement": "Leia o trecho de uma crônica sobre a rotina de um hospital universitário:\n\n> Durante a madrugada, a médica plantonista **assistiu o paciente** com insuficiência respiratória, enquanto o residente, que **aspirava a uma vaga** na cirurgia torácica, **assistia à cirurgia** de emergência pela tela da sala de aula.\n\nSobre a regência dos verbos destacados, é correto afirmar que:",
+    "alternatives": [
+      {"key": "A", "text": "\"assistiu o paciente\" contraria a norma-padrão, pois o verbo assistir sempre exige a preposição \"a\"."},
+      {"key": "B", "text": "o acento grave em \"assistia à cirurgia\" é opcional, porque o verbo assistir, no sentido de ver, é transitivo direto."},
+      {"key": "C", "text": "\"aspirava a uma vaga\" poderia ser reescrito como \"aspirava uma vaga\" sem alteração de sentido."},
+      {"key": "D", "text": "os dois usos de assistir têm o mesmo sentido, e a diferença de regência é apenas estilística."},
+      {"key": "E", "text": "assistir, no sentido de prestar assistência, é transitivo direto; no sentido de presenciar, é transitivo indireto, o que justifica a crase em \"à cirurgia\"."}
+    ],
+    "answer": "E",
+    "explanation": "O verbo assistir muda de regência conforme o sentido: \"assistir o paciente\" (prestar assistência, socorrer) é transitivo direto; \"assistir à cirurgia\" (ver, presenciar) é transitivo indireto e exige a preposição \"a\", que, somada ao artigo feminino, gera a crase. Do mesmo modo, \"aspirar a\" significa desejar, pretender, enquanto \"aspirar\" sem preposição significa inspirar, sorver (aspirar o ar). Portanto, a regência está diretamente ligada ao sentido. Conceito-chave: verbos como assistir e aspirar mudam de sentido conforme a regência.",
+    "wrong_notes": {
+      "A": "Generaliza a regência de assistir: no sentido de prestar assistência ele é transitivo direto.",
+      "B": "No sentido de ver, assistir é transitivo indireto; a crase é obrigatória na norma-padrão.",
+      "C": "\"Aspirar\" sem preposição significa sorver, inspirar; a reescrita mudaria o sentido.",
+      "D": "Os dois usos têm sentidos diferentes (socorrer x presenciar), e a regência acompanha essa diferença."
+    },
+    "concept": "Regência verbal ligada ao sentido (assistir, aspirar)."
+  },
+  {
+    "id": "por-semantica-001",
+    "discipline": "portugues",
+    "topic": "semantica",
+    "subtopic": "conectivos e relações lógicas",
+    "difficulty": 1,
+    "type": "multipla_escolha",
+    "origin": "inedita_ia",
+    "style_ref": "ENEM",
+    "skills": ["relações lógico-semânticas", "substituição de conectivos"],
+    "statement": "Leia a frase de uma reportagem sobre cobertura vacinal:\n\n> **Embora** a vacina contra o HPV seja segura e gratuita no SUS, parte das famílias ainda resiste a levar os adolescentes aos postos.\n\nSem alterar o sentido original, o conectivo destacado pode ser substituído por:",
+    "alternatives": [
+      {"key": "A", "text": "Porque"},
+      {"key": "B", "text": "Desde que"},
+      {"key": "C", "text": "Portanto"},
+      {"key": "D", "text": "Ainda que"},
+      {"key": "E", "text": "À medida que"}
+    ],
+    "answer": "D",
+    "explanation": "\"Embora\" introduz uma concessão: apresenta um fato (a vacina é segura e gratuita) que seria um motivo contrário ao que se afirma na oração principal (as famílias resistem), mas que não impede esse resultado. \"Ainda que\" expressa a mesma relação concessiva e também pede o verbo no subjuntivo (seja). Conceito-chave: conectivos concessivos (embora, ainda que, mesmo que) apresentam um obstáculo que não impede o fato principal.",
+    "wrong_notes": {
+      "A": "\"Porque\" indica causa: a frase passaria a dizer que a segurança da vacina causa a resistência.",
+      "B": "\"Desde que\" com subjuntivo indica condição, mudando o sentido para uma exigência.",
+      "C": "\"Portanto\" indica conclusão e não introduz uma oração subordinada como a do trecho.",
+      "E": "\"À medida que\" indica proporção, relação inexistente no período."
+    },
+    "concept": "Relação de concessão e seus conectivos."
+  },
+  {
+    "id": "por-semantica-002",
+    "discipline": "portugues",
+    "topic": "semantica",
+    "subtopic": "coesão referencial",
+    "difficulty": 3,
+    "type": "multipla_escolha",
+    "origin": "inedita_ia",
+    "style_ref": "ENEM",
+    "skills": ["coesão referencial", "anáfora"],
+    "statement": "Leia o texto de uma cartilha de combate à dengue:\n\n> O *Aedes aegypti* deposita seus ovos nas paredes de recipientes com água parada. **Eles** podem resistir por meses ao ressecamento, **o que** dificulta o controle do mosquito. Por isso, os agentes recomendam esfregar e esvaziar **esses recipientes** toda semana.\n\nOs termos destacados retomam, respectivamente:",
+    "alternatives": [
+      {"key": "A", "text": "\"os ovos\"; \"o fato de os ovos resistirem por meses ao ressecamento\"; \"recipientes com água parada\""},
+      {"key": "B", "text": "\"o Aedes aegypti\"; \"o ressecamento\"; \"as paredes\""},
+      {"key": "C", "text": "\"os recipientes\"; \"o controle do mosquito\"; \"os ovos\""},
+      {"key": "D", "text": "\"os ovos\"; \"o ressecamento\"; \"os agentes\""},
+      {"key": "E", "text": "\"os agentes\"; \"os meses\"; \"recipientes com água parada\""}
+    ],
+    "answer": "A",
+    "explanation": "O pronome \"Eles\" concorda com um termo masculino plural capaz de \"resistir ao ressecamento\": os ovos. A expressão \"o que\" não retoma uma palavra isolada, mas toda a informação anterior — o fato de os ovos resistirem por meses —, e é esse fato que dificulta o controle. Já \"esses recipientes\" é uma retomada por repetição com pronome demonstrativo, apontando para \"recipientes com água parada\". Conceito-chave: a coesão referencial exige identificar o antecedente pelo sentido e pela concordância; \"o que\" pode retomar uma oração inteira.",
+    "wrong_notes": {
+      "B": "\"Eles\" é plural e não pode retomar o singular \"o Aedes aegypti\"; e o ressecamento não é o que dificulta o controle.",
+      "C": "Recipientes não \"resistem ao ressecamento\"; a leitura ignora o sentido do verbo.",
+      "D": "Reduz \"o que\" a uma palavra (ressecamento) e liga \"esses recipientes\" a \"os agentes\", que não são recipientes.",
+      "E": "\"Os agentes\" só aparecem depois de \"Eles\"; a anáfora retoma termo anterior, não posterior."
+    },
+    "concept": "Coesão referencial por pronomes e retomada de orações."
+  },
+  {
+    "id": "por-semantica-003",
+    "discipline": "portugues",
+    "topic": "semantica",
+    "subtopic": "sinonímia e polissemia",
+    "difficulty": 3,
+    "type": "multipla_escolha",
+    "origin": "inedita_ia",
+    "style_ref": "ENEM",
+    "skills": ["polissemia", "construção do humor"],
+    "statement": "Considere a tirinha descrita a seguir.\n\n> **Quadro 1:** Em um consultório, um paciente pergunta: \"Doutor, o senhor pode me passar uma receita para emagrecer?\"\n> **Quadro 2:** O médico, sorrindo, responde: \"Posso. Misture menos açúcar, acrescente trinta minutos de caminhada e tempere tudo com uma boa dose de paciência.\"\n> **Quadro 3:** O paciente, olhando o papel: \"Eu esperava um remédio, não um bolo...\"\n\nO humor da tirinha é construído principalmente pela:",
+    "alternatives": [
+      {"key": "A", "text": "paronímia entre \"receita\" e \"recita\", palavras de grafia e som parecidos."},
+      {"key": "B", "text": "polissemia de \"receita\", que se refere tanto à prescrição médica quanto às instruções culinárias."},
+      {"key": "C", "text": "sinonímia entre \"receita\" e \"remédio\", que permite ao médico trocar uma palavra pela outra."},
+      {"key": "D", "text": "antonímia entre \"açúcar\" e \"paciência\", que cria uma oposição de sentidos."},
+      {"key": "E", "text": "ambiguidade sintática na fala do paciente, causada pela posição do pronome \"me\"."}
+    ],
+    "answer": "B",
+    "explanation": "O paciente usa \"receita\" no sentido de prescrição médica; o médico responde explorando outro sentido da mesma palavra, o de instruções culinárias, com verbos como \"misturar\", \"acrescentar\" e \"temperar\". A fala final do paciente (\"não um bolo\") confirma o jogo entre os dois sentidos. Quando uma mesma palavra tem vários sentidos relacionados, fala-se em polissemia. Conceito-chave: polissemia é a multiplicidade de sentidos de uma palavra, recurso frequente na construção do humor.",
+    "wrong_notes": {
+      "A": "Parônimos são palavras diferentes de forma parecida; a tirinha não usa \"recita\".",
+      "C": "\"Receita\" e \"remédio\" não são sinônimos; o paciente diferencia justamente as duas coisas.",
+      "D": "Açúcar e paciência não são antônimos; aparecem como ingredientes da \"receita\" figurada.",
+      "E": "A fala do paciente não tem ambiguidade sintática; o duplo sentido é lexical."
+    },
+    "concept": "Polissemia como recurso de humor."
+  },
+  {
+    "id": "por-variacao-001",
+    "discipline": "portugues",
+    "topic": "variacao",
+    "subtopic": "norma-padrão e preconceito linguístico",
+    "difficulty": 2,
+    "type": "multipla_escolha",
+    "origin": "inedita_ia",
+    "style_ref": "ENEM",
+    "skills": ["variação linguística", "preconceito linguístico"],
+    "statement": "Em uma comunidade rural do Jalapão (TO), uma senhora chega ao posto de saúde e diz à médica recém-chegada de outro estado:\n\n> — Dotora, tô com uma gastura danada desde onti. Num cumi nada, e a cabeça tá rodando.\n\nA médica não conhecia a palavra \"gastura\", perguntou o que a paciente sentia e anotou: \"mal-estar gástrico e tontura há um dia; inapetência\".\n\nConsiderando a situação, a atitude da médica é adequada porque:",
+    "alternatives": [
+      {"key": "A", "text": "corrigiu discretamente a paciente, ensinando-lhe a forma correta de se expressar."},
+      {"key": "B", "text": "demonstrou que a fala da paciente é inadequada a qualquer situação comunicativa."},
+      {"key": "C", "text": "reconheceu a variedade da paciente como legítima e buscou compreendê-la, registrando a informação no jargão técnico do prontuário."},
+      {"key": "D", "text": "mostrou que a norma-padrão deve ser usada em todas as situações, inclusive nas conversas informais."},
+      {"key": "E", "text": "evitou a comunicação oral, já que a variedade da paciente não permite expressar sintomas com precisão."}
+    ],
+    "answer": "C",
+    "explanation": "A fala da paciente apresenta marcas regionais e sociais (\"gastura\", \"onti\", \"num cumi\") que pertencem a uma variedade legítima do português e cumprem plenamente a função comunicativa. A médica agiu bem ao procurar entender o sentido, sem desqualificar a paciente, e ao adequar a linguagem ao contexto do prontuário, que exige registro técnico. Não existe variedade \"errada\"; existe adequação à situação. Conceito-chave: todas as variedades são legítimas; o preconceito linguístico consiste em desvalorizar falantes por sua forma de falar.",
+    "wrong_notes": {
+      "A": "Corrigir a fala da paciente seria uma atitude de preconceito linguístico, além de desnecessária para o atendimento.",
+      "B": "A fala é adequada à conversa no posto: a paciente foi compreendida.",
+      "D": "A norma-padrão não é exigida em situações informais; o que se busca é a adequação ao contexto.",
+      "E": "A paciente descreveu os sintomas com clareza suficiente; nenhuma variedade impede a expressão precisa."
+    },
+    "concept": "Legitimidade das variedades e combate ao preconceito linguístico."
+  },
+  {
+    "id": "por-variacao-002",
+    "discipline": "portugues",
+    "topic": "variacao",
+    "subtopic": "tipos de variação",
+    "difficulty": 4,
+    "type": "multipla_escolha",
+    "origin": "inedita_ia",
+    "style_ref": "Vestibular federal",
+    "skills": ["tipos de variação linguística", "análise comparativa de enunciados"],
+    "statement": "Um cardiologista de São Luís (MA) relatou o mesmo caso em duas situações no mesmo dia:\n\n> **Para um colega, na passagem de plantão:** \"Paciente evoluiu com dispneia aos mínimos esforços e taquicardia; solicitei ecocardiograma.\"\n> **Para a filha do paciente, na sala de espera:** \"Seu pai está ficando com falta de ar até para andar um pouquinho, e o coração está batendo acelerado. Pedi um exame de imagem do coração.\"\n\nA diferença entre as duas falas exemplifica principalmente a variação:",
+    "alternatives": [
+      {"key": "A", "text": "diatópica, pois o médico adaptou a fala às diferenças regionais entre ele e a filha do paciente."},
+      {"key": "B", "text": "diacrônica, pois a linguagem técnica representa uma fase mais antiga da língua."},
+      {"key": "C", "text": "diastrática, pois o mesmo falante passou a pertencer a outro grupo social ao mudar de interlocutor."},
+      {"key": "D", "text": "diafásica, pois o mesmo falante ajustou o registro à situação comunicativa e ao interlocutor."},
+      {"key": "E", "text": "de modalidade, pois uma fala é oral e a outra é escrita."}
+    ],
+    "answer": "D",
+    "explanation": "As duas falas são do mesmo falante, no mesmo lugar e no mesmo dia, sobre o mesmo assunto. O que muda é a situação e o interlocutor: com o colega, usa-se o jargão técnico (dispneia, taquicardia, ecocardiograma); com a familiar, a linguagem comum. Essa adequação de registro a contextos diferentes caracteriza a variação diafásica (situacional ou estilística). A variação diatópica dependeria da região; a diacrônica, do tempo histórico; a diastrática, do grupo social do falante. Conceito-chave: a variação diafásica é a mudança de registro de um mesmo falante conforme a situação.",
+    "wrong_notes": {
+      "A": "Não há indício de diferença regional entre os interlocutores; ambos estão em São Luís.",
+      "B": "Termos técnicos não pertencem a uma fase antiga da língua; as falas são contemporâneas.",
+      "C": "A variação diastrática se refere a diferenças entre grupos sociais de falantes, não à mudança de registro de uma mesma pessoa.",
+      "E": "Ambas as falas são orais; não há contraste entre fala e escrita."
+    },
+    "concept": "Variação diafásica (adequação do registro à situação)."
+  },
+  {
+    "id": "por-figuras-001",
+    "discipline": "portugues",
+    "topic": "figuras",
+    "subtopic": "metáfora e metonímia",
+    "difficulty": 1,
+    "type": "multipla_escolha",
+    "origin": "inedita_ia",
+    "style_ref": "ENEM",
+    "skills": ["identificação de figuras de linguagem"],
+    "statement": "Leia a manchete de um jornal regional:\n\n> **Após 40 dias internado, bebê recebe alta e o hospital inteiro aplaude**\n\nNa manchete, a expressão \"o hospital inteiro aplaude\" constitui exemplo de:",
+    "alternatives": [
+      {"key": "A", "text": "metáfora, pois compara o hospital a uma plateia de teatro."},
+      {"key": "B", "text": "ironia, pois sugere o contrário do que afirma."},
+      {"key": "C", "text": "eufemismo, pois suaviza uma informação desagradável."},
+      {"key": "D", "text": "onomatopeia, pois reproduz o som dos aplausos."},
+      {"key": "E", "text": "metonímia, pois o lugar é empregado no lugar das pessoas que nele estão."}
+    ],
+    "answer": "E",
+    "explanation": "Quem aplaude não é o prédio, mas os profissionais, pacientes e familiares que estão no hospital. Substituir as pessoas pelo lugar onde estão é uma relação de contiguidade (proximidade lógica), característica da metonímia. Na metáfora, ao contrário, há uma comparação implícita baseada em semelhança. Conceito-chave: metonímia é a substituição de um termo por outro com o qual mantém relação de proximidade (lugar pelos ocupantes, autor pela obra, continente pelo conteúdo).",
+    "wrong_notes": {
+      "A": "Não há comparação por semelhança; há substituição por proximidade (lugar → pessoas).",
+      "B": "A manchete não sugere o oposto do que diz; o aplauso é real e positivo.",
+      "C": "Não há informação desagradável sendo suavizada; a notícia é celebratória.",
+      "D": "Nenhuma palavra imita o som dos aplausos (como \"clap, clap\")."
+    },
+    "concept": "Metonímia (relação de contiguidade)."
+  },
+  {
+    "id": "por-figuras-002",
+    "discipline": "portugues",
+    "topic": "figuras",
+    "subtopic": "ironia e antítese",
+    "difficulty": 3,
+    "type": "multipla_escolha",
+    "origin": "inedita_ia",
+    "style_ref": "ENEM",
+    "skills": ["identificação de figuras de linguagem", "efeito de sentido"],
+    "statement": "Leia o trecho de uma crônica sobre a rotina de um pronto-socorro:\n\n> Nos corredores lotados, entre macas e cadeiras improvisadas, cada paciente vivia uma **solidão povoada**: cercado de gente por todos os lados, ninguém sabia seu nome.\n\nA expressão destacada aproxima ideias que, em princípio, se excluem. Trata-se de:",
+    "alternatives": [
+      {"key": "A", "text": "paradoxo, que reúne termos contraditórios para expressar uma verdade mais profunda sobre a situação."},
+      {"key": "B", "text": "pleonasmo, que repete uma mesma ideia para reforçá-la."},
+      {"key": "C", "text": "hipérbole, que exagera a quantidade de pessoas no corredor."},
+      {"key": "D", "text": "eufemismo, que suaviza as condições precárias do pronto-socorro."},
+      {"key": "E", "text": "catacrese, que emprega uma palavra em sentido figurado por falta de termo próprio."}
+    ],
+    "answer": "A",
+    "explanation": "\"Solidão\" pressupõe ausência de companhia; \"povoada\" indica presença de muitas pessoas. Unidas na mesma expressão, essas ideias parecem logicamente incompatíveis, mas o contexto revela o sentido: o paciente está fisicamente rodeado de gente e, ainda assim, isolado, sem atenção individual. Essa fusão de contrários num mesmo ser ou situação é o paradoxo (ou oxímoro). Conceito-chave: o paradoxo une ideias contraditórias num só enunciado para revelar uma verdade que a lógica comum não alcança.",
+    "wrong_notes": {
+      "B": "O pleonasmo repete a mesma ideia; aqui as ideias são opostas.",
+      "C": "A hipérbole é um exagero; o trecho não amplia números, mas une contrários.",
+      "D": "O texto não suaviza a situação; ao contrário, denuncia o abandono.",
+      "E": "A catacrese supre a falta de um termo próprio (ex.: \"pé da mesa\"); não é o caso."
+    },
+    "concept": "Paradoxo (oxímoro)."
+  },
+  {
+    "id": "por-figuras-003",
+    "discipline": "portugues",
+    "topic": "figuras",
+    "subtopic": "ironia e antítese",
+    "difficulty": 4,
+    "type": "multipla_escolha",
+    "origin": "inedita_ia",
+    "style_ref": "Vestibular federal",
+    "skills": ["ironia", "eufemismo", "análise do efeito crítico"],
+    "statement": "Leia o trecho de uma crônica publicada em um jornal fictício:\n\n> Na entrevista coletiva, o secretário garantiu que o hospital regional \"passa por um momento de otimização de fluxos\". Os números ajudam a entender a otimização: os pacientes aguardam, em média, nove horas no corredor, e o único tomógrafo está desligado há quatro meses. Fica a sugestão para que a otimização seja estendida às demais unidades — afinal, há corredores vazios em todo o estado.\n\nO efeito crítico do texto decorre principalmente:",
+    "alternatives": [
+      {"key": "A", "text": "do uso de dados numéricos, que tornam o texto exclusivamente informativo e imparcial."},
+      {"key": "B", "text": "da hipérbole na fala do secretário, que exagera os problemas do hospital."},
+      {"key": "C", "text": "da apropriação irônica do eufemismo do secretário, que, contrastado com os dados, revela a precariedade que ele tenta encobrir."},
+      {"key": "D", "text": "da antítese entre corredores cheios e vazios, que mostra que a situação é equilibrada no estado."},
+      {"key": "E", "text": "do uso de metonímia em \"hospital regional\", que esconde os responsáveis pela crise."}
+    ],
+    "answer": "C",
+    "explanation": "O secretário usa um eufemismo (\"otimização de fluxos\") para suavizar a crise. O cronista retoma essa expressão e a confronta com dados concretos (nove horas de espera, tomógrafo parado), o que expõe a distância entre o discurso oficial e a realidade. A \"sugestão\" final de estender a otimização a outras unidades é irônica: diz o contrário do que pensa, pois ninguém desejaria espalhar a superlotação. Conceito-chave: a ironia pode se construir pela retomada de um eufemismo alheio, contrastado com fatos que o desmentem.",
+    "wrong_notes": {
+      "A": "Os números são usados a serviço da crítica; o texto é opinativo, não imparcial.",
+      "B": "A fala do secretário não exagera os problemas; ela os minimiza (eufemismo).",
+      "D": "A menção aos corredores vazios é irônica; não indica equilíbrio, mas sugere sarcasticamente espalhar a superlotação.",
+      "E": "\"Hospital regional\" é apenas a designação da unidade; a crítica ao responsável é explícita na figura do secretário."
+    },
+    "concept": "Ironia construída a partir de eufemismo."
+  },
+  {
+    "id": "por-funcoes_linguagem-001",
+    "discipline": "portugues",
+    "topic": "funcoes_linguagem",
+    "subtopic": "funções da linguagem",
+    "difficulty": 2,
+    "type": "multipla_escolha",
+    "origin": "inedita_ia",
+    "style_ref": "ENEM",
+    "skills": ["identificação da função predominante"],
+    "statement": "Leia o texto de um cartaz de campanha do Ministério da Saúde (texto fictício):\n\n> **A paralisia infantil não pode voltar.**\n> A poliomielite não tem cura, mas tem prevenção. Leve seu filho ao posto de saúde, confira a caderneta de vacinação e não deixe nenhuma dose para trás. Você protege a sua criança e todas as outras.\n\nA função da linguagem predominante nesse texto é a:",
+    "alternatives": [
+      {"key": "A", "text": "referencial, pois o objetivo principal é apenas informar dados sobre a doença."},
+      {"key": "B", "text": "emotiva, pois o emissor expressa seus sentimentos pessoais sobre a poliomielite."},
+      {"key": "C", "text": "poética, pois a mensagem se volta para a própria forma, com rimas e ritmo."},
+      {"key": "D", "text": "conativa, pois o texto se dirige ao leitor para convencê-lo a agir, com verbos no imperativo."},
+      {"key": "E", "text": "fática, pois o texto busca apenas testar o canal de comunicação com o público."}
+    ],
+    "answer": "D",
+    "explanation": "O texto até apresenta uma informação (a pólio não tem cura, mas tem prevenção), mas ela serve a um objetivo maior: levar o leitor a vacinar o filho. As marcas da função conativa (ou apelativa) são evidentes: verbos no imperativo (\"leve\", \"confira\", \"não deixe\") e o pronome \"você\", que interpela diretamente o receptor. Conceito-chave: a função conativa centra-se no receptor e busca influenciar seu comportamento, típica de campanhas e anúncios.",
+    "wrong_notes": {
+      "A": "A informação existe, mas está subordinada ao apelo; a função predominante é definida pela intenção principal.",
+      "B": "Não há expressão de sentimentos de um \"eu\"; o foco está no \"você\".",
+      "C": "Não há trabalho especial com rima ou ritmo que torne a forma o foco da mensagem.",
+      "E": "A função fática testa ou mantém o contato (\"alô\", \"está me ouvindo?\"); não é o caso."
+    },
+    "concept": "Função conativa (apelativa)."
+  },
+  {
+    "id": "por-funcoes_linguagem-002",
+    "discipline": "portugues",
+    "topic": "funcoes_linguagem",
+    "subtopic": "funções da linguagem",
+    "difficulty": 3,
+    "type": "multipla_escolha",
+    "origin": "inedita_ia",
+    "style_ref": "ENEM",
+    "skills": ["identificação da função predominante", "metalinguagem"],
+    "statement": "Leia o verbete de um glossário elaborado por estudantes de Medicina para uma feira de ciências:\n\n> **diagnóstico** (di.ag.nós.ti.co) *s.m.* Do grego *diágnōsis*, \"discernimento, distinção\". 1. Identificação de uma doença a partir de seus sinais, sintomas e exames. 2. *Fig.* Análise de uma situação para encontrar seus problemas: *diagnóstico da educação no estado*.\n\nNo verbete, predomina a função da linguagem:",
+    "alternatives": [
+      {"key": "A", "text": "referencial, pois o texto informa sobre doenças e exames médicos."},
+      {"key": "B", "text": "metalinguística, pois o código é usado para explicar o próprio código, definindo uma palavra."},
+      {"key": "C", "text": "conativa, pois orienta o leitor a procurar um médico para obter um diagnóstico."},
+      {"key": "D", "text": "poética, pois explora o sentido figurado da palavra no item 2."},
+      {"key": "E", "text": "emotiva, pois revela a opinião dos estudantes sobre a educação no estado."}
+    ],
+    "answer": "B",
+    "explanation": "O verbete toma como objeto uma palavra da própria língua: informa sua divisão silábica, classe gramatical, origem e significados. Quando a linguagem é usada para falar da própria linguagem, predomina a função metalinguística, típica de dicionários, gramáticas e glossários. A menção a doenças e exames está a serviço da definição da palavra, e o exemplo de sentido figurado é apenas uma acepção registrada, não um uso poético. Conceito-chave: na função metalinguística, o código explica o próprio código.",
+    "wrong_notes": {
+      "A": "O assunto do verbete não são as doenças, mas a palavra \"diagnóstico\"; a informação médica aparece como parte da definição.",
+      "C": "Não há apelo ao leitor nem verbos no imperativo.",
+      "D": "O sentido figurado é registrado e explicado, não explorado com finalidade estética.",
+      "E": "O exemplo \"diagnóstico da educação no estado\" ilustra uma acepção; não expressa opinião."
+    },
+    "concept": "Função metalinguística."
+  }
+]

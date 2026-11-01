@@ -1,0 +1,966 @@
+{
+  "collected_at": "2026-11-01",
+  "facts": [
+    {
+      "id": "enem-2026-datas",
+      "institution": "ENEM",
+      "topic": "datas",
+      "title": "Datas de aplicação do Enem 2026",
+      "value": {
+        "dia1": "2026-11-08",
+        "dia2": "2026-11-15"
+      },
+      "detail": "1º dia (domingo 8/11): Linguagens, Códigos e suas Tecnologias + Redação + Ciências Humanas. 2º dia (domingo 15/11): Ciências da Natureza + Matemática.",
+      "reference_period": "ENEM 2026",
+      "source_url": "https://abmes.org.br/arquivos/legislacoes/Edital-inep-064-2026-05-21.pdf",
+      "source_name": "Edital Inep nº 64, de 21/05/2026 (cópia publicada pela ABMES)",
+      "source_type": "oficial",
+      "verified": true,
+      "notes": "Documento oficial do Inep hospedado pela ABMES; gov.br/inep não acessível desta sessão, mas notícias do Inep (gov.br/inep) confirmam 8 e 15/11."
+    },
+    {
+      "id": "enem-2026-horarios",
+      "institution": "ENEM",
+      "topic": "formato",
+      "title": "Horários e duração das provas",
+      "value": {
+        "dia1": {
+          "inicio": "13h30",
+          "fim": "19h00",
+          "duracao": "5h30"
+        },
+        "dia2": {
+          "inicio": "13h30",
+          "fim": "18h30",
+          "duracao": "5h00"
+        }
+      },
+      "detail": "Horário de Brasília.",
+      "reference_period": "ENEM 2026",
+      "source_url": "https://abmes.org.br/arquivos/legislacoes/Edital-inep-064-2026-05-21.pdf",
+      "source_name": "Edital Inep nº 64/2026",
+      "source_type": "oficial",
+      "verified": true,
+      "notes": ""
+    },
+    {
+      "id": "enem-2026-estrutura",
+      "institution": "ENEM",
+      "topic": "formato",
+      "title": "Estrutura das provas",
+      "value": {
+        "questoes_por_area": 45,
+        "areas": [
+          "Linguagens, Códigos e suas Tecnologias",
+          "Ciências Humanas e suas Tecnologias",
+          "Ciências da Natureza e suas Tecnologias",
+          "Matemática e suas Tecnologias"
+        ],
+        "total_objetivas": 180,
+        "redacao": 1
+      },
+      "detail": "Cada prova objetiva tem 45 questões de múltipla escolha; 4 provas objetivas + 1 redação (texto dissertativo-argumentativo).",
+      "reference_period": "ENEM 2026",
+      "source_url": "https://abmes.org.br/arquivos/legislacoes/Edital-inep-064-2026-05-21.pdf",
+      "source_name": "Edital Inep nº 64/2026",
+      "source_type": "oficial",
+      "verified": true,
+      "notes": "Total 180 é soma derivada (4 x 45)."
+    },
+    {
+      "id": "enem-2026-tri",
+      "institution": "ENEM",
+      "topic": "formato",
+      "title": "Pontuação das provas objetivas (TRI)",
+      "value": "Teoria de Resposta ao Item (TRI)",
+      "detail": "Edital: 'O cálculo das proficiências dos participantes ... terá como base a Teoria de Resposta ao Item (TRI).'",
+      "reference_period": "ENEM 2026",
+      "source_url": "https://abmes.org.br/arquivos/legislacoes/Edital-inep-064-2026-05-21.pdf",
+      "source_name": "Edital Inep nº 64/2026",
+      "source_type": "oficial",
+      "verified": true,
+      "notes": ""
+    },
+    {
+      "id": "enem-2026-redacao-nota",
+      "institution": "ENEM",
+      "topic": "formato",
+      "title": "Correção da redação",
+      "value": "0 a 1000 pontos; dois corretores; 0 a 200 por competência",
+      "detail": "Cada corretor atribui 0 a 200 pontos para cada uma das cinco competências.",
+      "reference_period": "ENEM 2026",
+      "source_url": "https://abmes.org.br/arquivos/legislacoes/Edital-inep-064-2026-05-21.pdf",
+      "source_name": "Edital Inep nº 64/2026",
+      "source_type": "oficial",
+      "verified": true,
+      "notes": "Nota máxima 1000 = 5 x 200 (derivado)."
+    },
+    {
+      "id": "enem-2026-competencias",
+      "institution": "ENEM",
+      "topic": "formato",
+      "title": "As 5 competências da redação",
+      "value": [
+        "I - Demonstrar domínio da modalidade escrita formal da língua portuguesa.",
+        "II - Compreender a proposta de redação e aplicar conceitos das várias áreas de conhecimento para desenvolver o tema dentro dos limites estruturais do texto dissertativo-argumentativo em prosa.",
+        "III - Selecionar, relacionar, organizar e interpretar informações, fatos, opiniões e argumentos em defesa de um ponto de vista.",
+        "IV - Demonstrar conhecimento dos mecanismos linguísticos necessários para a construção da argumentação.",
+        "V - Elaborar proposta de intervenção para o problema abordado, respeitando os direitos humanos."
+      ],
+      "detail": "Níveis de 0, 40, 80, 120, 160 e 200 pontos por competência.",
+      "reference_period": "ENEM 2026",
+      "source_url": "https://download.inep.gov.br/publicacoes/institucionais/avaliacoes_e_exames_da_educacao_basica/cartilha_enem_2026.pdf",
+      "source_name": "Inep - A Redação do Enem 2026: Cartilha do Participante",
+      "source_type": "oficial",
+      "verified": true,
+      "notes": ""
+    },
+    {
+      "id": "enem-2026-gabarito",
+      "institution": "ENEM",
+      "topic": "datas",
+      "title": "Divulgação do gabarito",
+      "value": "até o 10º dia útil após o 2º dia de aplicação",
+      "detail": "Texto do edital. Cálculo nosso: 10º dia útil após 15/11/2026 = 30/11/2026 (considerando 20/11 feriado nacional).",
+      "reference_period": "ENEM 2026",
+      "source_url": "https://abmes.org.br/arquivos/legislacoes/Edital-inep-064-2026-05-21.pdf",
+      "source_name": "Edital Inep nº 64/2026",
+      "source_type": "oficial",
+      "verified": true,
+      "notes": "Data exata 30/11 é cálculo, não publicada; verificar."
+    },
+    {
+      "id": "enem-2026-resultado",
+      "institution": "ENEM",
+      "topic": "datas",
+      "title": "Divulgação do resultado",
+      "value": null,
+      "detail": "Edital: 'em data a ser divulgada pelo Inep'. Matéria secundária menciona janeiro de 2027.",
+      "reference_period": "ENEM 2026",
+      "source_url": "https://abmes.org.br/arquivos/legislacoes/Edital-inep-064-2026-05-21.pdf",
+      "source_name": "Edital Inep nº 64/2026",
+      "source_type": "oficial",
+      "verified": false,
+      "notes": "não verificado - data não publicada oficialmente até a coleta."
+    },
+    {
+      "id": "sisu-2026-edital",
+      "institution": "SISU",
+      "topic": "datas",
+      "title": "Cronograma do Sisu 2026",
+      "value": {
+        "inscricoes": "2026-01-19 a 2026-01-23",
+        "resultado_chamada_regular": "2026-01-29",
+        "matriculas": "a partir de 2026-02-02",
+        "lista_espera_manifestacao": "2026-01-29 a 2026-02-02"
+      },
+      "detail": "Edital SESu/MEC nº 29, de 22/12/2025. Aceita Enem 2023, 2024 ou 2025. Até 2 opções de curso.",
+      "reference_period": "SISU 2026",
+      "source_url": "https://www.ufmg.br/sisu/wp-content/uploads/2026/01/1-Edital-SiSU-MEC-2026.pdf",
+      "source_name": "Edital SESu/MEC nº 29/2025 (cópia UFMG)",
+      "source_type": "oficial",
+      "verified": true,
+      "notes": ""
+    },
+    {
+      "id": "sisu-edicao-unica",
+      "institution": "SISU",
+      "topic": "processo",
+      "title": "Sisu tem edição única por ano",
+      "value": "Sim (uma única etapa de inscrições/ano, com vagas para 1º e 2º semestres)",
+      "detail": "Edital UFMA Sisu 2026: 'No ano de 2026, o Sisu será constituído de 1(uma) única etapa de inscrições ... para o primeiro e segundo semestres'. UFSJ: Sisu 2027 para 1º e 2º semestres letivos de 2027.",
+      "reference_period": "SISU 2026/2027",
+      "source_url": "https://portalpadrao.ufma.br/site/noticias/ufma-6-098-vagas-para-96-cursos-de-graduacao-por-meio-do-sisu-2026/EDITAL_SISU_UFMA_2026_VERSAO_FINAL_OFICIAL.pdf",
+      "source_name": "Edital UFMA nº 431/2025-PROEN",
+      "source_type": "oficial",
+      "verified": true,
+      "notes": ""
+    },
+    {
+      "id": "sisu-tres-edicoes",
+      "institution": "SISU",
+      "topic": "processo",
+      "title": "Notas aceitas: três últimas edições do Enem, vale a melhor média ponderada",
+      "value": "Três últimas edições; usa-se a edição com melhor média ponderada",
+      "detail": "Portaria Normativa MEC 21/2012, alterada pela Portaria MEC 704/2025, art. 2º §1º-A. Para o Sisu 2027 (ingresso 2027) presume-se Enem 2024, 2025 e 2026.",
+      "reference_period": "SISU 2026 / SISU 2027",
+      "source_url": "https://ufsj.edu.br/portal2-repositorio/File/vestibular/PS2027_1/Edital_UFSJ_3_2026_SISU_2027_obrigatoriedade_do_Enem_assinado.pdf",
+      "source_name": "Edital nº 3/2026/COPEVE/UFSJ (citando Portaria MEC 704/2025)",
+      "source_type": "oficial",
+      "verified": true,
+      "notes": "Lista exata de edições do Sisu 2027 (2024/2025/2026) é inferência; ainda não há edital SESu do Sisu 2027."
+    },
+    {
+      "id": "sisu-2027-cronograma",
+      "institution": "SISU",
+      "topic": "datas",
+      "title": "Cronograma do Sisu 2027",
+      "value": null,
+      "detail": "Será publicado pela SESu/MEC em https://acessounico.mec.gov.br/. Sites secundários estimam janeiro de 2027.",
+      "reference_period": "SISU 2027",
+      "source_url": "https://ufsj.edu.br/portal2-repositorio/File/vestibular/PS2027_1/Edital_UFSJ_3_2026_SISU_2027_obrigatoriedade_do_Enem_assinado.pdf",
+      "source_name": "Edital UFSJ nº 3/2026",
+      "source_type": "oficial",
+      "verified": false,
+      "notes": "não verificado - cronograma oficial não publicado até 2026-11-01."
+    },
+    {
+      "id": "sisu-media-ponderada",
+      "institution": "SISU",
+      "topic": "pesos",
+      "title": "Como funciona a média ponderada",
+      "value": "Nota = soma(nota_area x peso_area) / soma(pesos), sobre Redação, Linguagens, Humanas, Natureza e Matemática",
+      "detail": "Cada IES define pesos e notas mínimas no Termo de Adesão; o sistema pode aplicar bônus definido pela IES e gera nova nota automaticamente (texto PRENAE/IFMA).",
+      "reference_period": "SISU",
+      "source_url": "https://prenae.ifma.edu.br/sisuselecaounificada/",
+      "source_name": "IFMA/PRENAE - página Sisu; Termos de adesão",
+      "source_type": "oficial",
+      "verified": true,
+      "notes": "Fórmula aritmética é a média ponderada padrão; texto literal da Portaria 21/2012 não foi lido nesta coleta."
+    },
+    {
+      "id": "sisu-modalidades",
+      "institution": "SISU",
+      "topic": "modalidades",
+      "title": "Modalidades de cota (Lei 12.711/2012, atualizada pela Lei 14.723/2023)",
+      "value": {
+        "AC": "Ampla concorrência",
+        "LB_EP": "Escola pública, renda familiar bruta per capita <= 1 salário mínimo",
+        "LB_PPI": "Pretos, pardos ou indígenas, escola pública, renda <= 1 SM",
+        "LB_Q": "Quilombolas, escola pública, renda <= 1 SM",
+        "LB_PCD": "Pessoa com deficiência, escola pública, renda <= 1 SM",
+        "LI_EP": "Escola pública, independentemente da renda",
+        "LI_PPI": "Pretos, pardos ou indígenas, escola pública, independentemente da renda",
+        "LI_Q": "Quilombolas, escola pública, independentemente da renda",
+        "LI_PCD": "Pessoa com deficiência, escola pública, independentemente da renda",
+        "V1/A1": "Ação afirmativa própria da instituição (indígenas)",
+        "V2": "Ação afirmativa própria UFT (quilombolas)"
+      },
+      "detail": "Códigos usados nos termos de adesão 2026 da UFT, UFNT e UFMA.",
+      "reference_period": "SISU 2026",
+      "source_url": "https://docs.uft.edu.br/share/proxy/alfresco-noauth/api/internal/shared/node/lCxJ1RwIRue0lMqD5Sb3jA/content/Termo.pdf?c=force&a=true",
+      "source_name": "Termo de Adesão UFT Sisu 2026",
+      "source_type": "oficial",
+      "verified": true,
+      "notes": "V1/V2/A1 são ações afirmativas próprias (não Lei de Cotas)."
+    },
+    {
+      "id": "uft-med-processo",
+      "institution": "UFT",
+      "topic": "processo",
+      "title": "Formas de ingresso em Medicina UFT (Palmas)",
+      "value": [
+        "Sisu (Enem)",
+        "PS Exato (nota do Exato)",
+        "PSEnem (secundário: processo por nota do Enem das edições recentes)"
+      ],
+      "detail": "Notícia oficial UFT/UFNT: 'Na UFT, o Exato permanece como uma das principais formas de ingresso ... ao lado do SiSU'. Sisu 2026: 20 de 100 vagas autorizadas.",
+      "reference_period": "2026",
+      "source_url": "https://ufnt.edu.br/2026/07/30/copese-lanca-segunda-edicao-de-2026-do-exato-com-prova-em-15-municipios/",
+      "source_name": "UFNT/Sucom-UFT notícia 30/07/2026",
+      "source_type": "oficial",
+      "verified": true,
+      "notes": "PSEnem citado apenas por fonte secundária (aprovatotal.com.br/vestibular-uft); site uft.edu.br estava fora do ar (503)."
+    },
+    {
+      "id": "uft-med-sisu-vagas",
+      "institution": "UFT",
+      "topic": "vagas",
+      "title": "Vagas de Medicina UFT Palmas no Sisu 2026",
+      "value": {
+        "total": 20,
+        "semestre": "1º semestre",
+        "vagas_autorizadas": 100,
+        "por_modalidade": {
+          "AC": 5,
+          "LI_EP": 1,
+          "LI_PCD": 1,
+          "LI_Q": 0,
+          "LI_PPI": 4,
+          "LB_EP": 1,
+          "LB_PCD": 1,
+          "LB_Q": 1,
+          "LB_PPI": 4,
+          "V1_indigenas": 1,
+          "V2_quilombolas": 1
+        }
+      },
+      "detail": "Curso 113504 - Medicina, Palmas. UFT ofertou 760 vagas no Sisu 2026.",
+      "reference_period": "SISU 2026 (1ª edição)",
+      "source_url": "https://docs.uft.edu.br/share/proxy/alfresco-noauth/api/internal/shared/node/lCxJ1RwIRue0lMqD5Sb3jA/content/Termo.pdf?c=force&a=true",
+      "source_name": "Termo de Adesão UFT Sisu 2026",
+      "source_type": "oficial",
+      "verified": true,
+      "notes": ""
+    },
+    {
+      "id": "uft-med-sisu-pesos",
+      "institution": "UFT",
+      "topic": "pesos",
+      "title": "Pesos e notas mínimas Medicina UFT (Sisu 2026)",
+      "value": {
+        "pesos": {
+          "redacao": 3,
+          "linguagens": 3,
+          "humanas": 2,
+          "natureza": 4,
+          "matematica": 2
+        },
+        "notas_minimas": {
+          "redacao": 300,
+          "linguagens": 0,
+          "humanas": 0,
+          "natureza": 0,
+          "matematica": 0,
+          "media_minima": 0.01
+        }
+      },
+      "detail": "",
+      "reference_period": "SISU 2026",
+      "source_url": "https://docs.uft.edu.br/share/proxy/alfresco-noauth/api/internal/shared/node/lCxJ1RwIRue0lMqD5Sb3jA/content/Termo.pdf?c=force&a=true",
+      "source_name": "Termo de Adesão UFT Sisu 2026",
+      "source_type": "oficial",
+      "verified": true,
+      "notes": ""
+    },
+    {
+      "id": "uft-med-bonus",
+      "institution": "UFT",
+      "topic": "outro",
+      "title": "Bônus regional / argumento de inclusão regional",
+      "value": null,
+      "detail": "Termo de adesão Sisu 2026 não informa bônus para Medicina.",
+      "reference_period": "SISU 2026",
+      "source_url": "https://docs.uft.edu.br/share/proxy/alfresco-noauth/api/internal/shared/node/lCxJ1RwIRue0lMqD5Sb3jA/content/Termo.pdf?c=force&a=true",
+      "source_name": "Termo de Adesão UFT Sisu 2026",
+      "source_type": "oficial",
+      "verified": true,
+      "notes": "Nenhum bônus encontrado; ação afirmativa própria por vagas (V1 indígenas, V2 quilombolas)."
+    },
+    {
+      "id": "uft-med-corte",
+      "institution": "UFT",
+      "topic": "nota_corte",
+      "title": "Nota de corte Medicina UFT Palmas - ampla concorrência",
+      "value": 794.75,
+      "detail": "Sisu 2026, AC (5 vagas). Fonte agregadora; MEC não acessível nesta sessão.",
+      "reference_period": "SISU 2026",
+      "source_url": "https://enemhub.com.br/sisu/cursos/medicina",
+      "source_name": "EnemHub",
+      "source_type": "secundaria",
+      "verified": false,
+      "notes": "Não confirmado em fonte oficial (acessounico.mec.gov.br)."
+    },
+    {
+      "id": "uft-psexato-20262",
+      "institution": "UFT",
+      "topic": "processo",
+      "title": "PS Exato 2026/2 (ingresso 2º semestre 2026)",
+      "value": {
+        "vagas_total": 1075,
+        "opcoes_curso": 2,
+        "notas_exato": "2025 ou 2026",
+        "resultado_definitivo": "2026-07-16"
+      },
+      "detail": "Medicina ofertada, número de vagas não informado na matéria.",
+      "reference_period": "PS Exato UFT 2026/2",
+      "source_url": "https://g1.globo.com/to/tocantins/noticia/2026/06/12/uft-divulga-edital-com-1075-vagas-em-cursos-de-graduacao-veja-como-se-inscrever.ghtml",
+      "source_name": "G1 Tocantins 12/06/2026",
+      "source_type": "secundaria",
+      "verified": false,
+      "notes": "Vagas de Medicina via PS Exato UFT: não verificado (uft.edu.br/psexato20262 retornou 503)."
+    },
+    {
+      "id": "ufnt-med-processo",
+      "institution": "UFNT",
+      "topic": "processo",
+      "title": "Formas de ingresso em Medicina UFNT (Araguaína)",
+      "value": [
+        "Sisu (Enem) - 1º semestre",
+        "PS Exato (nota do Exato) - 2º semestre (100% das vagas do 2º semestre)",
+        "Processo Seletivo Complementar por histórico escolar (vagas remanescentes do PS Exato)"
+      ],
+      "detail": "",
+      "reference_period": "2026",
+      "source_url": "https://sistemas.ufnt.edu.br:5001/sau/none/files?path=./PROGRAD/Diretoria%20de%20Registro%20e%20Controle%20Acad%C3%AAmico/PSEXATO%20/PS%20EXATO%202026_2/Edital%20Prograd%20058.2026%20PS%20EXATO%202026.2_assinado.pdf",
+      "source_name": "Edital Prograd UFNT nº 058/2026",
+      "source_type": "oficial",
+      "verified": true,
+      "notes": "Se o complementar inclui Medicina não foi verificado."
+    },
+    {
+      "id": "ufnt-med-sisu-vagas",
+      "institution": "UFNT",
+      "topic": "vagas",
+      "title": "Vagas de Medicina UFNT no Sisu 2026",
+      "value": {
+        "total": 14,
+        "semestre": "1º semestre",
+        "vagas_autorizadas": 56,
+        "por_modalidade": {
+          "AC": 1,
+          "LI_EP": 1,
+          "LI_PCD": 1,
+          "LI_Q": 0,
+          "LI_PPI": 3,
+          "LB_EP": 1,
+          "LB_PCD": 1,
+          "LB_Q": 1,
+          "LB_PPI": 4,
+          "V1_indigenas": 1
+        }
+      },
+      "detail": "Faculdade de Ciências da Saúde (FCS), Araguaína. UFNT ofertou 344 vagas no Sisu 2026.",
+      "reference_period": "SISU 2026 (1ª edição)",
+      "source_url": "https://sistemas.ufnt.edu.br:5001/sau/none/files?path=./PROGRAD/Diretoria%20de%20Registro%20e%20Controle%20Acad%C3%AAmico/SISU/termo_adesao_29118_UFNT-3.pdf",
+      "source_name": "Termo de Adesão UFNT Sisu 2026",
+      "source_type": "oficial",
+      "verified": true,
+      "notes": ""
+    },
+    {
+      "id": "ufnt-med-sisu-pesos",
+      "institution": "UFNT",
+      "topic": "pesos",
+      "title": "Pesos e notas mínimas Medicina UFNT (Sisu 2026)",
+      "value": {
+        "pesos": {
+          "redacao": 3,
+          "linguagens": 3,
+          "humanas": 2,
+          "natureza": 4,
+          "matematica": 2
+        },
+        "notas_minimas": {
+          "redacao": 300,
+          "linguagens": 0,
+          "humanas": 0,
+          "natureza": 0,
+          "matematica": 0,
+          "media_minima": 0.01
+        }
+      },
+      "detail": "",
+      "reference_period": "SISU 2026",
+      "source_url": "https://sistemas.ufnt.edu.br:5001/sau/none/files?path=./PROGRAD/Diretoria%20de%20Registro%20e%20Controle%20Acad%C3%AAmico/SISU/termo_adesao_29118_UFNT-3.pdf",
+      "source_name": "Termo de Adesão UFNT Sisu 2026",
+      "source_type": "oficial",
+      "verified": true,
+      "notes": ""
+    },
+    {
+      "id": "ufnt-med-psexato",
+      "institution": "UFNT",
+      "topic": "vagas",
+      "title": "Medicina UFNT no PS Exato 2026/2",
+      "value": {
+        "total": 30,
+        "por_modalidade": {
+          "AC": 10,
+          "A1_indigenas": 2,
+          "LB_PPI": 7,
+          "LB_Q": 1,
+          "LB_PCD": 1,
+          "LB_EP": 1,
+          "LI_PPI": 6,
+          "LI_Q": 0,
+          "LI_PCD": 1,
+          "LI_EP": 1
+        },
+        "pesos": {
+          "redacao": 3,
+          "linguagens": 3,
+          "humanas": 2,
+          "natureza": 4,
+          "matematica": 2
+        },
+        "nota_minima_redacao": 30,
+        "exato_aceito": "1ª/2ª edição 2025 e 1ª edição 2026",
+        "inscricoes": "12 a 18/06/2026",
+        "resultado_final": "2026-06-24"
+      },
+      "detail": "Edital Prograd nº 058/2026, de 10/06/2026. A1 = 5% das vagas para indígenas (ação afirmativa UFNT).",
+      "reference_period": "PS Exato UFNT 2026/2",
+      "source_url": "https://sistemas.ufnt.edu.br:5001/sau/none/files?path=./PROGRAD/Diretoria%20de%20Registro%20e%20Controle%20Acad%C3%AAmico/PSEXATO%20/PS%20EXATO%202026_2/Edital%20Prograd%20058.2026%20PS%20EXATO%202026.2_assinado.pdf",
+      "source_name": "Edital Prograd UFNT nº 058/2026",
+      "source_type": "oficial",
+      "verified": true,
+      "notes": ""
+    },
+    {
+      "id": "ufnt-med-bonus",
+      "institution": "UFNT",
+      "topic": "outro",
+      "title": "Bônus regional",
+      "value": null,
+      "detail": "Nem o termo Sisu 2026 nem o edital PS Exato 2026/2 mencionam bônus regional.",
+      "reference_period": "2026",
+      "source_url": "https://sistemas.ufnt.edu.br:5001/sau/none/files?path=./PROGRAD/Diretoria%20de%20Registro%20e%20Controle%20Acad%C3%AAmico/PSEXATO%20/PS%20EXATO%202026_2/Edital%20Prograd%20058.2026%20PS%20EXATO%202026.2_assinado.pdf",
+      "source_name": "Edital Prograd UFNT nº 058/2026",
+      "source_type": "oficial",
+      "verified": true,
+      "notes": "Nenhum bônus encontrado."
+    },
+    {
+      "id": "ufnt-med-corte",
+      "institution": "UFNT",
+      "topic": "nota_corte",
+      "title": "Nota de corte Medicina UFNT - ampla concorrência",
+      "value": 799.68,
+      "detail": "Sisu 2026, AC (apenas 1 vaga AC).",
+      "reference_period": "SISU 2026",
+      "source_url": "https://enemhub.com.br/sisu/cursos/medicina",
+      "source_name": "EnemHub",
+      "source_type": "secundaria",
+      "verified": false,
+      "notes": "Não confirmado em fonte oficial."
+    },
+    {
+      "id": "ufma-med-processo",
+      "institution": "UFMA",
+      "topic": "processo",
+      "title": "Formas de ingresso em Medicina UFMA",
+      "value": "Sisu (Enem) - vagas para 1º e 2º semestres numa única etapa de inscrição",
+      "detail": "Medicina oferecida em São Luís (Cidade Universitária Dom Delgado), Pinheiro (CCPI) e Imperatriz (CCIM - Unidade Bom Jesus). Sem vestibular próprio identificado.",
+      "reference_period": "SISU 2026",
+      "source_url": "https://portalpadrao.ufma.br/site/noticias/ufma-6-098-vagas-para-96-cursos-de-graduacao-por-meio-do-sisu-2026/EDITAL_SISU_UFMA_2026_VERSAO_FINAL_OFICIAL.pdf",
+      "source_name": "Edital UFMA nº 431/2025-PROEN, de 19/12/2025",
+      "source_type": "oficial",
+      "verified": true,
+      "notes": "UFMA ofertou 6.098 vagas em 96 cursos no Sisu 2026."
+    },
+    {
+      "id": "ufma-med-vagas",
+      "institution": "UFMA",
+      "topic": "vagas",
+      "title": "Vagas de Medicina UFMA no Sisu 2026",
+      "value": {
+        "Sao_Luis": {
+          "total": 100,
+          "1_sem": {
+            "AC": 25,
+            "LI_EP": 0,
+            "LI_PCD": 1,
+            "LI_Q": 0,
+            "LI_PPI": 10,
+            "LB_EP": 1,
+            "LB_PCD": 2,
+            "LB_Q": 1,
+            "LB_PPI": 10
+          },
+          "2_sem": {
+            "AC": 25,
+            "LI_EP": 1,
+            "LI_PCD": 2,
+            "LI_Q": 1,
+            "LI_PPI": 10,
+            "LB_EP": 0,
+            "LB_PCD": 1,
+            "LB_Q": 0,
+            "LB_PPI": 10
+          }
+        },
+        "Pinheiro": {
+          "total": 100,
+          "1_sem": {
+            "AC": 25,
+            "LI_EP": 0,
+            "LI_PCD": 1,
+            "LI_Q": 0,
+            "LI_PPI": 10,
+            "LB_EP": 1,
+            "LB_PCD": 2,
+            "LB_Q": 1,
+            "LB_PPI": 10
+          },
+          "2_sem": {
+            "AC": 25,
+            "LI_EP": 1,
+            "LI_PCD": 2,
+            "LI_Q": 1,
+            "LI_PPI": 10,
+            "LB_EP": 0,
+            "LB_PCD": 1,
+            "LB_Q": 0,
+            "LB_PPI": 10
+          }
+        },
+        "Imperatriz": {
+          "total": 80,
+          "1_sem": {
+            "AC": 20,
+            "LI_EP": 0,
+            "LI_PCD": 1,
+            "LI_Q": 0,
+            "LI_PPI": 8,
+            "LB_EP": 1,
+            "LB_PCD": 1,
+            "LB_Q": 1,
+            "LB_PPI": 8
+          },
+          "2_sem": {
+            "AC": 20,
+            "LI_EP": 1,
+            "LI_PCD": 1,
+            "LI_Q": 1,
+            "LI_PPI": 8,
+            "LB_EP": 0,
+            "LB_PCD": 1,
+            "LB_Q": 0,
+            "LB_PPI": 8
+          }
+        }
+      },
+      "detail": "Base legal: Lei 12.711/2012 e Lei 14.723/2023.",
+      "reference_period": "SISU 2026",
+      "source_url": "https://portalpadrao.ufma.br/site/noticias/ufma-6-098-vagas-para-96-cursos-de-graduacao-por-meio-do-sisu-2026/EDITAL_SISU_UFMA_2026_VERSAO_FINAL_OFICIAL.pdf",
+      "source_name": "Edital UFMA nº 431/2025-PROEN",
+      "source_type": "oficial",
+      "verified": true,
+      "notes": ""
+    },
+    {
+      "id": "ufma-med-pesos",
+      "institution": "UFMA",
+      "topic": "pesos",
+      "title": "Pesos e notas mínimas Medicina UFMA (Sisu 2026)",
+      "value": {
+        "pesos": {
+          "redacao": 1,
+          "linguagens": 1,
+          "humanas": 1,
+          "natureza": 1,
+          "matematica": 1
+        },
+        "notas_minimas": {
+          "todas_areas": 0.01,
+          "media_minima": 0.01
+        }
+      },
+      "detail": "Iguais para São Luís, Pinheiro e Imperatriz (média simples).",
+      "reference_period": "SISU 2026",
+      "source_url": "https://s1.static.brasilescola.uol.com.br/enem/2025/12/termo-adesao-sisu-2026-ufma.pdf",
+      "source_name": "Termo de Adesão UFMA Sisu 2026 (documento SESu/MEC, cópia Brasil Escola)",
+      "source_type": "oficial",
+      "verified": true,
+      "notes": "Documento oficial gerado pelo sistema Sisu, hospedado por terceiro."
+    },
+    {
+      "id": "ufma-med-bonus",
+      "institution": "UFMA",
+      "topic": "outro",
+      "title": "Bônus regional",
+      "value": null,
+      "detail": "Edital e termo de adesão Sisu 2026 não informam bônus.",
+      "reference_period": "SISU 2026",
+      "source_url": "https://portalpadrao.ufma.br/site/noticias/ufma-6-098-vagas-para-96-cursos-de-graduacao-por-meio-do-sisu-2026/EDITAL_SISU_UFMA_2026_VERSAO_FINAL_OFICIAL.pdf",
+      "source_name": "Edital UFMA nº 431/2025",
+      "source_type": "oficial",
+      "verified": true,
+      "notes": "Nenhum bônus encontrado."
+    },
+    {
+      "id": "ufma-med-corte",
+      "institution": "UFMA",
+      "topic": "nota_corte",
+      "title": "Notas de corte Medicina UFMA - ampla concorrência",
+      "value": {
+        "Sao_Luis": 800.46,
+        "Pinheiro": 794.08,
+        "Imperatriz": 794.48
+      },
+      "detail": "Sisu 2026.",
+      "reference_period": "SISU 2026",
+      "source_url": "https://enemhub.com.br/sisu/cursos/medicina",
+      "source_name": "EnemHub",
+      "source_type": "secundaria",
+      "verified": false,
+      "notes": "Não confirmado em fonte oficial."
+    },
+    {
+      "id": "ifma-superiores",
+      "institution": "IFMA",
+      "topic": "processo",
+      "title": "Ingresso em cursos superiores do IFMA",
+      "value": "Sisu (Enem); edital PRENAE nº 01, de 07/01/2026 para Sisu 2026",
+      "detail": "Secundária cita também 'Seletivo Simplificado' com notas do Enem e 2.050 vagas Sisu em 53 cursos.",
+      "reference_period": "SISU 2026",
+      "source_url": "https://prenae.ifma.edu.br/sisuselecaounificada/",
+      "source_name": "IFMA/PRENAE",
+      "source_type": "oficial",
+      "verified": true,
+      "notes": "Número de vagas (2.050) e seletivo simplificado: fonte secundária (Estratégia)."
+    },
+    {
+      "id": "ifma-tecnicos",
+      "institution": "IFMA",
+      "topic": "processo",
+      "title": "Seletivo para cursos técnicos (ingresso 2027)",
+      "value": {
+        "vagas": 5760,
+        "inscricoes": "24/08 a 02/10/2026",
+        "prova": "2026-11-29",
+        "formato": "30 questões objetivas (15 Língua Portuguesa, 15 Matemática)",
+        "resultado_final": "2026-12-18"
+      },
+      "detail": "Prova própria; não usa Enem. Edital PRENAE nº 84/2026.",
+      "reference_period": "Seletivo IFMA 2027",
+      "source_url": "https://g1.globo.com/ma/maranhao/noticia/2026/08/19/ifma-lanca-edital-com-5760-vagas-em-cursos-tecnicos-para-ingresso-em-2027.ghtml",
+      "source_name": "G1 Maranhão 19/08/2026",
+      "source_type": "secundaria",
+      "verified": false,
+      "notes": "Edital oficial não lido diretamente."
+    },
+    {
+      "id": "ifma-medicina",
+      "institution": "IFMA",
+      "topic": "outro",
+      "title": "IFMA oferece Medicina?",
+      "value": "Não",
+      "detail": "Nenhum curso de Medicina na lista de cursos superiores do IFMA. Há Medicina Veterinária (campus São Raimundo das Mangabeiras) na tabela de cortes Sisu 2025.",
+      "reference_period": "2026",
+      "source_url": "https://vestibulares.estrategia.com/portal/enem-e-vestibulares/ifma-sisu-cursos-vagas-como-ingressar-e-muito-mais/",
+      "source_name": "Estratégia Vestibulares",
+      "source_type": "secundaria",
+      "verified": false,
+      "notes": "Confirmação em fonte oficial do IFMA não feita."
+    },
+    {
+      "id": "exato-o-que-e",
+      "institution": "EXATO",
+      "topic": "outro",
+      "title": "O que é o EXATO",
+      "value": "Exame de Acesso ao Ensino Superior do Tocantins (Exato), organizado pela Copese/UFT",
+      "detail": "Exame de habilitação (não é processo seletivo): a nota é usada nos processos seletivos (PS Exato) da UFT, UFNT e IFTO; outras IES do TO podem usar via convênio. Inscrição não escolhe curso. Duas edições por ano.",
+      "reference_period": "Exato 2026 (2ª edição)",
+      "source_url": "https://ufnt.edu.br/2026/07/30/copese-lanca-segunda-edicao-de-2026-do-exato-com-prova-em-15-municipios/",
+      "source_name": "UFNT/Sucom-UFT notícia 30/07/2026",
+      "source_type": "oficial",
+      "verified": true,
+      "notes": ""
+    },
+    {
+      "id": "exato-20262-formato",
+      "institution": "EXATO",
+      "topic": "formato",
+      "title": "Formato do Exato 2026 - 2ª edição",
+      "value": {
+        "questoes_objetivas": 80,
+        "por_area": {
+          "linguagens": 20,
+          "humanas": 20,
+          "natureza": 20,
+          "matematica": 20
+        },
+        "redacao": "dissertativo-argumentativa ou carta do leitor, 0 a 100 pontos",
+        "manha": "Linguagens + Humanas + Redação, 4h (início 8h10)",
+        "tarde": "Matemática + Natureza, 3h (início 14h40)",
+        "nota_area": "0 a 100 por área"
+      },
+      "detail": "Edital Copese nº 068/2026, de 29/07/2026. Taxa R$ 95. 15 municípios.",
+      "reference_period": "Exato 2026 (2ª edição)",
+      "source_url": "https://vestibulares.estrategia.com/portal/wp-content/uploads/2026/07/Edital-COPESE-no-068_2026_-Abertura-de-Inscricoes-EXATO-2026_2oEdicao.cleaned.pdf",
+      "source_name": "Edital Copese/UFT nº 068/2026 (cópia Estratégia)",
+      "source_type": "oficial",
+      "verified": true,
+      "notes": "Documento oficial hospedado por terceiro."
+    }
+  ],
+  "events": [
+    {
+      "title": "Enem 2026 - 1º dia (Linguagens, Redação, Humanas)",
+      "institution": "ENEM",
+      "date_start": "2026-11-08",
+      "date_end": null,
+      "source_url": "https://abmes.org.br/arquivos/legislacoes/Edital-inep-064-2026-05-21.pdf",
+      "source_type": "oficial",
+      "verified": true
+    },
+    {
+      "title": "Enem 2026 - 2º dia (Natureza, Matemática)",
+      "institution": "ENEM",
+      "date_start": "2026-11-15",
+      "date_end": null,
+      "source_url": "https://abmes.org.br/arquivos/legislacoes/Edital-inep-064-2026-05-21.pdf",
+      "source_type": "oficial",
+      "verified": true
+    },
+    {
+      "title": "Enem 2026 - gabarito (prazo máximo calculado: 10º dia útil após 15/11)",
+      "institution": "ENEM",
+      "date_start": "2026-11-30",
+      "date_end": null,
+      "source_url": "https://abmes.org.br/arquivos/legislacoes/Edital-inep-064-2026-05-21.pdf",
+      "source_type": "oficial",
+      "verified": false
+    },
+    {
+      "title": "Exato 2026/2 - prova",
+      "institution": "EXATO",
+      "date_start": "2026-10-18",
+      "date_end": null,
+      "source_url": "https://ufnt.edu.br/2026/07/30/copese-lanca-segunda-edicao-de-2026-do-exato-com-prova-em-15-municipios/",
+      "source_type": "oficial",
+      "verified": true
+    },
+    {
+      "title": "Exato 2026/2 - gabaritos preliminares",
+      "institution": "EXATO",
+      "date_start": "2026-10-19",
+      "date_end": null,
+      "source_url": "https://vestibulares.estrategia.com/portal/wp-content/uploads/2026/07/Edital-COPESE-no-068_2026_-Abertura-de-Inscricoes-EXATO-2026_2oEdicao.cleaned.pdf",
+      "source_type": "oficial",
+      "verified": true
+    },
+    {
+      "title": "Exato 2026/2 - gabaritos definitivos",
+      "institution": "EXATO",
+      "date_start": "2026-10-30",
+      "date_end": null,
+      "source_url": "https://vestibulares.estrategia.com/portal/wp-content/uploads/2026/07/Edital-COPESE-no-068_2026_-Abertura-de-Inscricoes-EXATO-2026_2oEdicao.cleaned.pdf",
+      "source_type": "oficial",
+      "verified": true
+    },
+    {
+      "title": "Exato 2026/2 - resultado (boletim individual)",
+      "institution": "EXATO",
+      "date_start": "2026-11-16",
+      "date_end": null,
+      "source_url": "https://vestibulares.estrategia.com/portal/wp-content/uploads/2026/07/Edital-COPESE-no-068_2026_-Abertura-de-Inscricoes-EXATO-2026_2oEdicao.cleaned.pdf",
+      "source_type": "oficial",
+      "verified": true
+    },
+    {
+      "title": "Seletivo IFMA técnicos 2027 - prova",
+      "institution": "IFMA",
+      "date_start": "2026-11-29",
+      "date_end": null,
+      "source_url": "https://g1.globo.com/ma/maranhao/noticia/2026/08/19/ifma-lanca-edital-com-5760-vagas-em-cursos-tecnicos-para-ingresso-em-2027.ghtml",
+      "source_type": "secundaria",
+      "verified": false
+    },
+    {
+      "title": "Seletivo IFMA técnicos 2027 - resultado final",
+      "institution": "IFMA",
+      "date_start": "2026-12-18",
+      "date_end": null,
+      "source_url": "https://g1.globo.com/ma/maranhao/noticia/2026/08/19/ifma-lanca-edital-com-5760-vagas-em-cursos-tecnicos-para-ingresso-em-2027.ghtml",
+      "source_type": "secundaria",
+      "verified": false
+    },
+    {
+      "title": "Sisu 2026 - inscrições (referência histórica)",
+      "institution": "SISU",
+      "date_start": "2026-01-19",
+      "date_end": "2026-01-23",
+      "source_url": "https://www.ufmg.br/sisu/wp-content/uploads/2026/01/1-Edital-SiSU-MEC-2026.pdf",
+      "source_type": "oficial",
+      "verified": true
+    },
+    {
+      "title": "Sisu 2026 - resultado chamada regular",
+      "institution": "SISU",
+      "date_start": "2026-01-29",
+      "date_end": null,
+      "source_url": "https://www.ufmg.br/sisu/wp-content/uploads/2026/01/1-Edital-SiSU-MEC-2026.pdf",
+      "source_type": "oficial",
+      "verified": true
+    },
+    {
+      "title": "UFNT PS Exato 2026/2 - inscrições (referência histórica)",
+      "institution": "UFNT",
+      "date_start": "2026-06-12",
+      "date_end": "2026-06-18",
+      "source_url": "https://sistemas.ufnt.edu.br:5001/sau/none/files?path=./PROGRAD/Diretoria%20de%20Registro%20e%20Controle%20Acad%C3%AAmico/PSEXATO%20/PS%20EXATO%202026_2/Edital%20Prograd%20058.2026%20PS%20EXATO%202026.2_assinado.pdf",
+      "source_type": "oficial",
+      "verified": true
+    }
+  ],
+  "official_urls": [
+    {
+      "institution": "ENEM",
+      "name": "Portal Inep - Enem",
+      "url": "https://www.gov.br/inep/pt-br/areas-de-atuacao/avaliacao-e-exames-educacionais/enem"
+    },
+    {
+      "institution": "ENEM",
+      "name": "Página do Participante",
+      "url": "https://enem.inep.gov.br/participante"
+    },
+    {
+      "institution": "ENEM",
+      "name": "Edital Inep nº 64/2026 (cópia ABMES)",
+      "url": "https://abmes.org.br/arquivos/legislacoes/Edital-inep-064-2026-05-21.pdf"
+    },
+    {
+      "institution": "ENEM",
+      "name": "Cartilha da Redação Enem 2026",
+      "url": "https://download.inep.gov.br/publicacoes/institucionais/avaliacoes_e_exames_da_educacao_basica/cartilha_enem_2026.pdf"
+    },
+    {
+      "institution": "SISU",
+      "name": "Portal Único de Acesso (Sisu)",
+      "url": "https://acessounico.mec.gov.br/sisu"
+    },
+    {
+      "institution": "SISU",
+      "name": "Edital SESu/MEC nº 29/2025 - Sisu 2026 (cópia UFMG)",
+      "url": "https://www.ufmg.br/sisu/wp-content/uploads/2026/01/1-Edital-SiSU-MEC-2026.pdf"
+    },
+    {
+      "institution": "UFT",
+      "name": "Exato - UFT",
+      "url": "https://www.uft.edu.br/concursos-e-selecoes/ingresso-na-graduacao/exato"
+    },
+    {
+      "institution": "UFT",
+      "name": "PS Exato 2026/2 - UFT",
+      "url": "https://www.uft.edu.br/psexato20262"
+    },
+    {
+      "institution": "UFT",
+      "name": "Termo de Adesão UFT Sisu 2026",
+      "url": "https://docs.uft.edu.br/share/proxy/alfresco-noauth/api/internal/shared/node/lCxJ1RwIRue0lMqD5Sb3jA/content/Termo.pdf?c=force&a=true"
+    },
+    {
+      "institution": "UFNT",
+      "name": "Sisu - UFNT",
+      "url": "https://ufnt.edu.br/sisu/"
+    },
+    {
+      "institution": "UFNT",
+      "name": "PS Exato - UFNT",
+      "url": "https://ufnt.edu.br/psexato/"
+    },
+    {
+      "institution": "UFNT",
+      "name": "Termo de Adesão UFNT Sisu 2026",
+      "url": "https://sistemas.ufnt.edu.br:5001/sau/none/files?path=./PROGRAD/Diretoria%20de%20Registro%20e%20Controle%20Acad%C3%AAmico/SISU/termo_adesao_29118_UFNT-3.pdf"
+    },
+    {
+      "institution": "UFNT",
+      "name": "Edital Prograd 058/2026 PS Exato 2026/2",
+      "url": "https://sistemas.ufnt.edu.br:5001/sau/none/files?path=./PROGRAD/Diretoria%20de%20Registro%20e%20Controle%20Acad%C3%AAmico/PSEXATO%20/PS%20EXATO%202026_2/Edital%20Prograd%20058.2026%20PS%20EXATO%202026.2_assinado.pdf"
+    },
+    {
+      "institution": "UFMA",
+      "name": "Edital Sisu UFMA 2026",
+      "url": "https://portalpadrao.ufma.br/site/noticias/ufma-6-098-vagas-para-96-cursos-de-graduacao-por-meio-do-sisu-2026/EDITAL_SISU_UFMA_2026_VERSAO_FINAL_OFICIAL.pdf"
+    },
+    {
+      "institution": "IFMA",
+      "name": "PRENAE IFMA - Sisu",
+      "url": "https://prenae.ifma.edu.br/sisuselecaounificada/"
+    },
+    {
+      "institution": "IFMA",
+      "name": "PRENAE IFMA",
+      "url": "https://prenae.ifma.edu.br/"
+    },
+    {
+      "institution": "EXATO",
+      "name": "Edital Exato 2026/2 (Copese 068/2026)",
+      "url": "https://www.uft.edu.br/exato20262"
+    }
+  ]
+}

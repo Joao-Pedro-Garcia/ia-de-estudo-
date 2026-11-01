@@ -1,0 +1,1113 @@
+[
+  {
+    "id": "fis-cinematica-001",
+    "discipline": "fisica",
+    "topic": "cinematica",
+    "subtopic": "MRU",
+    "difficulty": 1,
+    "type": "multipla_escolha",
+    "origin": "inedita_ia",
+    "style_ref": "ENEM",
+    "skills": [
+      "velocidade média",
+      "conversão de unidades"
+    ],
+    "statement": "Uma ambulância do SAMU sai de Porto Nacional (TO) para buscar um paciente em um povoado a 18 km de distância, por uma estrada reta. Considere que ela mantém velocidade constante de 72 km/h durante todo o trajeto.\n\nO tempo gasto nesse percurso é de",
+    "alternatives": [
+      {
+        "key": "A",
+        "text": "25 min."
+      },
+      {
+        "key": "B",
+        "text": "4 min."
+      },
+      {
+        "key": "C",
+        "text": "15 min."
+      },
+      {
+        "key": "D",
+        "text": "54 min."
+      },
+      {
+        "key": "E",
+        "text": "0,25 min."
+      }
+    ],
+    "answer": "C",
+    "explanation": "No movimento uniforme, Δt = Δs/v = 18 km ÷ 72 km/h = 0,25 h. Convertendo para minutos: 0,25 × 60 = 15 min. Conceito-chave: em MRU, tempo = distância ÷ velocidade, e frações de hora devem ser multiplicadas por 60 para obter minutos.",
+    "wrong_notes": {
+      "A": "25 min lê 0,25 h como '25 minutos', erro de conversão: a hora tem 60 minutos, não 100.",
+      "B": "4 min vem de dividir 72 por 18, invertendo a fórmula (v/Δs em vez de Δs/v).",
+      "D": "54 min mistura unidades: converte 72 km/h em 20 m/s e divide 18 (em km) por 20, obtendo 0,9 h.",
+      "E": "0,25 min usa o valor numérico em horas como se estivesse em minutos."
+    },
+    "concept": "MRU: Δt = Δs/v, com atenção à conversão de horas em minutos."
+  },
+  {
+    "id": "fis-termologia-001",
+    "discipline": "fisica",
+    "topic": "termologia",
+    "subtopic": "temperatura e escalas",
+    "difficulty": 1,
+    "type": "multipla_escolha",
+    "origin": "inedita_ia",
+    "style_ref": "ENEM",
+    "skills": [
+      "conversão de escalas termométricas"
+    ],
+    "statement": "Uma família de Palmas (TO) em viagem ao exterior precisou levar o filho a uma clínica, onde o termômetro indicava temperaturas em graus Fahrenheit. No Brasil, o termômetro da família havia registrado 39 °C pouco antes.\n\nUse a relação TF = 1,8 · TC + 32.\n\nA temperatura de 39 °C corresponde, na escala Fahrenheit, a",
+    "alternatives": [
+      {
+        "key": "A",
+        "text": "102,2 °F."
+      },
+      {
+        "key": "B",
+        "text": "70,2 °F."
+      },
+      {
+        "key": "C",
+        "text": "3,9 °F."
+      },
+      {
+        "key": "D",
+        "text": "312 °F."
+      },
+      {
+        "key": "E",
+        "text": "71 °F."
+      }
+    ],
+    "answer": "A",
+    "explanation": "Aplicando a relação entre as escalas: TF = 1,8 × 39 + 32 = 70,2 + 32 = 102,2 °F. Isso equivale a um quadro febril. A escala Fahrenheit tem o zero deslocado (32 °F = 0 °C) e graus menores (180 divisões entre fusão e ebulição da água, contra 100 na Celsius). Conceito-chave: conversões entre escalas lineares exigem fator de proporção e deslocamento do zero.",
+    "wrong_notes": {
+      "B": "70,2 °F esquece de somar 32, considerando apenas a razão 1,8 entre os tamanhos dos graus.",
+      "C": "3,9 °F aplica a fórmula inversa (TC = (TF − 32)/1,8) ao valor 39, convertendo no sentido errado.",
+      "D": "312 °F soma 273 ao valor em Celsius, confundindo Fahrenheit com a escala Kelvin.",
+      "E": "71 °F apenas soma 32, esquecendo o fator 1,8."
+    },
+    "concept": "Conversão Celsius–Fahrenheit: TF = 1,8·TC + 32."
+  },
+  {
+    "id": "fis-optica-001",
+    "discipline": "fisica",
+    "topic": "optica",
+    "subtopic": "óptica da visão",
+    "difficulty": 1,
+    "type": "multipla_escolha",
+    "origin": "inedita_ia",
+    "style_ref": "ENEM",
+    "skills": [
+      "defeitos da visão",
+      "tipos de lentes"
+    ],
+    "statement": "Em uma campanha de saúde ocular em escolas públicas de São Luís (MA), um aluno relatou enxergar bem os objetos próximos, como o caderno, mas ver embaçado o quadro no fundo da sala. O oftalmologista diagnosticou miopia.\n\nNesse defeito visual, a imagem de objetos distantes se forma",
+    "alternatives": [
+      {
+        "key": "A",
+        "text": "atrás da retina, e a correção é feita com lentes convergentes."
+      },
+      {
+        "key": "B",
+        "text": "sobre a retina, e o problema está na íris."
+      },
+      {
+        "key": "C",
+        "text": "atrás da retina, e a correção é feita com lentes divergentes."
+      },
+      {
+        "key": "D",
+        "text": "antes da retina, e a correção é feita com lentes divergentes."
+      },
+      {
+        "key": "E",
+        "text": "antes da retina, e a correção é feita com lentes convergentes."
+      }
+    ],
+    "answer": "D",
+    "explanation": "No olho míope, o globo ocular é alongado ou o sistema córnea–cristalino é convergente demais; por isso, a imagem de objetos distantes se forma ANTES (à frente) da retina. A correção usa lentes divergentes, que espalham os raios e deslocam a imagem para trás, até a retina. Conceito-chave: miopia = excesso de convergência → lente divergente.",
+    "wrong_notes": {
+      "A": "Descreve a hipermetropia (imagem atrás da retina, corrigida com lente convergente), defeito oposto à miopia.",
+      "B": "Se a imagem se formasse sobre a retina, a visão seria nítida; a íris controla a entrada de luz, não o foco.",
+      "C": "Mistura conceitos: imagem atrás da retina exige lente convergente, não divergente.",
+      "E": "A posição da imagem está correta, mas lente convergente aumentaria o excesso de convergência e pioraria a visão."
+    },
+    "concept": "Miopia: imagem antes da retina; correção com lente divergente."
+  },
+  {
+    "id": "fis-eletricidade-001",
+    "discipline": "fisica",
+    "topic": "eletricidade",
+    "subtopic": "potência e consumo de energia",
+    "difficulty": 1,
+    "type": "multipla_escolha",
+    "origin": "inedita_ia",
+    "style_ref": "ENEM",
+    "skills": [
+      "cálculo de consumo em kWh",
+      "conversão de unidades"
+    ],
+    "statement": "Em uma residência de Araguaína (TO), o chuveiro elétrico tem potência de 5 500 W e é usado, no total, 15 minutos por dia. Considere um mês de 30 dias e tarifa de energia de R$ 0,80 por kWh.\n\nO custo mensal do uso desse chuveiro é de",
+    "alternatives": [
+      {
+        "key": "A",
+        "text": "R$ 33 000,00."
+      },
+      {
+        "key": "B",
+        "text": "R$ 33,00."
+      },
+      {
+        "key": "C",
+        "text": "R$ 132,00."
+      },
+      {
+        "key": "D",
+        "text": "R$ 1,10."
+      },
+      {
+        "key": "E",
+        "text": "R$ 41,25."
+      }
+    ],
+    "answer": "B",
+    "explanation": "Energia = potência × tempo. Potência: 5 500 W = 5,5 kW. Tempo mensal: 15 min/dia = 0,25 h/dia; 0,25 × 30 = 7,5 h. Energia: 5,5 × 7,5 = 41,25 kWh. Custo: 41,25 × 0,80 = R$ 33,00. Conceito-chave: E (kWh) = P (kW) × Δt (h); o kWh é unidade de energia, não de potência.",
+    "wrong_notes": {
+      "A": "R$ 33 000,00 usa a potência em watts (5 500) como se fosse em kW, esquecendo de dividir por 1 000.",
+      "C": "R$ 132,00 considera 1 hora por dia, lendo os 15 minutos de forma errada.",
+      "D": "R$ 1,10 é o custo de apenas um dia; faltou multiplicar por 30.",
+      "E": "R$ 41,25 é o valor da energia em kWh tomado como preço, sem multiplicar pela tarifa."
+    },
+    "concept": "Consumo de energia: E = P·Δt em kWh; custo = E × tarifa."
+  },
+  {
+    "id": "fis-ondulatoria-001",
+    "discipline": "fisica",
+    "topic": "ondulatoria",
+    "subtopic": "ondas e propriedades",
+    "difficulty": 1,
+    "type": "multipla_escolha",
+    "origin": "inedita_ia",
+    "style_ref": "ENEM",
+    "skills": [
+      "equação fundamental da ondulatória"
+    ],
+    "statement": "Na ultrassonografia, um transdutor emite ondas sonoras de alta frequência que se propagam pelos tecidos moles do corpo com velocidade média de cerca de 1 540 m/s. Um aparelho opera com frequência de 5 MHz (5 × 10^6 Hz).\n\nO comprimento de onda do ultrassom nesses tecidos é de aproximadamente",
+    "alternatives": [
+      {
+        "key": "A",
+        "text": "7,7 × 10^9 m."
+      },
+      {
+        "key": "B",
+        "text": "3,08 mm."
+      },
+      {
+        "key": "C",
+        "text": "0,308 m."
+      },
+      {
+        "key": "D",
+        "text": "3 247 m."
+      },
+      {
+        "key": "E",
+        "text": "0,308 mm."
+      }
+    ],
+    "answer": "E",
+    "explanation": "Pela equação fundamental da ondulatória, v = λ · f, logo λ = v/f = 1 540 / (5 × 10^6) = 3,08 × 10^(−4) m = 0,308 mm. Comprimentos de onda pequenos como esse permitem distinguir estruturas de dimensões milimétricas, o que explica o uso de altas frequências em exames. Conceito-chave: λ = v/f; maior frequência, menor comprimento de onda.",
+    "wrong_notes": {
+      "A": "7,7 × 10^9 m multiplica velocidade por frequência, em vez de dividir.",
+      "B": "3,08 mm erra a conversão de unidades por um fator 10 (3,08 × 10^(−4) m = 0,308 mm).",
+      "C": "0,308 m erra a potência de 10 ao dividir por 5 × 10^6 (usa 5 × 10^3).",
+      "D": "3 247 m divide a frequência pela velocidade (f/v), invertendo a fórmula."
+    },
+    "concept": "Equação da onda: v = λ·f."
+  },
+  {
+    "id": "fis-estatica_hidro-001",
+    "discipline": "fisica",
+    "topic": "estatica_hidro",
+    "subtopic": "teorema de Stevin",
+    "difficulty": 1,
+    "type": "multipla_escolha",
+    "origin": "inedita_ia",
+    "style_ref": "ENEM",
+    "skills": [
+      "teorema de Stevin",
+      "pressão hidrostática"
+    ],
+    "statement": "Em uma enfermaria, uma bolsa de soro é pendurada em um suporte de modo que a superfície do líquido fique 1,0 m acima do ponto de inserção do cateter no braço do paciente. É essa diferença de altura que gera a pressão que faz o soro entrar na veia.\n\nConsidere a densidade do soro igual à da água (1 000 kg/m³) e g = 10 m/s².\n\nA pressão hidrostática que a coluna de soro exerce no nível do braço, além da pressão atmosférica, é de",
+    "alternatives": [
+      {
+        "key": "A",
+        "text": "10 Pa."
+      },
+      {
+        "key": "B",
+        "text": "1,0 × 10^3 Pa."
+      },
+      {
+        "key": "C",
+        "text": "1,0 × 10^4 Pa."
+      },
+      {
+        "key": "D",
+        "text": "1,0 × 10^5 Pa."
+      },
+      {
+        "key": "E",
+        "text": "1,0 × 10^6 Pa."
+      }
+    ],
+    "answer": "C",
+    "explanation": "Pelo teorema de Stevin, a pressão de uma coluna de líquido é p = ρ · g · h = 1 000 × 10 × 1,0 = 1,0 × 10^4 Pa (cerca de 75 mmHg). Quanto mais alto o soro é pendurado, maior a pressão e mais fácil o fluxo para a veia. Conceito-chave: a pressão hidrostática depende da densidade do líquido, de g e da diferença de altura, não da forma do recipiente.",
+    "wrong_notes": {
+      "A": "10 Pa usa a densidade em g/cm³ (1) em vez de kg/m³ (1 000), erro de unidades no SI.",
+      "B": "1,0 × 10^3 Pa esquece a aceleração da gravidade (p = ρ·h).",
+      "D": "1,0 × 10^5 Pa é aproximadamente a pressão atmosférica, que o enunciado pediu para excluir.",
+      "E": "1,0 × 10^6 Pa usa a altura em centímetros (100) no lugar de metros."
+    },
+    "concept": "Teorema de Stevin: p = ρ·g·h."
+  },
+  {
+    "id": "fis-dinamica-001",
+    "discipline": "fisica",
+    "topic": "dinamica",
+    "subtopic": "leis de Newton",
+    "difficulty": 2,
+    "type": "multipla_escolha",
+    "origin": "inedita_ia",
+    "style_ref": "ENEM",
+    "skills": [
+      "2ª lei de Newton",
+      "força resultante",
+      "MRUV"
+    ],
+    "statement": "Um maqueiro empurra horizontalmente uma maca com um paciente, conjunto de massa total 60 kg, inicialmente em repouso em um corredor plano. Ele aplica uma força horizontal constante de 150 N, e o atrito com o piso equivale a uma força constante de 30 N, em sentido oposto ao movimento.\n\nApós 3 s, a velocidade da maca será de",
+    "alternatives": [
+      {
+        "key": "A",
+        "text": "6,0 m/s."
+      },
+      {
+        "key": "B",
+        "text": "7,5 m/s."
+      },
+      {
+        "key": "C",
+        "text": "9,0 m/s."
+      },
+      {
+        "key": "D",
+        "text": "2,0 m/s."
+      },
+      {
+        "key": "E",
+        "text": "1,5 m/s."
+      }
+    ],
+    "answer": "A",
+    "explanation": "A força resultante é FR = 150 − 30 = 120 N. Pela 2ª lei de Newton, a = FR/m = 120/60 = 2 m/s². Partindo do repouso em MRUV, v = v0 + a·t = 0 + 2 × 3 = 6 m/s. Conceito-chave: a aceleração depende da força RESULTANTE (soma vetorial), não apenas da força aplicada.",
+    "wrong_notes": {
+      "B": "7,5 m/s usa só a força aplicada (150/60 = 2,5 m/s²), ignorando o atrito.",
+      "C": "9,0 m/s soma o atrito à força aplicada (180 N), como se ele ajudasse o movimento.",
+      "D": "2,0 m/s é o valor da aceleração (em m/s²), e não da velocidade após 3 s.",
+      "E": "1,5 m/s usa apenas a força de atrito (30/60 = 0,5 m/s²) como resultante."
+    },
+    "concept": "2ª lei de Newton: a = FR/m, com FR = soma vetorial das forças."
+  },
+  {
+    "id": "fis-energia-001",
+    "discipline": "fisica",
+    "topic": "energia",
+    "subtopic": "conservação de energia",
+    "difficulty": 2,
+    "type": "multipla_escolha",
+    "origin": "inedita_ia",
+    "style_ref": "ENEM",
+    "skills": [
+      "conservação da energia mecânica"
+    ],
+    "statement": "Quedas da cama são uma causa importante de fraturas em idosos internados. Considere um paciente que cai de uma cama hospitalar, com o centro de massa partindo do repouso a 0,80 m de altura em relação ao ponto em que atinge o chão. Despreze a resistência do ar e adote g = 10 m/s².\n\nA velocidade com que o centro de massa do paciente atinge o chão é de",
+    "alternatives": [
+      {
+        "key": "A",
+        "text": "16 m/s."
+      },
+      {
+        "key": "B",
+        "text": "4,0 m/s."
+      },
+      {
+        "key": "C",
+        "text": "8,0 m/s."
+      },
+      {
+        "key": "D",
+        "text": "2,8 m/s."
+      },
+      {
+        "key": "E",
+        "text": "1,6 m/s."
+      }
+    ],
+    "answer": "B",
+    "explanation": "Sem atrito, a energia mecânica se conserva: a energia potencial gravitacional se converte em cinética. m·g·h = m·v²/2 ⇒ v = √(2gh) = √(2 × 10 × 0,80) = √16 = 4,0 m/s (14,4 km/h). A massa se cancela, então o resultado não depende do peso do paciente. Conceito-chave: em queda livre, v = √(2gh).",
+    "wrong_notes": {
+      "A": "16 m/s é o valor de 2gh (= v²); faltou extrair a raiz quadrada.",
+      "C": "8,0 m/s calcula v = g·h, sem fundamento físico.",
+      "D": "2,8 m/s calcula √(g·h), esquecendo o fator 2 da energia cinética (mv²/2).",
+      "E": "1,6 m/s calcula 2h, misturando grandezas sem relação com a conservação de energia."
+    },
+    "concept": "Conservação de energia mecânica: mgh = mv²/2 ⇒ v = √(2gh)."
+  },
+  {
+    "id": "fis-eletricidade-002",
+    "discipline": "fisica",
+    "topic": "eletricidade",
+    "subtopic": "circuitos",
+    "difficulty": 2,
+    "type": "multipla_escolha",
+    "origin": "inedita_ia",
+    "style_ref": "ENEM",
+    "skills": [
+      "associação de resistores",
+      "lei de Ohm"
+    ],
+    "statement": "O sistema de aquecimento de uma incubadora neonatal foi representado, de forma simplificada, por uma bateria ideal de 12 V ligada a um resistor de 4 Ω em série com uma associação em paralelo de dois resistores, um de 6 Ω e outro de 3 Ω.\n\nA intensidade da corrente elétrica no resistor de 3 Ω é de aproximadamente",
+    "alternatives": [
+      {
+        "key": "A",
+        "text": "2,0 A."
+      },
+      {
+        "key": "B",
+        "text": "0,67 A."
+      },
+      {
+        "key": "C",
+        "text": "4,0 A."
+      },
+      {
+        "key": "D",
+        "text": "1,33 A."
+      },
+      {
+        "key": "E",
+        "text": "0,92 A."
+      }
+    ],
+    "answer": "D",
+    "explanation": "Paralelo: Rp = (6 × 3)/(6 + 3) = 2 Ω. Resistência equivalente total: 2 + 4 = 6 Ω. Corrente total (lei de Ohm): I = 12/6 = 2 A. A tensão no paralelo é U = 2 A × 2 Ω = 4 V, comum aos dois ramos. No resistor de 3 Ω: i = 4/3 ≈ 1,33 A (e 0,67 A no de 6 Ω, somando 2 A). Conceito-chave: em paralelo, a tensão é a mesma e a corrente se divide na razão inversa das resistências.",
+    "wrong_notes": {
+      "A": "2,0 A é a corrente TOTAL do circuito, que se divide entre os ramos do paralelo.",
+      "B": "0,67 A é a corrente no resistor de 6 Ω, o ramo de maior resistência.",
+      "C": "4,0 A aplica toda a tensão da bateria (12 V) ao resistor de 3 Ω, ignorando o resistor de 4 Ω em série.",
+      "E": "0,92 A trata os três resistores como associados em série (12/13 A)."
+    },
+    "concept": "Em paralelo, a tensão é comum; em série, a corrente é comum (lei de Ohm em cada trecho)."
+  },
+  {
+    "id": "fis-magnetismo-001",
+    "discipline": "fisica",
+    "topic": "magnetismo",
+    "subtopic": "indução eletromagnética",
+    "difficulty": 2,
+    "type": "multipla_escolha",
+    "origin": "inedita_ia",
+    "style_ref": "ENEM",
+    "skills": [
+      "lei de Faraday",
+      "análise de experimento"
+    ],
+    "statement": "Lanternas de emergência 'de chacoalhar', úteis em comunidades ribeirinhas sem energia elétrica, possuem um ímã que desliza dentro de um tubo envolvido por uma bobina de fio de cobre ligada a um circuito de carga. Um estudante fez um teste com uma bobina ligada a um galvanômetro e um ímã:\n\n1. aproximou o ímã da bobina;\n2. deixou o ímã parado dentro da bobina;\n3. afastou o ímã da bobina.\n\nSobre a corrente elétrica observada no galvanômetro, é correto afirmar que",
+    "alternatives": [
+      {
+        "key": "A",
+        "text": "há corrente nas três etapas, de mesmo sentido, pois o ímã sempre produz campo magnético."
+      },
+      {
+        "key": "B",
+        "text": "há corrente apenas na etapa 2, quando o campo magnético no interior da bobina é máximo."
+      },
+      {
+        "key": "C",
+        "text": "há corrente nas etapas 1 e 3, ambas no mesmo sentido."
+      },
+      {
+        "key": "D",
+        "text": "não há corrente em nenhuma etapa, pois o ímã não está ligado a nenhuma fonte de energia elétrica."
+      },
+      {
+        "key": "E",
+        "text": "há corrente apenas nas etapas 1 e 3, em sentidos opostos, pois só há indução enquanto o fluxo magnético varia."
+      }
+    ],
+    "answer": "E",
+    "explanation": "Pela lei de Faraday, surge força eletromotriz induzida apenas quando o fluxo magnético através da bobina VARIA. Ao aproximar o ímã (1), o fluxo aumenta; ao afastar (3), diminui — há corrente nas duas etapas, mas em sentidos opostos (lei de Lenz: a corrente se opõe à variação). Com o ímã parado (2), o fluxo é constante e não há corrente, mesmo que o campo seja intenso. Por isso a lanterna precisa ser chacoalhada. Conceito-chave: indução eletromagnética exige variação de fluxo magnético.",
+    "wrong_notes": {
+      "A": "Campo magnético constante não induz corrente; é a VARIAÇÃO do fluxo que importa.",
+      "B": "Na etapa 2 o fluxo é máximo, mas constante; sem variação, não há indução.",
+      "C": "As etapas 1 e 3 têm variações de fluxo opostas, logo as correntes têm sentidos opostos (lei de Lenz).",
+      "D": "A energia elétrica vem do trabalho mecânico de mover o ímã; não é preciso fonte elétrica para haver indução."
+    },
+    "concept": "Lei de Faraday–Lenz: só há corrente induzida quando o fluxo magnético varia."
+  },
+  {
+    "id": "fis-fisica_moderna-001",
+    "discipline": "fisica",
+    "topic": "fisica_moderna",
+    "subtopic": "radiações e aplicações médicas",
+    "difficulty": 2,
+    "type": "multipla_escolha",
+    "origin": "inedita_ia",
+    "style_ref": "ENEM",
+    "skills": [
+      "meia-vida",
+      "decaimento radioativo"
+    ],
+    "statement": "O tecnécio-99m é o radioisótopo mais usado em cintilografias, em parte por ter meia-vida curta, de cerca de 6 horas. Em um serviço de medicina nuclear, foi preparada uma amostra com atividade de 800 MBq. O exame foi cancelado, e a amostra ficou armazenada em blindagem.\n\nApós 24 horas, a atividade dessa amostra será de",
+    "alternatives": [
+      {
+        "key": "A",
+        "text": "0 MBq, pois todo o material terá decaído."
+      },
+      {
+        "key": "B",
+        "text": "200 MBq."
+      },
+      {
+        "key": "C",
+        "text": "50 MBq."
+      },
+      {
+        "key": "D",
+        "text": "100 MBq."
+      },
+      {
+        "key": "E",
+        "text": "400 MBq."
+      }
+    ],
+    "answer": "C",
+    "explanation": "Em 24 horas há 24/6 = 4 meias-vidas. A cada meia-vida, a atividade cai pela metade: 800 → 400 → 200 → 100 → 50 MBq. Em termos gerais, A = A0/2^n = 800/2^4 = 800/16 = 50 MBq. Conceito-chave: o decaimento radioativo é exponencial; após n meias-vidas resta 1/2^n da atividade inicial.",
+    "wrong_notes": {
+      "A": "O decaimento é exponencial: a atividade nunca 'zera' após um número finito de meias-vidas; apenas diminui pela metade a cada período.",
+      "B": "200 MBq divide 800 pelo número de meias-vidas (4), tratando o decaimento como linear.",
+      "D": "100 MBq corresponde a 3 meias-vidas (18 h); erro na contagem de períodos.",
+      "E": "400 MBq corresponde a apenas uma meia-vida (6 h)."
+    },
+    "concept": "Decaimento radioativo: A = A0 / 2^n, n = número de meias-vidas."
+  },
+  {
+    "id": "fis-optica-003",
+    "discipline": "fisica",
+    "topic": "optica",
+    "subtopic": "reflexão e espelhos",
+    "difficulty": 2,
+    "type": "multipla_escolha",
+    "origin": "inedita_ia",
+    "style_ref": "ENEM",
+    "skills": [
+      "equação de Gauss",
+      "características da imagem"
+    ],
+    "statement": "Dentistas usam pequenos espelhos côncavos para observar os dentes com mais detalhe. Considere um espelho esférico côncavo de distância focal 4 cm, posicionado a 2 cm de um dente (o dente está entre o foco e o espelho).\n\nUse a equação de Gauss: 1/f = 1/p + 1/p', e o aumento A = −p'/p.\n\nA imagem do dente conjugada pelo espelho é",
+    "alternatives": [
+      {
+        "key": "A",
+        "text": "real, invertida e do mesmo tamanho do dente."
+      },
+      {
+        "key": "B",
+        "text": "virtual, direita e ampliada duas vezes."
+      },
+      {
+        "key": "C",
+        "text": "real, invertida e ampliada duas vezes."
+      },
+      {
+        "key": "D",
+        "text": "virtual, direita e reduzida à metade."
+      },
+      {
+        "key": "E",
+        "text": "virtual, invertida e ampliada quatro vezes."
+      }
+    ],
+    "answer": "B",
+    "explanation": "Pela equação de Gauss: 1/4 = 1/2 + 1/p' ⇒ 1/p' = 1/4 − 2/4 = −1/4 ⇒ p' = −4 cm. O sinal negativo indica imagem virtual (atrás do espelho). O aumento é A = −p'/p = −(−4)/2 = +2: imagem direita e duas vezes maior. É por isso que o espelho côncavo, com o objeto entre o foco e o vértice, funciona como 'lupa'. Conceito-chave: objeto entre F e V de um espelho côncavo gera imagem virtual, direita e ampliada.",
+    "wrong_notes": {
+      "A": "Imagem real, invertida e de mesmo tamanho ocorre com o objeto sobre o centro de curvatura (p = 2f = 8 cm).",
+      "C": "Imagem real e invertida exige objeto além do foco; aqui p' < 0 indica imagem virtual.",
+      "D": "Imagem virtual e reduzida é característica de espelho CONVEXO; o aumento calculado é +2.",
+      "E": "Imagem virtual em espelho esférico é sempre direita; e o aumento é 2, não 4 (confunde p' com A)."
+    },
+    "concept": "Espelho côncavo com objeto entre foco e vértice: imagem virtual, direita e maior."
+  },
+  {
+    "id": "fis-estatica_hidro-002",
+    "discipline": "fisica",
+    "topic": "estatica_hidro",
+    "subtopic": "pressão",
+    "difficulty": 3,
+    "type": "multipla_escolha",
+    "origin": "inedita_ia",
+    "style_ref": "ENEM",
+    "skills": [
+      "teorema de Stevin",
+      "conversão de unidades de pressão",
+      "aplicação fisiológica"
+    ],
+    "statement": "Ao medir a pressão arterial, recomenda-se que o manguito fique na altura do coração. Isso porque, em uma pessoa de pé, a coluna de sangue faz a pressão variar com a altura. Considere uma pessoa em pé cuja pressão arterial média na altura do coração é 100 mmHg, e cujos pés estão 1,3 m abaixo do coração.\n\nAdote: densidade do sangue = 1 050 kg/m³; g = 10 m/s²; 1 mmHg ≈ 133 Pa. Despreze efeitos dinâmicos do fluxo.\n\nA pressão arterial média nas artérias dos pés é de aproximadamente",
+    "alternatives": [
+      {
+        "key": "A",
+        "text": "100 mmHg, pois a pressão se transmite igualmente a todos os pontos do corpo."
+      },
+      {
+        "key": "B",
+        "text": "103 mmHg."
+      },
+      {
+        "key": "C",
+        "text": "−3 mmHg."
+      },
+      {
+        "key": "D",
+        "text": "203 mmHg."
+      },
+      {
+        "key": "E",
+        "text": "13 750 mmHg."
+      }
+    ],
+    "answer": "D",
+    "explanation": "Pelo teorema de Stevin, pontos mais baixos de um fluido em equilíbrio têm pressão maior: Δp = ρ·g·h = 1 050 × 10 × 1,3 = 13 650 Pa. Convertendo: 13 650/133 ≈ 102,6 mmHg. Logo, nos pés: 100 + 102,6 ≈ 203 mmHg. Por isso a pressão medida no tornozelo de uma pessoa em pé é muito maior que no braço, e o manguito deve estar no nível do coração. Conceito-chave: p = p0 + ρgh; a pressão aumenta com a profundidade na coluna de fluido.",
+    "wrong_notes": {
+      "A": "O princípio de Pascal transmite VARIAÇÕES de pressão, mas a pressão ainda depende da altura (Stevin) em um fluido sob gravidade.",
+      "B": "103 mmHg é apenas o acréscimo ρgh; faltou somar a pressão de 100 mmHg do nível do coração.",
+      "C": "−3 mmHg subtrai a coluna de sangue; seria o caso de um ponto ACIMA do coração, não abaixo.",
+      "E": "13 750 soma 100 ao valor em pascals (13 650 Pa) sem converter para mmHg."
+    },
+    "concept": "Teorema de Stevin aplicado à circulação: a pressão aumenta ρgh abaixo do coração."
+  },
+  {
+    "id": "fis-optica-002",
+    "discipline": "fisica",
+    "topic": "optica",
+    "subtopic": "lentes",
+    "difficulty": 3,
+    "type": "multipla_escolha",
+    "origin": "inedita_ia",
+    "style_ref": "ENEM",
+    "skills": [
+      "vergência de lentes",
+      "óptica da visão"
+    ],
+    "statement": "Um paciente hipermetrope não consegue ler com nitidez textos mais próximos que 50 cm (seu ponto próximo). O oftalmologista quer que ele leia confortavelmente a 25 cm, a distância de leitura padrão. Para isso, a lente corretiva deve formar, de um texto a 25 cm, uma imagem virtual a 50 cm da lente (despreze a distância entre lente e olho).\n\nUse a equação 1/f = 1/p + 1/p' (com p' negativo para imagem virtual) e V = 1/f, com f em metros.\n\nA lente indicada é",
+    "alternatives": [
+      {
+        "key": "A",
+        "text": "convergente, de +2,0 di."
+      },
+      {
+        "key": "B",
+        "text": "divergente, de −2,0 di."
+      },
+      {
+        "key": "C",
+        "text": "convergente, de +6,0 di."
+      },
+      {
+        "key": "D",
+        "text": "convergente, de +0,5 di."
+      },
+      {
+        "key": "E",
+        "text": "divergente, de −6,0 di."
+      }
+    ],
+    "answer": "A",
+    "explanation": "Dados: p = 0,25 m (texto) e p' = −0,50 m (imagem virtual no ponto próximo). V = 1/f = 1/0,25 + 1/(−0,50) = 4 − 2 = +2 di. Vergência positiva indica lente convergente, como esperado para a hipermetropia, em que o olho tem convergência insuficiente para objetos próximos. Conceito-chave: a lente corretiva conjuga o objeto na distância desejada com uma imagem no ponto próximo do paciente.",
+    "wrong_notes": {
+      "B": "Lente divergente corrige miopia; o sinal negativo surge ao trocar os papéis de p e p'.",
+      "C": "+6,0 di soma 4 + 2, esquecendo que a imagem é virtual (p' negativo).",
+      "D": "+0,5 di é a distância focal em metros (f = 0,5 m) confundida com a vergência (V = 1/f = 2 di).",
+      "E": "−6,0 di erra o sinal de ambos os termos e o tipo de lente."
+    },
+    "concept": "Correção da hipermetropia: lente convergente, V = 1/p + 1/p' (p' virtual negativo)."
+  },
+  {
+    "id": "fis-termologia-002",
+    "discipline": "fisica",
+    "topic": "termologia",
+    "subtopic": "calorimetria",
+    "difficulty": 3,
+    "type": "multipla_escolha",
+    "origin": "inedita_ia",
+    "style_ref": "ENEM",
+    "skills": [
+      "calor sensível",
+      "calor latente",
+      "termorregulação"
+    ],
+    "statement": "A evaporação do suor é o principal mecanismo de resfriamento do corpo durante exercícios no calor do Cerrado. Considere um atleta de 70 kg cujo corpo tem calor específico médio de 0,8 cal/(g·°C). O calor latente de vaporização da água na temperatura da pele vale aproximadamente 560 cal/g.\n\nQue massa de suor precisa evaporar para retirar do corpo uma quantidade de calor equivalente à necessária para baixar sua temperatura em 1 °C?",
+    "alternatives": [
+      {
+        "key": "A",
+        "text": "0,1 g"
+      },
+      {
+        "key": "B",
+        "text": "125 g"
+      },
+      {
+        "key": "C",
+        "text": "100 g"
+      },
+      {
+        "key": "D",
+        "text": "56 g"
+      },
+      {
+        "key": "E",
+        "text": "10 g"
+      }
+    ],
+    "answer": "C",
+    "explanation": "O calor que reduziria a temperatura corporal em 1 °C é calor sensível: Q = m·c·ΔT = 70 000 g × 0,8 cal/(g·°C) × 1 °C = 56 000 cal. A evaporação retira calor latente: Q = m_suor · L ⇒ m_suor = 56 000/560 = 100 g. Ou seja, cerca de 100 mL de suor evaporado removem calor suficiente para baixar 1 °C. Conceito-chave: igualar calor sensível (mcΔT) e calor latente (mL) permite comparar processos térmicos.",
+    "wrong_notes": {
+      "A": "0,1 g usa a massa corporal em kg (70) em vez de gramas (70 000) com c em cal/(g·°C).",
+      "B": "125 g usa c = 1 cal/(g·°C), o calor específico da água, em vez do valor médio do corpo (0,8).",
+      "D": "56 g toma o calor em kcal (56) como se fosse a massa de suor, sem dividir pelo calor latente.",
+      "E": "10 g erra a conversão da massa corporal (usa 7 000 g), uma potência de 10 a menos."
+    },
+    "concept": "Calor sensível Q = mcΔT e calor latente Q = mL."
+  },
+  {
+    "id": "fis-dinamica-002",
+    "discipline": "fisica",
+    "topic": "dinamica",
+    "subtopic": "força centrípeta",
+    "difficulty": 3,
+    "type": "multipla_escolha",
+    "origin": "inedita_ia",
+    "style_ref": "ENEM",
+    "skills": [
+      "movimento circular",
+      "aceleração centrípeta",
+      "conversão de rpm"
+    ],
+    "statement": "No laboratório de análises clínicas, amostras de sangue são centrifugadas para separar o plasma das células. Em uma centrífuga, os tubos giram a 3 000 rotações por minuto, e o fundo dos tubos fica a 10 cm do eixo de rotação.\n\nAdote π² ≈ 10 e g = 10 m/s².\n\nA aceleração centrípeta no fundo dos tubos é aproximadamente quantas vezes a aceleração da gravidade?",
+    "alternatives": [
+      {
+        "key": "A",
+        "text": "25 vezes"
+      },
+      {
+        "key": "B",
+        "text": "90 000 vezes"
+      },
+      {
+        "key": "C",
+        "text": "3 vezes"
+      },
+      {
+        "key": "D",
+        "text": "100 000 vezes"
+      },
+      {
+        "key": "E",
+        "text": "1 000 vezes"
+      }
+    ],
+    "answer": "E",
+    "explanation": "Frequência: f = 3 000 rpm = 50 Hz. Velocidade angular: ω = 2πf = 100π rad/s. Aceleração centrípeta: a = ω²·r = (100π)² × 0,10 = 10^4 · π² × 0,10 = 1 000 π² ≈ 10^4 m/s². Comparando com g: 10^4/10 = 1 000 vezes. Essa enorme aceleração faz as células, mais densas, se depositarem no fundo. Conceito-chave: a_c = ω²r, com ω em rad/s e r em metros.",
+    "wrong_notes": {
+      "A": "25 vezes usa a frequência (50 Hz) no lugar de ω, esquecendo o fator 2π: 50² × 0,1 = 250 m/s².",
+      "B": "90 000 vezes usa o valor em rpm (3 000) diretamente como velocidade angular, sem converter para rad/s.",
+      "C": "3 vezes calcula a velocidade linear (v = ωr ≈ 31 m/s) e a toma como aceleração.",
+      "D": "100 000 vezes usa o raio em centímetros (10) em vez de metros (0,10)."
+    },
+    "concept": "Aceleração centrípeta: a = ω²r, com ω = 2πf."
+  },
+  {
+    "id": "fis-energia-002",
+    "discipline": "fisica",
+    "topic": "energia",
+    "subtopic": "impulso e quantidade de movimento",
+    "difficulty": 3,
+    "type": "multipla_escolha",
+    "origin": "inedita_ia",
+    "style_ref": "ENEM",
+    "skills": [
+      "teorema do impulso",
+      "análise de segurança"
+    ],
+    "statement": "Em uma colisão frontal, um carro que trafegava a 72 km/h para bruscamente. Um passageiro de 70 kg, usando cinto de segurança e protegido por airbag, é levado ao repouso em 0,20 s. Sem esses dispositivos, ao bater contra o painel, ele pararia em cerca de 0,020 s.\n\nSobre a força média exercida sobre o passageiro com cinto e airbag, é correto afirmar que ela vale",
+    "alternatives": [
+      {
+        "key": "A",
+        "text": "7 000 N, assim como no impacto contra o painel, pois a variação da quantidade de movimento é a mesma nos dois casos."
+      },
+      {
+        "key": "B",
+        "text": "7 000 N, dez vezes menor que no impacto contra o painel, porque a mesma variação da quantidade de movimento ocorre em um intervalo dez vezes maior."
+      },
+      {
+        "key": "C",
+        "text": "25 200 N, pois a força depende apenas da massa e da velocidade inicial."
+      },
+      {
+        "key": "D",
+        "text": "700 N, porque o airbag reduz a variação da quantidade de movimento do passageiro."
+      },
+      {
+        "key": "E",
+        "text": "1 400 N, que é o impulso recebido pelo passageiro."
+      }
+    ],
+    "answer": "B",
+    "explanation": "Convertendo: 72 km/h = 20 m/s. A variação da quantidade de movimento é ΔQ = m·Δv = 70 × 20 = 1 400 kg·m/s, igual nos dois casos (o passageiro sempre vai de 20 m/s a 0). Pelo teorema do impulso, F·Δt = ΔQ: com cinto e airbag, F = 1 400/0,20 = 7 000 N; contra o painel, F = 1 400/0,020 = 70 000 N. Os dispositivos não mudam ΔQ; eles AUMENTAM o tempo de frenagem, reduzindo a força média. Conceito-chave: I = F·Δt = ΔQ; para o mesmo ΔQ, maior Δt implica menor força.",
+    "wrong_notes": {
+      "A": "O valor 7 000 N está certo, mas a força NÃO é a mesma nos dois casos: com Δt dez vezes menor, a força é dez vezes maior.",
+      "C": "25 200 N usa a velocidade em km/h (72) sem converter para m/s: 70 × 72/0,20.",
+      "D": "O airbag não altera ΔQ (o passageiro para de qualquer forma); ele aumenta o tempo de interação.",
+      "E": "1 400 N·s é o impulso (ou ΔQ), grandeza diferente da força; faltou dividir pelo intervalo de tempo."
+    },
+    "concept": "Teorema do impulso: F·Δt = ΔQ."
+  },
+  {
+    "id": "fis-magnetismo-002",
+    "discipline": "fisica",
+    "topic": "magnetismo",
+    "subtopic": "indução eletromagnética",
+    "difficulty": 3,
+    "type": "multipla_escolha",
+    "origin": "inedita_ia",
+    "style_ref": "ENEM",
+    "skills": [
+      "transformador",
+      "conservação de energia"
+    ],
+    "statement": "Um foco cirúrgico portátil usa uma lâmpada de 12 V que, em funcionamento, é percorrida por corrente de 5,0 A. Para ligá-lo à rede de 120 V (corrente alternada), usa-se um transformador ideal cujo enrolamento primário tem 1 200 espiras.\n\nO número de espiras do secundário e a corrente no primário são, respectivamente,",
+    "alternatives": [
+      {
+        "key": "A",
+        "text": "12 000 espiras e 50 A."
+      },
+      {
+        "key": "B",
+        "text": "120 espiras e 5,0 A."
+      },
+      {
+        "key": "C",
+        "text": "12 000 espiras e 0,50 A."
+      },
+      {
+        "key": "D",
+        "text": "120 espiras e 0,50 A."
+      },
+      {
+        "key": "E",
+        "text": "120 espiras e 50 A."
+      }
+    ],
+    "answer": "D",
+    "explanation": "No transformador ideal, as tensões são proporcionais ao número de espiras: Up/Us = Np/Ns ⇒ 120/12 = 1 200/Ns ⇒ Ns = 120 espiras. Como não há perdas, a potência se conserva: Up·Ip = Us·Is ⇒ 120·Ip = 12 × 5 = 60 W ⇒ Ip = 0,50 A. O transformador abaixa a tensão e, na mesma proporção, a corrente no primário é menor que no secundário. Ele só funciona com corrente alternada, que produz fluxo magnético variável no núcleo. Conceito-chave: U ∝ N e, no transformador ideal, U·I é constante.",
+    "wrong_notes": {
+      "A": "12 000 espiras seria para ELEVAR a tensão (inverte a razão); e 50 A violaria a conservação de energia.",
+      "B": "O número de espiras está certo, mas a corrente não se mantém igual: a potência (U·I) é que se conserva.",
+      "C": "A corrente no primário está certa, mas 12 000 espiras elevaria a tensão para 1 200 V.",
+      "E": "Com 50 A no primário, a potência de entrada (6 000 W) seria 100 vezes a de saída (60 W), violando a conservação de energia."
+    },
+    "concept": "Transformador ideal: Up/Us = Np/Ns e Up·Ip = Us·Is."
+  },
+  {
+    "id": "fis-ondulatoria-002",
+    "discipline": "fisica",
+    "topic": "ondulatoria",
+    "subtopic": "efeito Doppler",
+    "difficulty": 4,
+    "type": "multipla_escolha",
+    "origin": "inedita_ia",
+    "style_ref": "ENEM",
+    "skills": [
+      "efeito Doppler",
+      "manipulação de fórmula",
+      "aplicação médica"
+    ],
+    "statement": "O ultrassom Doppler vascular mede a velocidade do sangue: o transdutor emite ondas de frequência f, que são refletidas pelas hemácias em movimento e voltam com frequência ligeiramente alterada. Para velocidades muito menores que a do som, a diferença entre as frequências recebida e emitida é\n\nΔf = 2 · f · v · cos θ / c,\n\nem que v é a velocidade do sangue, θ é o ângulo entre o feixe e a direção do fluxo e c é a velocidade do som no tecido.\n\nEm um exame da artéria carótida, usou-se f = 5,0 MHz, com θ tal que cos θ = 0,8 e c = 1 540 m/s, e mediu-se Δf = 2,6 kHz.\n\nA velocidade do sangue nesse ponto é de aproximadamente",
+    "alternatives": [
+      {
+        "key": "A",
+        "text": "0,40 m/s."
+      },
+      {
+        "key": "B",
+        "text": "0,50 m/s."
+      },
+      {
+        "key": "C",
+        "text": "0,67 m/s."
+      },
+      {
+        "key": "D",
+        "text": "0,80 m/s."
+      },
+      {
+        "key": "E",
+        "text": "1,0 m/s."
+      }
+    ],
+    "answer": "B",
+    "explanation": "Isolando v: v = Δf · c / (2 · f · cos θ) = (2 600 × 1 540)/(2 × 5,0 × 10^6 × 0,8) = 4 004 000/8 000 000 ≈ 0,50 m/s. O fator 2 aparece porque há dois deslocamentos Doppler (hemácia como receptor móvel e depois como fonte móvel), e cos θ porque só a componente da velocidade na direção do feixe altera a frequência. Conceito-chave: no Doppler por reflexão, Δf é proporcional ao dobro da componente da velocidade ao longo do feixe.",
+    "wrong_notes": {
+      "A": "0,40 m/s omite o cos θ, como se o feixe fosse paralelo ao fluxo; só a componente da velocidade ao longo do feixe gera o desvio.",
+      "C": "0,67 m/s usa 0,6 (seno do ângulo) no lugar de cos θ = 0,8.",
+      "D": "0,80 m/s esquece ao mesmo tempo o fator 2 e o cos θ (v = Δf·c/f).",
+      "E": "1,0 m/s esquece o fator 2 do duplo efeito Doppler, mantendo cos θ no denominador."
+    },
+    "concept": "Doppler vascular: v = Δf·c / (2f·cos θ)."
+  },
+  {
+    "id": "fis-eletricidade-003",
+    "discipline": "fisica",
+    "topic": "eletricidade",
+    "subtopic": "corrente e resistência",
+    "difficulty": 4,
+    "type": "multipla_escolha",
+    "origin": "inedita_ia",
+    "style_ref": "ENEM",
+    "skills": [
+      "lei de Ohm",
+      "interpretação de tabela",
+      "segurança elétrica"
+    ],
+    "statement": "A tabela apresenta, de forma aproximada e para fins didáticos, efeitos de correntes alternadas que atravessam o tronco de um adulto:\n\n| Corrente | Efeito provável |\n|---|---|\n| menor que 1 mA | geralmente imperceptível |\n| de 1 mA a 10 mA | formigamento, sensação dolorosa |\n| de 10 mA a 30 mA | contrações musculares, dificuldade de soltar o condutor |\n| de 30 mA a 75 mA | risco de parada respiratória |\n| maior que 75 mA | risco de fibrilação ventricular |\n\nUm eletricista, com as mãos molhadas e descalço sobre piso úmido, toca acidentalmente um fio de 220 V. Nessa situação, a resistência elétrica total do caminho mão–pés–terra é estimada em 2 200 Ω. Se ele estivesse usando botas de borracha, haveria em série uma resistência adicional de 100 kΩ.\n\nCom base no modelo, os efeitos prováveis sem e com as botas seriam, respectivamente,",
+    "alternatives": [
+      {
+        "key": "A",
+        "text": "risco de fibrilação ventricular e formigamento."
+      },
+      {
+        "key": "B",
+        "text": "formigamento e efeito imperceptível."
+      },
+      {
+        "key": "C",
+        "text": "risco de parada respiratória e dificuldade de soltar o condutor."
+      },
+      {
+        "key": "D",
+        "text": "risco de fibrilação ventricular nas duas situações, pois a tensão é a mesma."
+      },
+      {
+        "key": "E",
+        "text": "efeito imperceptível nas duas situações, pois 220 V é tensão baixa."
+      }
+    ],
+    "answer": "A",
+    "explanation": "Sem botas: I = U/R = 220/2 200 = 0,10 A = 100 mA, acima de 75 mA (risco de fibrilação ventricular). Com botas, as resistências ficam em série: R = 2 200 + 100 000 = 102 200 Ω, e I = 220/102 200 ≈ 2,2 × 10^(−3) A ≈ 2,2 mA, na faixa de formigamento. O dano depende da CORRENTE que atravessa o corpo, e a resistência elevada do calçado isolante a reduz drasticamente. Conceito-chave: pela lei de Ohm, para a mesma tensão, aumentar a resistência em série reduz a corrente.",
+    "wrong_notes": {
+      "B": "Erra a conversão A → mA por um fator de 100 (0,10 A tomado como 1 mA e 2,2 mA como 0,022 mA).",
+      "C": "Classifica 100 mA e 2,2 mA nas faixas erradas da tabela; provável erro de leitura ou de conversão.",
+      "D": "A tensão é a mesma, mas a corrente depende também da resistência total, que aumenta muito com as botas.",
+      "E": "Tensões domésticas podem gerar correntes letais quando a resistência do corpo é baixa (pele molhada)."
+    },
+    "concept": "Choque elétrico: o risco depende da corrente I = U/R; resistência em série reduz a corrente."
+  },
+  {
+    "id": "fis-fisica_moderna-002",
+    "discipline": "fisica",
+    "topic": "fisica_moderna",
+    "subtopic": "efeito fotoelétrico",
+    "difficulty": 4,
+    "type": "multipla_escolha",
+    "origin": "inedita_ia",
+    "style_ref": "ENEM",
+    "skills": [
+      "efeito fotoelétrico",
+      "energia do fóton",
+      "análise de hipóteses"
+    ],
+    "statement": "Detectores de radiação usados em equipamentos hospitalares se baseiam em fenômenos da física moderna. Em um experimento sobre o efeito fotoelétrico, uma placa metálica com função trabalho de 4,2 eV é iluminada separadamente por:\n\n- I. radiação ultravioleta de comprimento de onda 200 nm, de baixa intensidade;\n- II. um laser vermelho de comprimento de onda 620 nm, de intensidade muito alta.\n\nUse E = h·c/λ, com h·c = 1 240 eV·nm.\n\nÉ correto concluir que",
+    "alternatives": [
+      {
+        "key": "A",
+        "text": "a radiação II ejeta mais elétrons que a I, pois tem intensidade muito maior."
+      },
+      {
+        "key": "B",
+        "text": "as duas radiações ejetam elétrons, mas os da radiação I saem com energia cinética máxima de 6,2 eV."
+      },
+      {
+        "key": "C",
+        "text": "nenhuma das radiações ejeta elétrons, pois a I tem baixa intensidade e a II tem baixa frequência."
+      },
+      {
+        "key": "D",
+        "text": "a radiação II ejeta elétrons apenas depois de iluminar a placa por tempo suficiente para acumular 4,2 eV."
+      },
+      {
+        "key": "E",
+        "text": "apenas a radiação I ejeta elétrons, com energia cinética máxima de 2,0 eV; a radiação II não ejeta elétrons, qualquer que seja sua intensidade."
+      }
+    ],
+    "answer": "E",
+    "explanation": "Energia de cada fóton: I) E = 1 240/200 = 6,2 eV; II) E = 1 240/620 = 2,0 eV. Para ejetar um elétron, um único fóton deve fornecer pelo menos a função trabalho (4,2 eV). Em I, isso ocorre, e a energia cinética máxima é Ec = 6,2 − 4,2 = 2,0 eV, mesmo com baixa intensidade (que só reduz o número de elétrons). Em II, cada fóton tem apenas 2,0 eV < 4,2 eV: não há emissão, por mais intensa que seja a luz, e a energia não se acumula entre fótons. Conceito-chave: no efeito fotoelétrico, a emissão depende da frequência (energia de cada fóton), não da intensidade.",
+    "wrong_notes": {
+      "A": "A intensidade aumenta o número de fótons, mas cada fóton vermelho tem energia insuficiente (2,0 eV < 4,2 eV); a visão clássica ondulatória falha aqui.",
+      "B": "6,2 eV é a energia do fóton; a energia cinética máxima desconta a função trabalho (6,2 − 4,2 = 2,0 eV). E a radiação II não ejeta elétrons.",
+      "C": "Baixa intensidade não impede a emissão; basta que cada fóton tenha energia acima da função trabalho, como em I.",
+      "D": "No modelo de Einstein, a interação é fóton a fóton e quase instantânea; o elétron não acumula energia de vários fótons."
+    },
+    "concept": "Efeito fotoelétrico: Ec,máx = hf − φ; a emissão depende da frequência, não da intensidade."
+  },
+  {
+    "id": "fis-cinematica-002",
+    "discipline": "fisica",
+    "topic": "cinematica",
+    "subtopic": "MRUV",
+    "difficulty": 4,
+    "type": "multipla_escolha",
+    "origin": "inedita_ia",
+    "style_ref": "ENEM",
+    "skills": [
+      "tempo de reação",
+      "equação de Torricelli",
+      "várias etapas"
+    ],
+    "statement": "Um motorista dirige a 72 km/h em uma rodovia do Maranhão quando vê um animal parado na pista, 55 m à frente. Entre ver o obstáculo e pisar no freio, há o tempo de reação, durante o qual o carro mantém a velocidade. Após o início da frenagem, o carro desacelera a 5,0 m/s².\n\nSuponha que o tempo de reação desse motorista seja de 0,5 s quando sóbrio e passe a 1,0 s após ingerir bebida alcoólica.\n\nNa situação em que o motorista havia bebido, o carro atingiria o animal com velocidade de aproximadamente",
+    "alternatives": [
+      {
+        "key": "A",
+        "text": "zero: o carro para 5 m antes do animal."
+      },
+      {
+        "key": "B",
+        "text": "7,1 km/h."
+      },
+      {
+        "key": "C",
+        "text": "25 km/h."
+      },
+      {
+        "key": "D",
+        "text": "72 km/h, pois o carro não chega a frear antes do impacto."
+      },
+      {
+        "key": "E",
+        "text": "9 km/h."
+      }
+    ],
+    "answer": "C",
+    "explanation": "Velocidade inicial: 72 km/h = 20 m/s. Com reação de 1,0 s, o carro percorre 20 m antes de frear; restam 55 − 20 = 35 m de frenagem. Por Torricelli: v² = v0² − 2·a·d = 400 − 2 × 5 × 35 = 50 ⇒ v ≈ 7,1 m/s ≈ 25 km/h. Para comparação, sóbrio (0,5 s), ele percorreria 10 m + 40 m de frenagem (400/10) = 50 m e pararia 5 m antes. Conceito-chave: distância de parada = distância de reação (v·tr) + distância de frenagem (v²/2a); dobrar o tempo de reação pode transformar uma parada segura em colisão.",
+    "wrong_notes": {
+      "A": "Esse é o resultado para o motorista SÓBRIO (10 m + 40 m = 50 m); a pergunta é sobre o tempo de reação de 1,0 s.",
+      "B": "7,1 é a velocidade em m/s; faltou converter para km/h (× 3,6).",
+      "D": "Supõe que, em 1,0 s, o carro percorre 72 m, usando a velocidade em km/h sem converter para m/s.",
+      "E": "9 km/h supõe que a velocidade diminui proporcionalmente à distância de frenagem (2,5 m/s), mas no MRUV v² — não v — varia linearmente com a distância."
+    },
+    "concept": "Distância de parada = v·t_reação + v²/(2a); Torricelli: v² = v0² − 2ad."
+  },
+  {
+    "id": "fis-termologia-003",
+    "discipline": "fisica",
+    "topic": "termologia",
+    "subtopic": "gases e termodinâmica",
+    "difficulty": 4,
+    "type": "multipla_escolha",
+    "origin": "inedita_ia",
+    "style_ref": "ENEM",
+    "skills": [
+      "lei de Boyle",
+      "transformação isotérmica",
+      "interpretação de situação-problema"
+    ],
+    "statement": "Um paciente com doença pulmonar crônica que vive na zona rural de um município do Tocantins usa oxigênio domiciliar com fluxo de 2,0 L/min (volume medido à pressão atmosférica, 1 atm). Ele dispõe de um cilindro portátil de volume interno 10 L, carregado com oxigênio a 150 atm. O regulador de pressão deixa de funcionar adequadamente quando a pressão no cilindro cai a 10 atm, e esse gás residual não é aproveitado.\n\nConsidere o oxigênio um gás ideal e a temperatura constante.\n\nO tempo de uso desse cilindro é de aproximadamente",
+    "alternatives": [
+      {
+        "key": "A",
+        "text": "12 h 30 min."
+      },
+      {
+        "key": "B",
+        "text": "5 min."
+      },
+      {
+        "key": "C",
+        "text": "75 min."
+      },
+      {
+        "key": "D",
+        "text": "11 h 40 min."
+      },
+      {
+        "key": "E",
+        "text": "1 h 10 min."
+      }
+    ],
+    "answer": "D",
+    "explanation": "Em transformação isotérmica, p·V é constante (lei de Boyle). O gás que sai do cilindro é o correspondente à queda de 150 atm para 10 atm: à pressão de 1 atm, ele ocupa V = (150 − 10) atm × 10 L / 1 atm = 1 400 L. Com fluxo de 2,0 L/min: t = 1 400/2,0 = 700 min = 11 h 40 min. Conceito-chave: p1V1 = p2V2 a temperatura constante; o volume disponível depende da diferença de pressão aproveitável.",
+    "wrong_notes": {
+      "A": "12 h 30 min (1 500 L) considera todo o gás, inclusive o residual a 10 atm, que o regulador não aproveita.",
+      "B": "5 min usa apenas os 10 L do cilindro, ignorando que o gás está comprimido a alta pressão.",
+      "C": "75 min usa 150 L (pressão × 1 L), errando a aplicação da lei de Boyle.",
+      "E": "1 h 10 min usa 140 L (diferença de pressão tratada como volume), esquecendo de multiplicar pelo volume do cilindro."
+    },
+    "concept": "Lei de Boyle (isotérmica): p1V1 = p2V2."
+  },
+  {
+    "id": "fis-estatica_hidro-003",
+    "discipline": "fisica",
+    "topic": "estatica_hidro",
+    "subtopic": "empuxo",
+    "difficulty": 4,
+    "type": "multipla_escolha",
+    "origin": "inedita_ia",
+    "style_ref": "ENEM",
+    "skills": [
+      "empuxo",
+      "densidade",
+      "uso de fórmula empírica"
+    ],
+    "statement": "A pesagem hidrostática é um método para estimar a gordura corporal. Um voluntário de massa 70 kg (peso 700 N no ar) é totalmente submerso em um tanque de água e, nessa condição, uma balança indica peso aparente de 30 N. Em seguida, calcula-se a densidade corporal D e aplica-se a equação de Siri:\n\n% de gordura = 495/D − 450, com D em g/cm³.\n\nAdote g = 10 m/s², densidade da água = 1 000 kg/m³ e despreze o ar retido nos pulmões e no intestino.\n\nO percentual de gordura estimado para esse voluntário é de aproximadamente",
+    "alternatives": [
+      {
+        "key": "A",
+        "text": "24%."
+      },
+      {
+        "key": "B",
+        "text": "45%."
+      },
+      {
+        "key": "C",
+        "text": "67%."
+      },
+      {
+        "key": "D",
+        "text": "76%."
+      },
+      {
+        "key": "E",
+        "text": "2,4%."
+      }
+    ],
+    "answer": "A",
+    "explanation": "O empuxo é a diferença entre o peso real e o aparente: E = 700 − 30 = 670 N. Pelo princípio de Arquimedes, E = ρágua · V · g ⇒ V = 670/(1 000 × 10) = 0,067 m³. A densidade corporal é D = m/V = 70/0,067 ≈ 1 045 kg/m³ ≈ 1,045 g/cm³. Pela equação: 495/1,045 − 450 ≈ 473,8 − 450 ≈ 24%. Conceito-chave: o empuxo é igual ao peso do fluido deslocado, o que permite medir o volume de um corpo e, assim, sua densidade.",
+    "wrong_notes": {
+      "B": "45% usa o peso no ar (700 N) como empuxo, obtendo D = 1,0 g/cm³ (densidade da água).",
+      "C": "67% calcula D como 670/700 ≈ 0,957 (empuxo ÷ peso), invertendo a razão massa/volume.",
+      "D": "76% é o complemento (100% − 24%), que estima a massa magra, não a gordura.",
+      "E": "2,4% erra a vírgula no cálculo final (fator 10)."
+    },
+    "concept": "Princípio de Arquimedes: E = ρ_fluido·V·g, permitindo calcular o volume e a densidade do corpo."
+  }
+]

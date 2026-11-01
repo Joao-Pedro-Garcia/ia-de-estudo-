@@ -1,0 +1,1289 @@
+[
+  {
+    "id": "mat-basica-001",
+    "discipline": "matematica",
+    "topic": "basica",
+    "subtopic": "porcentagem",
+    "difficulty": 1,
+    "type": "multipla_escolha",
+    "origin": "inedita_ia",
+    "style_ref": "ENEM",
+    "skills": [
+      "cálculo de porcentagem"
+    ],
+    "statement": "Uma Unidade Básica de Saúde de Palmas (TO) recebeu um lote de 240 doses de vacina contra a gripe. Na primeira semana da campanha, foram aplicadas 35% das doses recebidas.\n\nQuantas doses desse lote ainda restavam ao final da primeira semana?",
+    "alternatives": [
+      {
+        "key": "A",
+        "text": "84"
+      },
+      {
+        "key": "B",
+        "text": "156"
+      },
+      {
+        "key": "C",
+        "text": "205"
+      },
+      {
+        "key": "D",
+        "text": "140"
+      },
+      {
+        "key": "E",
+        "text": "176"
+      }
+    ],
+    "answer": "B",
+    "explanation": "Se 35% das doses foram aplicadas, restam 100% − 35% = 65% do lote. Calculando: 0,65 × 240 = 156 doses. Outra forma: 35% de 240 = 0,35 × 240 = 84 doses aplicadas; 240 − 84 = 156 doses restantes. Conceito-chave: o complemento de uma porcentagem (100% − p%) dá diretamente a parte que sobra.",
+    "wrong_notes": {
+      "A": "84 é a quantidade de doses APLICADAS (35% de 240), e não a que restou; o aluno respondeu à pergunta errada.",
+      "C": "205 resulta de subtrair 35 doses (e não 35%) de 240, confundindo ponto percentual com quantidade absoluta.",
+      "D": "140 vem de uma estimativa grosseira (240 − 100), sem calcular a porcentagem corretamente.",
+      "E": "176 corresponde a cerca de 73% de 240; surge de erro na conta 240 × 0,65 ou de usar 100% − 27%."
+    },
+    "concept": "O complemento de uma porcentagem indica a parte restante de um todo."
+  },
+  {
+    "id": "mat-basica-002",
+    "discipline": "matematica",
+    "topic": "basica",
+    "subtopic": "regra de três",
+    "difficulty": 1,
+    "type": "multipla_escolha",
+    "origin": "inedita_ia",
+    "style_ref": "ENEM",
+    "skills": [
+      "regra de três",
+      "proporcionalidade"
+    ],
+    "statement": "Um pediatra prescreveu a uma criança de 18 kg um antibiótico na dose de 15 mg por quilograma de massa corporal, em dose única. O medicamento disponível na farmácia é uma suspensão oral com concentração de 250 mg a cada 5 mL.\n\nQual volume da suspensão deve ser administrado à criança?",
+    "alternatives": [
+      {
+        "key": "A",
+        "text": "3,6 mL"
+      },
+      {
+        "key": "B",
+        "text": "6,0 mL"
+      },
+      {
+        "key": "C",
+        "text": "13,5 mL"
+      },
+      {
+        "key": "D",
+        "text": "5,4 mL"
+      },
+      {
+        "key": "E",
+        "text": "27,0 mL"
+      }
+    ],
+    "answer": "D",
+    "explanation": "Primeiro calcula-se a dose em massa: 15 mg/kg × 18 kg = 270 mg. Depois, aplica-se a regra de três com a concentração: 250 mg estão em 5 mL, então 270 mg estão em x mL, logo x = 270 × 5 / 250 = 5,4 mL. As grandezas massa de fármaco e volume de suspensão são diretamente proporcionais. Conceito-chave: dose (mg) = dose por kg × massa; volume = dose ÷ concentração.",
+    "wrong_notes": {
+      "A": "3,6 mL resulta de dividir a massa da criança (18) por 5, pulando o cálculo da dose em mg e misturando grandezas diferentes.",
+      "B": "6,0 mL corresponde a 300 mg, como se a dose fosse arredondada para 300 mg ou calculada com 20 kg; erro de leitura dos dados.",
+      "C": "13,5 mL vem de dividir 270 por 20 (confundindo a concentração 250 mg/5 mL com 20 mg/mL), erro na montagem da concentração.",
+      "E": "27,0 mL é dez vezes maior que o correto: erro de vírgula ao dividir 270 por 10 (como se 1 mL tivesse 10 mg), um erro grave de dosagem."
+    },
+    "concept": "Cálculo de dose por regra de três: volume = dose necessária ÷ concentração."
+  },
+  {
+    "id": "mat-algebra-001",
+    "discipline": "matematica",
+    "topic": "algebra",
+    "subtopic": "equações do 1º grau",
+    "difficulty": 1,
+    "type": "multipla_escolha",
+    "origin": "inedita_ia",
+    "style_ref": "ENEM",
+    "skills": [
+      "modelagem com equação do 1º grau"
+    ],
+    "statement": "Em Imperatriz (MA), um serviço de mototáxi cobra uma taxa fixa de R$ 4,00 por corrida mais R$ 2,50 por quilômetro rodado. Uma agente comunitária de saúde pagou R$ 21,50 por uma corrida até a casa de um paciente.\n\nQuantos quilômetros teve essa corrida?",
+    "alternatives": [
+      {
+        "key": "A",
+        "text": "7 km"
+      },
+      {
+        "key": "B",
+        "text": "8,6 km"
+      },
+      {
+        "key": "C",
+        "text": "10 km"
+      },
+      {
+        "key": "D",
+        "text": "5 km"
+      },
+      {
+        "key": "E",
+        "text": "6,2 km"
+      }
+    ],
+    "answer": "A",
+    "explanation": "O preço P em função da distância x (em km) é P = 4 + 2,5x. Igualando ao valor pago: 4 + 2,5x = 21,50, então 2,5x = 17,50 e x = 7 km. Verificação: 4 + 2,5 × 7 = 4 + 17,50 = 21,50. Conceito-chave: em uma função afim, a parte fixa deve ser descontada antes de dividir pelo valor por unidade.",
+    "wrong_notes": {
+      "B": "8,6 km vem de dividir 21,50 por 2,5 sem descontar a taxa fixa de R$ 4,00.",
+      "C": "10 km resulta de somar a taxa fixa (21,50 + 4 = 25,50) e dividir por 2,5, operando com o sinal trocado.",
+      "D": "5 km não satisfaz a equação: 4 + 2,5 × 5 = 16,50; provável erro aritmético na divisão.",
+      "E": "6,2 km aparece ao dividir 17,50 por 2,8 ou cometer erro de arredondamento; não verifica 4 + 2,5x = 21,50."
+    },
+    "concept": "Equação do 1º grau: isolar a incógnita descontando o termo fixo."
+  },
+  {
+    "id": "mat-estatistica-001",
+    "discipline": "matematica",
+    "topic": "estatistica",
+    "subtopic": "média, moda e mediana",
+    "difficulty": 1,
+    "type": "multipla_escolha",
+    "origin": "inedita_ia",
+    "style_ref": "ENEM",
+    "skills": [
+      "cálculo de mediana",
+      "organização de dados"
+    ],
+    "statement": "Uma paciente acompanhada em um ambulatório de São Luís (MA) registrou sua glicemia de jejum (em mg/dL) durante uma semana, na ordem em que as medidas foram feitas:\n\n| Dia | Seg | Ter | Qua | Qui | Sex | Sáb | Dom |\n|---|---|---|---|---|---|---|---|\n| Glicemia | 88 | 92 | 95 | 101 | 110 | 86 | 98 |\n\nA mediana dessas medidas é",
+    "alternatives": [
+      {
+        "key": "A",
+        "text": "86 mg/dL."
+      },
+      {
+        "key": "B",
+        "text": "92 mg/dL."
+      },
+      {
+        "key": "C",
+        "text": "95 mg/dL."
+      },
+      {
+        "key": "D",
+        "text": "101 mg/dL."
+      },
+      {
+        "key": "E",
+        "text": "110 mg/dL."
+      }
+    ],
+    "answer": "C",
+    "explanation": "A mediana é o valor central de um conjunto de dados ORDENADO. Ordenando: 86, 88, 92, 95, 98, 101, 110. Como há 7 valores (quantidade ímpar), a mediana é o 4º termo: 95 mg/dL. Note que a média (670/7 ≈ 95,7) é próxima, mas não igual. Conceito-chave: antes de achar a mediana, é obrigatório ordenar os dados.",
+    "wrong_notes": {
+      "A": "86 mg/dL é o menor valor (mínimo) do conjunto, não o central.",
+      "B": "92 mg/dL é o 3º valor da lista ordenada; erro na contagem da posição central.",
+      "D": "101 mg/dL é o 4º valor da tabela na ordem original (quinta-feira): o aluno tomou o termo central SEM ordenar os dados.",
+      "E": "110 mg/dL é o maior valor (máximo) do conjunto."
+    },
+    "concept": "Mediana é o termo central dos dados ordenados."
+  },
+  {
+    "id": "mat-probabilidade-001",
+    "discipline": "matematica",
+    "topic": "probabilidade",
+    "subtopic": "probabilidade simples",
+    "difficulty": 1,
+    "type": "multipla_escolha",
+    "origin": "inedita_ia",
+    "style_ref": "ENEM",
+    "skills": [
+      "probabilidade simples",
+      "leitura de tabela"
+    ],
+    "statement": "Em uma campanha de doação de sangue no hemocentro de Araguaína (TO), compareceram 40 doadores, com a seguinte distribuição de tipos sanguíneos (sistema ABO):\n\n| Tipo | O | A | B | AB |\n|---|---|---|---|---|\n| Doadores | 18 | 14 | 6 | 2 |\n\nSorteando-se ao acaso um desses doadores, a probabilidade de ele ter sangue tipo O ou tipo A é de",
+    "alternatives": [
+      {
+        "key": "A",
+        "text": "35%."
+      },
+      {
+        "key": "B",
+        "text": "45%."
+      },
+      {
+        "key": "C",
+        "text": "20%."
+      },
+      {
+        "key": "D",
+        "text": "15,75%."
+      },
+      {
+        "key": "E",
+        "text": "80%."
+      }
+    ],
+    "answer": "E",
+    "explanation": "Os eventos 'ser tipo O' e 'ser tipo A' são mutuamente exclusivos, então somam-se os casos favoráveis: 18 + 14 = 32. A probabilidade é 32/40 = 0,8 = 80%. Conceito-chave: P(A ou B) = P(A) + P(B) quando A e B não podem ocorrer juntos.",
+    "wrong_notes": {
+      "A": "35% corresponde a 14/40, apenas o tipo A, esquecendo o tipo O.",
+      "B": "45% corresponde a 18/40, apenas o tipo O, esquecendo o tipo A.",
+      "C": "20% é o complemento (8/40, tipos B ou AB), ou seja, a probabilidade do evento contrário.",
+      "D": "15,75% vem de multiplicar 18/40 por 14/40, confundindo 'ou' (união) com 'e' (interseção)."
+    },
+    "concept": "Probabilidade da união de eventos mutuamente exclusivos é a soma das probabilidades."
+  },
+  {
+    "id": "mat-geometria_plana-001",
+    "discipline": "matematica",
+    "topic": "geometria_plana",
+    "subtopic": "áreas",
+    "difficulty": 1,
+    "type": "multipla_escolha",
+    "origin": "inedita_ia",
+    "style_ref": "ENEM",
+    "skills": [
+      "cálculo de área",
+      "conversão de unidades"
+    ],
+    "statement": "A sala de vacinação de um posto de saúde tem piso retangular de 6 m por 4,5 m. Para facilitar a higienização, o piso será revestido com placas cerâmicas quadradas de 50 cm de lado, sem sobras nem cortes.\n\nQuantas placas serão necessárias?",
+    "alternatives": [
+      {
+        "key": "A",
+        "text": "108"
+      },
+      {
+        "key": "B",
+        "text": "54"
+      },
+      {
+        "key": "C",
+        "text": "42"
+      },
+      {
+        "key": "D",
+        "text": "1 080"
+      },
+      {
+        "key": "E",
+        "text": "27"
+      }
+    ],
+    "answer": "A",
+    "explanation": "A área do piso é 6 × 4,5 = 27 m². Cada placa tem lado 50 cm = 0,5 m, logo área 0,5 × 0,5 = 0,25 m². O número de placas é 27 ÷ 0,25 = 108. Também se pode contar por dimensão: 6/0,5 = 12 placas no comprimento e 4,5/0,5 = 9 na largura, totalizando 12 × 9 = 108. Conceito-chave: trabalhe com todas as medidas na mesma unidade e compare áreas.",
+    "wrong_notes": {
+      "B": "54 resulta de dividir 27 m² por 0,5 m (o lado), e não pela área da placa (0,25 m²).",
+      "C": "42 vem de somar as quantidades por lado (12 + 9 = 21) e dobrar, confundindo área com perímetro.",
+      "D": "1 080 surge de erro na conversão de cm para m (usar 0,25 m² como 0,025 m²).",
+      "E": "27 é a área do piso em m², e não o número de placas."
+    },
+    "concept": "Número de peças = área total ÷ área de cada peça, em unidades compatíveis."
+  },
+  {
+    "id": "mat-financeira-001",
+    "discipline": "matematica",
+    "topic": "financeira",
+    "subtopic": "juros simples",
+    "difficulty": 1,
+    "type": "multipla_escolha",
+    "origin": "inedita_ia",
+    "style_ref": "ENEM",
+    "skills": [
+      "juros simples"
+    ],
+    "statement": "Para comprar um estetoscópio e livros para o cursinho, uma estudante tomou emprestados R$ 2 000,00 de um parente, que cobrou juros simples de 1,5% ao mês. Ela quitou a dívida em um único pagamento, 8 meses depois.\n\nO valor pago pela estudante foi de",
+    "alternatives": [
+      {
+        "key": "A",
+        "text": "R$ 2 120,00."
+      },
+      {
+        "key": "B",
+        "text": "R$ 2 240,00."
+      },
+      {
+        "key": "C",
+        "text": "R$ 2 253,00."
+      },
+      {
+        "key": "D",
+        "text": "R$ 2 300,00."
+      },
+      {
+        "key": "E",
+        "text": "R$ 240,00."
+      }
+    ],
+    "answer": "B",
+    "explanation": "Em juros simples, J = C · i · t = 2 000 × 0,015 × 8 = R$ 240,00. O montante é M = C + J = 2 000 + 240 = R$ 2 240,00. Os juros incidem sempre sobre o capital inicial, por isso crescem linearmente. Conceito-chave: M = C(1 + i·t) no regime de juros simples.",
+    "wrong_notes": {
+      "A": "R$ 2 120,00 considera apenas 4 meses (ou taxa de 0,75%), erro na leitura dos dados.",
+      "C": "R$ 2 253,00 é aproximadamente o montante com juros COMPOSTOS (2 000 × 1,015^8 ≈ 2 253), regime diferente do enunciado.",
+      "D": "R$ 2 300,00 usa taxa de 15% no total sem multiplicar corretamente (1,5 × 10), erro de conta.",
+      "E": "R$ 240,00 são apenas os juros; a pergunta pede o valor total pago (montante)."
+    },
+    "concept": "Juros simples: J = C·i·t e M = C + J."
+  },
+  {
+    "id": "mat-funcoes-001",
+    "discipline": "matematica",
+    "topic": "funcoes",
+    "subtopic": "função afim",
+    "difficulty": 2,
+    "type": "multipla_escolha",
+    "origin": "inedita_ia",
+    "style_ref": "ENEM",
+    "skills": [
+      "modelagem com função afim",
+      "taxa de variação"
+    ],
+    "statement": "Uma bolsa com 500 mL de soro fisiológico é instalada em um paciente às 8h00, com vazão constante controlada por bomba de infusão. Às 8h30, a enfermeira verifica que restam 400 mL na bolsa.\n\nMantida a vazão, a bolsa estará vazia às",
+    "alternatives": [
+      {
+        "key": "A",
+        "text": "9h30."
+      },
+      {
+        "key": "B",
+        "text": "10h00."
+      },
+      {
+        "key": "C",
+        "text": "10h30."
+      },
+      {
+        "key": "D",
+        "text": "11h00."
+      },
+      {
+        "key": "E",
+        "text": "9h40."
+      }
+    ],
+    "answer": "C",
+    "explanation": "Em 30 minutos foram infundidos 100 mL, então a taxa é 100/30 = 10/3 mL/min. O volume restante é V(t) = 500 − (10/3)t, com t em minutos a partir das 8h00. A bolsa esvazia quando V(t) = 0: t = 500 × 3/10 = 150 min = 2 h 30 min. Logo, às 8h00 + 2h30 = 10h30. Conceito-chave: na função afim, a taxa de variação é constante e o zero da função indica quando a grandeza se anula.",
+    "wrong_notes": {
+      "A": "9h30 supõe que os 400 mL restantes seriam infundidos em 1 hora, sem usar a taxa calculada.",
+      "B": "10h00 soma 2 horas (120 min, tempo para infundir os 400 mL restantes) a 8h00, esquecendo que esse tempo começa a contar às 8h30.",
+      "D": "11h00 conta 3 horas, superestimando o tempo por erro na taxa (usar 100 mL a cada 36 min).",
+      "E": "9h40 resulta de erro ao converter 100 minutos em horas ou ao usar taxa de 5 mL/min."
+    },
+    "concept": "Função afim: taxa de variação constante; o zero da função dá o instante em que a grandeza se anula."
+  },
+  {
+    "id": "mat-progressoes-001",
+    "discipline": "matematica",
+    "topic": "progressoes",
+    "subtopic": "PA",
+    "difficulty": 2,
+    "type": "multipla_escolha",
+    "origin": "inedita_ia",
+    "style_ref": "ENEM",
+    "skills": [
+      "termo geral da PA"
+    ],
+    "statement": "Um cardiologista recomendou a um paciente em reabilitação um programa de caminhada: no 1º dia, 800 m; a partir daí, a cada dia, caminhar 150 m a mais que no dia anterior, até atingir exatamente 5 000 m em um único dia.\n\nEm qual dia do programa o paciente caminhará 5 000 m?",
+    "alternatives": [
+      {
+        "key": "A",
+        "text": "28º dia"
+      },
+      {
+        "key": "B",
+        "text": "30º dia"
+      },
+      {
+        "key": "C",
+        "text": "33º dia"
+      },
+      {
+        "key": "D",
+        "text": "29º dia"
+      },
+      {
+        "key": "E",
+        "text": "34º dia"
+      }
+    ],
+    "answer": "D",
+    "explanation": "As distâncias formam uma PA com a1 = 800 e razão r = 150. Pelo termo geral, an = a1 + (n − 1)r: 5 000 = 800 + (n − 1) × 150, logo (n − 1) × 150 = 4 200, n − 1 = 28 e n = 29. Conceito-chave: an = a1 + (n − 1)r; o número de saltos de razão é n − 1, não n.",
+    "wrong_notes": {
+      "A": "28 é o valor de n − 1 (número de aumentos); o aluno esqueceu de somar o 1º dia.",
+      "B": "30 surge ao somar 2 ao valor n − 1 = 28, contando o 1º dia duas vezes.",
+      "C": "33 vem de dividir 5 000 por 150 (≈ 33), ignorando que o programa começa em 800 m.",
+      "E": "34 vem de arredondar 5 000/150 ≈ 33,3 para cima, ignorando que o programa começa em 800 m."
+    },
+    "concept": "Termo geral da PA: an = a1 + (n − 1)r."
+  },
+  {
+    "id": "mat-geometria_espacial-001",
+    "discipline": "matematica",
+    "topic": "geometria_espacial",
+    "subtopic": "cilindros",
+    "difficulty": 2,
+    "type": "multipla_escolha",
+    "origin": "inedita_ia",
+    "style_ref": "ENEM",
+    "skills": [
+      "volume do cilindro",
+      "conversão m³ para litros"
+    ],
+    "statement": "Um hospital regional do sul do Maranhão possui um reservatório de água em formato de cilindro circular reto, com 3 m de diâmetro interno e 2 m de altura interna. Adote π = 3 e 1 m³ = 1 000 L.\n\nA capacidade máxima desse reservatório é de",
+    "alternatives": [
+      {
+        "key": "A",
+        "text": "9 000 L."
+      },
+      {
+        "key": "B",
+        "text": "13 500 L."
+      },
+      {
+        "key": "C",
+        "text": "18 000 L."
+      },
+      {
+        "key": "D",
+        "text": "4 500 L."
+      },
+      {
+        "key": "E",
+        "text": "54 000 L."
+      }
+    ],
+    "answer": "B",
+    "explanation": "O raio é metade do diâmetro: r = 1,5 m. O volume do cilindro é V = π r² h = 3 × 1,5² × 2 = 3 × 2,25 × 2 = 13,5 m³. Convertendo: 13,5 × 1 000 = 13 500 L. Conceito-chave: volume do cilindro = área da base (π r²) × altura, sempre com o RAIO.",
+    "wrong_notes": {
+      "A": "9 000 L vem de V = π · r · h (3 × 1,5 × 2 = 9 m³), esquecendo de elevar o raio ao quadrado.",
+      "C": "18 000 L corresponde a 2π r h, que é a área LATERAL (em m²), não o volume.",
+      "D": "4 500 L aplica a fórmula do cone (π r² h / 3), sólido diferente do cilindro.",
+      "E": "54 000 L usa o diâmetro (3 m) no lugar do raio: 3 × 3² × 2 = 54 m³."
+    },
+    "concept": "Volume do cilindro: V = π r² h."
+  },
+  {
+    "id": "mat-trigonometria-001",
+    "discipline": "matematica",
+    "topic": "trigonometria",
+    "subtopic": "razões trigonométricas",
+    "difficulty": 2,
+    "type": "multipla_escolha",
+    "origin": "inedita_ia",
+    "style_ref": "ENEM",
+    "skills": [
+      "tangente no triângulo retângulo"
+    ],
+    "statement": "Para avaliar se uma antena de telemedicina instalada em uma aldeia às margens do Rio Araguaia atende às normas, um técnico se posiciona a 20 m da base da torre, em terreno plano, e observa o topo sob um ângulo de 60° com a horizontal. Seus olhos estão a 1,6 m do chão.\n\nUse sen 60° = 0,87; cos 60° = 0,50; tg 60° = 1,73.\n\nA altura da torre é de aproximadamente",
+    "alternatives": [
+      {
+        "key": "A",
+        "text": "11,6 m."
+      },
+      {
+        "key": "B",
+        "text": "19,0 m."
+      },
+      {
+        "key": "C",
+        "text": "34,6 m."
+      },
+      {
+        "key": "D",
+        "text": "36,2 m."
+      },
+      {
+        "key": "E",
+        "text": "41,6 m."
+      }
+    ],
+    "answer": "D",
+    "explanation": "Forma-se um triângulo retângulo entre os olhos do técnico, a torre e a linha horizontal. O cateto adjacente ao ângulo de 60° é 20 m e o cateto oposto é a parte da torre acima dos olhos: tg 60° = x/20, logo x = 20 × 1,73 = 34,6 m. Somando a altura dos olhos: 34,6 + 1,6 = 36,2 m. Conceito-chave: tangente = cateto oposto/cateto adjacente, e é preciso somar a altura do observador.",
+    "wrong_notes": {
+      "A": "11,6 m usa cos 60° (20 × 0,5 + 1,6), confundindo a razão trigonométrica adequada.",
+      "B": "19,0 m usa sen 60° (20 × 0,87 + 1,6), tratando 20 m como hipotenusa.",
+      "C": "34,6 m é a parte da torre acima dos olhos; faltou somar 1,6 m da altura do observador.",
+      "E": "41,6 m calcula a hipotenusa (20/cos 60° = 40 m) e soma 1,6 m, confundindo a linha de visada com a altura."
+    },
+    "concept": "Tangente relaciona cateto oposto e cateto adjacente; considerar a altura do observador."
+  },
+  {
+    "id": "mat-combinatoria-001",
+    "discipline": "matematica",
+    "topic": "combinatoria",
+    "subtopic": "arranjos e combinações",
+    "difficulty": 2,
+    "type": "multipla_escolha",
+    "origin": "inedita_ia",
+    "style_ref": "ENEM",
+    "skills": [
+      "combinações",
+      "contagem pelo complementar"
+    ],
+    "statement": "Uma equipe de resposta rápida a surtos de dengue será formada com 3 profissionais escolhidos entre 6 médicos e 4 enfermeiros de um hospital de Gurupi (TO). A coordenação exige que a equipe tenha pelo menos um enfermeiro. A ordem de escolha não importa.\n\nQuantas equipes diferentes podem ser formadas?",
+    "alternatives": [
+      {
+        "key": "A",
+        "text": "60"
+      },
+      {
+        "key": "B",
+        "text": "120"
+      },
+      {
+        "key": "C",
+        "text": "144"
+      },
+      {
+        "key": "D",
+        "text": "20"
+      },
+      {
+        "key": "E",
+        "text": "100"
+      }
+    ],
+    "answer": "E",
+    "explanation": "Total de equipes sem restrição: C(10,3) = 120. Equipes sem nenhum enfermeiro (só médicos): C(6,3) = 20. Pelo complementar, equipes com pelo menos um enfermeiro: 120 − 20 = 100. Conferindo por casos: 1 enfermeiro: 4 × C(6,2) = 60; 2 enfermeiros: C(4,2) × 6 = 36; 3 enfermeiros: C(4,3) = 4; total 100. Conceito-chave: 'pelo menos um' costuma ser resolvido como total menos 'nenhum'.",
+    "wrong_notes": {
+      "A": "60 conta apenas as equipes com EXATAMENTE um enfermeiro, esquecendo os casos com 2 ou 3.",
+      "B": "120 é o total de equipes sem restrição; ignora a exigência de pelo menos um enfermeiro.",
+      "C": "144 fixa um enfermeiro (4 modos) e escolhe os outros 2 entre os 9 restantes (C(9,2) = 36), contando equipes repetidas.",
+      "D": "20 é o número de equipes SEM enfermeiro (o complementar), e não o pedido."
+    },
+    "concept": "Contagem pelo complementar: pelo menos um = total − nenhum."
+  },
+  {
+    "id": "mat-logaritmos-001",
+    "discipline": "matematica",
+    "topic": "logaritmos",
+    "subtopic": "aplicações (pH, crescimento)",
+    "difficulty": 2,
+    "type": "multipla_escolha",
+    "origin": "inedita_ia",
+    "style_ref": "ENEM",
+    "skills": [
+      "definição de logaritmo",
+      "escala logarítmica"
+    ],
+    "statement": "O pH de uma solução é definido por pH = −log[H+], em que [H+] é a concentração de íons hidrogênio em mol/L. Em um exame laboratorial, uma amostra de suco gástrico apresentou pH 1,5, e uma amostra de urina do mesmo paciente apresentou pH 5,5.\n\nA concentração de íons H+ no suco gástrico é quantas vezes a concentração na urina?",
+    "alternatives": [
+      {
+        "key": "A",
+        "text": "4"
+      },
+      {
+        "key": "B",
+        "text": "40"
+      },
+      {
+        "key": "C",
+        "text": "3,7"
+      },
+      {
+        "key": "D",
+        "text": "1 000"
+      },
+      {
+        "key": "E",
+        "text": "10 000"
+      }
+    ],
+    "answer": "E",
+    "explanation": "Pela definição, [H+] = 10^(−pH). Suco gástrico: 10^(−1,5); urina: 10^(−5,5). A razão é 10^(−1,5) / 10^(−5,5) = 10^(−1,5 + 5,5) = 10^4 = 10 000. Cada unidade a menos de pH significa uma concentração de H+ 10 vezes maior. Conceito-chave: em escala logarítmica, diferença de n unidades corresponde a um fator 10^n.",
+    "wrong_notes": {
+      "A": "4 é apenas a diferença entre os valores de pH; ignora que a escala é logarítmica.",
+      "B": "40 multiplica a diferença por 10, tratando a escala como linear com fator 10.",
+      "C": "3,7 é a razão entre os pHs (5,5/1,5), sem relação com a razão das concentrações.",
+      "D": "1 000 corresponde a 10^3, erro na subtração dos expoentes (diferença de 3 unidades)."
+    },
+    "concept": "Escala de pH é logarítmica: ΔpH = n ⇒ razão de [H+] = 10^n."
+  },
+  {
+    "id": "mat-financeira-003",
+    "discipline": "matematica",
+    "topic": "financeira",
+    "subtopic": "descontos e acréscimos",
+    "difficulty": 2,
+    "type": "multipla_escolha",
+    "origin": "inedita_ia",
+    "style_ref": "ENEM",
+    "skills": [
+      "aumentos e descontos sucessivos"
+    ],
+    "statement": "Em janeiro, uma farmácia de Bacabal (MA) reajustou em 20% o preço de um aparelho medidor de pressão, que custava R$ 150,00. Em março, para uma promoção, aplicou um desconto de 20% sobre o novo preço.\n\nApós a promoção, em relação ao preço original, o aparelho ficou",
+    "alternatives": [
+      {
+        "key": "A",
+        "text": "4% mais barato, custando R$ 144,00."
+      },
+      {
+        "key": "B",
+        "text": "com o mesmo preço, R$ 150,00."
+      },
+      {
+        "key": "C",
+        "text": "4% mais caro, custando R$ 156,00."
+      },
+      {
+        "key": "D",
+        "text": "20% mais barato, custando R$ 120,00."
+      },
+      {
+        "key": "E",
+        "text": "2% mais barato, custando R$ 147,00."
+      }
+    ],
+    "answer": "A",
+    "explanation": "Aumentos e descontos sucessivos se compõem por multiplicação dos fatores: 150 × 1,20 = 180; 180 × 0,80 = 144. O fator total é 1,2 × 0,8 = 0,96, ou seja, uma redução de 4% em relação ao preço original. O desconto incide sobre um valor maior (R$ 180), por isso retira mais do que o aumento acrescentou. Conceito-chave: porcentagens sucessivas se multiplicam, não se somam.",
+    "wrong_notes": {
+      "B": "Supõe que +20% e −20% se anulam, somando porcentagens em vez de multiplicar os fatores.",
+      "C": "Inverte o sentido do efeito: o resultado final é menor, não maior, que o original.",
+      "D": "Aplica apenas o desconto ao preço original, ignorando o reajuste anterior.",
+      "E": "2% é erro de conta no fator (1,2 × 0,8 = 0,98 incorreto)."
+    },
+    "concept": "Variações percentuais sucessivas: multiplicam-se os fatores (1 ± p)."
+  },
+  {
+    "id": "mat-funcoes-002",
+    "discipline": "matematica",
+    "topic": "funcoes",
+    "subtopic": "função quadrática",
+    "difficulty": 3,
+    "type": "multipla_escolha",
+    "origin": "inedita_ia",
+    "style_ref": "ENEM",
+    "skills": [
+      "inequação do 2º grau",
+      "interpretação de modelo"
+    ],
+    "statement": "Em um estudo de farmacocinética, a concentração de um analgésico no plasma de um voluntário foi modelada, nas primeiras 8 horas após a ingestão, por\n\nC(t) = −0,5t² + 4t,\n\nem que C é dada em mg/L e t em horas (0 ≤ t ≤ 8). O efeito analgésico ocorre apenas enquanto a concentração for maior ou igual a 6 mg/L.\n\nDurante quanto tempo o voluntário esteve sob efeito analgésico, segundo o modelo?",
+    "alternatives": [
+      {
+        "key": "A",
+        "text": "2 horas"
+      },
+      {
+        "key": "B",
+        "text": "3 horas"
+      },
+      {
+        "key": "C",
+        "text": "4 horas"
+      },
+      {
+        "key": "D",
+        "text": "6 horas"
+      },
+      {
+        "key": "E",
+        "text": "8 horas"
+      }
+    ],
+    "answer": "C",
+    "explanation": "Resolve-se C(t) ≥ 6: −0,5t² + 4t ≥ 6 ⇔ −0,5t² + 4t − 6 ≥ 0 ⇔ (multiplicando por −2 e invertendo o sinal) t² − 8t + 12 ≤ 0. As raízes são t = 2 e t = 6, e a parábola t² − 8t + 12 é negativa entre elas. Logo, o efeito ocorre para 2 ≤ t ≤ 6, durante 6 − 2 = 4 horas. Observe que o pico (vértice) é em t = 4 h, com C = 8 mg/L. Conceito-chave: a inequação do 2º grau é resolvida pelas raízes e pelo sinal da parábola.",
+    "wrong_notes": {
+      "A": "2 horas é o instante em que o efeito COMEÇA (primeira raiz), não a duração.",
+      "B": "3 horas resulta de erro no cálculo das raízes (por exemplo, achar 3 e 6).",
+      "D": "6 horas é o instante em que o efeito TERMINA (segunda raiz), confundido com a duração.",
+      "E": "8 horas é todo o intervalo do modelo (quando C volta a zero), não o período em que C ≥ 6."
+    },
+    "concept": "Inequação do 2º grau: o conjunto solução é determinado pelas raízes e pela concavidade."
+  },
+  {
+    "id": "mat-logaritmos-002",
+    "discipline": "matematica",
+    "topic": "logaritmos",
+    "subtopic": "aplicações (pH, crescimento)",
+    "difficulty": 3,
+    "type": "multipla_escolha",
+    "origin": "inedita_ia",
+    "style_ref": "ENEM",
+    "skills": [
+      "equação exponencial",
+      "uso de logaritmos"
+    ],
+    "statement": "Em um laboratório de microbiologia, uma cultura de bactérias iniciada com 1 000 células dobra sua população a cada 20 minutos, enquanto houver nutrientes. A técnica responsável precisa saber quando a cultura atingirá 1 000 000 de células.\n\nAdote log 2 = 0,30.\n\nEsse número de células será atingido aproximadamente quanto tempo após o início?",
+    "alternatives": [
+      {
+        "key": "A",
+        "text": "1 h 40 min"
+      },
+      {
+        "key": "B",
+        "text": "3 h 20 min"
+      },
+      {
+        "key": "C",
+        "text": "5 h 00 min"
+      },
+      {
+        "key": "D",
+        "text": "6 h 40 min"
+      },
+      {
+        "key": "E",
+        "text": "16 h 40 min"
+      }
+    ],
+    "answer": "B",
+    "explanation": "O modelo é N(n) = 1 000 · 2^n, em que n é o número de duplicações. Fazendo N = 1 000 000: 2^n = 1 000. Aplicando log: n · log 2 = log 1 000 ⇒ n × 0,30 = 3 ⇒ n = 10 duplicações. Como cada duplicação leva 20 min, o tempo é 10 × 20 = 200 min = 3 h 20 min. Conceito-chave: o logaritmo transforma o expoente desconhecido em fator multiplicativo.",
+    "wrong_notes": {
+      "A": "1 h 40 min corresponde a 5 duplicações; erro ao calcular n (usar log 1 000 = 1,5).",
+      "C": "5 h 00 min corresponde a 15 duplicações, resultado de dividir 3 por 0,20 em vez de 0,30 (erro na aplicação do logaritmo).",
+      "D": "6 h 40 min corresponde a 20 duplicações, resolvendo 2^n = 1 000 000 e esquecendo que a cultura já começou com 1 000 células.",
+      "E": "16 h 40 min supõe crescimento linear (1 000 células a cada 1 min ou similar), ignorando o crescimento exponencial."
+    },
+    "concept": "Crescimento exponencial: resolve-se a^n = k aplicando logaritmo, n = log k / log a."
+  },
+  {
+    "id": "mat-geometria_espacial-002",
+    "discipline": "matematica",
+    "topic": "geometria_espacial",
+    "subtopic": "esferas",
+    "difficulty": 3,
+    "type": "multipla_escolha",
+    "origin": "inedita_ia",
+    "style_ref": "ENEM",
+    "skills": [
+      "volume composto",
+      "conversão de unidades"
+    ],
+    "statement": "Uma indústria farmacêutica produz cápsulas gelatinosas com formato de um cilindro circular reto com uma semiesfera em cada extremidade. O raio do cilindro e das semiesferas é 0,3 cm, e o comprimento da parte cilíndrica é 1,4 cm (o comprimento total da cápsula é 2,0 cm). Adote π = 3 e 1 cm³ = 1 000 mm³.\n\nO volume interno de cada cápsula, desprezando a espessura da gelatina, é de",
+    "alternatives": [
+      {
+        "key": "A",
+        "text": "378 mm³."
+      },
+      {
+        "key": "B",
+        "text": "432 mm³."
+      },
+      {
+        "key": "C",
+        "text": "486 mm³."
+      },
+      {
+        "key": "D",
+        "text": "540 mm³."
+      },
+      {
+        "key": "E",
+        "text": "594 mm³."
+      }
+    ],
+    "answer": "C",
+    "explanation": "As duas semiesferas formam uma esfera completa de raio 0,3 cm. Volume do cilindro: π r² h = 3 × 0,09 × 1,4 = 0,378 cm³. Volume da esfera: (4/3) π r³ = (4/3) × 3 × 0,027 = 0,108 cm³. Total: 0,378 + 0,108 = 0,486 cm³ = 486 mm³. Conceito-chave: sólidos compostos têm volume igual à soma dos volumes das partes; duas semiesferas iguais equivalem a uma esfera.",
+    "wrong_notes": {
+      "A": "378 mm³ é apenas o volume da parte cilíndrica, esquecendo as extremidades esféricas.",
+      "B": "432 mm³ soma o cilindro a apenas UMA semiesfera (0,054 cm³).",
+      "D": "540 mm³ trata a cápsula inteira como um cilindro de 2,0 cm de comprimento.",
+      "E": "594 mm³ soma o cilindro a DUAS esferas completas, contando cada semiesfera como esfera."
+    },
+    "concept": "Volume de sólido composto: soma das partes; duas semiesferas = uma esfera."
+  },
+  {
+    "id": "mat-probabilidade-002",
+    "discipline": "matematica",
+    "topic": "probabilidade",
+    "subtopic": "probabilidade condicional",
+    "difficulty": 3,
+    "type": "multipla_escolha",
+    "origin": "inedita_ia",
+    "style_ref": "ENEM",
+    "skills": [
+      "probabilidade condicional",
+      "leitura de tabela de dupla entrada"
+    ],
+    "statement": "Durante um surto de influenza em uma cidade do Bico do Papagaio (TO), a vigilância epidemiológica acompanhou 200 moradores de um bairro e obteve os dados abaixo:\n\n| | Infectados | Não infectados | Total |\n|---|---|---|---|\n| Vacinados | 12 | 108 | 120 |\n| Não vacinados | 24 | 56 | 80 |\n| Total | 36 | 164 | 200 |\n\nEscolhendo-se ao acaso um dos moradores infectados, a probabilidade de que ele NÃO seja vacinado é de aproximadamente",
+    "alternatives": [
+      {
+        "key": "A",
+        "text": "12%."
+      },
+      {
+        "key": "B",
+        "text": "30%."
+      },
+      {
+        "key": "C",
+        "text": "33%."
+      },
+      {
+        "key": "D",
+        "text": "40%."
+      },
+      {
+        "key": "E",
+        "text": "67%."
+      }
+    ],
+    "answer": "E",
+    "explanation": "A condição 'é infectado' reduz o espaço amostral aos 36 infectados. Destes, 24 não são vacinados. Assim, P(não vacinado | infectado) = 24/36 = 2/3 ≈ 67%. Note a diferença em relação a P(infectado | não vacinado) = 24/80 = 30%, que responde a outra pergunta. Conceito-chave: em probabilidade condicional, o denominador é o total do evento dado (a condição).",
+    "wrong_notes": {
+      "A": "12% é 24/200: usa o total geral como denominador, ignorando a condição 'infectado'.",
+      "B": "30% é 24/80 = P(infectado | não vacinado): inverte a condição, erro clássico de confundir P(A|B) com P(B|A).",
+      "C": "33% é 12/36 = P(vacinado | infectado), o evento complementar dentro da condição.",
+      "D": "40% é 80/200, a proporção de não vacinados na população, sem considerar a condição."
+    },
+    "concept": "P(A|B) = n(A ∩ B) / n(B): a condição restringe o espaço amostral."
+  },
+  {
+    "id": "mat-estatistica-002",
+    "discipline": "matematica",
+    "topic": "estatistica",
+    "subtopic": "dispersão e desvio padrão",
+    "difficulty": 3,
+    "type": "multipla_escolha",
+    "origin": "inedita_ia",
+    "style_ref": "ENEM",
+    "skills": [
+      "média",
+      "desvio padrão",
+      "comparação de dispersão"
+    ],
+    "statement": "Dois pacientes hipertensos, X e Y, mediram a pressão arterial sistólica (em mmHg) durante cinco dias, sempre no mesmo horário:\n\n| Dia | 1 | 2 | 3 | 4 | 5 |\n|---|---|---|---|---|---|\n| Paciente X | 120 | 122 | 118 | 121 | 119 |\n| Paciente Y | 110 | 130 | 115 | 125 | 120 |\n\nConsidere o desvio padrão populacional, dado pela raiz quadrada da média dos quadrados dos desvios em relação à média. Use √2 ≈ 1,41 e √50 ≈ 7,07.\n\nSobre essas medidas, é correto afirmar que",
+    "alternatives": [
+      {
+        "key": "A",
+        "text": "os dois pacientes têm a mesma média, e o desvio padrão de Y (≈ 7,07 mmHg) é cinco vezes o de X (≈ 1,41 mmHg), indicando pressão mais instável em Y."
+      },
+      {
+        "key": "B",
+        "text": "Y tem média maior que X, pois apresenta o maior valor registrado (130 mmHg)."
+      },
+      {
+        "key": "C",
+        "text": "os dois pacientes têm o mesmo desvio padrão, pois suas médias são iguais."
+      },
+      {
+        "key": "D",
+        "text": "o desvio padrão de Y é 50 mmHg, e o de X é 2 mmHg."
+      },
+      {
+        "key": "E",
+        "text": "X tem maior dispersão, pois seus valores estão mais próximos uns dos outros."
+      }
+    ],
+    "answer": "A",
+    "explanation": "As médias são iguais: X = 600/5 = 120 e Y = 600/5 = 120. Desvios de X: 0, 2, −2, 1, −1; quadrados: 0, 4, 4, 1, 1; variância = 10/5 = 2; desvio padrão = √2 ≈ 1,41. Desvios de Y: −10, 10, −5, 5, 0; quadrados: 100, 100, 25, 25, 0; variância = 250/5 = 50; desvio padrão = √50 ≈ 7,07. Como 7,07/1,41 ≈ 5, Y oscila cerca de cinco vezes mais. Conceito-chave: médias iguais não implicam distribuições iguais; o desvio padrão mede a dispersão em torno da média.",
+    "wrong_notes": {
+      "B": "Um valor máximo maior não implica média maior; as somas são iguais (600), logo as médias também.",
+      "C": "Média igual não significa dispersão igual; os valores de Y se afastam muito mais de 120.",
+      "D": "50 e 2 são as VARIÂNCIAS (em mmHg²); o desvio padrão é a raiz quadrada da variância.",
+      "E": "Valores próximos entre si indicam MENOR dispersão; a afirmação inverte o significado do desvio padrão."
+    },
+    "concept": "Desvio padrão = raiz da variância; mede a dispersão dos dados em torno da média."
+  },
+  {
+    "id": "mat-progressoes-002",
+    "discipline": "matematica",
+    "topic": "progressoes",
+    "subtopic": "PG",
+    "difficulty": 3,
+    "type": "multipla_escolha",
+    "origin": "inedita_ia",
+    "style_ref": "ENEM",
+    "skills": [
+      "soma de PG",
+      "modelagem farmacológica"
+    ],
+    "statement": "Um paciente toma 200 mg de um medicamento a cada 6 horas. Considere, de forma simplificada, que a cada intervalo de 6 horas o organismo elimina metade da quantidade do fármaco presente no corpo, e que cada dose é absorvida instantaneamente.\n\nImediatamente após tomar a 5ª dose, a quantidade do medicamento no organismo do paciente será de",
+    "alternatives": [
+      {
+        "key": "A",
+        "text": "12,5 mg."
+      },
+      {
+        "key": "B",
+        "text": "375 mg."
+      },
+      {
+        "key": "C",
+        "text": "387,5 mg."
+      },
+      {
+        "key": "D",
+        "text": "400 mg."
+      },
+      {
+        "key": "E",
+        "text": "1 000 mg."
+      }
+    ],
+    "answer": "C",
+    "explanation": "Imediatamente após a 5ª dose, há: a 5ª dose inteira (200), a 4ª reduzida à metade (100), a 3ª a um quarto (50), a 2ª a um oitavo (25) e a 1ª a um dezesseis avos (12,5). Isso é a soma de uma PG com a1 = 200, q = 1/2 e n = 5: S5 = 200 · (1 − (1/2)^5)/(1 − 1/2) = 200 × (31/32)/(1/2) = 387,5 mg. Com infinitas doses, a quantidade tenderia a 200/(1 − 1/2) = 400 mg (estado de equilíbrio). Conceito-chave: o acúmulo de doses com eliminação proporcional é modelado por uma soma de PG.",
+    "wrong_notes": {
+      "A": "12,5 mg é apenas o que resta da 1ª dose (último termo da PG), não a soma de todas as contribuições.",
+      "B": "375 mg é a soma de apenas 4 termos (S4), contando uma dose a menos.",
+      "D": "400 mg é o limite da soma infinita (estado de equilíbrio), só atingido após muitas doses.",
+      "E": "1 000 mg (5 × 200) ignora a eliminação do fármaco entre as doses."
+    },
+    "concept": "Soma dos n primeiros termos da PG: Sn = a1(1 − q^n)/(1 − q)."
+  },
+  {
+    "id": "mat-algebra-002",
+    "discipline": "matematica",
+    "topic": "algebra",
+    "subtopic": "sistemas",
+    "difficulty": 3,
+    "type": "multipla_escolha",
+    "origin": "inedita_ia",
+    "style_ref": "ENEM",
+    "skills": [
+      "sistema de equações",
+      "concentração de soluções"
+    ],
+    "statement": "Na farmácia de um hospital, há disponíveis solução de glicose a 10% (m/V) e solução de glicose a 50% (m/V). Um médico prescreve 400 mL de solução de glicose a 20% (m/V), que deve ser preparada misturando-se apenas essas duas soluções.\n\nOs volumes das soluções a 10% e a 50%, respectivamente, que devem ser misturados são",
+    "alternatives": [
+      {
+        "key": "A",
+        "text": "200 mL e 200 mL."
+      },
+      {
+        "key": "B",
+        "text": "320 mL e 80 mL."
+      },
+      {
+        "key": "C",
+        "text": "100 mL e 300 mL."
+      },
+      {
+        "key": "D",
+        "text": "300 mL e 100 mL."
+      },
+      {
+        "key": "E",
+        "text": "350 mL e 50 mL."
+      }
+    ],
+    "answer": "D",
+    "explanation": "Sejam x o volume da solução a 10% e y o da solução a 50%. Volume total: x + y = 400. Massa de glicose: 0,10x + 0,50y = 0,20 × 400 = 80 g. Substituindo x = 400 − y: 40 − 0,10y + 0,50y = 80 ⇒ 0,40y = 40 ⇒ y = 100 mL e x = 300 mL. Verificação: 30 g + 50 g = 80 g em 400 mL, ou seja, 20%. Conceito-chave: em misturas, conservam-se o volume total e a massa de soluto, gerando um sistema linear.",
+    "wrong_notes": {
+      "A": "200 mL de cada resultaria em (20 + 100)/400 = 30%, média simples das concentrações.",
+      "B": "320 e 80 mL dão (32 + 40)/400 = 18%, abaixo do prescrito; erro na resolução do sistema.",
+      "C": "Inverte os volumes: 10 g + 150 g = 160 g em 400 mL = 40%.",
+      "E": "350 e 50 mL dão (35 + 25)/400 = 15%; não satisfaz a equação da massa de soluto."
+    },
+    "concept": "Mistura de soluções: sistema com conservação de volume e de massa de soluto."
+  },
+  {
+    "id": "mat-probabilidade-003",
+    "discipline": "matematica",
+    "topic": "probabilidade",
+    "subtopic": "probabilidade condicional",
+    "difficulty": 4,
+    "type": "multipla_escolha",
+    "origin": "inedita_ia",
+    "style_ref": "ENEM",
+    "skills": [
+      "probabilidade condicional",
+      "teorema de Bayes",
+      "interpretação de exames"
+    ],
+    "statement": "Um teste rápido para uma doença tropical tem as seguintes características:\n\n- **sensibilidade** de 90%: entre os doentes, 90% têm resultado positivo;\n- **especificidade** de 95%: entre os não doentes, 95% têm resultado negativo.\n\nEm uma triagem populacional em uma região onde a prevalência da doença é de 2%, uma pessoa escolhida ao acaso teve resultado POSITIVO.\n\nA probabilidade de essa pessoa estar de fato doente é de aproximadamente",
+    "alternatives": [
+      {
+        "key": "A",
+        "text": "2%."
+      },
+      {
+        "key": "B",
+        "text": "27%."
+      },
+      {
+        "key": "C",
+        "text": "7%."
+      },
+      {
+        "key": "D",
+        "text": "90%."
+      },
+      {
+        "key": "E",
+        "text": "95%."
+      }
+    ],
+    "answer": "B",
+    "explanation": "Imagine 10 000 pessoas. Doentes: 2% = 200; destes, 90% positivos = 180 (verdadeiros positivos). Não doentes: 9 800; destes, 5% positivos = 490 (falsos positivos). Total de positivos: 180 + 490 = 670. Logo, P(doente | positivo) = 180/670 ≈ 0,269 ≈ 27%. Mesmo com um teste 'bom', a baixa prevalência faz os falsos positivos superarem os verdadeiros. Conceito-chave: o valor preditivo positivo depende da prevalência (teorema de Bayes), não só da sensibilidade e especificidade.",
+    "wrong_notes": {
+      "A": "2% é a prevalência (probabilidade ANTES do teste); ignora a informação trazida pelo resultado positivo.",
+      "C": "7% (670/10 000 ≈ 6,7%) é a probabilidade de um resultado ser positivo, não a de estar doente dado o positivo.",
+      "D": "90% é a sensibilidade, P(positivo | doente), confundida com P(doente | positivo) — inversão da condicional.",
+      "E": "95% é a especificidade, que se refere aos não doentes com teste negativo."
+    },
+    "concept": "Teorema de Bayes: o valor preditivo positivo depende da prevalência."
+  },
+  {
+    "id": "mat-financeira-002",
+    "discipline": "matematica",
+    "topic": "financeira",
+    "subtopic": "juros compostos",
+    "difficulty": 4,
+    "type": "multipla_escolha",
+    "origin": "inedita_ia",
+    "style_ref": "ENEM",
+    "skills": [
+      "taxa de juros implícita",
+      "comparação de propostas"
+    ],
+    "statement": "Um hospital filantrópico de Imperatriz (MA) vai comprar um monitor multiparamétrico de preço de tabela R$ 100 000,00. O fornecedor oferece duas condições:\n\n- **à vista**, com 10% de desconto;\n- **em duas parcelas iguais** de R$ 50 000,00, a primeira no ato da compra e a segunda 30 dias depois.\n\nPara o hospital, a opção parcelada equivale a pegar emprestada uma quantia hoje e devolver um valor maior daqui a um mês. A taxa mensal de juros embutida no parcelamento é de",
+    "alternatives": [
+      {
+        "key": "A",
+        "text": "10%."
+      },
+      {
+        "key": "B",
+        "text": "11,1%."
+      },
+      {
+        "key": "C",
+        "text": "20%."
+      },
+      {
+        "key": "D",
+        "text": "5%."
+      },
+      {
+        "key": "E",
+        "text": "25%."
+      }
+    ],
+    "answer": "E",
+    "explanation": "À vista, o hospital pagaria R$ 90 000 hoje. No parcelado, paga R$ 50 000 hoje; portanto, 'fica devendo' 90 000 − 50 000 = R$ 40 000 em relação ao preço à vista. Esse saldo é quitado com R$ 50 000 um mês depois. A taxa é i = 50 000/40 000 − 1 = 0,25 = 25% ao mês. Conceito-chave: a taxa efetiva de um parcelamento se calcula comparando o saldo financiado (preço à vista menos entrada) com o valor futuro pago.",
+    "wrong_notes": {
+      "A": "10% é o desconto à vista sobre o preço de tabela; não é a taxa sobre o valor efetivamente financiado.",
+      "B": "11,1% (10 000/90 000) compara a diferença com o preço à vista inteiro, esquecendo que a entrada é paga no ato e não é financiada.",
+      "C": "20% (10 000/50 000) usa a parcela como base, e não o saldo devedor de R$ 40 000.",
+      "D": "5% divide o desconto de 10% pelas duas parcelas, sem considerar o valor financiado."
+    },
+    "concept": "Taxa efetiva de parcelamento: comparar o saldo financiado (à vista − entrada) com o pagamento futuro."
+  },
+  {
+    "id": "mat-geometria_plana-002",
+    "discipline": "matematica",
+    "topic": "geometria_plana",
+    "subtopic": "semelhança",
+    "difficulty": 4,
+    "type": "multipla_escolha",
+    "origin": "inedita_ia",
+    "style_ref": "ENEM",
+    "skills": [
+      "semelhança de triângulos",
+      "razão entre áreas"
+    ],
+    "statement": "Em uma radiografia, os raios X partem de uma fonte praticamente pontual e projetam a sombra de uma estrutura sobre o detector plano, gerando uma imagem ampliada. Em um exame, a fonte estava a 120 cm do detector, e uma lesão plana, paralela ao detector, estava a 20 cm dele. Na imagem, a área da sombra da lesão mediu 36 cm².\n\nA área real da lesão é de",
+    "alternatives": [
+      {
+        "key": "A",
+        "text": "25 cm²."
+      },
+      {
+        "key": "B",
+        "text": "30 cm²."
+      },
+      {
+        "key": "C",
+        "text": "43,2 cm²."
+      },
+      {
+        "key": "D",
+        "text": "51,84 cm²."
+      },
+      {
+        "key": "E",
+        "text": "1 cm²."
+      }
+    ],
+    "answer": "A",
+    "explanation": "A fonte, a lesão e sua sombra formam figuras semelhantes (projeção central). A distância fonte–lesão é 120 − 20 = 100 cm, e a distância fonte–detector é 120 cm. A razão de ampliação linear é k = 120/100 = 1,2. Em figuras semelhantes, a razão entre áreas é k² = 1,44. Logo, a área real = 36/1,44 = 25 cm². Conceito-chave: se a razão de semelhança linear é k, a razão entre as áreas é k².",
+    "wrong_notes": {
+      "B": "30 cm² divide a área pela razão LINEAR (36/1,2), esquecendo que áreas variam com k².",
+      "C": "43,2 cm² multiplica pela razão linear, invertendo o sentido da ampliação e usando k em vez de k².",
+      "D": "51,84 cm² multiplica por k² = 1,44: a imagem é ampliada, logo a lesão real é MENOR que a sombra.",
+      "E": "1 cm² usa como razão 120/20 = 6 (distância lesão–detector no lugar de fonte–lesão), resultando em 36/36."
+    },
+    "concept": "Figuras semelhantes: razão das áreas = (razão linear)²."
+  },
+  {
+    "id": "mat-trigonometria-002",
+    "discipline": "matematica",
+    "topic": "trigonometria",
+    "subtopic": "leis dos senos e cossenos",
+    "difficulty": 4,
+    "type": "multipla_escolha",
+    "origin": "inedita_ia",
+    "style_ref": "ENEM",
+    "skills": [
+      "lei dos cossenos",
+      "modelagem geométrica",
+      "velocidade média"
+    ],
+    "statement": "Uma base do SAMU no interior do Tocantins atende dois povoados, P e Q, ligados à base B por estradas retilíneas: BP = 6 km e BQ = 10 km, e o ângulo PB̂Q mede 120°. Foi construída uma estrada retilínea ligando diretamente P a Q.\n\nUma ambulância que faz o trajeto P → Q por essa nova estrada, com velocidade média de 42 km/h, gasta aproximadamente\n\n(Use cos 120° = −1/2.)",
+    "alternatives": [
+      {
+        "key": "A",
+        "text": "12,5 min."
+      },
+      {
+        "key": "B",
+        "text": "16,7 min."
+      },
+      {
+        "key": "C",
+        "text": "20 min."
+      },
+      {
+        "key": "D",
+        "text": "22,9 min."
+      },
+      {
+        "key": "E",
+        "text": "5,7 min."
+      }
+    ],
+    "answer": "C",
+    "explanation": "Pela lei dos cossenos no triângulo BPQ: PQ² = 6² + 10² − 2 · 6 · 10 · cos 120° = 36 + 100 − 120 · (−1/2) = 136 + 60 = 196, logo PQ = 14 km. O tempo é t = 14/42 h = 1/3 h = 20 min. Conceito-chave: na lei dos cossenos, o cosseno de um ângulo obtuso é negativo, o que AUMENTA o lado oposto.",
+    "wrong_notes": {
+      "A": "12,5 min vem de usar cos 120° = +1/2: PQ² = 136 − 60 = 76, PQ ≈ 8,7 km; erro de sinal do cosseno no 2º quadrante.",
+      "B": "16,7 min aplica Pitágoras (PQ² = 136, PQ ≈ 11,7 km), como se o ângulo fosse reto.",
+      "D": "22,9 min usa PQ = 16 km (6 + 10), como se P, B e Q estivessem alinhados.",
+      "E": "5,7 min usa PQ = 4 km (10 − 6), outra suposição de alinhamento."
+    },
+    "concept": "Lei dos cossenos: a² = b² + c² − 2bc·cos Â; ângulo obtuso tem cosseno negativo."
+  },
+  {
+    "id": "mat-funcoes-003",
+    "discipline": "matematica",
+    "topic": "funcoes",
+    "subtopic": "função exponencial",
+    "difficulty": 4,
+    "type": "multipla_escolha",
+    "origin": "inedita_ia",
+    "style_ref": "ENEM",
+    "skills": [
+      "função exponencial",
+      "logaritmos",
+      "meia-vida"
+    ],
+    "statement": "A concentração de um antibiótico no sangue, após uma dose intravenosa, decai segundo C(t) = 100 · (1/2)^(t/6), com C em mg/L e t em horas. O antibiótico só é eficaz enquanto C(t) ≥ 15 mg/L, e a próxima dose deve ser dada exatamente quando a concentração atingir esse valor mínimo.\n\nAdote log 2 = 0,30 e log 3 = 0,48.\n\nA próxima dose deve ser administrada aproximadamente quantas horas após a primeira?",
+    "alternatives": [
+      {
+        "key": "A",
+        "text": "2,7 h"
+      },
+      {
+        "key": "B",
+        "text": "12 h"
+      },
+      {
+        "key": "C",
+        "text": "14 h"
+      },
+      {
+        "key": "D",
+        "text": "16,4 h"
+      },
+      {
+        "key": "E",
+        "text": "24 h"
+      }
+    ],
+    "answer": "D",
+    "explanation": "Impõe-se 100 · (1/2)^(t/6) = 15 ⇒ 2^(t/6) = 100/15 = 20/3. Aplicando log: (t/6) · log 2 = log 20 − log 3 = (log 2 + 1) − log 3 = 1,30 − 0,48 = 0,82. Então t/6 = 0,82/0,30 ≈ 2,73 e t ≈ 16,4 h. Checagem: após 12 h (2 meias-vidas) C = 25 mg/L e após 18 h C = 12,5 mg/L; 15 mg/L está entre esses instantes. Conceito-chave: em decaimento exponencial, o tempo até um valor-alvo se obtém aplicando logaritmo à equação.",
+    "wrong_notes": {
+      "A": "2,7 h é o valor de t/6 (número de meias-vidas); faltou multiplicar por 6 h.",
+      "B": "12 h são duas meias-vidas (C = 25 mg/L), ainda acima do mínimo; arredonda sem resolver a equação.",
+      "C": "14 h supõe queda LINEAR de 6 mg/L por hora (85/6 ≈ 14 h), confundindo a meia-vida de 6 h com uma taxa constante.",
+      "E": "24 h equivale a 4 meias-vidas, quando C = 6,25 mg/L, já bem abaixo do mínimo eficaz."
+    },
+    "concept": "Equação exponencial: aplica-se logaritmo para isolar o tempo."
+  },
+  {
+    "id": "mat-combinatoria-002",
+    "discipline": "matematica",
+    "topic": "combinatoria",
+    "subtopic": "permutações",
+    "difficulty": 4,
+    "type": "multipla_escolha",
+    "origin": "inedita_ia",
+    "style_ref": "ENEM",
+    "skills": [
+      "permutações",
+      "contagem com restrição"
+    ],
+    "statement": "Um hospital universitário precisa montar a escala de plantões noturnos de uma semana (segunda a domingo) para 7 residentes, cada um fazendo exatamente um plantão. Por questão de descanso, dois residentes específicos, Ana e Bruno, não podem ficar em noites consecutivas (considere segunda e domingo como NÃO consecutivos).\n\nO número de escalas possíveis é",
+    "alternatives": [
+      {
+        "key": "A",
+        "text": "5 040."
+      },
+      {
+        "key": "B",
+        "text": "3 600."
+      },
+      {
+        "key": "C",
+        "text": "1 440."
+      },
+      {
+        "key": "D",
+        "text": "720."
+      },
+      {
+        "key": "E",
+        "text": "4 320."
+      }
+    ],
+    "answer": "B",
+    "explanation": "Sem restrição, há 7! = 5 040 escalas. Contam-se as proibidas: tratando Ana e Bruno juntos como um 'bloco', há 6 elementos a permutar (6! = 720), e o bloco pode ser AB ou BA (×2), totalizando 1 440 escalas com os dois em noites consecutivas. Logo, escalas permitidas = 5 040 − 1 440 = 3 600. Conceito-chave: para impor que dois elementos NÃO fiquem juntos, calcule o total e subtraia os casos em que ficam juntos (método do bloco).",
+    "wrong_notes": {
+      "A": "5 040 é o total de permutações, ignorando a restrição.",
+      "C": "1 440 é o número de escalas PROIBIDAS (Ana e Bruno juntos), e não as permitidas.",
+      "D": "720 = 6! esquece a troca de ordem do bloco e confunde casos permitidos com proibidos.",
+      "E": "4 320 subtrai apenas 720 (o bloco sem considerar as ordens AB e BA)."
+    },
+    "concept": "Permutação com restrição: total − casos em que os elementos ficam juntos (bloco)."
+  },
+  {
+    "id": "mat-basica-003",
+    "discipline": "matematica",
+    "topic": "basica",
+    "subtopic": "potenciação e radiciação",
+    "difficulty": 4,
+    "type": "multipla_escolha",
+    "origin": "inedita_ia",
+    "style_ref": "ENEM",
+    "skills": [
+      "fórmula com radical",
+      "cálculo de dose",
+      "várias etapas"
+    ],
+    "statement": "Muitos quimioterápicos têm dose calculada pela superfície corporal (SC). Uma fórmula usada para estimá-la é a de Mosteller:\n\nSC (m²) = √( altura (cm) × massa (kg) / 3 600 )\n\nUm paciente de 180 cm e 80 kg deve receber um medicamento na dose de 75 mg por m² de superfície corporal. O medicamento vem em frascos com concentração de 20 mg/mL.\n\nO volume do medicamento a ser aspirado dos frascos para essa dose é",
+    "alternatives": [
+      {
+        "key": "A",
+        "text": "7,5 mL."
+      },
+      {
+        "key": "B",
+        "text": "3,75 mL."
+      },
+      {
+        "key": "C",
+        "text": "15 mL."
+      },
+      {
+        "key": "D",
+        "text": "150 mL."
+      },
+      {
+        "key": "E",
+        "text": "450 mL."
+      }
+    ],
+    "answer": "A",
+    "explanation": "Calcula-se a superfície corporal: 180 × 80 = 14 400; 14 400/3 600 = 4; √4 = 2 m². A dose é 75 mg/m² × 2 m² = 150 mg. Com concentração de 20 mg/mL, o volume é 150/20 = 7,5 mL. Conceito-chave: em fórmulas com várias operações, respeite a ordem (divisão dentro do radical, depois a raiz) e mantenha o controle das unidades (m², mg, mL).",
+    "wrong_notes": {
+      "B": "3,75 mL (75/20) ignora a superfície corporal, como se a dose por m² fosse a dose total.",
+      "C": "15 mL esquece a raiz quadrada (SC = 4 m²), dobrando a dose — erro potencialmente grave.",
+      "D": "150 é a dose em MILIGRAMAS; confunde massa com volume, sem dividir pela concentração.",
+      "E": "450 mL calcula √(180 × 80) = 120 sem dividir por 3 600, gerando uma SC absurda."
+    },
+    "concept": "Dose por superfície corporal: SC pela fórmula, dose = mg/m² × SC, volume = dose ÷ concentração."
+  }
+]

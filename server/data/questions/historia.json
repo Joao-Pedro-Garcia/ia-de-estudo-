@@ -1,0 +1,924 @@
+[
+  {
+    "id": "his-antiguidade-001",
+    "discipline": "historia",
+    "topic": "antiguidade",
+    "subtopic": "Grécia e Roma",
+    "difficulty": 1,
+    "type": "multipla_escolha",
+    "origin": "inedita_ia",
+    "style_ref": "ENEM",
+    "skills": [
+      "interpretação de texto",
+      "análise de conceito histórico"
+    ],
+    "statement": "Um professor apresentou aos alunos a seguinte descrição de uma reunião da Eclésia, a assembleia de Atenas no século V a.C.:\n\n> \"Milhares de homens se reuniam na colina da Pnix para votar leis, decidir sobre a guerra e a paz e escolher magistrados. Cada um podia pedir a palavra. Enquanto isso, nas casas e nas oficinas, mulheres, escravizados e estrangeiros residentes seguiam suas rotinas, sem direito de voto.\"\n\nCom base no texto, a democracia ateniense caracterizava-se por",
+    "alternatives": [
+      {
+        "key": "A",
+        "text": "garantir o voto universal a todos os habitantes da pólis, independentemente de sexo ou origem."
+      },
+      {
+        "key": "B",
+        "text": "permitir a participação direta nas decisões apenas aos considerados cidadãos, grupo restrito a homens adultos livres de origem ateniense."
+      },
+      {
+        "key": "C",
+        "text": "funcionar por meio de representantes eleitos, como os parlamentos modernos."
+      },
+      {
+        "key": "D",
+        "text": "concentrar as decisões políticas nas mãos de um rei hereditário assessorado pela assembleia."
+      },
+      {
+        "key": "E",
+        "text": "incluir os estrangeiros residentes como cidadãos plenos, desde que pagassem impostos."
+      }
+    ],
+    "answer": "B",
+    "explanation": "O texto mostra dois aspectos da democracia ateniense. Primeiro, ela era direta: os próprios cidadãos votavam leis e decisões na assembleia, sem representantes. Segundo, a cidadania era restrita: mulheres, escravizados e estrangeiros residentes (metecos) ficavam excluídos. Assim, apenas uma parcela minoritária da população, os homens adultos livres de origem ateniense, participava das decisões. Conceito-chave: a democracia ateniense era direta, mas excludente.",
+    "wrong_notes": {
+      "A": "Confunde a democracia ateniense com o sufrágio universal moderno; o próprio texto informa que mulheres, escravizados e estrangeiros não votavam.",
+      "C": "Atribui a Atenas o modelo representativo moderno; na Eclésia os cidadãos votavam diretamente.",
+      "D": "Descreve uma monarquia, regime que não corresponde à Atenas democrática do século V a.C.",
+      "E": "Os metecos (estrangeiros residentes) pagavam tributos, mas não tinham direitos políticos; o texto os exclui do voto."
+    },
+    "concept": "Democracia ateniense: participação direta restrita aos cidadãos (homens livres atenienses)."
+  },
+  {
+    "id": "his-antiguidade-002",
+    "discipline": "historia",
+    "topic": "antiguidade",
+    "subtopic": "feudalismo",
+    "difficulty": 2,
+    "type": "multipla_escolha",
+    "origin": "inedita_ia",
+    "style_ref": "ENEM",
+    "skills": [
+      "interpretação de texto",
+      "identificação de relações sociais"
+    ],
+    "statement": "Leia o trecho de um registro senhorial fictício, inspirado em documentos da Europa Ocidental do século XI:\n\n> \"Os camponeses da aldeia trabalharão três dias por semana, sem pagamento, na terra reservada ao senhor, arando, semeando e colhendo. Deverão também entregar parte do que produzem em seus próprios lotes e pagar para usar o moinho e o forno do castelo.\"\n\nA obrigação descrita na primeira frase do trecho corresponde à",
+    "alternatives": [
+      {
+        "key": "A",
+        "text": "talha, entrega de parte da produção do lote camponês ao senhor."
+      },
+      {
+        "key": "B",
+        "text": "banalidade, taxa cobrada pelo uso de instalações do senhorio."
+      },
+      {
+        "key": "C",
+        "text": "vassalagem, juramento de fidelidade militar entre nobres."
+      },
+      {
+        "key": "D",
+        "text": "corveia, prestação de trabalho gratuito nas terras do senhor."
+      },
+      {
+        "key": "E",
+        "text": "dízimo, contribuição destinada à manutenção da Igreja."
+      }
+    ],
+    "answer": "D",
+    "explanation": "O trecho descreve três obrigações servis distintas. A primeira frase trata do trabalho gratuito, alguns dias por semana, no manso senhorial (a terra reservada ao senhor): essa é a corveia. A segunda frase menciona a talha (entrega de parte da produção do lote camponês) e as banalidades (pagamento pelo uso de moinho e forno). Essas obrigações caracterizam a servidão, relação entre senhores e camponeses presos à terra. Conceito-chave: a corveia é o trabalho compulsório e gratuito do servo na reserva senhorial.",
+    "wrong_notes": {
+      "A": "A talha existe no texto, mas está na segunda frase: é entrega de produtos, não prestação de trabalho.",
+      "B": "As banalidades aparecem no final do trecho (moinho e forno), não na primeira frase.",
+      "C": "Vassalagem é relação entre membros da nobreza (suserano e vassalo), não entre senhor e servo.",
+      "E": "O dízimo era pago à Igreja e não é mencionado no trecho."
+    },
+    "concept": "Obrigações servis no feudalismo: corveia, talha e banalidades."
+  },
+  {
+    "id": "his-antiguidade-003",
+    "discipline": "historia",
+    "topic": "antiguidade",
+    "subtopic": "Grécia e Roma",
+    "difficulty": 3,
+    "type": "multipla_escolha",
+    "origin": "inedita_ia",
+    "style_ref": "ENEM",
+    "skills": [
+      "análise de processo histórico",
+      "relação entre direito e poder"
+    ],
+    "statement": "No início da República Romana, as leis eram transmitidas oralmente e interpretadas por magistrados e sacerdotes de origem patrícia. Os plebeus, que lutavam nas legiões e pagavam tributos, queixavam-se de decisões contraditórias em casos de dívidas e propriedade. Após longos conflitos, em meados do século V a.C. foi elaborada a Lei das Doze Tábuas, cujo texto ficou exposto em local público.\n\nA conquista plebeia representada pela Lei das Doze Tábuas tem como principal significado político",
+    "alternatives": [
+      {
+        "key": "A",
+        "text": "a limitação do arbítrio dos patrícios na aplicação da justiça, ao tornar as normas escritas e conhecidas por todos."
+      },
+      {
+        "key": "B",
+        "text": "a abolição imediata da escravidão por dívidas e a igualdade econômica entre patrícios e plebeus."
+      },
+      {
+        "key": "C",
+        "text": "a extinção do Senado e a transferência de todo o poder para as assembleias plebeias."
+      },
+      {
+        "key": "D",
+        "text": "a concessão da cidadania romana a todos os povos conquistados na península Itálica."
+      },
+      {
+        "key": "E",
+        "text": "o fim da República e a instauração de um governo imperial centralizado."
+      }
+    ],
+    "answer": "A",
+    "explanation": "Quando a lei é oral e interpretada apenas por um grupo, quem a aplica pode decidir conforme seus interesses. Ao registrar as normas por escrito e expô-las publicamente, as Doze Tábuas permitiram que os plebeus conhecessem as regras e contestassem decisões arbitrárias. Isso não eliminou a desigualdade entre patrícios e plebeus, mas foi uma etapa importante nas lutas plebeias, que incluíram também a criação do tribunato da plebe. Conceito-chave: a lei escrita e pública limita o poder de quem a interpreta.",
+    "wrong_notes": {
+      "B": "Superestima a conquista: a codificação não produziu igualdade econômica, e a abolição da escravidão por dívidas em Roma veio depois, por outra lei.",
+      "C": "O Senado continuou a existir durante toda a República; a lei não alterou a estrutura institucional dessa forma.",
+      "D": "A extensão da cidadania aos povos itálicos ocorreu séculos depois, em outro contexto.",
+      "E": "Anacronismo: o Império só surgiria no século I a.C., e não como consequência das Doze Tábuas."
+    },
+    "concept": "Codificação das leis (Doze Tábuas) como conquista plebeia contra o arbítrio patrício."
+  },
+  {
+    "id": "his-moderna-001",
+    "discipline": "historia",
+    "topic": "moderna",
+    "subtopic": "Renascimento e Reformas",
+    "difficulty": 2,
+    "type": "multipla_escolha",
+    "origin": "inedita_ia",
+    "style_ref": "ENEM",
+    "skills": [
+      "interpretação de texto",
+      "contextualização histórica"
+    ],
+    "statement": "Em 1517, o monge Martinho Lutero divulgou na Alemanha um conjunto de 95 teses. Um dos argumentos centrais pode ser resumido assim:\n\n> \"O perdão dos pecados não se compra com moedas. O cristão verdadeiramente arrependido recebe a graça de Deus pela fé, e não por certificados vendidos por pregadores.\"\n\nA crítica sintetizada no texto dirigia-se",
+    "alternatives": [
+      {
+        "key": "A",
+        "text": "à defesa feita pela Igreja da autonomia da ciência em relação à fé."
+      },
+      {
+        "key": "B",
+        "text": "ao poder dos reis absolutistas de nomear bispos e cobrar impostos do clero."
+      },
+      {
+        "key": "C",
+        "text": "à comercialização de indulgências pela Igreja, contrapondo a ela a salvação pela fé."
+      },
+      {
+        "key": "D",
+        "text": "à tradução da Bíblia para as línguas nacionais, que Lutero considerava perigosa."
+      },
+      {
+        "key": "E",
+        "text": "ao celibato clerical, considerado por Lutero a principal causa da corrupção na Igreja."
+      }
+    ],
+    "answer": "C",
+    "explanation": "As indulgências eram documentos que prometiam a remissão de penas pelos pecados e passaram a ser vendidas para financiar obras da Igreja. O texto opõe o perdão comprado com dinheiro à graça recebida pela fé, ideia central da teologia luterana (salvação pela fé). A crítica à venda de indulgências foi o ponto de partida da Reforma Protestante. Conceito-chave: a Reforma luterana começou pela crítica às indulgências e pela doutrina da salvação pela fé.",
+    "wrong_notes": {
+      "A": "O texto não trata de ciência; além disso, a Igreja não defendia uma autonomia da ciência nesse período.",
+      "B": "Relações entre reis e clero foram relevantes no período, mas não são o tema do trecho, que fala de certificados de perdão vendidos.",
+      "D": "Inverte a posição de Lutero: ele próprio traduziu a Bíblia para o alemão, defendendo a leitura direta das Escrituras.",
+      "E": "Lutero de fato criticou o celibato, mas o trecho trata de dinheiro e perdão, isto é, das indulgências."
+    },
+    "concept": "Reforma Protestante: crítica às indulgências e salvação pela fé."
+  },
+  {
+    "id": "his-moderna-002",
+    "discipline": "historia",
+    "topic": "moderna",
+    "subtopic": "Iluminismo",
+    "difficulty": 3,
+    "type": "multipla_escolha",
+    "origin": "inedita_ia",
+    "style_ref": "ENEM",
+    "skills": [
+      "interpretação de texto filosófico-político",
+      "relação entre ideias e contexto"
+    ],
+    "statement": "Em *O Espírito das Leis* (1748), Montesquieu desenvolve um argumento que pode ser parafraseado assim:\n\n> \"Todo homem que tem poder tende a abusar dele. Para que não se possa abusar do poder, é preciso que, pela disposição das coisas, o poder freie o poder. Tudo estaria perdido se o mesmo homem ou o mesmo corpo exercesse os poderes de fazer as leis, de executá-las e de julgar.\"\n\nNo contexto da Europa do século XVIII, essa proposta tinha como alvo principal",
+    "alternatives": [
+      {
+        "key": "A",
+        "text": "a fragmentação política feudal, que impedia a formação de Estados nacionais fortes."
+      },
+      {
+        "key": "B",
+        "text": "o poder da burguesia mercantil, que controlava os parlamentos europeus."
+      },
+      {
+        "key": "C",
+        "text": "a democracia direta das cidades italianas, considerada instável pelo autor."
+      },
+      {
+        "key": "D",
+        "text": "a separação entre Igreja e Estado, que Montesquieu desejava revogar."
+      },
+      {
+        "key": "E",
+        "text": "o absolutismo monárquico, no qual o rei concentrava as funções de legislar, executar e julgar."
+      }
+    ],
+    "answer": "E",
+    "explanation": "O argumento parte da ideia de que o poder concentrado leva ao abuso e propõe distribuí-lo entre órgãos distintos (legislar, executar e julgar), que se controlam mutuamente. Na Europa do século XVIII, o modelo predominante de concentração era o absolutismo, em que o monarca reunia essas funções. Por isso a tripartição dos poderes é uma crítica iluminista ao absolutismo e influenciou constituições posteriores, como a dos Estados Unidos e as brasileiras. Conceito-chave: a separação dos poderes busca impedir o abuso por meio de freios e contrapesos.",
+    "wrong_notes": {
+      "A": "O texto não defende a centralização; ao contrário, propõe dividir o poder. Além disso, o feudalismo já não era o modelo político dominante no século XVIII.",
+      "B": "Montesquieu não ataca a burguesia; suas ideias foram, inclusive, apropriadas por grupos burgueses contra o absolutismo.",
+      "C": "O alvo não é uma democracia direta, mas a concentração das três funções em um só homem ou corpo.",
+      "D": "Não há no trecho nenhuma referência à relação entre Igreja e Estado."
+    },
+    "concept": "Tripartição dos poderes (Montesquieu) como crítica ao absolutismo."
+  },
+  {
+    "id": "his-moderna-003",
+    "discipline": "historia",
+    "topic": "moderna",
+    "subtopic": "Revolução Francesa e Industrial",
+    "difficulty": 4,
+    "type": "multipla_escolha",
+    "origin": "inedita_ia",
+    "style_ref": "ENEM",
+    "skills": [
+      "análise de dados",
+      "relação entre urbanização e saúde",
+      "interdisciplinaridade"
+    ],
+    "statement": "Em meados do século XIX, Londres crescia rapidamente com a industrialização. Muitos trabalhadores viviam em cortiços sem esgoto, e a água era retirada de bombas públicas. Em 1854, durante um surto de cólera, o médico John Snow registrou as mortes em um mapa do bairro do Soho. A tabela resume, de forma ilustrativa, o tipo de dado que ele analisou:\n\n| Grupo de moradores | Fonte de água usada | Mortes por cólera |\n|---|---|---|\n| Casas próximas à bomba da Broad Street | Bomba da Broad Street | muito elevadas |\n| Operários de uma cervejaria vizinha | Água do poço da própria cervejaria | quase nenhuma |\n| Moradores mais distantes que buscavam água na Broad Street | Bomba da Broad Street | elevadas |\n\nNa época, muitos médicos acreditavam que a cólera se transmitia por \"miasmas\", isto é, pelo ar contaminado. A interpretação dos dados e o contexto histórico permitem concluir que",
+    "alternatives": [
+      {
+        "key": "A",
+        "text": "a hipótese dos miasmas foi confirmada, pois os operários da cervejaria respiravam o mesmo ar do bairro e adoeciam com a mesma frequência."
+      },
+      {
+        "key": "B",
+        "text": "o risco de morte estava associado à fonte de água, e não apenas à proximidade física, o que indicava a importância do saneamento nas cidades industriais."
+      },
+      {
+        "key": "C",
+        "text": "a cólera era uma doença exclusiva das fábricas, já que os operários eram os mais atingidos."
+      },
+      {
+        "key": "D",
+        "text": "a industrialização eliminou as epidemias urbanas, pois concentrou a população em bairros planejados."
+      },
+      {
+        "key": "E",
+        "text": "o surto foi provocado pela poluição do ar das chaminés, principal problema sanitário das cidades industriais."
+      }
+    ],
+    "answer": "B",
+    "explanation": "Os operários da cervejaria moravam no mesmo bairro, ou seja, respiravam o mesmo ar, mas usavam outra fonte de água e quase não morreram. Já moradores distantes que buscavam água na Broad Street adoeceram. O fator comum entre os doentes é a água, não o ar, o que enfraquecia a teoria miasmática. Historicamente, o caso mostra como a urbanização acelerada da Revolução Industrial, sem infraestrutura sanitária, favoreceu epidemias, e como a análise de dados ajudou a fundar a epidemiologia moderna. Conceito-chave: a cólera é de transmissão hídrica e o saneamento é central para a saúde urbana.",
+    "wrong_notes": {
+      "A": "Inverte os dados: os operários da cervejaria respiravam o mesmo ar e quase não adoeceram, o que contraria a hipótese dos miasmas.",
+      "C": "Os operários da cervejaria foram justamente os menos atingidos; o que importava era a fonte de água, não o trabalho fabril.",
+      "D": "Contraria o contexto: os bairros operários eram adensados e sem planejamento, o que favorecia epidemias.",
+      "E": "Confunde poluição atmosférica, problema real da época, com a causa da cólera, que os dados associam à água."
+    },
+    "concept": "Urbanização industrial, saneamento e transmissão hídrica da cólera (John Snow, 1854)."
+  },
+  {
+    "id": "his-contemporanea-001",
+    "discipline": "historia",
+    "topic": "contemporanea",
+    "subtopic": "Guerra Fria",
+    "difficulty": 1,
+    "type": "multipla_escolha",
+    "origin": "inedita_ia",
+    "style_ref": "ENEM",
+    "skills": [
+      "interpretação de texto",
+      "conceituação histórica"
+    ],
+    "statement": "Entre 1947 e 1991, Estados Unidos e União Soviética disputaram influência no mundo. Construíram arsenais nucleares, apoiaram lados opostos em conflitos na Coreia, no Vietnã e no Afeganistão e competiram na corrida espacial. Apesar da tensão, as duas superpotências nunca entraram em guerra direta uma contra a outra.\n\nO período descrito ficou conhecido como Guerra Fria porque",
+    "alternatives": [
+      {
+        "key": "A",
+        "text": "houve uma disputa político-ideológica entre capitalismo e socialismo sem confronto militar direto entre as superpotências."
+      },
+      {
+        "key": "B",
+        "text": "os combates ocorreram principalmente nas regiões polares do planeta."
+      },
+      {
+        "key": "C",
+        "text": "as duas superpotências lutaram juntas contra a Alemanha nazista durante todo o período."
+      },
+      {
+        "key": "D",
+        "text": "o conflito terminou rapidamente, sem afetar outros países."
+      },
+      {
+        "key": "E",
+        "text": "a União Soviética e os Estados Unidos dividiram pacificamente o mundo, sem rivalidade."
+      }
+    ],
+    "answer": "A",
+    "explanation": "O texto descreve uma rivalidade intensa (armas nucleares, guerras indiretas, corrida espacial) entre dois blocos com modelos opostos: capitalismo, liderado pelos EUA, e socialismo, liderado pela URSS. O termo \"fria\" indica que não houve guerra direta entre as superpotências; os confrontos armados ocorreram em outros países, por meio de aliados. Conceito-chave: a Guerra Fria foi uma disputa bipolar sem confronto direto entre EUA e URSS.",
+    "wrong_notes": {
+      "B": "Interpretação literal do termo \"fria\"; o nome se refere à ausência de guerra direta, não ao clima.",
+      "C": "Confunde com a Segunda Guerra Mundial, quando EUA e URSS foram aliados; a Guerra Fria começou depois dela.",
+      "D": "O texto mostra que o período durou décadas e envolveu conflitos em vários países.",
+      "E": "Contradiz o texto, que destaca a rivalidade e a corrida armamentista."
+    },
+    "concept": "Guerra Fria: bipolaridade ideológica sem confronto direto entre superpotências."
+  },
+  {
+    "id": "his-contemporanea-002",
+    "discipline": "historia",
+    "topic": "contemporanea",
+    "subtopic": "Imperialismo",
+    "difficulty": 2,
+    "type": "multipla_escolha",
+    "origin": "inedita_ia",
+    "style_ref": "ENEM",
+    "skills": [
+      "análise de mapa descrito",
+      "relação passado-presente"
+    ],
+    "statement": "Na Conferência de Berlim (1884-1885), potências europeias estabeleceram regras para a ocupação do continente africano. Nas décadas seguintes, a África foi dividida em colônias com fronteiras muitas vezes traçadas em linha reta sobre mapas, cortando territórios de povos que compartilhavam língua e costumes e reunindo, sob uma mesma administração, grupos rivais.\n\nUm efeito duradouro desse processo, perceptível em muitos Estados africanos independentes, é",
+    "alternatives": [
+      {
+        "key": "A",
+        "text": "a homogeneidade étnica e linguística dos Estados criados após a descolonização."
+      },
+      {
+        "key": "B",
+        "text": "a ausência de disputas de fronteira, já que os limites foram definidos por acordo internacional."
+      },
+      {
+        "key": "C",
+        "text": "a manutenção, pelos africanos, das fronteiras que existiam antes da chegada dos europeus."
+      },
+      {
+        "key": "D",
+        "text": "a rápida industrialização promovida pelas metrópoles para integrar as colônias ao mercado mundial."
+      },
+      {
+        "key": "E",
+        "text": "a existência de fronteiras artificiais que contribuíram para tensões internas e conflitos entre grupos."
+      }
+    ],
+    "answer": "E",
+    "explanation": "O texto destaca que as fronteiras coloniais foram traçadas segundo interesses europeus, desconsiderando a distribuição dos povos africanos. Na independência, a maioria dos novos Estados manteve essas fronteiras, herdando divisões de grupos aparentados e a reunião forçada de grupos rivais. Isso contribuiu para tensões políticas, guerras civis e disputas territoriais. Conceito-chave: a partilha imperialista criou fronteiras artificiais com efeitos até hoje.",
+    "wrong_notes": {
+      "A": "O texto afirma o contrário: as colônias reuniram povos diversos e separaram grupos aparentados.",
+      "B": "O acordo entre europeus não considerou os africanos; por isso as fronteiras foram fonte de disputas, não de estabilidade.",
+      "C": "Os Estados independentes, em geral, mantiveram as fronteiras coloniais, e não as anteriores à colonização.",
+      "D": "As colônias foram integradas principalmente como fornecedoras de matérias-primas; não houve industrialização ampla promovida pelas metrópoles."
+    },
+    "concept": "Partilha da África e fronteiras artificiais."
+  },
+  {
+    "id": "his-contemporanea-003",
+    "discipline": "historia",
+    "topic": "contemporanea",
+    "subtopic": "descolonização",
+    "difficulty": 3,
+    "type": "multipla_escolha",
+    "origin": "inedita_ia",
+    "style_ref": "ENEM",
+    "skills": [
+      "interpretação de texto",
+      "contextualização histórica"
+    ],
+    "statement": "Em 1955, representantes de países asiáticos e africanos, muitos recém-independentes, reuniram-se em Bandung, na Indonésia. Um comunicado da conferência poderia ser resumido assim:\n\n> \"Condenamos o colonialismo em todas as suas formas. Defendemos o direito dos povos à autodeterminação, a cooperação entre nações da Ásia e da África e a não submissão de nossos países a alianças militares que sirvam aos interesses particulares de qualquer grande potência.\"\n\nConsiderando o contexto internacional da época, a conferência expressava",
+    "alternatives": [
+      {
+        "key": "A",
+        "text": "o alinhamento automático dos países afro-asiáticos ao bloco socialista liderado pela União Soviética."
+      },
+      {
+        "key": "B",
+        "text": "o apoio dos novos países à manutenção dos impérios coloniais em troca de ajuda econômica."
+      },
+      {
+        "key": "C",
+        "text": "a adesão coletiva dos participantes à Organização do Tratado do Atlântico Norte (OTAN)."
+      },
+      {
+        "key": "D",
+        "text": "a busca de uma posição própria, anticolonial e não alinhada às superpotências da Guerra Fria."
+      },
+      {
+        "key": "E",
+        "text": "a proposta de formar um único Estado afro-asiático para substituir as antigas metrópoles."
+      }
+    ],
+    "answer": "D",
+    "explanation": "O texto reúne dois elementos: a condenação do colonialismo e a recusa de alianças militares que sirvam às grandes potências. No contexto da Guerra Fria, isso significa recusar o alinhamento automático tanto aos EUA quanto à URSS. A Conferência de Bandung é considerada um marco da descolonização e das ideias que levaram ao Movimento dos Países Não Alinhados. Conceito-chave: Bandung expressou o anticolonialismo e o não alinhamento do chamado Terceiro Mundo.",
+    "wrong_notes": {
+      "A": "O texto rejeita a submissão a qualquer grande potência, o que inclui a URSS.",
+      "B": "Contradiz o texto, que condena o colonialismo em todas as formas.",
+      "C": "A OTAN é uma aliança militar liderada pelos EUA; o texto recusa justamente esse tipo de alinhamento.",
+      "E": "O texto fala em cooperação entre nações soberanas e em autodeterminação, não em unificação política."
+    },
+    "concept": "Conferência de Bandung: anticolonialismo e não alinhamento."
+  },
+  {
+    "id": "his-contemporanea-004",
+    "discipline": "historia",
+    "topic": "contemporanea",
+    "subtopic": "Guerras Mundiais",
+    "difficulty": 4,
+    "type": "multipla_escolha",
+    "origin": "inedita_ia",
+    "style_ref": "ENEM",
+    "skills": [
+      "relação entre história e ética médica",
+      "interpretação de documento"
+    ],
+    "statement": "Após a Segunda Guerra Mundial, médicos alemães foram julgados em Nuremberg por experimentos realizados em prisioneiros de campos de concentração, sem consentimento e com grande sofrimento. Em 1947, a sentença apresentou um conjunto de princípios para pesquisas com seres humanos, conhecido como Código de Nuremberg. Seu primeiro princípio pode ser parafraseado assim:\n\n> \"O consentimento voluntário do participante é absolutamente essencial. A pessoa deve ter capacidade legal de consentir, estar livre de coação e conhecer a natureza, a duração, os riscos e os objetivos do experimento.\"\n\nAo relacionar o documento ao seu contexto, conclui-se que ele",
+    "alternatives": [
+      {
+        "key": "A",
+        "text": "autorizava pesquisas sem consentimento quando realizadas em tempo de guerra e para fins militares."
+      },
+      {
+        "key": "B",
+        "text": "transferia aos governos nacionais a decisão sobre quem deveria participar de experimentos científicos."
+      },
+      {
+        "key": "C",
+        "text": "estabeleceu a autonomia e a proteção do participante como reação direta a abusos cometidos por médicos durante o nazismo."
+      },
+      {
+        "key": "D",
+        "text": "considerava suficiente a autorização do diretor da instituição onde a pesquisa fosse realizada."
+      },
+      {
+        "key": "E",
+        "text": "proibia definitivamente qualquer pesquisa médica com seres humanos."
+      }
+    ],
+    "answer": "C",
+    "explanation": "Os experimentos nazistas foram feitos com pessoas privadas de liberdade, sem consentimento, e muitas vezes resultaram em morte ou mutilação. O Código de Nuremberg reagiu a esses crimes colocando o consentimento livre e informado do participante como condição essencial. A pesquisa continua permitida, mas subordinada à vontade e à proteção do indivíduo. Esse princípio é a base das normas atuais de ética em pesquisa, como o Termo de Consentimento Livre e Esclarecido. Conceito-chave: o consentimento voluntário e informado surgiu como resposta aos abusos da medicina nazista.",
+    "wrong_notes": {
+      "A": "Inverte o sentido do documento, que surgiu justamente para condenar experimentos forçados em contexto de guerra.",
+      "B": "O texto atribui a decisão ao próprio participante, não ao governo; a submissão ao Estado foi parte do problema no nazismo.",
+      "D": "A autorização institucional não substitui o consentimento individual, que o texto chama de \"absolutamente essencial\".",
+      "E": "Exagero: o código regula as pesquisas, estabelecendo condições, mas não as proíbe."
+    },
+    "concept": "Código de Nuremberg (1947): consentimento voluntário como resposta aos crimes médicos nazistas."
+  },
+  {
+    "id": "his-brasil_colonia-001",
+    "discipline": "historia",
+    "topic": "brasil_colonia",
+    "subtopic": "colonização e economia açucareira",
+    "difficulty": 1,
+    "type": "multipla_escolha",
+    "origin": "inedita_ia",
+    "style_ref": "ENEM",
+    "skills": [
+      "identificação de características econômicas",
+      "interpretação de texto"
+    ],
+    "statement": "Em um engenho de açúcar de Pernambuco no século XVII, grandes extensões de terra eram ocupadas por canaviais. O trabalho era realizado majoritariamente por africanos escravizados, e quase todo o açúcar produzido seguia em navios para a Europa.\n\nAs características descritas correspondem ao sistema de",
+    "alternatives": [
+      {
+        "key": "A",
+        "text": "pequenas propriedades familiares voltadas à subsistência."
+      },
+      {
+        "key": "B",
+        "text": "economia industrial baseada no trabalho assalariado."
+      },
+      {
+        "key": "C",
+        "text": "agricultura diversificada destinada ao mercado interno."
+      },
+      {
+        "key": "D",
+        "text": "mineração de ouro e diamantes com mão de obra livre."
+      },
+      {
+        "key": "E",
+        "text": "plantation, com latifúndio, monocultura, trabalho escravo e produção para exportação."
+      }
+    ],
+    "answer": "E",
+    "explanation": "O texto reúne quatro elementos: grandes extensões de terra (latifúndio), cultivo de um único produto (monocultura de cana), trabalho de africanos escravizados e produção destinada ao mercado europeu (exportação). Essa combinação define a plantation, modelo central da colonização portuguesa no litoral nordestino. Conceito-chave: plantation = latifúndio + monocultura + escravidão + exportação.",
+    "wrong_notes": {
+      "A": "O texto descreve grandes propriedades e produção para exportação, o oposto de pequena produção de subsistência.",
+      "B": "Não havia indústria nem predomínio de trabalho assalariado; o trabalho era escravo.",
+      "C": "A produção era monocultora e voltada à Europa, não diversificada para o mercado interno.",
+      "D": "A mineração se desenvolveu sobretudo no século XVIII, e o texto trata de cana-de-açúcar."
+    },
+    "concept": "Plantation açucareira colonial."
+  },
+  {
+    "id": "his-brasil_colonia-002",
+    "discipline": "historia",
+    "topic": "brasil_colonia",
+    "subtopic": "escravidão e resistência",
+    "difficulty": 2,
+    "type": "multipla_escolha",
+    "origin": "inedita_ia",
+    "style_ref": "ENEM",
+    "skills": [
+      "interpretação de texto",
+      "crítica a visões historiográficas"
+    ],
+    "statement": "Durante grande parte do século XVII, na Serra da Barriga, no atual estado de Alagoas, existiu o Quilombo dos Palmares, formado por diversos mocambos que reuniram milhares de pessoas. Seus habitantes plantavam, comerciavam com povoados vizinhos e se defenderam de várias expedições militares. Zumbi, uma de suas principais lideranças, foi morto em 20 de novembro de 1695, data hoje lembrada como Dia Nacional de Zumbi e da Consciência Negra.\n\nA trajetória de Palmares contraria a ideia de que",
+    "alternatives": [
+      {
+        "key": "A",
+        "text": "os quilombos eram comunidades organizadas, com produção própria e capacidade de defesa."
+      },
+      {
+        "key": "B",
+        "text": "os africanos escravizados aceitaram passivamente a escravidão."
+      },
+      {
+        "key": "C",
+        "text": "a resistência à escravidão envolveu formas coletivas de organização."
+      },
+      {
+        "key": "D",
+        "text": "a escravidão colonial foi marcada por conflitos violentos."
+      },
+      {
+        "key": "E",
+        "text": "a memória da resistência negra é valorizada no Brasil atual."
+      }
+    ],
+    "answer": "B",
+    "explanation": "O texto mostra que os habitantes de Palmares fugiram do cativeiro, organizaram produção, comércio e defesa e resistiram por décadas a ataques. Isso desmente a visão, durante muito tempo difundida, de que os escravizados teriam sido passivos diante da escravidão. As demais alternativas são confirmadas pelo texto, e não contrariadas. Conceito-chave: os quilombos foram formas ativas de resistência à escravidão.",
+    "wrong_notes": {
+      "A": "Essa ideia é confirmada pelo texto (plantio, comércio, defesa), e não contrariada.",
+      "C": "Palmares é exemplo de resistência coletiva; o texto confirma essa afirmação.",
+      "D": "As expedições militares contra Palmares confirmam que houve conflitos violentos.",
+      "E": "A data de 20 de novembro mostra que a memória de Zumbi é valorizada hoje; o texto confirma essa ideia."
+    },
+    "concept": "Quilombos como resistência ativa à escravidão."
+  },
+  {
+    "id": "his-brasil_colonia-003",
+    "discipline": "historia",
+    "topic": "brasil_colonia",
+    "subtopic": "mineração",
+    "difficulty": 3,
+    "type": "multipla_escolha",
+    "origin": "inedita_ia",
+    "style_ref": "ENEM",
+    "skills": [
+      "análise de transformações espaciais",
+      "relação causa-consequência"
+    ],
+    "statement": "Ao longo do século XVIII, a descoberta de ouro em Minas Gerais, Goiás e Mato Grosso atraiu milhares de pessoas para o interior da colônia. Surgiram arraiais e vilas, como Vila Rica, em Minas, e núcleos no norte da então capitania de Goiás, como Natividade, hoje no Tocantins. Em 1763, a capital do Estado do Brasil foi transferida de Salvador para o Rio de Janeiro.\n\nEntre as transformações provocadas pela economia mineradora, destaca-se",
+    "alternatives": [
+      {
+        "key": "A",
+        "text": "o abandono definitivo da produção açucareira no Nordeste, que deixou de exportar."
+      },
+      {
+        "key": "B",
+        "text": "a substituição completa do trabalho escravo pelo trabalho livre nas minas."
+      },
+      {
+        "key": "C",
+        "text": "a interiorização do povoamento e o deslocamento do eixo econômico e administrativo para o Centro-Sul."
+      },
+      {
+        "key": "D",
+        "text": "a redução do controle fiscal da Coroa portuguesa sobre a colônia."
+      },
+      {
+        "key": "E",
+        "text": "a ruralização da sociedade colonial, com o desaparecimento das vilas."
+      }
+    ],
+    "answer": "C",
+    "explanation": "A mineração levou população para o interior, onde surgiram núcleos urbanos ligados ao ouro, inclusive em áreas do atual Tocantins. O porto do Rio de Janeiro tornou-se a principal saída do ouro e via de abastecimento das minas, o que ajuda a explicar a transferência da capital em 1763. Ao mesmo tempo, a Coroa ampliou a fiscalização (cobrança do quinto, casas de fundição). Conceito-chave: a mineração interiorizou o povoamento, estimulou a urbanização e deslocou o centro econômico e político para o Centro-Sul.",
+    "wrong_notes": {
+      "A": "O açúcar perdeu importância relativa, mas continuou a ser produzido e exportado; não houve abandono definitivo.",
+      "B": "A mão de obra escravizada africana continuou predominante nas minas.",
+      "D": "Ocorreu o oposto: a Coroa intensificou a fiscalização e a cobrança de tributos, como o quinto.",
+      "E": "A mineração estimulou a formação de vilas e cidades, ou seja, urbanização, não ruralização."
+    },
+    "concept": "Mineração do século XVIII: interiorização, urbanização e deslocamento do eixo para o Centro-Sul."
+  },
+  {
+    "id": "his-brasil_colonia-004",
+    "discipline": "historia",
+    "topic": "brasil_colonia",
+    "subtopic": "revoltas coloniais",
+    "difficulty": 4,
+    "type": "multipla_escolha",
+    "origin": "inedita_ia",
+    "style_ref": "ENEM",
+    "skills": [
+      "comparação de fontes",
+      "análise de composição social"
+    ],
+    "statement": "Compare dois movimentos do final do século XVIII:\n\n**Texto I.** Em Minas Gerais (1789), o movimento reuniu sobretudo proprietários, padres, militares, letrados e devedores da Coroa, preocupados com a cobrança da derrama. Seus planos incluíam a separação de Portugal e a criação de uma república, mas não havia consenso sobre o fim da escravidão.\n\n**Texto II.** Na Bahia (1798), panfletos afixados em Salvador convocavam o \"povo bahiense\" a uma república em que todos fossem iguais. Entre os presos e condenados havia alfaiates, soldados e artesãos, muitos deles negros e mulatos, livres, libertos ou escravizados.\n\nCom base nos textos, a diferença fundamental entre os dois movimentos está no fato de que",
+    "alternatives": [
+      {
+        "key": "A",
+        "text": "apenas o movimento mineiro defendia a independência em relação a Portugal."
+      },
+      {
+        "key": "B",
+        "text": "o movimento baiano era formado exclusivamente por grandes proprietários de engenho."
+      },
+      {
+        "key": "C",
+        "text": "o movimento mineiro foi o único inspirado em ideias iluministas e republicanas."
+      },
+      {
+        "key": "D",
+        "text": "o movimento baiano teve participação popular mais ampla e incorporou reivindicações de igualdade social e racial."
+      },
+      {
+        "key": "E",
+        "text": "ambos foram vitoriosos e conseguiram implantar governos republicanos temporários."
+      }
+    ],
+    "answer": "D",
+    "explanation": "Os dois movimentos tinham projeto republicano e de separação de Portugal, inspirados no Iluminismo. A diferença está na composição social e nas propostas: em Minas predominavam membros da elite, sem consenso sobre a escravidão; na Bahia participaram camadas populares, incluindo negros e mulatos livres, libertos e escravizados, com reivindicações de igualdade. Por isso a Conjuração Baiana é considerada o movimento colonial de maior caráter popular e social. Conceito-chave: a Conjuração Baiana diferenciou-se pela base popular e pelas propostas de igualdade.",
+    "wrong_notes": {
+      "A": "O texto II fala em república para o \"povo bahiense\", o que implica ruptura com Portugal; ambos defendiam a separação.",
+      "B": "O texto II cita alfaiates, soldados e artesãos, não grandes senhores de engenho.",
+      "C": "Os dois movimentos tinham ideias republicanas de inspiração iluminista; isso não é o que os diferencia.",
+      "E": "Ambos foram reprimidos antes de tomar o poder; nenhum implantou governo."
+    },
+    "concept": "Inconfidência Mineira x Conjuração Baiana: composição social e propostas."
+  },
+  {
+    "id": "his-brasil_imperio-001",
+    "discipline": "historia",
+    "topic": "brasil_imperio",
+    "subtopic": "independência",
+    "difficulty": 1,
+    "type": "multipla_escolha",
+    "origin": "inedita_ia",
+    "style_ref": "ENEM",
+    "skills": [
+      "interpretação de texto",
+      "análise de continuidades"
+    ],
+    "statement": "Após a declaração de independência em 1822, o Brasil passou a ser governado por D. Pedro I, filho do rei de Portugal. A escravidão foi mantida, a grande propriedade rural continuou sendo a base da economia, e o território das antigas capitanias permaneceu unido sob um único governo.\n\nA partir do texto, é correto afirmar que a independência do Brasil",
+    "alternatives": [
+      {
+        "key": "A",
+        "text": "rompeu politicamente com Portugal, mas manteve estruturas sociais e econômicas do período colonial, como a escravidão."
+      },
+      {
+        "key": "B",
+        "text": "instaurou uma república federativa inspirada nos Estados Unidos."
+      },
+      {
+        "key": "C",
+        "text": "foi conduzida pelos escravizados, que conquistaram a liberdade em 1822."
+      },
+      {
+        "key": "D",
+        "text": "fragmentou o território em diversas repúblicas independentes, como ocorreu na América espanhola."
+      },
+      {
+        "key": "E",
+        "text": "promoveu imediatamente a reforma agrária e a distribuição de terras."
+      }
+    ],
+    "answer": "A",
+    "explanation": "O texto mostra uma ruptura política (o Brasil deixa de ser subordinado a Portugal) acompanhada de várias continuidades: monarquia sob um membro da dinastia portuguesa, escravidão, grande propriedade e unidade territorial. Por isso, a independência é frequentemente descrita como conduzida pelas elites e conservadora do ponto de vista social. Conceito-chave: a independência brasileira combinou ruptura política com permanência das estruturas coloniais.",
+    "wrong_notes": {
+      "B": "O Brasil tornou-se uma monarquia (Império), não uma república; a República só viria em 1889.",
+      "C": "O texto afirma que a escravidão foi mantida; a abolição só ocorreu em 1888.",
+      "D": "O texto diz que o território permaneceu unido, ao contrário da América espanhola.",
+      "E": "A grande propriedade foi mantida; não houve reforma agrária."
+    },
+    "concept": "Independência: ruptura política com continuidade social (monarquia, escravidão, latifúndio)."
+  },
+  {
+    "id": "his-brasil_imperio-002",
+    "discipline": "historia",
+    "topic": "brasil_imperio",
+    "subtopic": "Balaiada (Maranhão)",
+    "difficulty": 2,
+    "type": "multipla_escolha",
+    "origin": "inedita_ia",
+    "style_ref": "ENEM",
+    "skills": [
+      "análise de composição social",
+      "contextualização no Período Regencial"
+    ],
+    "statement": "Entre 1838 e 1841, o Maranhão foi palco da Balaiada. Entre suas lideranças estavam o vaqueiro Raimundo Gomes, o artesão Manuel Francisco dos Anjos Ferreira, apelidado de \"Balaio\" por fazer cestos, e Cosme Bento das Chagas, conhecido como Negro Cosme, que chefiou milhares de escravizados aquilombados. O movimento foi reprimido por tropas comandadas por Luís Alves de Lima e Silva, que depois receberia o título de Duque de Caxias.\n\nConsiderando o texto e o contexto do Período Regencial, a Balaiada caracterizou-se como uma revolta",
+    "alternatives": [
+      {
+        "key": "A",
+        "text": "organizada pela elite agrária maranhense para separar a província do Império e criar uma monarquia própria."
+      },
+      {
+        "key": "B",
+        "text": "de caráter religioso, liderada por um beato que prometia a salvação aos fiéis."
+      },
+      {
+        "key": "C",
+        "text": "dos estancieiros do sul contra os impostos cobrados sobre o charque."
+      },
+      {
+        "key": "D",
+        "text": "promovida por militares de alta patente para restaurar D. Pedro I no trono."
+      },
+      {
+        "key": "E",
+        "text": "com forte participação popular (vaqueiros, artesãos, sertanejos pobres e escravizados), em meio à instabilidade política das Regências."
+      }
+    ],
+    "answer": "E",
+    "explanation": "As lideranças citadas no texto são um vaqueiro, um artesão e um líder de escravizados aquilombados, o que mostra a base popular do movimento. A revolta ocorreu no Período Regencial (1831-1840), marcado por disputas entre grupos políticos e por várias rebeliões provinciais. A participação de escravizados liderados por Negro Cosme assustou as elites, que se uniram à repressão comandada por Lima e Silva. Conceito-chave: a Balaiada foi uma revolta regencial de forte composição popular no Maranhão.",
+    "wrong_notes": {
+      "A": "O texto apresenta lideranças populares, e não a elite agrária; além disso, não há referência a um projeto de monarquia própria.",
+      "B": "Descreve um movimento messiânico, como Canudos, ocorrido em outro período e região.",
+      "C": "Descreve a Revolução Farroupilha, no Rio Grande do Sul, outra revolta do Período Regencial.",
+      "D": "Nada no texto indica oficiais de alta patente ou projeto de restauração; as lideranças eram populares."
+    },
+    "concept": "Balaiada (1838-1841): revolta regencial de base popular no Maranhão."
+  },
+  {
+    "id": "his-brasil_imperio-003",
+    "discipline": "historia",
+    "topic": "brasil_imperio",
+    "subtopic": "Segundo Reinado e abolição",
+    "difficulty": 3,
+    "type": "multipla_escolha",
+    "origin": "inedita_ia",
+    "style_ref": "ENEM",
+    "skills": [
+      "análise de cronologia",
+      "interpretação de processo histórico"
+    ],
+    "statement": "Observe a sequência de leis aprovadas no Brasil durante o Segundo Reinado:\n\n| Ano | Lei | Conteúdo principal |\n|---|---|---|\n| 1850 | Lei Eusébio de Queirós | proíbe o tráfico de africanos escravizados para o Brasil |\n| 1871 | Lei do Ventre Livre | declara livres os filhos de escravizadas nascidos a partir da lei |\n| 1885 | Lei dos Sexagenários | liberta escravizados com 60 anos ou mais |\n| 1888 | Lei Áurea | extingue a escravidão |\n\nA análise da sequência permite concluir que",
+    "alternatives": [
+      {
+        "key": "A",
+        "text": "a abolição foi imediata e acompanhada de indenização aos ex-escravizados e distribuição de terras."
+      },
+      {
+        "key": "B",
+        "text": "o processo foi gradual, o que permitiu adiar o fim da escravidão e preservar por décadas os interesses dos proprietários, sem políticas de integração dos libertos."
+      },
+      {
+        "key": "C",
+        "text": "a Lei do Ventre Livre libertou imediatamente todas as crianças escravizadas existentes no país."
+      },
+      {
+        "key": "D",
+        "text": "a escravidão terminou em 1850, pois sem tráfico não havia mais escravizados no Brasil."
+      },
+      {
+        "key": "E",
+        "text": "o movimento abolicionista não teve nenhuma influência sobre as leis aprovadas."
+      }
+    ],
+    "answer": "B",
+    "explanation": "As leis aparecem ao longo de 38 anos e atingem grupos limitados: primeiro o tráfico, depois os nascidos após 1871, depois os idosos. Essa estratégia gradual reduzia o impacto imediato sobre os proprietários e adiava a abolição. Quando a Lei Áurea veio, em 1888, não foi acompanhada de acesso à terra, educação ou indenização aos libertos, o que contribuiu para desigualdades raciais persistentes. Conceito-chave: a abolição brasileira foi gradual, tardia e sem integração social dos libertos.",
+    "wrong_notes": {
+      "A": "A tabela mostra um processo de 38 anos, e não houve indenização nem distribuição de terras aos libertos.",
+      "C": "A lei valia para os nascidos a partir de 1871; as crianças já escravizadas continuaram nessa condição.",
+      "D": "O fim do tráfico não libertou quem já estava escravizado; por isso foram necessárias leis posteriores.",
+      "E": "O movimento abolicionista, com campanhas, fugas e pressão popular, influenciou sobretudo as leis da década de 1880."
+    },
+    "concept": "Abolição gradual no Segundo Reinado e ausência de integração dos libertos."
+  },
+  {
+    "id": "his-brasil_republica-001",
+    "discipline": "historia",
+    "topic": "brasil_republica",
+    "subtopic": "Era Vargas",
+    "difficulty": 1,
+    "type": "multipla_escolha",
+    "origin": "inedita_ia",
+    "style_ref": "ENEM",
+    "skills": [
+      "interpretação de texto",
+      "identificação de política pública"
+    ],
+    "statement": "Em 1943, o governo de Getúlio Vargas reuniu em um único documento as normas sobre jornada de trabalho, salário mínimo, férias, carteira de trabalho e organização sindical, criando a Consolidação das Leis do Trabalho (CLT).\n\nA criação da CLT está associada, na Era Vargas, à",
+    "alternatives": [
+      {
+        "key": "A",
+        "text": "eliminação de toda intervenção do Estado nas relações entre patrões e empregados."
+      },
+      {
+        "key": "B",
+        "text": "extensão imediata dos direitos trabalhistas aos trabalhadores rurais de todo o país."
+      },
+      {
+        "key": "C",
+        "text": "proibição da existência de sindicatos no Brasil."
+      },
+      {
+        "key": "D",
+        "text": "regulamentação das relações de trabalho urbano pelo Estado, que concedia direitos e controlava os sindicatos."
+      },
+      {
+        "key": "E",
+        "text": "adoção do liberalismo econômico defendido pelas oligarquias da República Velha."
+      }
+    ],
+    "answer": "D",
+    "explanation": "A CLT expressou a política trabalhista de Vargas: o Estado passou a regular as relações de trabalho, garantindo direitos como férias, salário mínimo e carteira de trabalho, sobretudo para trabalhadores urbanos. Ao mesmo tempo, os sindicatos ficaram vinculados ao Ministério do Trabalho, o que permitia ao governo controlá-los. Essa combinação de concessão de direitos e controle é característica do trabalhismo varguista. Conceito-chave: a CLT representa a intervenção do Estado nas relações de trabalho na Era Vargas.",
+    "wrong_notes": {
+      "A": "A CLT representa justamente o aumento da intervenção estatal nas relações de trabalho.",
+      "B": "A legislação trabalhista da Era Vargas beneficiou principalmente os trabalhadores urbanos; os rurais ficaram em grande parte de fora.",
+      "C": "Os sindicatos não foram proibidos, mas atrelados e controlados pelo Estado.",
+      "E": "Vargas rompeu com o liberalismo da República Velha, ampliando o papel do Estado."
+    },
+    "concept": "CLT (1943): regulação estatal do trabalho urbano e controle sindical na Era Vargas."
+  },
+  {
+    "id": "his-brasil_republica-002",
+    "discipline": "historia",
+    "topic": "brasil_republica",
+    "subtopic": "criação do Tocantins (1988)",
+    "difficulty": 4,
+    "type": "multipla_escolha",
+    "origin": "inedita_ia",
+    "style_ref": "ENEM",
+    "skills": [
+      "interpretação de texto legal",
+      "relação entre história e organização territorial"
+    ],
+    "statement": "Leia os trechos, adaptados, do Ato das Disposições Constitucionais Transitórias (ADCT) da Constituição de 1988 e de um texto historiográfico fictício:\n\n**Texto I.** \"Art. 13. É criado o Estado do Tocantins, pelo desmembramento da área descrita neste artigo [o norte do Estado de Goiás] [...]. Art. 14. Os Territórios Federais de Roraima e do Amapá são transformados em Estados Federados [...].\"\n\n**Texto II.** \"Desde o período colonial, o norte goiano esteve distante do centro administrativo da capitania e, depois, da província e do estado. Em diferentes momentos, lideranças locais reclamaram do isolamento e da falta de investimentos e defenderam a autonomia da região.\"\n\nA análise conjunta dos textos permite concluir que a criação do Tocantins",
+    "alternatives": [
+      {
+        "key": "A",
+        "text": "atendeu a reivindicações históricas de autonomia do norte goiano e se inseriu em uma reorganização territorial mais ampla feita pela Constituição de 1988."
+      },
+      {
+        "key": "B",
+        "text": "resultou da transformação de um antigo território federal em estado, como ocorreu com Roraima e Amapá."
+      },
+      {
+        "key": "C",
+        "text": "foi decidida por decreto do regime militar, antes da redemocratização."
+      },
+      {
+        "key": "D",
+        "text": "ocorreu pela fusão do norte de Goiás com o sul do Maranhão, formando uma nova unidade da Região Nordeste."
+      },
+      {
+        "key": "E",
+        "text": "teve caráter apenas administrativo, sem relação com demandas da população local."
+      }
+    ],
+    "answer": "A",
+    "explanation": "O texto I mostra que o Tocantins foi criado pelo desmembramento do norte de Goiás, e não pela transformação de um território federal (caso de Roraima e Amapá, citados no artigo seguinte). O texto II indica que a autonomia do norte goiano era reivindicada havia muito tempo, ligada à sensação de isolamento. Os dois textos juntos mostram que a criação do estado respondeu a uma demanda regional e fez parte de uma reorganização territorial mais ampla da Constituição de 1988, elaborada já no contexto da redemocratização. O novo estado foi incluído na Região Norte. Conceito-chave: o Tocantins foi criado em 1988 pelo desmembramento de Goiás, atendendo a antigas demandas autonomistas.",
+    "wrong_notes": {
+      "B": "Confunde os dois artigos: Roraima e Amapá eram territórios federais; o Tocantins veio do desmembramento de um estado, Goiás.",
+      "C": "A criação ocorreu na Constituição de 1988, elaborada por uma Assembleia Constituinte após o fim do regime militar.",
+      "D": "O texto I fala apenas da área do norte de Goiás; o Tocantins integra a Região Norte, e não o Nordeste.",
+      "E": "Ignora o texto II, que relaciona a criação do estado a reivindicações históricas locais."
+    },
+    "concept": "Criação do Tocantins pela Constituição de 1988 (ADCT, art. 13) e demandas autonomistas do norte goiano."
+  },
+  {
+    "id": "his-brasil_republica-003",
+    "discipline": "historia",
+    "topic": "brasil_republica",
+    "subtopic": "redemocratização e Constituição de 1988",
+    "difficulty": 4,
+    "type": "multipla_escolha",
+    "origin": "inedita_ia",
+    "style_ref": "ENEM",
+    "skills": [
+      "interpretação de texto legal",
+      "comparação de modelos de política pública",
+      "relação história-saúde"
+    ],
+    "statement": "Até a década de 1980, a assistência médica pública no Brasil era prestada principalmente pelo Instituto Nacional de Assistência Médica da Previdência Social (INAMPS), voltado aos trabalhadores que contribuíam para a Previdência, em geral com carteira assinada. Quem não contribuía dependia de serviços filantrópicos ou de atendimentos pontuais. Em 1986, a 8ª Conferência Nacional de Saúde, com ampla participação de profissionais e movimentos sociais, defendeu a saúde como direito de cidadania. A Constituição de 1988 estabeleceu:\n\n> \"Art. 196. A saúde é direito de todos e dever do Estado, garantido mediante políticas sociais e econômicas que visem à redução do risco de doença e de outros agravos e ao acesso universal e igualitário às ações e serviços para sua promoção, proteção e recuperação.\"\n\nComparando os dois modelos, a principal mudança introduzida pela Constituição de 1988 foi",
+    "alternatives": [
+      {
+        "key": "A",
+        "text": "a privatização dos serviços de saúde, que passaram a ser pagos diretamente pelos usuários."
+      },
+      {
+        "key": "B",
+        "text": "a restrição do atendimento público apenas aos trabalhadores com carteira assinada."
+      },
+      {
+        "key": "C",
+        "text": "a passagem de um modelo vinculado à contribuição previdenciária para um direito universal de cidadania, base do Sistema Único de Saúde."
+      },
+      {
+        "key": "D",
+        "text": "a extinção das ações de prevenção, uma vez que o Estado passou a cuidar apenas da recuperação dos doentes."
+      },
+      {
+        "key": "E",
+        "text": "a transferência da responsabilidade pela saúde exclusivamente para entidades filantrópicas."
+      }
+    ],
+    "answer": "C",
+    "explanation": "No modelo anterior, o acesso dependia da condição de contribuinte da Previdência: quem estava no mercado formal tinha direito; os demais, não. O artigo 196 rompe com essa lógica ao afirmar que a saúde é \"direito de todos\" e prever acesso \"universal e igualitário\". Esse princípio, defendido pelo movimento da Reforma Sanitária e pela 8ª Conferência, fundamentou o SUS, regulamentado em 1990. O texto inclui ainda promoção e proteção, ou seja, prevenção. Conceito-chave: a Constituição de 1988 transformou a saúde em direito universal de cidadania.",
+    "wrong_notes": {
+      "A": "O artigo atribui ao Estado o dever de garantir a saúde com acesso universal, o oposto de privatização.",
+      "B": "Essa restrição caracterizava o modelo anterior (INAMPS), que a Constituição superou.",
+      "D": "O artigo cita expressamente a promoção e a proteção da saúde e a redução do risco de doença, isto é, a prevenção.",
+      "E": "O artigo define a saúde como dever do Estado; as entidades filantrópicas podem participar de forma complementar, mas não exclusiva."
+    },
+    "concept": "Constituição de 1988: saúde como direito universal e dever do Estado (origem do SUS)."
+  }
+]

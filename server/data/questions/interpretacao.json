@@ -1,0 +1,918 @@
+[
+  {
+    "id": "int-compreensao-001",
+    "discipline": "interpretacao",
+    "topic": "compreensao",
+    "subtopic": "tema e ideia central",
+    "difficulty": 1,
+    "type": "multipla_escolha",
+    "origin": "inedita_ia",
+    "style_ref": "ENEM",
+    "skills": [
+      "identificação da ideia central"
+    ],
+    "statement": "Leia o texto de divulgação científica:\n\n> **Sede não é o melhor alarme**\n> Muita gente espera sentir sede para beber água, mas, em idosos, esse sinal costuma aparecer tarde. Com o envelhecimento, o mecanismo que avisa o cérebro sobre a falta de líquido fica menos sensível, e a desidratação pode se instalar de forma silenciosa, provocando confusão mental, quedas e infecções urinárias. Por isso, geriatras recomendam que familiares e cuidadores ofereçam água ao longo do dia, mesmo que o idoso diga não estar com sede.\n\nA ideia central do texto é que:",
+    "alternatives": [
+      {
+        "key": "A",
+        "text": "idosos devem evitar beber água em excesso para não sobrecarregar os rins."
+      },
+      {
+        "key": "B",
+        "text": "a sede é um alarme confiável de desidratação em todas as idades."
+      },
+      {
+        "key": "C",
+        "text": "em idosos, a sede é um sinal tardio, e a hidratação deve ser estimulada mesmo sem ela."
+      },
+      {
+        "key": "D",
+        "text": "a confusão mental em idosos é sempre causada pela desidratação."
+      },
+      {
+        "key": "E",
+        "text": "cuidadores devem substituir a água por outros líquidos para idosos."
+      }
+    ],
+    "answer": "C",
+    "explanation": "O título já antecipa a tese (\"Sede não é o melhor alarme\"), e o desenvolvimento explica a causa — o mecanismo da sede fica menos sensível com a idade — e a consequência prática: oferecer água mesmo sem sede. Os efeitos citados (confusão, quedas, infecções) são argumentos de apoio, não a ideia central. Conceito-chave: a ideia central é a afirmação que organiza o texto e à qual os demais trechos se subordinam.",
+    "wrong_notes": {
+      "A": "O texto não fala em excesso de água nem em rins; extrapola o conteúdo.",
+      "B": "Contradiz o texto, que afirma justamente que o alarme falha em idosos.",
+      "D": "Generaliza indevidamente: o texto cita a confusão como possível efeito da desidratação, não como causada sempre por ela.",
+      "E": "Não há menção à substituição da água por outros líquidos."
+    },
+    "concept": "Identificação da ideia central de um texto."
+  },
+  {
+    "id": "int-compreensao-002",
+    "discipline": "interpretacao",
+    "topic": "compreensao",
+    "subtopic": "inferência",
+    "difficulty": 1,
+    "type": "multipla_escolha",
+    "origin": "inedita_ia",
+    "style_ref": "ENEM",
+    "skills": [
+      "inferência"
+    ],
+    "statement": "Leia o trecho de um folheto distribuído em farmácias:\n\n> Não interrompa o antibiótico quando os sintomas melhorarem. As bactérias mais sensíveis morrem primeiro; as mais resistentes são as últimas a serem eliminadas. Parar antes do tempo indicado pelo médico pode deixar vivas justamente essas bactérias, que se multiplicam e tornam o tratamento futuro mais difícil.\n\nInfere-se do texto que:",
+    "alternatives": [
+      {
+        "key": "A",
+        "text": "a melhora dos sintomas indica que todas as bactérias já foram eliminadas."
+      },
+      {
+        "key": "B",
+        "text": "a interrupção precoce do tratamento favorece a seleção de bactérias resistentes."
+      },
+      {
+        "key": "C",
+        "text": "os antibióticos tornam as bactérias sensíveis mais fortes."
+      },
+      {
+        "key": "D",
+        "text": "o paciente deve aumentar a dose quando os sintomas persistirem."
+      },
+      {
+        "key": "E",
+        "text": "as bactérias resistentes morrem antes das bactérias sensíveis."
+      }
+    ],
+    "answer": "B",
+    "explanation": "O texto explica que as bactérias sensíveis morrem primeiro e as resistentes por último. Se o tratamento é interrompido cedo, sobram as resistentes, que se multiplicam. Daí se infere que a interrupção favorece a seleção de bactérias resistentes, embora o texto não use essa expressão. Conceito-chave: inferir é concluir algo que não está dito literalmente, mas decorre logicamente das informações do texto.",
+    "wrong_notes": {
+      "A": "O texto afirma o contrário: a melhora pode ocorrer quando ainda restam bactérias resistentes.",
+      "C": "O antibiótico não fortalece as bactérias; ele elimina as sensíveis, restando as já resistentes.",
+      "D": "O texto não autoriza a automedicação nem o aumento de dose.",
+      "E": "Inverte a ordem descrita no texto."
+    },
+    "concept": "Inferência a partir de relações de causa e consequência."
+  },
+  {
+    "id": "int-compreensao-003",
+    "discipline": "interpretacao",
+    "topic": "compreensao",
+    "subtopic": "pressupostos e subentendidos",
+    "difficulty": 2,
+    "type": "multipla_escolha",
+    "origin": "inedita_ia",
+    "style_ref": "ENEM",
+    "skills": [
+      "pressupostos",
+      "marcadores linguísticos"
+    ],
+    "statement": "Leia a manchete de um portal de notícias:\n\n> **Casos de malária voltam a crescer em municípios da Amazônia Legal, e governo ainda não retomou distribuição de mosquiteiros**\n\nA partir das expressões \"voltam a crescer\" e \"ainda não retomou\", pressupõe-se que:",
+    "alternatives": [
+      {
+        "key": "A",
+        "text": "os casos de malária nunca haviam diminuído e os mosquiteiros jamais foram distribuídos."
+      },
+      {
+        "key": "B",
+        "text": "o governo pretende retomar a distribuição de mosquiteiros na próxima semana."
+      },
+      {
+        "key": "C",
+        "text": "a malária é transmitida exclusivamente na Amazônia Legal."
+      },
+      {
+        "key": "D",
+        "text": "a distribuição de mosquiteiros é a única medida eficaz contra a malária."
+      },
+      {
+        "key": "E",
+        "text": "os casos já haviam crescido antes e depois diminuído, e a distribuição de mosquiteiros já ocorreu no passado e foi interrompida."
+      }
+    ],
+    "answer": "E",
+    "explanation": "Pressupostos são informações que decorrem de marcas linguísticas do enunciado. \"Voltar a crescer\" pressupõe que houve crescimento anterior e depois queda ou estabilidade. \"Retomar\" pressupõe que algo foi feito e interrompido; \"ainda não\" indica que essa retomada era esperada. As alternativas que falam de intenções futuras ou de exclusividade não se apoiam em nenhuma marca do texto. Conceito-chave: pressupostos são ativados por palavras como \"voltar a\", \"retomar\", \"ainda\", \"deixar de\".",
+    "wrong_notes": {
+      "A": "Contraria os pressupostos: \"voltam a crescer\" e \"retomar\" indicam fatos anteriores.",
+      "B": "\"Ainda não\" sugere expectativa, mas nada no texto indica prazo ou intenção do governo.",
+      "C": "A manchete trata de municípios da Amazônia Legal, mas não afirma exclusividade.",
+      "D": "Nenhuma marca linguística indica que essa seja a única medida."
+    },
+    "concept": "Pressupostos ativados por marcadores linguísticos."
+  },
+  {
+    "id": "int-compreensao-004",
+    "discipline": "interpretacao",
+    "topic": "compreensao",
+    "subtopic": "intencionalidade",
+    "difficulty": 2,
+    "type": "multipla_escolha",
+    "origin": "inedita_ia",
+    "style_ref": "ENEM",
+    "skills": [
+      "intencionalidade discursiva",
+      "leitura crítica"
+    ],
+    "statement": "Leia o texto publicado no rótulo de um suplemento vendido pela internet (produto fictício):\n\n> **VitaMax Turbo** — Mais de 10 mil clientes satisfeitos! Ingredientes 100% naturais que aceleram o metabolismo e queimam gordura enquanto você dorme. Sem dieta, sem exercício, sem esforço. *Este produto não substitui uma alimentação equilibrada.*\n\nA frase em itálico, no final do rótulo, revela que o texto:",
+    "alternatives": [
+      {
+        "key": "A",
+        "text": "reconhece, em letra menor, um limite que contradiz a promessa principal de resultados \"sem dieta\"."
+      },
+      {
+        "key": "B",
+        "text": "reforça a ideia de que o suplemento dispensa qualquer mudança de hábitos."
+      },
+      {
+        "key": "C",
+        "text": "comprova cientificamente a eficácia do produto."
+      },
+      {
+        "key": "D",
+        "text": "tem como principal intenção informar sobre alimentação equilibrada."
+      },
+      {
+        "key": "E",
+        "text": "dirige-se a profissionais de saúde, e não ao consumidor comum."
+      }
+    ],
+    "answer": "A",
+    "explanation": "A parte principal do rótulo promete emagrecimento \"sem dieta, sem exercício, sem esforço\". A frase final, destacada de forma discreta, admite que o produto não substitui uma alimentação equilibrada — ou seja, que a dieta continua necessária. Essa ressalva, típica de exigências legais, entra em tensão com a promessa publicitária e revela a intenção persuasiva do texto, que destaca o que interessa vender e minimiza o que limita a promessa. Conceito-chave: a leitura crítica identifica a intenção do enunciador e as contradições entre o que é destacado e o que é minimizado.",
+    "wrong_notes": {
+      "B": "A ressalva diz o oposto: a alimentação equilibrada continua indispensável.",
+      "C": "Número de clientes satisfeitos não é comprovação científica, e a ressalva não traz dados.",
+      "D": "A intenção principal é vender; a ressalva é marginal no texto.",
+      "E": "O apelo \"enquanto você dorme\" se dirige ao consumidor comum."
+    },
+    "concept": "Intencionalidade e contradição em textos persuasivos."
+  },
+  {
+    "id": "int-compreensao-005",
+    "discipline": "interpretacao",
+    "topic": "compreensao",
+    "subtopic": "inferência",
+    "difficulty": 3,
+    "type": "multipla_escolha",
+    "origin": "inedita_ia",
+    "style_ref": "ENEM",
+    "skills": [
+      "inferência",
+      "distinção entre correlação e causalidade"
+    ],
+    "statement": "Leia o texto de divulgação científica (estudo hipotético):\n\n> Pesquisadores acompanharam 2 000 adolescentes durante um ano e verificaram que aqueles que dormiam menos de seis horas por noite tinham notas, em média, mais baixas do que os que dormiam oito horas ou mais. Os autores, porém, fazem uma ressalva: os adolescentes que dormiam pouco também passavam mais horas em empregos noturnos e tinham menos acesso a material escolar. \"Nossos dados mostram uma associação, não uma relação de causa e efeito\", afirmou a coordenadora do estudo.\n\nA ressalva feita pelos pesquisadores indica que:",
+    "alternatives": [
+      {
+        "key": "A",
+        "text": "dormir pouco foi comprovado como a causa das notas mais baixas."
+      },
+      {
+        "key": "B",
+        "text": "o sono não tem nenhuma relação com o desempenho escolar."
+      },
+      {
+        "key": "C",
+        "text": "o estudo deveria ter incluído apenas adolescentes com emprego noturno."
+      },
+      {
+        "key": "D",
+        "text": "outros fatores, como trabalho noturno e falta de material, podem explicar parte da diferença de notas observada."
+      },
+      {
+        "key": "E",
+        "text": "as notas mais baixas fazem os adolescentes dormirem menos."
+      }
+    ],
+    "answer": "D",
+    "explanation": "O estudo encontrou uma associação: quem dorme menos tem notas mais baixas. Mas o grupo que dormia pouco também diferia em outros aspectos (trabalho noturno, acesso a material), chamados de fatores de confusão. Assim, não é possível atribuir a diferença apenas ao sono. A frase da coordenadora explicita essa cautela. Isso não significa que o sono seja irrelevante, apenas que o estudo não permite concluir causalidade. Conceito-chave: associação (correlação) não prova causa; fatores de confusão podem explicar parte da relação observada.",
+    "wrong_notes": {
+      "A": "Contradiz a própria ressalva, que nega ter comprovado causa e efeito.",
+      "B": "Extrapola: o estudo não exclui o papel do sono; apenas não comprova que ele seja a causa.",
+      "C": "Restringir a amostra não é o que a ressalva sugere; ela aponta limites da interpretação.",
+      "E": "Inverte a direção da relação sem qualquer base no texto."
+    },
+    "concept": "Correlação não implica causalidade."
+  },
+  {
+    "id": "int-compreensao-006",
+    "discipline": "interpretacao",
+    "topic": "compreensao",
+    "subtopic": "inferência",
+    "difficulty": 4,
+    "type": "multipla_escolha",
+    "origin": "inedita_ia",
+    "style_ref": "Vestibular federal",
+    "skills": [
+      "leitura de tabela",
+      "avaliação de argumentos",
+      "inferência"
+    ],
+    "statement": "Leia o texto e a tabela, com dados hipotéticos de um município:\n\n> Em nota, a prefeitura afirmou: \"A cobertura vacinal infantil melhorou em todas as vacinas analisadas entre 2023 e 2025, o que demonstra o sucesso da nova política de busca ativa\".\n\n| Vacina | Cobertura 2023 | Cobertura 2025 | Meta |\n|---|---|---|---|\n| Tríplice viral (1ª dose) | 82% | 91% | 95% |\n| Poliomielite (3 doses) | 78% | 76% | 95% |\n| BCG | 96% | 97% | 90% |\n\nCom base nos dados, a afirmação da prefeitura:",
+    "alternatives": [
+      {
+        "key": "A",
+        "text": "está correta, pois todas as vacinas superaram a meta em 2025."
+      },
+      {
+        "key": "B",
+        "text": "está correta, pois a média das coberturas aumentou no período."
+      },
+      {
+        "key": "C",
+        "text": "é parcialmente incorreta, pois a cobertura da poliomielite caiu, e, ainda que tivesse havido melhora geral, os dados isolados não demonstrariam que ela se deve à nova política."
+      },
+      {
+        "key": "D",
+        "text": "é incorreta, pois a BCG piorou e ficou abaixo da meta."
+      },
+      {
+        "key": "E",
+        "text": "é incorreta, pois nenhuma vacina teve aumento de cobertura."
+      }
+    ],
+    "answer": "C",
+    "explanation": "A tabela mostra aumento na tríplice viral (82% → 91%) e na BCG (96% → 97%), mas queda na poliomielite (78% → 76%); logo, a melhora não ocorreu \"em todas as vacinas\". Além disso, mesmo uma melhora geral não provaria, por si só, que a causa foi a busca ativa: outros fatores poderiam ter influenciado. Só a BCG superou a meta; tríplice viral e pólio ficaram abaixo de 95%. Conceito-chave: avaliar uma afirmação exige confrontá-la com todos os dados e distinguir constatação de explicação causal.",
+    "wrong_notes": {
+      "A": "Apenas a BCG superou a meta; tríplice viral (91%) e pólio (76%) ficaram abaixo de 95%.",
+      "B": "Mesmo que a média tenha subido, a nota afirmou melhora em todas as vacinas, o que é falso para a pólio; e média não prova causa.",
+      "D": "A BCG subiu de 96% para 97% e está acima da meta de 90%.",
+      "E": "Tríplice viral e BCG tiveram aumento."
+    },
+    "concept": "Confronto entre afirmação e dados; constatação x causalidade."
+  },
+  {
+    "id": "int-compreensao-007",
+    "discipline": "interpretacao",
+    "topic": "compreensao",
+    "subtopic": "pressupostos e subentendidos",
+    "difficulty": 3,
+    "type": "multipla_escolha",
+    "origin": "inedita_ia",
+    "style_ref": "ENEM",
+    "skills": [
+      "subentendidos",
+      "pragmática"
+    ],
+    "statement": "Leia o diálogo entre uma enfermeira e um paciente internado:\n\n> **Paciente:** Enfermeira, a comida daqui é ótima, viu? Ontem o arroz veio tão firme que dava para construir uma casa.\n> **Enfermeira:** Vou avisar a nutrição, seu Raimundo. E o senhor está com o humor ótimo hoje, sinal de que está melhorando.\n\nNa fala do paciente, fica subentendido que:",
+    "alternatives": [
+      {
+        "key": "A",
+        "text": "ele está satisfeito com a refeição e quer elogiar a equipe de nutrição."
+      },
+      {
+        "key": "B",
+        "text": "ele trabalha na construção civil e sente falta do serviço."
+      },
+      {
+        "key": "C",
+        "text": "o arroz servido estava duro ou malcozido, e ele faz uma crítica bem-humorada."
+      },
+      {
+        "key": "D",
+        "text": "ele tem dificuldade de mastigação e precisa de dieta pastosa."
+      },
+      {
+        "key": "E",
+        "text": "a enfermeira é responsável pelo preparo das refeições."
+      }
+    ],
+    "answer": "C",
+    "explanation": "O elogio inicial (\"a comida é ótima\") é desmentido pela hipérbole seguinte (arroz tão firme que daria para construir uma casa), o que revela ironia: o paciente reclama do arroz duro, mas de forma bem-humorada. A resposta da enfermeira (\"vou avisar a nutrição\") confirma que ela entendeu a crítica. O subentendido não está marcado por uma palavra específica; depende do contexto e da intenção do falante. Conceito-chave: subentendidos são sentidos sugeridos pelo falante e recuperados pelo contexto, como na ironia.",
+    "wrong_notes": {
+      "A": "Lê literalmente o elogio e ignora a ironia confirmada pela reação da enfermeira.",
+      "B": "A referência à construção é exagero humorístico, não informação sobre profissão.",
+      "D": "Nada no diálogo indica problema de mastigação; a crítica é à qualidade do preparo.",
+      "E": "A enfermeira diz que vai avisar a nutrição, o que indica que não é ela quem prepara a comida."
+    },
+    "concept": "Subentendido e ironia na conversação."
+  },
+  {
+    "id": "int-generos-001",
+    "discipline": "interpretacao",
+    "topic": "generos",
+    "subtopic": "textos científicos e de divulgação",
+    "difficulty": 1,
+    "type": "multipla_escolha",
+    "origin": "inedita_ia",
+    "style_ref": "ENEM",
+    "skills": [
+      "reconhecimento de gêneros textuais"
+    ],
+    "statement": "Leia o texto:\n\n> **Paracetamol 500 mg — comprimidos**\n> **Indicações:** redução da febre e alívio temporário de dores leves a moderadas.\n> **Contraindicações:** pacientes com hipersensibilidade ao paracetamol.\n> **Posologia:** siga a orientação médica e não ultrapasse a dose máxima diária indicada.\n> **Advertências:** o uso junto com bebidas alcoólicas aumenta o risco de lesão no fígado.\n\nPela organização em seções e pela finalidade, o texto pertence ao gênero:",
+    "alternatives": [
+      {
+        "key": "A",
+        "text": "notícia, pois relata um fato recente sobre um medicamento."
+      },
+      {
+        "key": "B",
+        "text": "artigo de opinião, pois defende o uso do paracetamol."
+      },
+      {
+        "key": "C",
+        "text": "crônica, pois comenta, com leveza, um fato do cotidiano."
+      },
+      {
+        "key": "D",
+        "text": "relatório, pois apresenta os resultados de uma pesquisa clínica."
+      },
+      {
+        "key": "E",
+        "text": "bula, pois orienta o uso seguro do medicamento em seções padronizadas."
+      }
+    ],
+    "answer": "E",
+    "explanation": "As seções \"Indicações\", \"Contraindicações\", \"Posologia\" e \"Advertências\" são características da bula de medicamento, gênero que tem como finalidade informar e orientar o paciente e o profissional de saúde sobre o uso seguro do produto. A bula combina sequências expositivas e injuntivas (instruções). Conceito-chave: o gênero é reconhecido pela finalidade social, pela estrutura composicional e pelo suporte em que circula.",
+    "wrong_notes": {
+      "A": "Não há relato de fato datado, com lide e personagens, como na notícia.",
+      "B": "Não há defesa de ponto de vista nem argumentação.",
+      "C": "Não há narrador, cena cotidiana nem tom literário.",
+      "D": "Não são apresentados métodos e resultados de pesquisa."
+    },
+    "concept": "Reconhecimento do gênero bula."
+  },
+  {
+    "id": "int-generos-002",
+    "discipline": "interpretacao",
+    "topic": "generos",
+    "subtopic": "gêneros jornalísticos",
+    "difficulty": 2,
+    "type": "multipla_escolha",
+    "origin": "inedita_ia",
+    "style_ref": "ENEM",
+    "skills": [
+      "estrutura da notícia",
+      "lide"
+    ],
+    "statement": "Leia o primeiro parágrafo de uma notícia (fato fictício):\n\n> Uma força-tarefa de agentes de endemias visitou, neste sábado, mais de 3 mil imóveis no bairro Taquari, em Palmas (TO), para eliminar focos do mosquito *Aedes aegypti*. A ação foi motivada pelo aumento de 40% nos casos de dengue no bairro em relação ao mês anterior.\n\nO primeiro parágrafo de uma notícia, chamado lide, costuma responder às perguntas: o quê, quem, quando, onde, como e por quê. No trecho apresentado, a pergunta \"por quê?\" é respondida pela informação:",
+    "alternatives": [
+      {
+        "key": "A",
+        "text": "\"neste sábado\""
+      },
+      {
+        "key": "B",
+        "text": "\"no bairro Taquari, em Palmas (TO)\""
+      },
+      {
+        "key": "C",
+        "text": "\"uma força-tarefa de agentes de endemias\""
+      },
+      {
+        "key": "D",
+        "text": "\"pelo aumento de 40% nos casos de dengue no bairro\""
+      },
+      {
+        "key": "E",
+        "text": "\"visitou mais de 3 mil imóveis\""
+      }
+    ],
+    "answer": "D",
+    "explanation": "O lide concentra as informações essenciais do fato. No trecho: quem — a força-tarefa de agentes; o quê — visitou imóveis para eliminar focos; quando — neste sábado; onde — no bairro Taquari, em Palmas; por quê — o aumento de 40% nos casos de dengue, introduzido pela expressão \"foi motivada pelo\". Conceito-chave: o lide responde às perguntas básicas do fato, e a causa costuma vir marcada por expressões como \"motivada por\", \"devido a\", \"porque\".",
+    "wrong_notes": {
+      "A": "Responde a \"quando?\".",
+      "B": "Responde a \"onde?\".",
+      "C": "Responde a \"quem?\".",
+      "E": "Responde a \"o quê?\", isto é, à ação realizada."
+    },
+    "concept": "Estrutura do lide jornalístico."
+  },
+  {
+    "id": "int-generos-003",
+    "discipline": "interpretacao",
+    "topic": "generos",
+    "subtopic": "gêneros publicitários",
+    "difficulty": 3,
+    "type": "multipla_escolha",
+    "origin": "inedita_ia",
+    "style_ref": "ENEM",
+    "skills": [
+      "estratégias persuasivas",
+      "gênero campanha"
+    ],
+    "statement": "Leia o texto de uma campanha de doação de sangue (texto fictício):\n\n> **Você tem um superpoder correndo nas veias.**\n> Uma única doação pode ajudar até quatro pessoas. Não precisa de capa, só de 40 minutos e documento com foto.\n> Hemocentro: o lugar onde heróis comuns se encontram.\n\nPara convencer o leitor, a campanha recorre principalmente à estratégia de:",
+    "alternatives": [
+      {
+        "key": "A",
+        "text": "apresentar dados técnicos detalhados sobre a composição do sangue."
+      },
+      {
+        "key": "B",
+        "text": "valorizar o leitor, associando o ato de doar ao heroísmo e minimizando o esforço exigido."
+      },
+      {
+        "key": "C",
+        "text": "provocar medo, mostrando as consequências da falta de sangue nos hospitais."
+      },
+      {
+        "key": "D",
+        "text": "usar o depoimento de um especialista para dar credibilidade à mensagem."
+      },
+      {
+        "key": "E",
+        "text": "criticar as pessoas que não doam sangue, constrangendo-as."
+      }
+    ],
+    "answer": "B",
+    "explanation": "A campanha constrói a imagem do doador como herói (\"superpoder\", \"capa\", \"heróis comuns\"), recorrendo ao universo das histórias em quadrinhos para valorizar o leitor. Ao mesmo tempo, reduz a percepção de esforço (\"só de 40 minutos e documento com foto\"), removendo obstáculos à ação. O dado numérico (até quatro pessoas) reforça o impacto, mas a estratégia predominante é a valorização do interlocutor. Conceito-chave: textos publicitários persuadem associando a ação desejada a valores positivos e facilitando a adesão.",
+    "wrong_notes": {
+      "A": "O único dado técnico é breve; não há detalhamento sobre a composição do sangue.",
+      "C": "O tom é positivo e lúdico; não há apelo ao medo.",
+      "D": "Nenhum especialista é citado.",
+      "E": "O texto não critica quem não doa; ele convida de forma positiva."
+    },
+    "concept": "Estratégias persuasivas no gênero publicitário."
+  },
+  {
+    "id": "int-generos-004",
+    "discipline": "interpretacao",
+    "topic": "generos",
+    "subtopic": "charges e tirinhas",
+    "difficulty": 3,
+    "type": "multipla_escolha",
+    "origin": "inedita_ia",
+    "style_ref": "ENEM",
+    "skills": [
+      "leitura de charge",
+      "crítica social"
+    ],
+    "statement": "Considere a charge descrita a seguir.\n\n> Em uma sala de espera lotada, um painel eletrônico exibe: \"SENHA ATUAL: 0003\". Um idoso, com barba longa até o chão e teias de aranha na bengala, segura o papel com a senha \"0004\" e comenta com a pessoa ao lado: \"Pelo menos agora sou o próximo\". Na parede, um cartaz diz: \"Atendimento humanizado\".\n\nA crítica presente na charge dirige-se:",
+    "alternatives": [
+      {
+        "key": "A",
+        "text": "à falta de paciência dos idosos nas filas de atendimento."
+      },
+      {
+        "key": "B",
+        "text": "ao uso de painéis eletrônicos, que tornam o atendimento impessoal."
+      },
+      {
+        "key": "C",
+        "text": "à demora excessiva no atendimento, que contradiz o discurso de humanização do serviço."
+      },
+      {
+        "key": "D",
+        "text": "ao excesso de idosos que procuram os serviços de saúde."
+      },
+      {
+        "key": "E",
+        "text": "à desorganização das senhas, distribuídas fora de ordem."
+      }
+    ],
+    "answer": "C",
+    "explanation": "A barba até o chão e as teias de aranha são exageros visuais (hipérboles) que indicam espera muito longa — tão longa que o idoso parece ter envelhecido ainda mais na fila. A fala resignada (\"pelo menos agora sou o próximo\") reforça o absurdo. O cartaz \"Atendimento humanizado\" cria um contraste irônico entre o discurso institucional e a prática. Conceito-chave: a charge critica por meio do exagero e da ironia, contrastando discurso e realidade.",
+    "wrong_notes": {
+      "A": "O idoso é retratado como paciente e resignado; a crítica não é a ele.",
+      "B": "O painel apenas marca a senha; o problema é a lentidão, não a tecnologia.",
+      "D": "A charge não culpa os usuários pela demora.",
+      "E": "As senhas estão em ordem (0003 e 0004); a crítica é ao tempo de espera."
+    },
+    "concept": "Crítica social na charge por exagero e ironia."
+  },
+  {
+    "id": "int-generos-005",
+    "discipline": "interpretacao",
+    "topic": "generos",
+    "subtopic": "textos científicos e de divulgação",
+    "difficulty": 4,
+    "type": "multipla_escolha",
+    "origin": "inedita_ia",
+    "style_ref": "Vestibular federal",
+    "skills": [
+      "comparação de gêneros",
+      "adequação ao público"
+    ],
+    "statement": "Compare dois textos sobre o mesmo tema:\n\n> **Texto I:** A exposição crônica ao ruído acima de 85 dB(A) está associada à perda auditiva neurossensorial induzida por ruído, caracterizada por entalhe audiométrico entre 3 e 6 kHz, decorrente de lesão das células ciliadas externas da cóclea.\n>\n> **Texto II:** Sabe aquele zumbido depois de um show? É um aviso. Dentro do ouvido, existem células microscópicas, parecidas com fios de cabelo, que transformam o som em sinais para o cérebro. Barulho forte e constante danifica essas células — e, diferentemente da pele, elas não se regeneram. Resultado: a audição vai embora aos poucos, sem dor.\n\nO Texto II se diferencia do Texto I por ser um texto de divulgação científica, o que se evidencia pelo(a):",
+    "alternatives": [
+      {
+        "key": "A",
+        "text": "ausência de informações científicas, já que se baseia apenas em opiniões pessoais."
+      },
+      {
+        "key": "B",
+        "text": "uso de terminologia técnica precisa, como \"neurossensorial\" e \"cóclea\"."
+      },
+      {
+        "key": "C",
+        "text": "objetivo de apresentar dados inéditos de uma pesquisa a especialistas."
+      },
+      {
+        "key": "D",
+        "text": "linguagem impessoal e uso exclusivo da terceira pessoa."
+      },
+      {
+        "key": "E",
+        "text": "reformulação de conceitos técnicos por meio de comparações, interpelação ao leitor e situações do cotidiano."
+      }
+    ],
+    "answer": "E",
+    "explanation": "O Texto I, típico de um artigo científico ou manual técnico, dirige-se a especialistas, com termos precisos e linguagem impessoal. O Texto II traduz o mesmo conhecimento para o público leigo: interpela o leitor (\"Sabe aquele zumbido...?\"), parte de uma situação cotidiana (o show), troca \"células ciliadas\" por \"células parecidas com fios de cabelo\" e compara com a pele para explicar a ausência de regeneração. Ele mantém a informação científica, mas a reformula. Conceito-chave: a divulgação científica reformula conceitos técnicos para o público leigo, com analogias, exemplos e aproximação com o leitor.",
+    "wrong_notes": {
+      "A": "O Texto II contém informação científica correta, apenas reformulada; não é opinião pessoal.",
+      "B": "Essas são marcas do Texto I, dirigido a especialistas.",
+      "C": "A apresentação de dados inéditos a especialistas é própria do artigo científico, não da divulgação.",
+      "D": "O Texto II usa interpelação direta ao leitor, não linguagem exclusivamente impessoal."
+    },
+    "concept": "Divulgação científica x texto científico especializado."
+  },
+  {
+    "id": "int-tipologia-001",
+    "discipline": "interpretacao",
+    "topic": "tipologia",
+    "subtopic": "injunção",
+    "difficulty": 1,
+    "type": "multipla_escolha",
+    "origin": "inedita_ia",
+    "style_ref": "ENEM",
+    "skills": [
+      "identificação de tipologia textual"
+    ],
+    "statement": "Leia o texto afixado sobre a pia de uma enfermaria:\n\n> **Como higienizar as mãos**\n> 1. Molhe as mãos com água.\n> 2. Aplique sabonete suficiente para cobrir toda a superfície das mãos.\n> 3. Esfregue as palmas, o dorso, os espaços entre os dedos, os polegares e as pontas dos dedos.\n> 4. Enxágue bem.\n> 5. Seque com papel-toalha descartável e use-o para fechar a torneira.\n\nO tipo textual predominante é o:",
+    "alternatives": [
+      {
+        "key": "A",
+        "text": "narrativo, pois relata ações realizadas por personagens."
+      },
+      {
+        "key": "B",
+        "text": "injuntivo, pois orienta o leitor a executar uma sequência de ações."
+      },
+      {
+        "key": "C",
+        "text": "descritivo, pois caracteriza o aspecto físico das mãos."
+      },
+      {
+        "key": "D",
+        "text": "dissertativo-argumentativo, pois defende uma tese sobre higiene."
+      },
+      {
+        "key": "E",
+        "text": "expositivo, pois apresenta conceitos sem indicar ações ao leitor."
+      }
+    ],
+    "answer": "B",
+    "explanation": "O texto é formado por instruções numeradas, com verbos no imperativo (molhe, aplique, esfregue, enxágue, seque), que orientam o leitor a realizar um procedimento em ordem. Essas são as marcas do tipo injuntivo (ou instrucional), presente em manuais, receitas e protocolos. Conceito-chave: o tipo injuntivo orienta ações, geralmente com verbos no imperativo e sequência ordenada.",
+    "wrong_notes": {
+      "A": "Não há personagens nem relato de fatos passados; há ordens ao leitor.",
+      "C": "O texto não caracteriza as mãos; indica o que fazer com elas.",
+      "D": "Não há tese nem argumentos; há instruções.",
+      "E": "O texto indica ações diretamente ao leitor, o que o afasta da simples exposição."
+    },
+    "concept": "Tipo textual injuntivo."
+  },
+  {
+    "id": "int-tipologia-002",
+    "discipline": "interpretacao",
+    "topic": "tipologia",
+    "subtopic": "narração e descrição",
+    "difficulty": 2,
+    "type": "multipla_escolha",
+    "origin": "inedita_ia",
+    "style_ref": "ENEM",
+    "skills": [
+      "distinção entre narração e descrição"
+    ],
+    "statement": "Leia o trecho de um conto (texto original):\n\n> A sala do posto de saúde era pequena e clara. Nas paredes azuis, cartazes desbotados sobre vacinação; no canto, um bebedouro antigo zumbia baixinho. As cadeiras de plástico, alinhadas em duas fileiras, guardavam o calor da tarde de agosto em Porto Nacional.\n\nNo trecho, predomina a sequência:",
+    "alternatives": [
+      {
+        "key": "A",
+        "text": "narrativa, pois há uma sucessão de acontecimentos que transformam a situação inicial."
+      },
+      {
+        "key": "B",
+        "text": "argumentativa, pois o narrador defende a melhoria dos postos de saúde."
+      },
+      {
+        "key": "C",
+        "text": "descritiva, pois caracteriza um espaço por meio de detalhes sensoriais, sem progressão temporal."
+      },
+      {
+        "key": "D",
+        "text": "injuntiva, pois orienta o leitor sobre como se comportar no posto."
+      },
+      {
+        "key": "E",
+        "text": "expositiva, pois explica o funcionamento de um posto de saúde."
+      }
+    ],
+    "answer": "C",
+    "explanation": "O trecho apresenta um espaço (a sala) por meio de características visuais (clara, paredes azuis, cartazes desbotados), sonoras (o bebedouro que zumbe) e táteis (o calor guardado nas cadeiras). Os verbos, no pretérito imperfeito (era, zumbia, guardavam), indicam estados simultâneos, não ações em sequência. Não há mudança de situação nem progressão de tempo. Conceito-chave: a descrição caracteriza seres e espaços, \"congelando\" o tempo; a narração encadeia ações que transformam uma situação.",
+    "wrong_notes": {
+      "A": "Não há sucessão de acontecimentos; os verbos indicam estados simultâneos.",
+      "B": "Não há tese nem argumentos explícitos.",
+      "D": "Não há instruções nem verbos no imperativo.",
+      "E": "O texto não explica funcionamento; caracteriza um ambiente com recursos literários."
+    },
+    "concept": "Sequência descritiva x narrativa."
+  },
+  {
+    "id": "int-tipologia-003",
+    "discipline": "interpretacao",
+    "topic": "tipologia",
+    "subtopic": "dissertação",
+    "difficulty": 4,
+    "type": "multipla_escolha",
+    "origin": "inedita_ia",
+    "style_ref": "Vestibular federal",
+    "skills": [
+      "identificação de tese",
+      "tipos de argumento"
+    ],
+    "statement": "Leia o trecho de um artigo de opinião (texto original):\n\n> A falta de médicos no interior do país não se resolve apenas formando mais profissionais. Nas últimas décadas, o número de vagas em cursos de Medicina cresceu, mas os novos médicos continuam concentrados nas capitais e grandes cidades. Isso ocorre porque a decisão de onde trabalhar depende de fatores como infraestrutura hospitalar, plano de carreira e oportunidades de especialização — condições raras em municípios pequenos. Sem investimento nessas condições, abrir faculdades no interior pode apenas formar médicos que, em seguida, migram para os grandes centros.\n\nNo trecho, a tese defendida e a principal estratégia argumentativa são, respectivamente:",
+    "alternatives": [
+      {
+        "key": "A",
+        "text": "a necessidade de fechar cursos de Medicina; argumento de autoridade, com citação de especialistas."
+      },
+      {
+        "key": "B",
+        "text": "a ideia de que formar mais médicos não basta para levá-los ao interior; argumentação por causa e consequência, explicando por que os profissionais se concentram nas cidades maiores."
+      },
+      {
+        "key": "C",
+        "text": "a defesa de que médicos devem ser obrigados a trabalhar no interior; argumento por exemplificação, com o relato de um caso real."
+      },
+      {
+        "key": "D",
+        "text": "a afirmação de que há médicos demais no Brasil; argumento estatístico, com dados numéricos precisos."
+      },
+      {
+        "key": "E",
+        "text": "a ideia de que municípios pequenos não precisam de médicos; argumento por comparação com outros países."
+      }
+    ],
+    "answer": "B",
+    "explanation": "A tese aparece na primeira frase: a falta de médicos no interior \"não se resolve apenas formando mais profissionais\". O autor sustenta essa posição explicando as causas da concentração (infraestrutura, carreira, especialização) e projetando uma consequência (médicos formados no interior podem migrar). Não há citação de especialistas, números precisos, relato de caso ou comparação com outros países. Conceito-chave: identificar a tese e o tipo de argumento exige observar que tipo de apoio o autor realmente oferece ao seu ponto de vista.",
+    "wrong_notes": {
+      "A": "O texto não propõe fechar cursos nem cita especialistas.",
+      "C": "Não há defesa de obrigatoriedade nem relato de caso concreto.",
+      "D": "O texto não diz que há médicos demais, e não apresenta números precisos (\"cresceu\" é uma afirmação genérica).",
+      "E": "Contraria o texto, que parte da falta de médicos no interior; não há comparação internacional."
+    },
+    "concept": "Tese e argumentação por causa e consequência."
+  },
+  {
+    "id": "int-tipologia-004",
+    "discipline": "interpretacao",
+    "topic": "tipologia",
+    "subtopic": "dissertação",
+    "difficulty": 4,
+    "type": "multipla_escolha",
+    "origin": "inedita_ia",
+    "style_ref": "Vestibular federal",
+    "skills": [
+      "heterogeneidade tipológica",
+      "função de sequências no texto"
+    ],
+    "statement": "Leia o trecho de um editorial (texto original):\n\n> Dona Francisca, 67 anos, moradora de um povoado às margens do rio Tocantins, acordou às três da manhã, pegou dois barcos e um ônibus e chegou ao hospital regional às dez. Saiu à tarde sem a consulta: o cardiologista não viera. Histórias como a dela se repetem diariamente e mostram que o acesso à saúde não depende apenas da existência de um hospital, mas da distância, do transporte e da regularidade do atendimento. Políticas de telemedicina e de atendimento itinerante precisam deixar de ser projetos-piloto.\n\nNo editorial, a sequência narrativa sobre Dona Francisca tem a função de:",
+    "alternatives": [
+      {
+        "key": "A",
+        "text": "transformar o editorial em um conto, já que a narração predomina no trecho todo."
+      },
+      {
+        "key": "B",
+        "text": "descrever as características físicas da personagem para despertar empatia."
+      },
+      {
+        "key": "C",
+        "text": "instruir o leitor sobre como chegar ao hospital regional."
+      },
+      {
+        "key": "D",
+        "text": "concretizar o problema discutido, servindo de exemplo que sustenta a tese sobre o acesso à saúde."
+      },
+      {
+        "key": "E",
+        "text": "apresentar uma informação irrelevante, que interrompe a argumentação."
+      }
+    ],
+    "answer": "D",
+    "explanation": "Um texto pode combinar diferentes sequências tipológicas a serviço de um propósito dominante. No editorial, que é argumentativo, a pequena narrativa sobre Dona Francisca funciona como exemplo concreto: torna visível o problema (distância, transporte, irregularidade do atendimento). Em seguida, o autor generaliza (\"histórias como a dela se repetem\") e apresenta a tese e a proposta. Conceito-chave: em textos argumentativos, narrações e descrições costumam funcionar como argumentos por exemplificação.",
+    "wrong_notes": {
+      "A": "A narração ocupa apenas o início; o propósito global é argumentar, e o gênero continua sendo editorial.",
+      "B": "Não há descrição física da personagem; o foco está no percurso e na espera.",
+      "C": "Não há instruções; o trajeto é relatado como evidência do problema.",
+      "E": "A narrativa é central para a argumentação, pois a tese se apoia nela."
+    },
+    "concept": "Narração a serviço da argumentação (exemplificação)."
+  },
+  {
+    "id": "int-intertextualidade-001",
+    "discipline": "interpretacao",
+    "topic": "intertextualidade",
+    "subtopic": "paródia e paráfrase",
+    "difficulty": 2,
+    "type": "multipla_escolha",
+    "origin": "inedita_ia",
+    "style_ref": "ENEM",
+    "skills": [
+      "paródia",
+      "intertextualidade"
+    ],
+    "statement": "Leia os textos:\n\n> **Texto I** (Gonçalves Dias, \"Canção do Exílio\", 1843 — trecho)\n> Minha terra tem palmeiras,\n> Onde canta o Sabiá;\n> As aves, que aqui gorjeiam,\n> Não gorjeiam como lá.\n>\n> **Texto II** (texto original, publicado em um blog sobre saúde pública)\n> Minha terra tem hospitais\n> Onde falta o plantonista;\n> As filas que aqui se arrastam\n> Não cabem em nenhuma lista.\n\nA relação do Texto II com o Texto I caracteriza uma:",
+    "alternatives": [
+      {
+        "key": "A",
+        "text": "paráfrase, pois reproduz o sentido do poema original com outras palavras."
+      },
+      {
+        "key": "B",
+        "text": "citação direta, pois transcreve o poema original entre aspas."
+      },
+      {
+        "key": "C",
+        "text": "tradução, pois adapta o poema para outra língua."
+      },
+      {
+        "key": "D",
+        "text": "epígrafe, pois usa o poema original como abertura de outro texto."
+      },
+      {
+        "key": "E",
+        "text": "paródia, pois imita a estrutura do poema original, mas subverte seu sentido para fazer uma crítica."
+      }
+    ],
+    "answer": "E",
+    "explanation": "O Texto II mantém a estrutura do poema de Gonçalves Dias (\"Minha terra tem...\", o contraste \"aqui\"/lá, a métrica e as rimas), o que torna a referência reconhecível. Porém, inverte o sentido: o original exalta a pátria com saudade; o novo texto denuncia problemas da saúde pública. Imitar a forma para subverter o sentido, geralmente com crítica ou humor, caracteriza a paródia. Conceito-chave: a paráfrase mantém o sentido do original; a paródia o subverte.",
+    "wrong_notes": {
+      "A": "A paráfrase preserva o sentido; aqui o sentido ufanista é invertido em crítica.",
+      "B": "O texto não transcreve o original; recria-o com outras palavras.",
+      "C": "Ambos os textos estão em português.",
+      "D": "Epígrafe é uma citação que abre um texto; o Texto II é um poema autônomo que recria o original."
+    },
+    "concept": "Paródia como intertextualidade crítica."
+  },
+  {
+    "id": "int-intertextualidade-002",
+    "discipline": "interpretacao",
+    "topic": "intertextualidade",
+    "subtopic": "citação e alusão",
+    "difficulty": 1,
+    "type": "multipla_escolha",
+    "origin": "inedita_ia",
+    "style_ref": "ENEM",
+    "skills": [
+      "reconhecimento de intertextualidade",
+      "repertório cultural"
+    ],
+    "statement": "Leia o título de um artigo de divulgação sobre hesitação vacinal:\n\n> **Vacinar ou não vacinar: essa nem deveria ser a questão**\n\nO título faz referência a uma frase célebre de qual obra?",
+    "alternatives": [
+      {
+        "key": "A",
+        "text": "*Hamlet*, de William Shakespeare."
+      },
+      {
+        "key": "B",
+        "text": "*Romeu e Julieta*, de William Shakespeare."
+      },
+      {
+        "key": "C",
+        "text": "*Dom Casmurro*, de Machado de Assis."
+      },
+      {
+        "key": "D",
+        "text": "*Os Lusíadas*, de Luís de Camões."
+      },
+      {
+        "key": "E",
+        "text": "*Iracema*, de José de Alencar."
+      }
+    ],
+    "answer": "A",
+    "explanation": "O título retoma a famosa frase \"Ser ou não ser, eis a questão\", do monólogo de Hamlet na peça homônima de Shakespeare, em que o personagem reflete sobre a vida e a morte. O autor do artigo aproveita a estrutura conhecida (\"X ou não X\") e a modifica (\"essa nem deveria ser a questão\") para sugerir que vacinar não deveria ser objeto de dúvida. Conceito-chave: a alusão retoma um texto conhecido de forma indireta, contando com o repertório do leitor.",
+    "wrong_notes": {
+      "B": "Também é de Shakespeare, mas a frase \"Ser ou não ser\" pertence a Hamlet.",
+      "C": "Dom Casmurro não contém essa frase.",
+      "D": "Os Lusíadas não contém essa frase.",
+      "E": "Iracema não contém essa frase."
+    },
+    "concept": "Alusão a texto canônico."
+  },
+  {
+    "id": "int-intertextualidade-003",
+    "discipline": "interpretacao",
+    "topic": "intertextualidade",
+    "subtopic": "paródia e paráfrase",
+    "difficulty": 3,
+    "type": "multipla_escolha",
+    "origin": "inedita_ia",
+    "style_ref": "ENEM",
+    "skills": [
+      "distinção entre paráfrase e paródia"
+    ],
+    "statement": "Leia o trecho original e duas reescritas:\n\n> **Original** (Gonçalves Dias, \"Canção do Exílio\")\n> Nosso céu tem mais estrelas,\n> Nossas várzeas têm mais flores,\n> Nossos bosques têm mais vida,\n> Nossa vida mais amores.\n>\n> **Reescrita I** (texto original): No céu da nossa terra brilham mais estrelas; nossos campos são mais floridos, nossas matas mais vivas, e aqui se ama com mais intensidade.\n>\n> **Reescrita II** (texto original): Nosso céu tem mais fumaça, / Nossas várzeas, mais carvão, / Nossos bosques, menos vida, / Nossa vida, mais tosse e pulmão.\n\nSobre as reescritas, é correto afirmar que:",
+    "alternatives": [
+      {
+        "key": "A",
+        "text": "ambas são paródias, pois modificam as palavras do original."
+      },
+      {
+        "key": "B",
+        "text": "ambas são paráfrases, pois mantêm a estrutura do original."
+      },
+      {
+        "key": "C",
+        "text": "a I é uma paródia, pois está em prosa, e a II é uma paráfrase, pois está em versos."
+      },
+      {
+        "key": "D",
+        "text": "a I é uma paráfrase, pois mantém o sentido de exaltação da pátria; a II é uma paródia, pois subverte esse sentido para criticar as queimadas e seus efeitos na saúde."
+      },
+      {
+        "key": "E",
+        "text": "nenhuma estabelece intertextualidade, pois não citam o nome de Gonçalves Dias."
+      }
+    ],
+    "answer": "D",
+    "explanation": "A Reescrita I diz, com outras palavras e em prosa, o mesmo que o original: exalta a natureza e a vida na pátria. É, portanto, uma paráfrase. A Reescrita II conserva a estrutura sintática e o ritmo dos versos, mas troca o elogio por uma denúncia (fumaça, carvão, menos vida, tosse), associando as queimadas a problemas respiratórios. Essa inversão de sentido caracteriza a paródia. O critério não é a forma (verso ou prosa), mas a relação de sentido com o original. Conceito-chave: paráfrase = mesmo sentido, outras palavras; paródia = estrutura reconhecível, sentido subvertido.",
+    "wrong_notes": {
+      "A": "Alterar palavras não basta para haver paródia; a I mantém o sentido original.",
+      "B": "A II não mantém o sentido; transforma exaltação em denúncia.",
+      "C": "Inverte as classificações e usa um critério formal (verso/prosa) que não define paráfrase nem paródia.",
+      "E": "A intertextualidade não exige citar o autor; basta que o texto-fonte seja reconhecível."
+    },
+    "concept": "Paráfrase x paródia."
+  },
+  {
+    "id": "int-intertextualidade-004",
+    "discipline": "interpretacao",
+    "topic": "intertextualidade",
+    "subtopic": "citação e alusão",
+    "difficulty": 4,
+    "type": "multipla_escolha",
+    "origin": "inedita_ia",
+    "style_ref": "Vestibular federal",
+    "skills": [
+      "intertextualidade",
+      "efeito de sentido",
+      "repertório literário"
+    ],
+    "statement": "Leia o início de uma crônica escrita por uma estudante de Medicina após se recuperar de uma infecção (texto original):\n\n> *Ao vírus que primeiro invadiu as minhas células dedico, como saudosa lembrança, estas memórias de convalescença.* Foram doze dias de febre, três de delírio e um de alta, que, para quem estava deitada, pareceu o mais longo.\n\nA primeira frase dialoga com a dedicatória de *Memórias Póstumas de Brás Cubas*, de Machado de Assis: \"Ao verme que primeiro roeu as frias carnes do meu cadáver dedico como saudosa lembrança estas memórias póstumas\". Ao fazer essa retomada, a cronista:",
+    "alternatives": [
+      {
+        "key": "A",
+        "text": "reproduz literalmente o texto de Machado, sem acrescentar novos sentidos."
+      },
+      {
+        "key": "B",
+        "text": "adapta a ironia machadiana à sua experiência, trocando a morte pela doença superada e o verme pelo vírus."
+      },
+      {
+        "key": "C",
+        "text": "contesta a obra de Machado, mostrando que suas memórias são mais verdadeiras."
+      },
+      {
+        "key": "D",
+        "text": "indica que, como Brás Cubas, escreve depois de morta."
+      },
+      {
+        "key": "E",
+        "text": "demonstra admiração pelo vírus, apresentado como responsável por sua cura."
+      }
+    ],
+    "answer": "B",
+    "explanation": "A cronista mantém a estrutura e o tom da dedicatória machadiana (\"Ao ... que primeiro ... dedico, como saudosa lembrança, estas memórias...\"), mas faz substituições significativas: o verme que rói o cadáver vira o vírus que invade as células; as memórias póstumas viram memórias de convalescença. Com isso, ela se apropria do humor irônico de Machado — agradecer \"saudosamente\" a quem a fez sofrer — para narrar uma doença superada, não a morte. Conceito-chave: a retomada intertextual produz novos sentidos ao combinar o texto-fonte reconhecível com alterações estratégicas.",
+    "wrong_notes": {
+      "A": "Há alterações importantes (vírus, células, convalescença) que criam novo sentido.",
+      "C": "Não há contestação; há homenagem bem-humorada.",
+      "D": "Ela fala de convalescença e alta: está viva, ao contrário do \"defunto autor\" Brás Cubas.",
+      "E": "A \"saudosa lembrança\" é irônica; o vírus causou a doença, não a cura."
+    },
+    "concept": "Alusão intertextual e ironia."
+  }
+]

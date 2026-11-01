@@ -1,0 +1,562 @@
+[
+  {
+    "id": "lit-escolas_coloniais-001",
+    "discipline": "literatura",
+    "topic": "escolas_coloniais",
+    "subtopic": "Quinhentismo",
+    "difficulty": 1,
+    "type": "multipla_escolha",
+    "origin": "inedita_ia",
+    "style_ref": "ENEM",
+    "skills": ["contextualização histórico-literária"],
+    "statement": "A *Carta* de Pero Vaz de Caminha, escrita em 1500 ao rei D. Manuel, descreve a chegada da esquadra de Cabral, a paisagem e os povos indígenas encontrados no litoral. Ao lado dos textos de jesuítas, como os de José de Anchieta, ela integra a chamada literatura de informação e de catequese do Quinhentismo.\n\nUma característica central da *Carta* de Caminha é:",
+    "alternatives": [
+      {"key": "A", "text": "o caráter informativo, com descrição da terra e dos habitantes a partir do olhar do colonizador europeu."},
+      {"key": "B", "text": "a exaltação nacionalista do Brasil como nação independente."},
+      {"key": "C", "text": "o uso de linguagem rebuscada, com jogos de palavras e conflitos espirituais típicos do Barroco."},
+      {"key": "D", "text": "a crítica à colonização portuguesa e à exploração dos indígenas."},
+      {"key": "E", "text": "a valorização do indígena como herói nacional idealizado, à maneira romântica."}
+    ],
+    "answer": "A",
+    "explanation": "A *Carta* tem finalidade prática: informar o rei sobre a nova terra. Por isso descreve a natureza, os habitantes e suas possíveis utilidades (a terra fértil, a possibilidade de converter os nativos), sempre a partir da perspectiva do europeu. Não é um texto literário no sentido estético, mas é considerado documento fundador da literatura sobre o Brasil. Conceito-chave: o Quinhentismo reúne textos de informação e de catequese, marcados pelo olhar do colonizador.",
+    "wrong_notes": {
+      "B": "Em 1500 não havia nação brasileira; o nacionalismo é traço do Romantismo do século XIX.",
+      "C": "Linguagem rebuscada e conflito espiritual caracterizam o Barroco, do século XVII.",
+      "D": "Caminha escreve a serviço da Coroa; não critica a colonização.",
+      "E": "O indígena como herói idealizado é próprio do Indianismo romântico."
+    },
+    "concept": "Literatura de informação no Quinhentismo."
+  },
+  {
+    "id": "lit-escolas_coloniais-002",
+    "discipline": "literatura",
+    "topic": "escolas_coloniais",
+    "subtopic": "Barroco",
+    "difficulty": 2,
+    "type": "multipla_escolha",
+    "origin": "inedita_ia",
+    "style_ref": "ENEM",
+    "skills": ["características de estilos de época"],
+    "statement": "Leia o soneto escrito por um estudante para uma atividade de imitação de estilos (texto original):\n\n> Se a luz do dia aquece a carne aflita,\n> A sombra da noite gela o pensamento;\n> Se ao prazer me entrego num momento,\n> No outro a culpa o peito me visita.\n>\n> Ó vida breve, a tudo tão restrita,\n> Que és flor de manhã, à tarde és vento!\n\nO estudante procurou imitar características do Barroco, que se evidenciam:",
+    "alternatives": [
+      {"key": "A", "text": "no bucolismo e na vida simples no campo, em oposição à cidade."},
+      {"key": "B", "text": "no nacionalismo e na exaltação da natureza brasileira."},
+      {"key": "C", "text": "no culto à forma perfeita com temas exclusivamente mitológicos e impessoais."},
+      {"key": "D", "text": "no verso livre e na linguagem coloquial, rompendo com a tradição."},
+      {"key": "E", "text": "nas antíteses (luz/sombra, prazer/culpa) e na consciência da brevidade da vida, expressando o conflito entre o material e o espiritual."}
+    ],
+    "answer": "E",
+    "explanation": "O Barroco, no Brasil representado sobretudo por Gregório de Matos e pelo Padre Antônio Vieira, expressa a tensão entre o prazer terreno e a salvação da alma, herança do contexto da Contrarreforma. Essa tensão aparece em antíteses e paradoxos (luz/sombra, prazer/culpa) e na reflexão sobre a fugacidade da vida (\"flor de manhã, à tarde vento\"). Conceito-chave: o Barroco é marcado pelo dualismo (carne x espírito) e pelo uso intenso de antíteses e paradoxos.",
+    "wrong_notes": {
+      "A": "Bucolismo e vida no campo são traços do Arcadismo.",
+      "B": "O nacionalismo é traço do Romantismo.",
+      "C": "Culto à forma com impessoalidade e mitologia é próprio do Parnasianismo; o poema é pessoal e angustiado.",
+      "D": "O texto segue métrica e rima regulares; verso livre é traço modernista."
+    },
+    "concept": "Dualismo e antíteses no Barroco."
+  },
+  {
+    "id": "lit-escolas_coloniais-003",
+    "discipline": "literatura",
+    "topic": "escolas_coloniais",
+    "subtopic": "Arcadismo",
+    "difficulty": 3,
+    "type": "multipla_escolha",
+    "origin": "inedita_ia",
+    "style_ref": "Vestibular federal",
+    "skills": ["comparação entre estilos", "características do Arcadismo"],
+    "statement": "Compare os dois trechos, escritos como exercício de estilo (textos originais):\n\n> **Trecho I:** Deixemos, ó pastora, a vila e o seu tumulto; / Aqui, junto ao regato, o gado pasta em paz. / Colhamos hoje a flor, que o tempo não se deixa / prender, e a juventude em breve se desfaz.\n>\n> **Trecho II:** Ardo e gelo, morro e vivo em cada instante; / Meu Deus, que culpa é esta que me salva e me condena?\n\nO Trecho I se distingue do Trecho II por apresentar marcas do Arcadismo, como:",
+    "alternatives": [
+      {"key": "A", "text": "o conflito religioso entre pecado e salvação, expresso em paradoxos."},
+      {"key": "B", "text": "o pessimismo e a obsessão pela morte, com vocabulário científico."},
+      {"key": "C", "text": "o fugere urbem (fuga da cidade), o cenário pastoril e o carpe diem (aproveitar o momento)."},
+      {"key": "D", "text": "a idealização do indígena como símbolo da nacionalidade."},
+      {"key": "E", "text": "a musicalidade e as sinestesias, voltadas à expressão do mistério."}
+    ],
+    "answer": "C",
+    "explanation": "O Trecho I propõe abandonar a vila e seu tumulto (fugere urbem), situa-se num cenário de pastores, regatos e gado (bucolismo, locus amoenus) e convida a colher a flor enquanto a juventude dura (carpe diem). A linguagem é clara e equilibrada, como pedia o ideal neoclássico árcade. O Trecho II, com paradoxos (ardo e gelo, morro e vivo) e conflito religioso (culpa que salva e condena), é barroco. No Brasil, o Arcadismo tem como nomes importantes Cláudio Manuel da Costa e Tomás Antônio Gonzaga, autor de *Marília de Dirceu*. Conceito-chave: fugere urbem, bucolismo, carpe diem e simplicidade formal definem o Arcadismo.",
+    "wrong_notes": {
+      "A": "Conflito religioso em paradoxos é traço do Barroco, presente no Trecho II.",
+      "B": "Pessimismo com vocabulário científico remete a Augusto dos Anjos, no início do século XX.",
+      "D": "A idealização do indígena é própria do Romantismo.",
+      "E": "Musicalidade e sinestesia voltadas ao mistério são marcas do Simbolismo."
+    },
+    "concept": "Características do Arcadismo em contraste com o Barroco."
+  },
+  {
+    "id": "lit-romantismo-001",
+    "discipline": "literatura",
+    "topic": "romantismo",
+    "subtopic": "poesia romântica",
+    "difficulty": 1,
+    "type": "multipla_escolha",
+    "origin": "inedita_ia",
+    "style_ref": "ENEM",
+    "skills": ["características do Romantismo"],
+    "statement": "Leia a primeira estrofe da \"Canção do Exílio\", de Gonçalves Dias, poeta nascido em Caxias (MA), escrita quando o autor estudava em Coimbra, Portugal:\n\n> Minha terra tem palmeiras,\n> Onde canta o Sabiá;\n> As aves, que aqui gorjeiam,\n> Não gorjeiam como lá.\n\nO poema expressa uma característica da primeira geração romântica brasileira, que é:",
+    "alternatives": [
+      {"key": "A", "text": "o pessimismo diante da morte e o desejo de fuga pela morte, típicos do mal do século."},
+      {"key": "B", "text": "a denúncia da escravidão e a poesia social de tom grandioso."},
+      {"key": "C", "text": "o nacionalismo, com exaltação da natureza brasileira e saudade da pátria."},
+      {"key": "D", "text": "a objetividade e o rigor formal, com descrição impessoal da paisagem."},
+      {"key": "E", "text": "a crítica irônica aos costumes da burguesia urbana."}
+    ],
+    "answer": "C",
+    "explanation": "O eu lírico, distante do Brasil (\"aqui\" é Portugal; \"lá\" é a pátria), afirma a superioridade da natureza brasileira (palmeiras, sabiá) e manifesta saudade. Esse nacionalismo ufanista, ligado à construção de uma identidade nacional após a Independência, é marca da primeira geração romântica, à qual Gonçalves Dias pertence, também conhecido por sua poesia indianista. Conceito-chave: a primeira geração romântica é nacionalista e indianista, exaltando a natureza e o passado do país.",
+    "wrong_notes": {
+      "A": "O mal do século caracteriza a segunda geração romântica (ultrarromântica).",
+      "B": "A poesia social e abolicionista caracteriza a terceira geração (condoreira).",
+      "D": "Objetividade e impessoalidade são marcas do Parnasianismo; o poema é subjetivo e saudoso.",
+      "E": "A crítica irônica à burguesia é traço do Realismo."
+    },
+    "concept": "Nacionalismo na primeira geração romântica."
+  },
+  {
+    "id": "lit-romantismo-002",
+    "discipline": "literatura",
+    "topic": "romantismo",
+    "subtopic": "poesia romântica",
+    "difficulty": 2,
+    "type": "multipla_escolha",
+    "origin": "inedita_ia",
+    "style_ref": "ENEM",
+    "skills": ["gerações românticas", "relação entre literatura e contexto histórico"],
+    "statement": "Castro Alves, autor de \"O Navio Negreiro\" e \"Vozes d'África\", ficou conhecido como \"o poeta dos escravos\". Sua poesia, de tom eloquente e grandioso, voltava-se para os problemas sociais do país, em contraste com a poesia mais intimista de outros românticos.\n\nA geração romântica à qual Castro Alves pertence e sua principal característica são:",
+    "alternatives": [
+      {"key": "A", "text": "primeira geração; indianismo e nacionalismo ufanista."},
+      {"key": "B", "text": "terceira geração (condoreira); poesia social, de tom grandiloquente, engajada em causas como a abolição."},
+      {"key": "C", "text": "segunda geração (ultrarromântica); pessimismo, tédio e atração pela morte."},
+      {"key": "D", "text": "geração parnasiana; culto à forma e arte pela arte."},
+      {"key": "E", "text": "primeira geração modernista; verso livre e linguagem coloquial."}
+    ],
+    "answer": "B",
+    "explanation": "A terceira geração romântica é chamada condoreira em referência ao condor, ave de voo alto, símbolo do tom elevado e da visão ampla desses poetas. Castro Alves é seu principal representante: sua poesia social denunciou a escravidão e defendeu a liberdade, num momento em que o movimento abolicionista ganhava força no Brasil. Conceito-chave: a geração condoreira volta a poesia romântica para causas sociais, com destaque para o abolicionismo.",
+    "wrong_notes": {
+      "A": "Indianismo e nacionalismo ufanista definem a primeira geração, de Gonçalves Dias.",
+      "C": "Pessimismo e atração pela morte marcam a segunda geração, de Álvares de Azevedo.",
+      "D": "Castro Alves é romântico, não parnasiano; sua poesia é engajada, não \"arte pela arte\".",
+      "E": "O Modernismo surge no século XX; Castro Alves é do século XIX."
+    },
+    "concept": "Geração condoreira e poesia social."
+  },
+  {
+    "id": "lit-romantismo-003",
+    "discipline": "literatura",
+    "topic": "romantismo",
+    "subtopic": "prosa romântica",
+    "difficulty": 3,
+    "type": "multipla_escolha",
+    "origin": "inedita_ia",
+    "style_ref": "Vestibular federal",
+    "skills": ["projeto literário romântico", "prosa romântica"],
+    "statement": "José de Alencar escreveu romances indianistas, como *O Guarani* e *Iracema*; urbanos, como *Lucíola* e *Senhora*; e regionalistas, como *O Sertanejo* e *O Gaúcho*. Em *Iracema*, a união entre a indígena tabajara e o colonizador português Martim gera Moacir, considerado simbolicamente o primeiro cearense.\n\nConsiderando o conjunto dessa obra, o projeto literário de Alencar pode ser entendido como:",
+    "alternatives": [
+      {"key": "A", "text": "a tentativa de construir, pela ficção, um retrato amplo da nação, abrangendo suas origens, a cidade e as diferentes regiões do país."},
+      {"key": "B", "text": "a denúncia objetiva das condições de vida dos indígenas, com base em estudos científicos."},
+      {"key": "C", "text": "a reprodução fiel dos modelos europeus, sem preocupação com temas brasileiros."},
+      {"key": "D", "text": "a crítica à idealização romântica, mostrando personagens determinados pelo meio e pela hereditariedade."},
+      {"key": "E", "text": "a ruptura com a narrativa tradicional, por meio de fluxo de consciência e fragmentação."}
+    ],
+    "answer": "A",
+    "explanation": "Ao escrever sobre o passado indígena, a vida urbana da Corte e as regiões do país, Alencar buscou compor um painel da nacionalidade, objetivo central do Romantismo brasileiro após a Independência. Em *Iracema*, a união entre a indígena e o português e o nascimento de Moacir simbolizam a formação do povo brasileiro a partir do encontro de culturas, ainda que de forma idealizada. Conceito-chave: a prosa romântica de Alencar realiza um projeto de construção da identidade nacional.",
+    "wrong_notes": {
+      "B": "Alencar idealiza o indígena; não faz denúncia objetiva nem se baseia em estudos científicos.",
+      "C": "Alencar buscou justamente temas e cenários brasileiros.",
+      "D": "Personagens determinados pelo meio e pela hereditariedade são característicos do Naturalismo.",
+      "E": "Fluxo de consciência e fragmentação são técnicas do século XX."
+    },
+    "concept": "Projeto nacional na prosa de José de Alencar."
+  },
+  {
+    "id": "lit-realismo-001",
+    "discipline": "literatura",
+    "topic": "realismo",
+    "subtopic": "Machado de Assis",
+    "difficulty": 2,
+    "type": "multipla_escolha",
+    "origin": "inedita_ia",
+    "style_ref": "ENEM",
+    "skills": ["foco narrativo", "ironia machadiana"],
+    "statement": "*Memórias Póstumas de Brás Cubas* (1881), de Machado de Assis, abre com a seguinte dedicatória:\n\n> Ao verme que primeiro roeu as frias carnes do meu cadáver dedico como saudosa lembrança estas memórias póstumas.\n\nA dedicatória antecipa uma característica marcante do romance, que é:",
+    "alternatives": [
+      {"key": "A", "text": "o narrador-observador neutro, que relata os fatos sem interferir neles."},
+      {"key": "B", "text": "a idealização do amor e da pátria, típica do Romantismo."},
+      {"key": "C", "text": "o determinismo biológico, que explica o comportamento dos personagens pela hereditariedade."},
+      {"key": "D", "text": "a narração por um \"defunto autor\", que, livre das convenções sociais, comenta com ironia e pessimismo a própria vida e a sociedade."},
+      {"key": "E", "text": "a descrição detalhada da natureza brasileira, com finalidade nacionalista."}
+    ],
+    "answer": "D",
+    "explanation": "Brás Cubas narra depois de morto, e a dedicatória ao verme que roeu seu cadáver já mostra o humor irônico e o pessimismo do livro. Por estar morto, o narrador não teme julgamentos e expõe com franqueza as vaidades, o egoísmo e a hipocrisia da elite carioca do século XIX — inclusive os próprios. Esse romance é considerado o marco inicial do Realismo no Brasil. Conceito-chave: em *Memórias Póstumas*, o \"defunto autor\" usa a ironia para analisar criticamente a sociedade e a natureza humana.",
+    "wrong_notes": {
+      "A": "O narrador é personagem, em primeira pessoa, e interfere o tempo todo com comentários.",
+      "B": "O romance satiriza, e não idealiza, o amor e os valores sociais.",
+      "C": "O determinismo biológico é traço do Naturalismo, não da prosa de Machado.",
+      "E": "O romance é psicológico e urbano; não descreve a natureza com finalidade nacionalista."
+    },
+    "concept": "O defunto autor e a ironia machadiana."
+  },
+  {
+    "id": "lit-realismo-002",
+    "discipline": "literatura",
+    "topic": "realismo",
+    "subtopic": "Naturalismo",
+    "difficulty": 1,
+    "type": "multipla_escolha",
+    "origin": "inedita_ia",
+    "style_ref": "ENEM",
+    "skills": ["características do Naturalismo"],
+    "statement": "Leia um trecho escrito à maneira dos romances naturalistas (texto original):\n\n> Às cinco da manhã, o cortiço acordava como um formigueiro remexido. Homens e mulheres saíam dos cubículos aos empurrões, disputando a única torneira; o calor úmido e o cheiro de sabão e de suor misturavam-se no pátio, onde a gente se amontoava como bicho no curral.\n\nUma característica do Naturalismo presente no trecho é:",
+    "alternatives": [
+      {"key": "A", "text": "a zoomorfização das personagens, que são comparadas a animais e apresentadas como produto do meio."},
+      {"key": "B", "text": "a idealização da vida simples e harmoniosa dos trabalhadores."},
+      {"key": "C", "text": "o subjetivismo do narrador, que expressa seus sentimentos amorosos."},
+      {"key": "D", "text": "a linguagem simbólica e vaga, que sugere estados espirituais."},
+      {"key": "E", "text": "o uso de versos metrificados com rimas ricas."}
+    ],
+    "answer": "A",
+    "explanation": "O trecho compara o cortiço a um \"formigueiro\" e as pessoas a \"bicho no curral\": é a zoomorfização, recurso típico do Naturalismo, que vê o ser humano como animal condicionado pelo meio, pela raça e pela hereditariedade (determinismo). A descrição dos cheiros, do calor e da aglomeração reforça a influência do ambiente sobre os indivíduos. *O Cortiço* (1890), de Aluísio Azevedo, é o exemplo mais conhecido desse estilo no Brasil. Conceito-chave: o Naturalismo apresenta o ser humano animalizado e determinado pelo meio.",
+    "wrong_notes": {
+      "B": "O trecho mostra conflito e precariedade, não harmonia idealizada.",
+      "C": "O narrador é objetivo e não fala de seus próprios sentimentos.",
+      "D": "Linguagem vaga e sugestiva é traço do Simbolismo; aqui a descrição é concreta.",
+      "E": "O trecho está em prosa."
+    },
+    "concept": "Zoomorfização e determinismo no Naturalismo."
+  },
+  {
+    "id": "lit-realismo-003",
+    "discipline": "literatura",
+    "topic": "realismo",
+    "subtopic": "Parnasianismo e Simbolismo",
+    "difficulty": 3,
+    "type": "multipla_escolha",
+    "origin": "inedita_ia",
+    "style_ref": "Vestibular federal",
+    "skills": ["leitura de poema", "figuras de linguagem", "Parnasianismo"],
+    "statement": "Leia os versos iniciais do soneto \"Língua portuguesa\", de Olavo Bilac:\n\n> Última flor do Lácio, inculta e bela,\n> És, a um tempo, esplendor e sepultura:\n\nSabendo que o Lácio era a região da Itália onde se falava o latim, a leitura correta dos versos é:",
+    "alternatives": [
+      {"key": "A", "text": "o poeta lamenta que a língua portuguesa esteja morrendo por ser falada apenas na Itália."},
+      {"key": "B", "text": "a língua portuguesa é apresentada como a mais antiga das línguas derivadas do grego."},
+      {"key": "C", "text": "a expressão \"inculta e bela\" critica a língua por ser incapaz de produzir literatura."},
+      {"key": "D", "text": "os versos negam qualquer relação entre o português e o latim."},
+      {"key": "E", "text": "o português é apresentado como a última língua surgida do latim, e a antítese \"esplendor e sepultura\" sugere que ele é, ao mesmo tempo, brilho vivo e lugar onde o latim \"repousa\"."}
+    ],
+    "answer": "E",
+    "explanation": "A metáfora \"última flor do Lácio\" apresenta o português como a última das línguas românicas a se formar a partir do latim, falado no Lácio. A antítese \"esplendor e sepultura\" indica que a língua é ao mesmo tempo brilho, beleza viva, e túmulo do latim, que nela se transformou e se \"enterrou\". \"Inculta\" refere-se à origem no latim vulgar, falado pelo povo, e não a uma incapacidade expressiva. O soneto, com métrica e rimas rigorosas, mostra o apuro formal característico de Bilac, principal nome do Parnasianismo brasileiro. Conceito-chave: metáfora e antítese constroem a imagem do português como herdeiro do latim.",
+    "wrong_notes": {
+      "A": "Confunde o Lácio (origem do latim) com o lugar onde se fala o português.",
+      "B": "O português deriva do latim, não do grego.",
+      "C": "\"Inculta e bela\" combina origem popular e beleza; não há crítica à capacidade literária.",
+      "D": "Os versos afirmam justamente a filiação do português ao latim."
+    },
+    "concept": "Metáfora e antítese em Bilac; origem latina do português."
+  },
+  {
+    "id": "lit-realismo-004",
+    "discipline": "literatura",
+    "topic": "realismo",
+    "subtopic": "Machado de Assis",
+    "difficulty": 4,
+    "type": "multipla_escolha",
+    "origin": "inedita_ia",
+    "style_ref": "Vestibular federal",
+    "skills": ["foco narrativo", "narrador não confiável", "análise literária"],
+    "statement": "Em *Dom Casmurro* (1899), de Machado de Assis, Bento Santiago, já idoso e solitário, narra em primeira pessoa sua história com Capitu, de quem passa a suspeitar de adultério com seu melhor amigo, Escobar. Ainda na juventude de Bentinho, o agregado José Dias descreve Capitu com a célebre expressão \"olhos de cigana oblíqua e dissimulada\".\n\nA crítica literária costuma afirmar que o romance não permite concluir com segurança se Capitu traiu ou não o marido. Isso ocorre principalmente porque:",
+    "alternatives": [
+      {"key": "A", "text": "o narrador é onisciente e neutro, mas omite propositalmente o desfecho."},
+      {"key": "B", "text": "o livro termina antes do casamento de Bentinho e Capitu."},
+      {"key": "C", "text": "Capitu narra sua própria versão nos capítulos finais, contradizendo o marido."},
+      {"key": "D", "text": "o romance segue o modelo naturalista, em que os fatos são explicados pela hereditariedade."},
+      {"key": "E", "text": "toda a história é filtrada pela memória e pelo ciúme do próprio Bento, narrador interessado em convencer o leitor de sua versão."}
+    ],
+    "answer": "E",
+    "explanation": "O leitor só conhece os fatos pelo olhar de Bento, que é parte interessada: ele narra décadas depois, a partir de lembranças, movido pelo ciúme e pelo desejo de justificar suas atitudes. As \"provas\" que apresenta — como a semelhança entre o filho e Escobar — são interpretações dele. Por isso, fala-se em narrador não confiável: sua versão pode ser verdadeira ou fruto de obsessão, e o romance não oferece outro ponto de vista para decidir. Conceito-chave: em *Dom Casmurro*, o foco narrativo em primeira pessoa, parcial e memorialista, sustenta a ambiguidade do enredo.",
+    "wrong_notes": {
+      "A": "O narrador é personagem em primeira pessoa, não onisciente nem neutro.",
+      "B": "O romance narra o casamento, o nascimento do filho e a separação.",
+      "C": "Capitu nunca narra; sua voz chega ao leitor apenas pela mediação de Bento.",
+      "D": "Machado não segue o modelo naturalista; a ambiguidade é psicológica e narrativa."
+    },
+    "concept": "Narrador não confiável em Dom Casmurro."
+  },
+  {
+    "id": "lit-modernismo-001",
+    "discipline": "literatura",
+    "topic": "modernismo",
+    "subtopic": "Semana de 22 e 1ª fase",
+    "difficulty": 1,
+    "type": "multipla_escolha",
+    "origin": "inedita_ia",
+    "style_ref": "ENEM",
+    "skills": ["contextualização histórico-literária"],
+    "statement": "Em fevereiro de 1922, ano do centenário da Independência, artistas e escritores como Mário de Andrade, Oswald de Andrade e Anita Malfatti participaram da Semana de Arte Moderna, no Theatro Municipal de São Paulo. O evento provocou vaias e polêmica.\n\nA principal proposta dos modernistas da primeira fase era:",
+    "alternatives": [
+      {"key": "A", "text": "resgatar a métrica rigorosa e o vocabulário erudito do Parnasianismo."},
+      {"key": "B", "text": "romper com o academicismo, valorizando a liberdade de criação, o verso livre, a linguagem coloquial e uma nova visão da cultura brasileira."},
+      {"key": "C", "text": "imitar fielmente a literatura portuguesa, considerada modelo de correção."},
+      {"key": "D", "text": "retomar o indianismo romântico, idealizando o indígena como herói medieval."},
+      {"key": "E", "text": "defender uma arte voltada exclusivamente para temas religiosos e místicos."}
+    ],
+    "answer": "B",
+    "explanation": "A Semana de 22 marcou publicamente a ruptura dos modernistas com a arte acadêmica, especialmente com o Parnasianismo, que dominava a poesia oficial. A primeira fase do Modernismo defendeu a liberdade formal (verso livre), a incorporação da fala coloquial brasileira, o humor, a paródia e uma reinterpretação crítica da identidade nacional. Conceito-chave: a primeira fase modernista é marcada pela ruptura com o academicismo e pela busca de uma expressão brasileira.",
+    "wrong_notes": {
+      "A": "Os modernistas criticavam justamente o rigor formal parnasiano.",
+      "C": "Buscavam uma expressão brasileira, valorizando inclusive a fala do povo.",
+      "D": "Quando retomaram o indígena, fizeram-no de forma crítica e paródica, não idealizada.",
+      "E": "A primeira fase modernista não se voltava a temas exclusivamente místicos."
+    },
+    "concept": "Ruptura modernista de 1922."
+  },
+  {
+    "id": "lit-modernismo-002",
+    "discipline": "literatura",
+    "topic": "modernismo",
+    "subtopic": "Pré-Modernismo",
+    "difficulty": 3,
+    "type": "multipla_escolha",
+    "origin": "inedita_ia",
+    "style_ref": "Vestibular federal",
+    "skills": ["leitura de poema", "Pré-Modernismo"],
+    "statement": "Leia a primeira estrofe do soneto \"Versos íntimos\", de Augusto dos Anjos, poeta paraibano autor do livro *Eu* (1912):\n\n> Vês! Ninguém assistiu ao formidável\n> Enterro de tua última quimera.\n> Somente a Ingratidão — esta pantera —\n> Foi tua companheira inseparável!\n\nSobre o poema e o autor, é correto afirmar que:",
+    "alternatives": [
+      {"key": "A", "text": "o poema celebra a amizade e a solidariedade humana, típicas do Arcadismo."},
+      {"key": "B", "text": "o autor é um dos líderes da Semana de Arte Moderna de 1922, por usar verso livre."},
+      {"key": "C", "text": "o tom pessimista e a imagem da morte dos sonhos, num soneto de forma tradicional, revelam uma poesia singular, associada ao Pré-Modernismo."},
+      {"key": "D", "text": "a \"quimera\" representa um animal real, e o poema descreve um enterro presenciado pelo eu lírico."},
+      {"key": "E", "text": "a personificação da Ingratidão como \"pantera\" mostra uma visão otimista sobre as relações humanas."}
+    ],
+    "answer": "C",
+    "explanation": "O eu lírico se dirige a um interlocutor (\"Vês!\") e afirma que ninguém acompanhou o \"enterro\" de sua última quimera, isto é, de seu último sonho ou ilusão; apenas a Ingratidão, personificada e comparada a uma pantera, esteve a seu lado. O tom é amargo e pessimista. Augusto dos Anjos mantém a forma do soneto, mas sua poesia mistura elementos parnasianos, simbolistas e um vocabulário cientificista, o que o torna inclassificável nas escolas tradicionais e o faz ser associado ao Pré-Modernismo. Conceito-chave: Augusto dos Anjos é um poeta singular do Pré-Modernismo, marcado pelo pessimismo e pela forma tradicional.",
+    "wrong_notes": {
+      "A": "O poema fala da ausência de solidariedade; o tom é pessimista, não árcade.",
+      "B": "O autor morreu em 1914, antes da Semana de 22, e escreveu sonetos metrificados.",
+      "D": "\"Quimera\" é usada em sentido figurado: sonho, ilusão.",
+      "E": "A Ingratidão como pantera é imagem de ameaça, reforçando o pessimismo."
+    },
+    "concept": "Pessimismo e singularidade de Augusto dos Anjos."
+  },
+  {
+    "id": "lit-modernismo-003",
+    "discipline": "literatura",
+    "topic": "modernismo",
+    "subtopic": "Geração de 30",
+    "difficulty": 2,
+    "type": "multipla_escolha",
+    "origin": "inedita_ia",
+    "style_ref": "ENEM",
+    "skills": ["romance de 30", "relação entre literatura e sociedade"],
+    "statement": "*Vidas Secas* (1938), de Graciliano Ramos, acompanha a família de Fabiano, Sinhá Vitória, os dois filhos e a cachorra Baleia, retirantes que fogem da seca no sertão nordestino. Fabiano tem dificuldade de se expressar e sente-se humilhado diante do patrão e das autoridades.\n\nA obra é representativa da segunda fase do Modernismo (Geração de 30) porque:",
+    "alternatives": [
+      {"key": "A", "text": "idealiza o sertão como espaço de harmonia e abundância."},
+      {"key": "B", "text": "adota linguagem rebuscada e ornamentada, à maneira parnasiana."},
+      {"key": "C", "text": "se volta para o experimentalismo formal, sem compromisso com a realidade social."},
+      {"key": "D", "text": "desenvolve um regionalismo crítico, denunciando a miséria, a exploração e a opressão social no sertão, com linguagem seca e concisa."},
+      {"key": "E", "text": "narra a história de uma família da elite urbana do Rio de Janeiro."}
+    ],
+    "answer": "D",
+    "explanation": "A Geração de 30 produziu o chamado romance regionalista de denúncia social. Em *Vidas Secas*, a seca, a exploração pelo patrão, a violência do Estado e a dificuldade de comunicação de Fabiano mostram como as estruturas sociais oprimem os sertanejos. A linguagem enxuta de Graciliano Ramos, sem excessos, harmoniza-se com a aridez do ambiente e das vidas retratadas. Conceito-chave: o romance de 30 alia regionalismo e crítica social.",
+    "wrong_notes": {
+      "A": "O sertão é apresentado como espaço de miséria e sofrimento, não de abundância.",
+      "B": "A linguagem de Graciliano é concisa e seca, o oposto do rebuscamento.",
+      "C": "O compromisso com a realidade social é central na Geração de 30.",
+      "E": "Os personagens são retirantes pobres do sertão nordestino."
+    },
+    "concept": "Regionalismo crítico na Geração de 30."
+  },
+  {
+    "id": "lit-modernismo-004",
+    "discipline": "literatura",
+    "topic": "modernismo",
+    "subtopic": "Geração de 45 e contemporâneos",
+    "difficulty": 4,
+    "type": "multipla_escolha",
+    "origin": "inedita_ia",
+    "style_ref": "Vestibular federal",
+    "skills": ["análise de obra", "relação entre forma e sentido"],
+    "statement": "Em *Morte e Vida Severina*, poema dramático de João Cabral de Melo Neto que tem como subtítulo \"Auto de Natal pernambucano\", o retirante Severino deixa o sertão em direção ao Recife, acompanhando o curso do rio Capibaribe. Ao longo do caminho, encontra principalmente a morte: enterros, rezas a defuntos e trabalhos ligados a ela. Ao chegar ao Recife, desiludido, pensa em pôr fim à vida, mas presencia o nascimento de uma criança, celebrado pelos vizinhos.\n\nA relação entre o título e o desfecho da obra permite afirmar que:",
+    "alternatives": [
+      {"key": "A", "text": "o poema mostra a vida severina como predominantemente marcada pela morte, mas o nascimento final, ligado à tradição do auto natalino, afirma a vida, ainda que frágil e severina."},
+      {"key": "B", "text": "o desfecho confirma que a morte vence a vida, já que Severino se suicida na última cena."},
+      {"key": "C", "text": "a obra rompe com qualquer tradição, pois não dialoga com formas populares ou religiosas."},
+      {"key": "D", "text": "o nascimento da criança representa a riqueza da cidade, que resolve os problemas do retirante."},
+      {"key": "E", "text": "o título indica que a obra narra primeiro a vida de Severino no sertão e, depois, sua morte no Recife."}
+    ],
+    "answer": "A",
+    "explanation": "O título inverte a ordem natural (\"morte e vida\"), e a estrutura da obra acompanha essa inversão: a jornada de Severino é dominada pela morte, mas o final apresenta um nascimento. O subtítulo \"Auto de Natal\" liga o desfecho à tradição dramática popular e religiosa do nascimento de Cristo, agora encarnado numa criança pobre do mangue. A vida que se afirma é \"severina\" — pobre, dura —, mas é vida, e responde à pergunta de Severino sobre o sentido de continuar. Conceito-chave: em *Morte e Vida Severina*, o nascimento final afirma a vida diante da miséria, dialogando com a tradição do auto.",
+    "wrong_notes": {
+      "B": "Severino não se suicida em cena; o nascimento da criança interrompe sua reflexão sobre a morte.",
+      "C": "A obra dialoga explicitamente com o auto de Natal, tradição popular e religiosa.",
+      "D": "A criança nasce na pobreza; a cidade não resolve os problemas do retirante.",
+      "E": "O título inverte a ordem: a morte predomina no percurso, e a vida aparece no final."
+    },
+    "concept": "Morte e vida na estrutura do auto de João Cabral."
+  },
+  {
+    "id": "lit-portuguesa-001",
+    "discipline": "literatura",
+    "topic": "portuguesa",
+    "subtopic": "Trovadorismo e Humanismo",
+    "difficulty": 2,
+    "type": "multipla_escolha",
+    "origin": "inedita_ia",
+    "style_ref": "ENEM",
+    "skills": ["gêneros trovadorescos"],
+    "statement": "Leia a cantiga escrita em português atual, imitando o estilo medieval (texto original):\n\n> Ai, ondas do rio, dizei-me agora:\n> o meu amigo, por que demora?\n> E ai, Deus, se virá!\n>\n> Ai, ondas do mar, dizei-me já:\n> o meu amado, por onde está?\n> E ai, Deus, se virá!\n\nO texto imita características de uma cantiga de amigo, como:",
+    "alternatives": [
+      {"key": "A", "text": "o eu lírico masculino que sofre pela dama inacessível, num ambiente de corte."},
+      {"key": "B", "text": "a sátira direta a uma pessoa nomeada, com linguagem agressiva."},
+      {"key": "C", "text": "o eu lírico feminino que lamenta a ausência do amado, com paralelismo e refrão."},
+      {"key": "D", "text": "a narração de feitos heroicos de cavaleiros em batalhas."},
+      {"key": "E", "text": "a crítica indireta, por meio de ironia, a figuras da nobreza."}
+    ],
+    "answer": "C",
+    "explanation": "Nas cantigas de amigo, o trovador dá voz a uma mulher do povo que fala da saudade do namorado (\"amigo\"), muitas vezes dirigindo-se à natureza (ondas, flores, aves). A estrutura usa paralelismo (estrofes que repetem a ideia com pequenas variações: rio/mar, agora/já) e refrão (\"E ai, Deus, se virá!\"). Na cantiga de amor, ao contrário, o eu lírico é masculino e sofre a \"coita\" por uma dama idealizada. Conceito-chave: cantiga de amigo = eu lírico feminino, saudade do amado, paralelismo e refrão.",
+    "wrong_notes": {
+      "A": "Essas são as marcas da cantiga de amor.",
+      "B": "Sátira direta é característica da cantiga de maldizer.",
+      "D": "Feitos heroicos de cavaleiros pertencem às novelas de cavalaria.",
+      "E": "Crítica indireta e irônica é característica da cantiga de escárnio."
+    },
+    "concept": "Cantiga de amigo no Trovadorismo."
+  },
+  {
+    "id": "lit-portuguesa-002",
+    "discipline": "literatura",
+    "topic": "portuguesa",
+    "subtopic": "Classicismo: Camões",
+    "difficulty": 4,
+    "type": "multipla_escolha",
+    "origin": "inedita_ia",
+    "style_ref": "Vestibular federal",
+    "skills": ["análise de soneto", "Classicismo", "figuras de linguagem"],
+    "statement": "Leia o primeiro quarteto de um soneto de Luís de Camões:\n\n> Amor é fogo que arde sem se ver;\n> É ferida que dói e não se sente;\n> É um contentamento descontente;\n> É dor que desatina sem doer;\n\nSobre o trecho, é correto afirmar que:",
+    "alternatives": [
+      {"key": "A", "text": "o poeta define o amor de forma objetiva e científica, típica do Realismo."},
+      {"key": "B", "text": "o soneto rompe com a métrica, usando verso livre e linguagem coloquial."},
+      {"key": "C", "text": "as imagens contraditórias revelam que o poeta considera o amor um sentimento simples e facilmente explicável."},
+      {"key": "D", "text": "o poema pertence ao Trovadorismo, pois apresenta refrão e paralelismo."},
+      {"key": "E", "text": "o poeta tenta definir o amor por meio de paradoxos, revelando sua natureza contraditória, em versos decassílabos característicos da \"medida nova\" do Classicismo."}
+    ],
+    "answer": "E",
+    "explanation": "Cada verso propõe uma definição do amor que une termos contraditórios: fogo que não se vê, ferida que não se sente, contentamento descontente, dor que não dói. São paradoxos que mostram a impossibilidade de explicar o amor pela lógica comum, refletindo a tentativa renascentista de compreender racionalmente um sentimento que escapa à razão. O soneto em versos decassílabos é a forma da \"medida nova\", trazida da Itália e marca do Classicismo português, de que Camões é o maior nome. Conceito-chave: no Classicismo camoniano, o amor é investigado racionalmente, e os paradoxos revelam sua natureza contraditória.",
+    "wrong_notes": {
+      "A": "Camões é do século XVI; o Realismo é do XIX, e o poema não é objetivo nem científico.",
+      "B": "O soneto tem métrica (decassílabos) e rimas regulares.",
+      "C": "Os paradoxos mostram justamente que o amor é complexo e difícil de explicar.",
+      "D": "Não há refrão nem paralelismo; o soneto é forma clássica, não trovadoresca."
+    },
+    "concept": "Paradoxos e medida nova no soneto camoniano."
+  },
+  {
+    "id": "lit-portuguesa-003",
+    "discipline": "literatura",
+    "topic": "portuguesa",
+    "subtopic": "Fernando Pessoa e heterônimos",
+    "difficulty": 4,
+    "type": "multipla_escolha",
+    "origin": "inedita_ia",
+    "style_ref": "Vestibular federal",
+    "skills": ["leitura de poema", "heteronímia", "fingimento poético"],
+    "statement": "Leia a primeira estrofe de \"Autopsicografia\", de Fernando Pessoa:\n\n> O poeta é um fingidor.\n> Finge tão completamente\n> Que chega a fingir que é dor\n> A dor que deveras sente.\n\nPessoa criou heterônimos, como Alberto Caeiro, Ricardo Reis e Álvaro de Campos, cada um com biografia, estilo e visão de mundo próprios. A relação entre a estrofe e a heteronímia está no fato de que:",
+    "alternatives": [
+      {"key": "A", "text": "o poema afirma que o poeta mente sobre seus sentimentos para enganar o leitor, e os heterônimos são pseudônimos usados para esconder a autoria."},
+      {"key": "B", "text": "a poesia, para Pessoa, transforma a experiência em construção artística; os heterônimos radicalizam esse fingimento, criando \"outros\" poetas com sensibilidades próprias."},
+      {"key": "C", "text": "o poeta só deve escrever sobre dores que não sente, e os heterônimos nunca expressam sentimentos."},
+      {"key": "D", "text": "o poema defende a expressão espontânea e confessional, e os heterônimos são registros autobiográficos de Pessoa."},
+      {"key": "E", "text": "o poema é de Álvaro de Campos, o heterônimo que nega a existência de sentimentos."}
+    ],
+    "answer": "B",
+    "explanation": "A estrofe afirma que o poeta \"finge\" até a dor que realmente sente: ao transformá-la em poema, ela deixa de ser a dor bruta e vira uma dor elaborada pela linguagem. Fingir, aqui, não é mentir, mas criar. A heteronímia leva essa ideia ao extremo: Pessoa inventa poetas completos — Caeiro, o mestre da simplicidade e da natureza; Reis, o clássico das odes; Campos, o engenheiro moderno e angustiado — que sentem e escrevem de modos diferentes. Heterônimos não são pseudônimos: são personalidades literárias distintas. Conceito-chave: o fingimento poético é elaboração artística da experiência, base da heteronímia.",
+    "wrong_notes": {
+      "A": "Lê \"fingir\" como mentir e confunde heterônimo com pseudônimo, que é só um nome diferente para o mesmo estilo.",
+      "C": "O poema diz que o poeta finge também a dor que \"deveras sente\"; e os heterônimos expressam sentimentos.",
+      "D": "O poema questiona a expressão espontânea; os heterônimos são criações ficcionais, não autobiografia.",
+      "E": "\"Autopsicografia\" é assinada por Pessoa ortônimo, e Campos expressa sentimentos intensamente."
+    },
+    "concept": "Fingimento poético e heteronímia em Fernando Pessoa."
+  },
+  {
+    "id": "lit-regional-001",
+    "discipline": "literatura",
+    "topic": "regional",
+    "subtopic": "autores do Maranhão",
+    "difficulty": 1,
+    "type": "multipla_escolha",
+    "origin": "inedita_ia",
+    "style_ref": "ENEM",
+    "skills": ["repertório literário regional"],
+    "statement": "Nascido em Caxias, no Maranhão, em 1823, Gonçalves Dias é um dos principais poetas do Romantismo brasileiro. Além da \"Canção do Exílio\", escreveu \"I-Juca-Pirama\", poema em que um guerreiro tupi, prisioneiro dos timbiras, chora ao pedir para cuidar do pai cego e é acusado de covardia — até provar seu valor em combate.\n\nO tema de \"I-Juca-Pirama\" vincula o poeta à vertente romântica chamada:",
+    "alternatives": [
+      {"key": "A", "text": "ultrarromantismo, centrada no tédio e na morte do poeta."},
+      {"key": "B", "text": "condoreirismo, voltada à denúncia da escravidão."},
+      {"key": "C", "text": "regionalismo, centrada no sertanejo e no gaúcho."},
+      {"key": "D", "text": "indianismo, que idealiza o indígena como herói dotado de honra e bravura."},
+      {"key": "E", "text": "romance urbano, ambientado na Corte do Rio de Janeiro."}
+    ],
+    "answer": "D",
+    "explanation": "\"I-Juca-Pirama\" exalta valores como honra, coragem e lealdade filial em personagens indígenas, apresentados como heróis à maneira dos cavaleiros medievais europeus. Essa idealização do indígena como símbolo de nacionalidade é o indianismo, vertente central da primeira geração romântica, da qual Gonçalves Dias é o maior poeta. Conceito-chave: o indianismo romântico transforma o indígena em herói nacional idealizado.",
+    "wrong_notes": {
+      "A": "O ultrarromantismo (segunda geração) gira em torno do tédio e da morte, não do herói indígena.",
+      "B": "O condoreirismo é a poesia social de Castro Alves, da terceira geração.",
+      "C": "O regionalismo romântico retrata tipos como o sertanejo e o gaúcho, não o indígena guerreiro.",
+      "E": "O poema não se passa na cidade nem é romance."
+    },
+    "concept": "Indianismo em Gonçalves Dias."
+  },
+  {
+    "id": "lit-regional-002",
+    "discipline": "literatura",
+    "topic": "regional",
+    "subtopic": "autores do Maranhão",
+    "difficulty": 3,
+    "type": "multipla_escolha",
+    "origin": "inedita_ia",
+    "style_ref": "Vestibular federal",
+    "skills": ["Naturalismo", "literatura e sociedade"],
+    "statement": "O maranhense Aluísio Azevedo, nascido em São Luís, publicou em 1881 o romance *O Mulato*, ambientado na capital maranhense. Na obra, Raimundo, homem culto formado na Europa, retorna a São Luís e enfrenta a rejeição da sociedade local ao se descobrir que é filho de uma mulher escravizada. O livro causou escândalo na cidade.\n\nA importância de *O Mulato* na história da literatura brasileira está em:",
+    "alternatives": [
+      {"key": "A", "text": "ser considerado um marco inicial do Naturalismo no Brasil e denunciar o preconceito racial e a hipocrisia da sociedade maranhense."},
+      {"key": "B", "text": "inaugurar o Romantismo brasileiro, com a idealização do herói nacional."},
+      {"key": "C", "text": "ser o primeiro romance indianista da literatura brasileira."},
+      {"key": "D", "text": "defender a manutenção da escravidão como base da economia maranhense."},
+      {"key": "E", "text": "romper com a prosa, sendo escrito inteiramente em versos livres."}
+    ],
+    "answer": "A",
+    "explanation": "Publicado em 1881, mesmo ano de *Memórias Póstumas de Brás Cubas*, *O Mulato* é apontado como marco inicial do Naturalismo no Brasil. O romance expõe o racismo, o clericalismo e a hipocrisia da elite de São Luís, mostrando como o preconceito destrói a trajetória de Raimundo apesar de sua formação. Aluísio Azevedo consolidaria o Naturalismo com *O Cortiço* (1890). Conceito-chave: *O Mulato*, de Aluísio Azevedo, inaugura o Naturalismo brasileiro e denuncia o preconceito racial.",
+    "wrong_notes": {
+      "B": "O Romantismo começou décadas antes; o romance de Aluísio critica a sociedade, não idealiza heróis.",
+      "C": "O protagonista não é indígena, e o indianismo é romântico.",
+      "D": "O romance denuncia o preconceito racial; não defende a escravidão.",
+      "E": "*O Mulato* é um romance em prosa."
+    },
+    "concept": "O Mulato e o início do Naturalismo brasileiro."
+  },
+  {
+    "id": "lit-regional-003",
+    "discipline": "literatura",
+    "topic": "regional",
+    "subtopic": "autores do Maranhão",
+    "difficulty": 4,
+    "type": "multipla_escolha",
+    "origin": "inedita_ia",
+    "style_ref": "Vestibular federal",
+    "skills": ["literatura e contexto histórico", "memória e lirismo"],
+    "statement": "O poeta maranhense Ferreira Gullar (1930–2016), nascido em São Luís, participou do movimento neoconcreto e escreveu, em 1975, durante o exílio em Buenos Aires imposto pela ditadura militar, o *Poema Sujo*, publicado em 1976. O longo poema reconstrói lembranças da infância e da cidade natal — ruas, quintais, cheiros, a família, a vida dos trabalhadores —, misturando lirismo, memória e consciência social.\n\nConsiderando o contexto de produção, a reconstrução de São Luís no *Poema Sujo* pode ser interpretada como:",
+    "alternatives": [
+      {"key": "A", "text": "uma descrição objetiva e impessoal da cidade, com finalidade turística."},
+      {"key": "B", "text": "uma retomada do ufanismo romântico, que apresenta a cidade natal como lugar perfeito e sem conflitos."},
+      {"key": "C", "text": "um exercício de memória que, diante do exílio e da ameaça política, afirma a identidade do poeta e reúne experiência pessoal e história coletiva."},
+      {"key": "D", "text": "a negação da experiência pessoal, já que o poeta neoconcreto rejeitava qualquer referência à realidade."},
+      {"key": "E", "text": "uma crítica à cidade natal, que o poeta considerava responsável por seu exílio."}
+    ],
+    "answer": "C",
+    "explanation": "Longe do país e sob ameaça, o poeta recorre à memória para reconstruir São Luís em detalhes sensoriais e afetivos. Essa reconstrução não é idealizada: o poema traz também a pobreza, o trabalho e as contradições sociais. Assim, a lembrança pessoal se entrelaça com a história coletiva, e o ato de lembrar torna-se forma de resistência e de afirmação de identidade num momento de repressão. Conceito-chave: no *Poema Sujo*, a memória da cidade natal, escrita no exílio, une lirismo e consciência social.",
+    "wrong_notes": {
+      "A": "O poema é subjetivo e afetivo; não é descrição impessoal.",
+      "B": "O título \"sujo\" e a presença das contradições sociais afastam a idealização ufanista.",
+      "D": "O poema é profundamente ligado à experiência pessoal; a vinculação ao neoconcretismo não implica negar a realidade nessa obra.",
+      "E": "O exílio foi imposto pela ditadura, não pela cidade; o poema expressa vínculo afetivo com São Luís."
+    },
+    "concept": "Memória, exílio e consciência social no Poema Sujo."
+  }
+]

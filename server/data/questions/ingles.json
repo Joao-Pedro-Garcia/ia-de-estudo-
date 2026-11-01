@@ -1,0 +1,226 @@
+[
+  {
+    "id": "ing-leitura_en-001",
+    "discipline": "ingles",
+    "topic": "leitura_en",
+    "subtopic": "estratégias de leitura",
+    "difficulty": 1,
+    "type": "multipla_escolha",
+    "origin": "inedita_ia",
+    "style_ref": "ENEM",
+    "skills": ["identificação da finalidade do texto"],
+    "statement": "Leia o aviso afixado na entrada de um hospital:\n\n> **ATTENTION, VISITORS**\n> To protect our patients, please clean your hands with soap or alcohol gel before and after entering any room. If you have a fever, cough or sore throat, do not visit today — call us instead. Thank you for helping us keep everyone safe.\n\nO principal objetivo do aviso é:",
+    "alternatives": [
+      {"key": "A", "text": "informar o horário de visitas do hospital."},
+      {"key": "B", "text": "convidar os visitantes a fazer exames gratuitos."},
+      {"key": "C", "text": "orientar os visitantes sobre medidas para evitar a transmissão de infecções aos pacientes."},
+      {"key": "D", "text": "proibir a entrada de qualquer visitante no hospital."},
+      {"key": "E", "text": "anunciar a venda de álcool em gel na recepção."}
+    ],
+    "answer": "C",
+    "explanation": "O aviso pede que os visitantes higienizem as mãos (\"clean your hands\") antes e depois de entrar nos quartos e que não visitem se tiverem febre, tosse ou dor de garganta (\"do not visit today\"). A frase inicial \"To protect our patients\" explicita a finalidade: proteger os pacientes de infecções. Conceito-chave: identificar a finalidade de um texto exige observar seu público, seus verbos de comando e a justificativa apresentada.",
+    "wrong_notes": {
+      "A": "O aviso não menciona horários.",
+      "B": "Não há convite para exames; \"call us instead\" sugere ligar em vez de visitar.",
+      "D": "A restrição vale apenas para quem tem sintomas; os demais podem visitar.",
+      "E": "O álcool em gel aparece como meio de higiene, não como produto à venda."
+    },
+    "concept": "Finalidade comunicativa de um aviso."
+  },
+  {
+    "id": "ing-leitura_en-002",
+    "discipline": "ingles",
+    "topic": "leitura_en",
+    "subtopic": "falsos cognatos",
+    "difficulty": 1,
+    "type": "multipla_escolha",
+    "origin": "inedita_ia",
+    "style_ref": "ENEM",
+    "skills": ["falsos cognatos", "vocabulário em contexto"],
+    "statement": "Leia o trecho de um texto sobre saúde mental:\n\n> Many teenagers **pretend** to be fine when they are not. They smile in class and post happy pictures online, but **actually** they may be feeling anxious or lonely. Parents and teachers should listen without judging.\n\nNo contexto, as palavras destacadas significam, respectivamente:",
+    "alternatives": [
+      {"key": "A", "text": "pretendem — atualmente"},
+      {"key": "B", "text": "fingem — na verdade"},
+      {"key": "C", "text": "pretendem — na verdade"},
+      {"key": "D", "text": "fingem — atualmente"},
+      {"key": "E", "text": "desejam — finalmente"}
+    ],
+    "answer": "B",
+    "explanation": "\"Pretend\" é um falso cognato: não significa \"pretender\", mas \"fingir\". O texto diz que muitos adolescentes fingem estar bem. \"Actually\" também é falso cognato: significa \"na verdade\", \"de fato\", e não \"atualmente\" (que em inglês seria \"currently\" ou \"nowadays\"). O contraste com \"but\" confirma: eles sorriem, mas, na verdade, podem estar ansiosos. Conceito-chave: falsos cognatos são palavras parecidas com o português, mas com significado diferente.",
+    "wrong_notes": {
+      "A": "Cai nos dois falsos cognatos, traduzindo pela semelhança com o português.",
+      "C": "Acerta \"actually\", mas cai no falso cognato \"pretend\".",
+      "D": "Acerta \"pretend\", mas traduz \"actually\" como \"atualmente\".",
+      "E": "\"Desejam\" e \"finalmente\" não correspondem às palavras nem ao contraste construído por \"but\"."
+    },
+    "concept": "Falsos cognatos: pretend e actually."
+  },
+  {
+    "id": "ing-leitura_en-003",
+    "discipline": "ingles",
+    "topic": "leitura_en",
+    "subtopic": "estratégias de leitura",
+    "difficulty": 2,
+    "type": "multipla_escolha",
+    "origin": "inedita_ia",
+    "style_ref": "ENEM",
+    "skills": ["compreensão geral", "leitura de resumo científico"],
+    "statement": "Leia o resumo de um estudo hipotético:\n\n> In this study, 300 adults with high blood pressure were divided into two groups. One group walked for 30 minutes, five days a week; the other group kept their usual routine. After 12 weeks, the walking group showed a greater average reduction in blood pressure than the control group. The authors conclude that regular moderate exercise may help control hypertension, but larger studies are needed.\n\nDe acordo com o resumo, o estudo:",
+    "alternatives": [
+      {"key": "A", "text": "comprovou que caminhar cura definitivamente a hipertensão."},
+      {"key": "B", "text": "mostrou que o grupo que manteve a rotina teve maior redução da pressão."},
+      {"key": "C", "text": "foi realizado com 300 adolescentes durante 12 meses."},
+      {"key": "D", "text": "concluiu que exercícios intensos são perigosos para hipertensos."},
+      {"key": "E", "text": "indicou que caminhadas regulares podem ajudar a controlar a pressão, embora sejam necessários estudos maiores."}
+    ],
+    "answer": "E",
+    "explanation": "O resumo descreve dois grupos de adultos hipertensos: um caminhou 30 minutos, cinco dias por semana; o outro manteve a rotina. Após 12 semanas, o grupo da caminhada teve maior redução média da pressão. A conclusão é cautelosa: o exercício \"may help\" (pode ajudar), e \"larger studies are needed\" (são necessários estudos maiores). Conceito-chave: em textos científicos, verbos modais como \"may\" indicam cautela, e não certeza.",
+    "wrong_notes": {
+      "A": "O texto usa \"may help\" (pode ajudar); não fala em cura definitiva.",
+      "B": "Inverte o resultado: o grupo da caminhada teve maior redução.",
+      "C": "Os participantes eram adultos (\"adults\"), e o período foi de 12 semanas (\"weeks\").",
+      "D": "O estudo trata de exercício moderado e não menciona perigo de exercícios intensos."
+    },
+    "concept": "Compreensão de resumo científico e linguagem de cautela."
+  },
+  {
+    "id": "ing-leitura_en-004",
+    "discipline": "ingles",
+    "topic": "leitura_en",
+    "subtopic": "vocabulário em contexto",
+    "difficulty": 2,
+    "type": "multipla_escolha",
+    "origin": "inedita_ia",
+    "style_ref": "ENEM",
+    "skills": ["conectivos", "relações lógicas"],
+    "statement": "Leia o trecho de um artigo de divulgação:\n\n> Sugar-sweetened drinks are cheap and easy to find. **However**, their regular consumption is linked to obesity, type 2 diabetes and tooth decay. **Therefore**, some countries have introduced taxes on these products to discourage their consumption.\n\nOs conectivos destacados estabelecem, respectivamente, relações de:",
+    "alternatives": [
+      {"key": "A", "text": "oposição e conclusão."},
+      {"key": "B", "text": "adição e causa."},
+      {"key": "C", "text": "conclusão e oposição."},
+      {"key": "D", "text": "tempo e comparação."},
+      {"key": "E", "text": "condição e finalidade."}
+    ],
+    "answer": "A",
+    "explanation": "\"However\" equivale a \"no entanto\": opõe a vantagem das bebidas (baratas e fáceis de encontrar) aos riscos para a saúde. \"Therefore\" equivale a \"portanto\": introduz a conclusão lógica — por causa dos riscos, alguns países criaram impostos. Reconhecer conectivos ajuda a entender a estrutura argumentativa mesmo sem conhecer todas as palavras. Conceito-chave: however = oposição; therefore = conclusão.",
+    "wrong_notes": {
+      "B": "\"However\" não acrescenta ideia na mesma direção, e \"therefore\" introduz consequência/conclusão, não causa.",
+      "C": "Inverte o sentido dos dois conectivos.",
+      "D": "Nenhum dos conectivos indica tempo ou comparação.",
+      "E": "Condição seria \"if\"/\"unless\"; finalidade seria \"in order to\"/\"so that\"."
+    },
+    "concept": "Conectivos de oposição e conclusão em inglês."
+  },
+  {
+    "id": "ing-leitura_en-005",
+    "discipline": "ingles",
+    "topic": "leitura_en",
+    "subtopic": "estratégias de leitura",
+    "difficulty": 3,
+    "type": "multipla_escolha",
+    "origin": "inedita_ia",
+    "style_ref": "ENEM",
+    "skills": ["identificação do ponto de vista", "inferência"],
+    "statement": "Leia o trecho de um artigo de opinião:\n\n> Every time someone takes antibiotics for a common cold, they are spending a resource that belongs to all of us. Colds are caused by viruses, and antibiotics do nothing against viruses. What they do, when misused, is give resistant bacteria a chance to spread. We treat antibiotics like candy, and one day we may find the jar empty.\n\nAo afirmar \"We treat antibiotics like candy, and one day we may find the jar empty\", o autor:",
+    "alternatives": [
+      {"key": "A", "text": "recomenda substituir os antibióticos por doces no tratamento de resfriados."},
+      {"key": "B", "text": "afirma que os antibióticos já deixaram de ser fabricados."},
+      {"key": "C", "text": "alerta que o uso banalizado de antibióticos pode torná-los ineficazes no futuro."},
+      {"key": "D", "text": "defende que os antibióticos são eficazes contra os vírus do resfriado."},
+      {"key": "E", "text": "critica o preço elevado dos antibióticos nas farmácias."}
+    ],
+    "answer": "C",
+    "explanation": "A comparação \"like candy\" (como se fossem doces) critica o uso banal e excessivo dos antibióticos. A imagem do \"pote vazio\" é metafórica: não significa falta física do remédio, mas a perda de sua eficácia, já que o uso inadequado favorece bactérias resistentes, como o próprio texto explica. O autor também lembra que antibióticos não agem contra vírus, causadores do resfriado. Conceito-chave: compreender metáforas no texto exige relacioná-las ao argumento central.",
+    "wrong_notes": {
+      "A": "Interpreta a comparação literalmente.",
+      "B": "O \"pote vazio\" é uma possibilidade futura (\"may\") e metafórica, não um fato atual.",
+      "D": "O texto afirma o contrário: \"antibiotics do nothing against viruses\".",
+      "E": "O texto não trata de preço; \"spending a resource\" refere-se ao desgaste da eficácia."
+    },
+    "concept": "Metáfora a serviço da argumentação sobre resistência bacteriana."
+  },
+  {
+    "id": "ing-leitura_en-006",
+    "discipline": "ingles",
+    "topic": "leitura_en",
+    "subtopic": "vocabulário em contexto",
+    "difficulty": 3,
+    "type": "multipla_escolha",
+    "origin": "inedita_ia",
+    "style_ref": "ENEM",
+    "skills": ["referência pronominal", "coesão"],
+    "statement": "Leia o trecho de um texto sobre a Amazônia:\n\n> Indigenous communities in the Amazon have used hundreds of plants to treat illnesses for generations. Scientists are now studying **them** to find new medicines. However, many of these communities say **their** knowledge has been taken without permission or fair payment, and **they** are asking for laws that protect it.\n\nOs pronomes destacados referem-se, respectivamente, a:",
+    "alternatives": [
+      {"key": "A", "text": "cientistas — plantas — leis"},
+      {"key": "B", "text": "comunidades indígenas — cientistas — plantas"},
+      {"key": "C", "text": "doenças — cientistas — comunidades indígenas"},
+      {"key": "D", "text": "plantas — comunidades indígenas — comunidades indígenas"},
+      {"key": "E", "text": "gerações — plantas — cientistas"}
+    ],
+    "answer": "D",
+    "explanation": "\"Them\" é objeto de \"studying\": os cientistas estudam as plantas para encontrar novos remédios (\"hundreds of plants\"). \"Their knowledge\" é o conhecimento das comunidades, mencionadas logo antes (\"many of these communities say their knowledge...\"). \"They are asking for laws\" também se refere às comunidades, que reivindicam proteção para seus saberes. Conceito-chave: a referência pronominal se resolve pelo sentido e pela estrutura da frase.",
+    "wrong_notes": {
+      "A": "\"Them\" não pode ser \"cientistas\", que são o sujeito da mesma oração; e as leis não pedem nada.",
+      "B": "Cientistas não estudam as comunidades para achar remédios, e o conhecimento tomado é das comunidades.",
+      "C": "Não se estudam doenças \"para achar remédios\" no texto; o objeto são as plantas, e o conhecimento não é dos cientistas.",
+      "E": "\"Generations\" é apenas indicação de tempo; o conhecimento não é das plantas."
+    },
+    "concept": "Referência pronominal em inglês."
+  },
+  {
+    "id": "ing-leitura_en-007",
+    "discipline": "ingles",
+    "topic": "leitura_en",
+    "subtopic": "estratégias de leitura",
+    "difficulty": 4,
+    "type": "multipla_escolha",
+    "origin": "inedita_ia",
+    "style_ref": "Vestibular federal",
+    "skills": ["leitura de poema", "inferência", "linguagem figurada"],
+    "statement": "Leia o poema (texto original):\n\n> **Night Shift**\n> The hallway hums its fluorescent song,\n> a nurse counts pills like rosary beads.\n> Room 12 is sleeping. Room 14 is not.\n> She learns the alphabet of breathing:\n> the short words of fear,\n> the long sentences of rest.\n\nNo poema, a expressão \"the alphabet of breathing\" sugere que a enfermeira:",
+    "alternatives": [
+      {"key": "A", "text": "ensina os pacientes a ler durante o plantão noturno."},
+      {"key": "B", "text": "aprende a interpretar o estado dos pacientes pelos diferentes ritmos de respiração."},
+      {"key": "C", "text": "sofre de falta de ar por causa do cansaço do plantão."},
+      {"key": "D", "text": "reza em voz alta para que os pacientes durmam."},
+      {"key": "E", "text": "anota em ordem alfabética os nomes dos pacientes de cada quarto."}
+    ],
+    "answer": "B",
+    "explanation": "O poema constrói uma metáfora: a respiração é uma linguagem, com \"alfabeto\", \"palavras\" e \"frases\". Respirações curtas (\"short words\") indicam medo; respirações longas (\"long sentences\") indicam descanso. Assim, a enfermeira aprende a \"ler\" o estado dos pacientes pelo modo como respiram, competência construída na experiência dos plantões. A comparação \"like rosary beads\" mostra o cuidado quase devocional, mas não significa que ela reze. Conceito-chave: a leitura de poemas em língua estrangeira exige reconhecer metáforas e relacioná-las ao contexto.",
+    "wrong_notes": {
+      "A": "Interpreta \"alphabet\" literalmente; não há ensino de leitura no poema.",
+      "C": "Quem respira com medo ou em repouso são os pacientes; nada indica falta de ar da enfermeira.",
+      "D": "\"Like rosary beads\" é comparação com o gesto de contar comprimidos, não indicação de que ela reze.",
+      "E": "Os quartos são identificados por números, e não há referência a nomes em ordem alfabética."
+    },
+    "concept": "Metáfora em poema em língua inglesa."
+  },
+  {
+    "id": "ing-leitura_en-008",
+    "discipline": "ingles",
+    "topic": "leitura_en",
+    "subtopic": "vocabulário em contexto",
+    "difficulty": 4,
+    "type": "multipla_escolha",
+    "origin": "inedita_ia",
+    "style_ref": "Vestibular federal",
+    "skills": ["modalização", "leitura crítica de notícia científica"],
+    "statement": "Leia dois títulos sobre o mesmo estudo hipotético:\n\n> **Title 1:** Coffee prevents heart disease, new study proves\n> **Title 2:** Moderate coffee intake may be associated with lower heart disease risk, study suggests\n\nO estudo acompanhou adultos por dez anos e observou que quem bebia de duas a três xícaras de café por dia teve menos casos de doença cardíaca, sem testar o café como intervenção. Considerando essas informações, é correto afirmar que:",
+    "alternatives": [
+      {"key": "A", "text": "o Título 1 é mais adequado, pois \"proves\" mostra que a pesquisa foi bem conduzida."},
+      {"key": "B", "text": "os dois títulos têm o mesmo sentido, pois tratam do mesmo estudo."},
+      {"key": "C", "text": "o Título 2 afirma que o café causa doenças cardíacas."},
+      {"key": "D", "text": "o Título 2 nega qualquer relação entre café e saúde do coração."},
+      {"key": "E", "text": "o Título 2 é mais fiel ao estudo, pois \"may be associated\" e \"suggests\" indicam associação, e não prova de causa."}
+    ],
+    "answer": "E",
+    "explanation": "O estudo era observacional: acompanhou pessoas e encontrou uma associação, sem testar o café como intervenção. Isso não permite afirmar que o café previne doença (relação causal). O Título 1 exagera com \"prevents\" e \"proves\". O Título 2 usa marcadores de cautela — \"may be associated\" (pode estar associado) e \"suggests\" (sugere) —, compatíveis com o tipo de estudo. Conceito-chave: verbos e modais como may, suggest e associated indicam o grau de certeza; associação não é causalidade.",
+    "wrong_notes": {
+      "A": "\"Proves\" e \"prevents\" atribuem ao estudo uma certeza causal que ele não tem.",
+      "B": "Os títulos diferem no grau de certeza: um afirma causa, o outro indica associação.",
+      "C": "O Título 2 fala de menor risco (\"lower risk\"), não de causa de doença.",
+      "D": "O Título 2 afirma uma possível associação; não nega relação."
+    },
+    "concept": "Modalização e distinção entre associação e causa."
+  }
+]

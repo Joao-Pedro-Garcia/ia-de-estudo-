@@ -1,0 +1,739 @@
+[
+  {
+    "id": "fil-antiga-001",
+    "discipline": "filosofia",
+    "topic": "antiga",
+    "subtopic": "pré-socráticos",
+    "difficulty": 1,
+    "type": "multipla_escolha",
+    "origin": "inedita_ia",
+    "style_ref": "ENEM",
+    "skills": [
+      "interpretação de texto",
+      "identificação de conceito filosófico"
+    ],
+    "statement": "Por volta do século VI a.C., na cidade grega de Mileto, Tales observou que os seres vivos dependem da umidade, que os alimentos são úmidos e que a água pode ser sólida, líquida ou vapor. A partir disso, afirmou que a água é o princípio de todas as coisas.\n\nO aspecto mais importante dessa reflexão para a história do pensamento é",
+    "alternatives": [
+      {
+        "key": "A",
+        "text": "a comprovação experimental de que todos os seres são formados apenas por água."
+      },
+      {
+        "key": "B",
+        "text": "a defesa de que os deuses do Olimpo criaram o mundo a partir da água."
+      },
+      {
+        "key": "C",
+        "text": "a busca de um princípio natural (arché) para explicar a origem e a transformação da natureza, por meio da observação e da razão, e não de narrativas míticas."
+      },
+      {
+        "key": "D",
+        "text": "a rejeição de qualquer tentativa de explicar a natureza, considerada incompreensível."
+      },
+      {
+        "key": "E",
+        "text": "a descoberta de que a matéria é formada por átomos indivisíveis."
+      }
+    ],
+    "answer": "C",
+    "explanation": "O mais importante não é a resposta de Tales (a água), mas o tipo de pergunta e de explicação. Os pré-socráticos procuravam a arché, um princípio natural do qual tudo se origina, baseando-se em observação e argumentação racional, e não em mitos sobre deuses. Por isso são considerados os primeiros filósofos da natureza (physis). Conceito-chave: os pré-socráticos inauguram a explicação racional da natureza pela busca da arché.",
+    "wrong_notes": {
+      "A": "Tales não fez comprovação experimental no sentido moderno; e a tese de que tudo é água não se sustenta.",
+      "B": "A novidade da filosofia foi justamente abandonar a explicação pela ação dos deuses.",
+      "D": "Os pré-socráticos buscavam explicar a natureza, não renunciar a isso.",
+      "E": "A teoria atomista é de Leucipo e Demócrito, não de Tales."
+    },
+    "concept": "Pré-socráticos: busca racional da arché (princípio da physis)."
+  },
+  {
+    "id": "fil-antiga-002",
+    "discipline": "filosofia",
+    "topic": "antiga",
+    "subtopic": "Sócrates e Platão",
+    "difficulty": 2,
+    "type": "multipla_escolha",
+    "origin": "inedita_ia",
+    "style_ref": "ENEM",
+    "skills": [
+      "interpretação de alegoria",
+      "relação filosofia-atualidade"
+    ],
+    "statement": "Na *República*, Platão narra a situação de prisioneiros acorrentados no fundo de uma caverna desde a infância. Eles veem apenas sombras projetadas na parede e as tomam pela realidade. Um deles é libertado, sobe até a saída, inicialmente se ofusca com a luz e, aos poucos, contempla os objetos reais e o próprio Sol. Ao voltar para contar o que viu, é ridicularizado pelos companheiros.\n\nUma leitura atual dessa alegoria seria a de um estudante que",
+    "alternatives": [
+      {
+        "key": "A",
+        "text": "passa a questionar informações de saúde que circulam sem fonte nas redes sociais, buscando conhecimento fundamentado, e enfrenta resistência de quem prefere as crenças habituais."
+      },
+      {
+        "key": "B",
+        "text": "aceita as opiniões da maioria porque elas representam a verdade mais segura."
+      },
+      {
+        "key": "C",
+        "text": "decide que todas as opiniões têm o mesmo valor e que não existe conhecimento verdadeiro."
+      },
+      {
+        "key": "D",
+        "text": "confia apenas no que vê, pois os sentidos são a fonte mais segura do conhecimento."
+      },
+      {
+        "key": "E",
+        "text": "abandona os estudos por considerar que o conhecimento causa sofrimento desnecessário."
+      }
+    ],
+    "answer": "A",
+    "explanation": "Na alegoria, as sombras representam as aparências e opiniões (doxa); a saída da caverna representa o esforço doloroso de chegar ao conhecimento verdadeiro (episteme); e a reação dos prisioneiros mostra a resistência de quem está acostumado às aparências. O estudante que troca informações sem fundamento por conhecimento fundamentado e enfrenta resistência reproduz esse percurso. Conceito-chave: a alegoria da caverna representa a passagem da opinião ao conhecimento verdadeiro.",
+    "wrong_notes": {
+      "B": "Na alegoria, a maioria permanece presa às sombras; seguir a opinião comum é ficar na caverna.",
+      "C": "Platão defende a existência de um conhecimento verdadeiro, simbolizado pelo Sol; o relativismo contraria a alegoria.",
+      "D": "Para Platão, os sentidos mostram aparências (sombras); o conhecimento verdadeiro exige a razão.",
+      "E": "O ofuscamento é uma etapa passageira; o prisioneiro liberto não volta atrás, apesar da dificuldade."
+    },
+    "concept": "Alegoria da caverna: da opinião (doxa) ao conhecimento (episteme)."
+  },
+  {
+    "id": "fil-antiga-003",
+    "discipline": "filosofia",
+    "topic": "antiga",
+    "subtopic": "Aristóteles",
+    "difficulty": 3,
+    "type": "multipla_escolha",
+    "origin": "inedita_ia",
+    "style_ref": "ENEM",
+    "skills": [
+      "aplicação de conceito ético",
+      "análise de caso"
+    ],
+    "statement": "Para Aristóteles, a virtude moral é uma disposição adquirida pelo hábito e consiste em um meio-termo entre dois vícios: um por excesso e outro por falta. Esse meio-termo não é uma média aritmética, mas aquilo que é adequado à situação, conforme a razão prudente.\n\nEm um plantão, uma estudante de Medicina presencia um procedimento que considera arriscado para o paciente. Segundo a ética aristotélica, a atitude que expressa a virtude da coragem seria",
+    "alternatives": [
+      {
+        "key": "A",
+        "text": "silenciar sempre, para evitar qualquer risco de conflito com a equipe."
+      },
+      {
+        "key": "B",
+        "text": "interromper o procedimento à força, sem avaliar a situação, para demonstrar firmeza."
+      },
+      {
+        "key": "C",
+        "text": "agir conforme a regra de dividir igualmente a diferença entre calar e interromper, independentemente das circunstâncias."
+      },
+      {
+        "key": "D",
+        "text": "deixar a decisão ao acaso, já que a virtude é um dom natural que não depende da escolha."
+      },
+      {
+        "key": "E",
+        "text": "comunicar sua preocupação, de forma respeitosa e no momento oportuno, a quem supervisiona o procedimento."
+      }
+    ],
+    "answer": "E",
+    "explanation": "A coragem, em Aristóteles, situa-se entre a covardia (falta) e a temeridade (excesso). Silenciar por medo seria covardia; interromper à força, sem avaliar, seria temeridade. A atitude virtuosa é aquela que a razão prudente reconhece como adequada à situação: manifestar a preocupação de forma responsável a quem pode decidir. Além disso, a virtude se forma pelo hábito e pela escolha, não por acaso. Conceito-chave: virtude como justo meio entre excesso e falta, definido pela prudência.",
+    "wrong_notes": {
+      "A": "Silenciar por medo do conflito corresponde ao vício por falta (covardia).",
+      "B": "Agir com força sem avaliar o contexto é o vício por excesso (temeridade).",
+      "C": "O meio-termo aristotélico não é média aritmética nem regra fixa; depende das circunstâncias.",
+      "D": "Para Aristóteles, as virtudes morais são adquiridas pelo hábito e pela escolha deliberada, não dons naturais."
+    },
+    "concept": "Ética aristotélica: virtude como justo meio guiado pela prudência."
+  },
+  {
+    "id": "fil-antiga-004",
+    "discipline": "filosofia",
+    "topic": "antiga",
+    "subtopic": "helenismo",
+    "difficulty": 4,
+    "type": "multipla_escolha",
+    "origin": "inedita_ia",
+    "style_ref": "ENEM",
+    "skills": [
+      "interpretação de texto filosófico",
+      "distinção conceitual",
+      "análise de argumento"
+    ],
+    "statement": "Leia o trecho, adaptado da *Carta a Meneceu*, de Epicuro:\n\n> \"Quando dizemos que o prazer é o fim da vida, não nos referimos aos prazeres dos devassos nem aos que residem no gozo desenfreado, como pensam alguns que nos ignoram ou interpretam mal. Referimo-nos à ausência de dor no corpo e de perturbação na alma. Não são as bebedeiras, os banquetes contínuos ou os luxos que tornam a vida agradável, mas o raciocínio sóbrio, que investiga as causas de cada escolha e de cada recusa.\"\n\nUm influenciador afirmou que a filosofia de Epicuro justificaria \"aproveitar todos os prazeres possíveis, sem pensar nas consequências\". Com base no trecho, essa interpretação é",
+    "alternatives": [
+      {
+        "key": "A",
+        "text": "correta, pois Epicuro define o prazer como o fim da vida e recomenda buscá-lo sem limites."
+      },
+      {
+        "key": "B",
+        "text": "incorreta, pois Epicuro associa a vida feliz à ausência de dor e de perturbação (ataraxia), alcançada pela escolha racional e moderada dos prazeres."
+      },
+      {
+        "key": "C",
+        "text": "correta, pois o trecho valoriza os banquetes e os luxos como fontes de felicidade."
+      },
+      {
+        "key": "D",
+        "text": "incorreta, pois Epicuro rejeita totalmente o prazer e defende o sofrimento como caminho para a virtude."
+      },
+      {
+        "key": "E",
+        "text": "incorreta, pois Epicuro afirma que a felicidade depende exclusivamente da vontade dos deuses."
+      }
+    ],
+    "answer": "B",
+    "explanation": "O trecho antecipa a má interpretação: Epicuro diz que não se refere aos prazeres dos devassos. O prazer que é fim da vida é a ausência de dor no corpo e de perturbação na alma (ataraxia). Para alcançá-lo, é preciso o \"raciocínio sóbrio\", que avalia as consequências de cada escolha, o que implica moderação, pois certos prazeres trazem dores maiores depois. Assim, o hedonismo epicurista é racional e moderado, não um convite ao excesso. Conceito-chave: em Epicuro, felicidade é ataraxia obtida pelo cálculo racional dos prazeres.",
+    "wrong_notes": {
+      "A": "Ignora a qualificação do trecho: o prazer visado é a ausência de dor e perturbação, buscado com raciocínio sóbrio, não sem limites.",
+      "C": "O trecho afirma explicitamente que banquetes e luxos não tornam a vida agradável.",
+      "D": "Erro oposto: Epicuro não rejeita o prazer; ele o redefine. A valorização do sofrimento não aparece no texto.",
+      "E": "O trecho atribui a vida feliz ao raciocínio humano, não à vontade dos deuses."
+    },
+    "concept": "Epicurismo: prazer como ausência de dor e perturbação (ataraxia)."
+  },
+  {
+    "id": "fil-medieval_moderna-001",
+    "discipline": "filosofia",
+    "topic": "medieval_moderna",
+    "subtopic": "racionalismo e empirismo",
+    "difficulty": 1,
+    "type": "multipla_escolha",
+    "origin": "inedita_ia",
+    "style_ref": "ENEM",
+    "skills": [
+      "interpretação de texto filosófico"
+    ],
+    "statement": "Em suas *Meditações*, René Descartes decide duvidar de tudo aquilo de que é possível duvidar: dos sentidos, que às vezes enganam, e até da existência do mundo exterior. Mas percebe que, enquanto duvida, está pensando, e que, para pensar, precisa existir.\n\nA conclusão a que Descartes chega nesse percurso é expressa pela fórmula",
+    "alternatives": [
+      {
+        "key": "A",
+        "text": "\"Só sei que nada sei.\""
+      },
+      {
+        "key": "B",
+        "text": "\"O homem é a medida de todas as coisas.\""
+      },
+      {
+        "key": "C",
+        "text": "\"Nada está no intelecto sem antes ter passado pelos sentidos.\""
+      },
+      {
+        "key": "D",
+        "text": "\"Penso, logo existo.\""
+      },
+      {
+        "key": "E",
+        "text": "\"Deus está morto.\""
+      }
+    ],
+    "answer": "D",
+    "explanation": "Descartes usa a dúvida metódica para encontrar uma verdade indubitável. Mesmo que tudo seja ilusão, o próprio ato de duvidar é um pensamento, e quem pensa existe. Daí a fórmula \"Penso, logo existo\" (cogito, ergo sum), primeiro princípio de sua filosofia racionalista. Conceito-chave: o cogito é a primeira certeza obtida pela dúvida metódica.",
+    "wrong_notes": {
+      "A": "Frase atribuída a Sócrates, sobre a consciência da própria ignorância.",
+      "B": "Frase do sofista Protágoras, ligada ao relativismo.",
+      "C": "Princípio associado ao empirismo, corrente oposta ao racionalismo cartesiano.",
+      "E": "Frase de Nietzsche, do século XIX, sobre a crise dos valores tradicionais."
+    },
+    "concept": "Dúvida metódica e cogito cartesiano."
+  },
+  {
+    "id": "fil-medieval_moderna-002",
+    "discipline": "filosofia",
+    "topic": "medieval_moderna",
+    "subtopic": "contratualistas",
+    "difficulty": 2,
+    "type": "multipla_escolha",
+    "origin": "inedita_ia",
+    "style_ref": "ENEM",
+    "skills": [
+      "interpretação de texto filosófico",
+      "relação com política"
+    ],
+    "statement": "No *Leviatã* (1651), Thomas Hobbes descreve a condição dos seres humanos sem um poder comum:\n\n> \"Enquanto os homens vivem sem um poder comum capaz de mantê-los todos em respeito, eles se encontram naquela condição que se chama guerra, uma guerra de todos contra todos. Nessa condição, não há lugar para o trabalho, pois seu fruto é incerto; [...] e a vida do homem é solitária, pobre, sórdida, embrutecida e curta.\"\n\nSegundo Hobbes, a saída para essa condição é",
+    "alternatives": [
+      {
+        "key": "A",
+        "text": "o retorno a uma vida natural sem leis, na qual o ser humano é bom por natureza."
+      },
+      {
+        "key": "B",
+        "text": "a divisão do poder entre três órgãos independentes que se fiscalizam mutuamente."
+      },
+      {
+        "key": "C",
+        "text": "um pacto em que os indivíduos transferem seus direitos a um soberano com poder para garantir a paz e a segurança."
+      },
+      {
+        "key": "D",
+        "text": "a abolição do Estado e da propriedade privada pela ação dos trabalhadores."
+      },
+      {
+        "key": "E",
+        "text": "a obediência a um rei cujo poder deriva exclusivamente da vontade divina, sem qualquer acordo humano."
+      }
+    ],
+    "answer": "C",
+    "explanation": "Para Hobbes, no estado de natureza todos têm direito a tudo e vivem com medo da morte violenta. Para escapar dessa insegurança, os indivíduos firmam um contrato social, transferindo seus direitos a um soberano (o Leviatã), que concentra poder suficiente para impor a ordem. A legitimidade do soberano vem desse pacto, motivado pela busca de segurança. Conceito-chave: em Hobbes, o contrato social cria um Estado forte para superar a guerra de todos contra todos.",
+    "wrong_notes": {
+      "A": "A ideia de bondade natural é associada a Rousseau; para Hobbes, a vida sem Estado é guerra.",
+      "B": "A separação dos poderes é ideia de Montesquieu; Hobbes defende um poder soberano concentrado.",
+      "D": "Corresponde a ideias de Marx e do anarquismo, não de Hobbes, que defende um Estado forte.",
+      "E": "Hobbes fundamenta o poder em um pacto humano, e não no direito divino dos reis."
+    },
+    "concept": "Hobbes: estado de natureza como guerra e contrato que institui o soberano."
+  },
+  {
+    "id": "fil-medieval_moderna-003",
+    "discipline": "filosofia",
+    "topic": "medieval_moderna",
+    "subtopic": "Agostinho e Tomás",
+    "difficulty": 3,
+    "type": "multipla_escolha",
+    "origin": "inedita_ia",
+    "style_ref": "ENEM",
+    "skills": [
+      "interpretação de texto filosófico",
+      "análise de relação fé-razão"
+    ],
+    "statement": "Leia o trecho, inspirado no pensamento de Tomás de Aquino (século XIII):\n\n> \"Há verdades sobre Deus que a razão natural pode alcançar, como a sua existência, demonstrável a partir da observação do movimento e das causas no mundo. Há outras, porém, que excedem toda a capacidade da razão humana e só são conhecidas pela revelação. Como a verdade não pode contradizer a verdade, o que é corretamente demonstrado pela razão jamais se opõe ao que a fé ensina.\"\n\nO trecho expressa a concepção de que",
+    "alternatives": [
+      {
+        "key": "A",
+        "text": "razão e fé são caminhos distintos, mas harmônicos: a razão demonstra algumas verdades, e a fé alcança outras que a ultrapassam, sem contradição entre elas."
+      },
+      {
+        "key": "B",
+        "text": "a razão deve ser abandonada, pois apenas a fé conduz a qualquer verdade."
+      },
+      {
+        "key": "C",
+        "text": "a fé deve ser rejeitada sempre que não puder ser comprovada experimentalmente."
+      },
+      {
+        "key": "D",
+        "text": "razão e fé produzem verdades contraditórias, e cabe a cada pessoa escolher uma delas."
+      },
+      {
+        "key": "E",
+        "text": "a existência de Deus não pode ser objeto de nenhum argumento racional."
+      }
+    ],
+    "answer": "A",
+    "explanation": "O texto distingue dois tipos de verdade: as acessíveis à razão (como a existência de Deus, que Tomás buscou demonstrar a partir do movimento e das causas) e as que dependem da revelação. Ao afirmar que \"a verdade não pode contradizer a verdade\", sustenta que razão e fé não se opõem. Essa conciliação, que incorpora a filosofia de Aristóteles à teologia cristã, é característica da escolástica. Conceito-chave: em Tomás de Aquino, fé e razão são complementares.",
+    "wrong_notes": {
+      "B": "O texto reconhece que a razão alcança verdades, inclusive a existência de Deus.",
+      "C": "Inverte a posição de Tomás; a crítica da fé a partir da experiência é própria de correntes modernas.",
+      "D": "O trecho nega expressamente a contradição entre razão e fé.",
+      "E": "O texto afirma que a existência de Deus é demonstrável pela razão natural."
+    },
+    "concept": "Tomás de Aquino: harmonia entre fé e razão."
+  },
+  {
+    "id": "fil-medieval_moderna-004",
+    "discipline": "filosofia",
+    "topic": "medieval_moderna",
+    "subtopic": "Kant",
+    "difficulty": 4,
+    "type": "multipla_escolha",
+    "origin": "inedita_ia",
+    "style_ref": "ENEM",
+    "skills": [
+      "aplicação de princípio ético",
+      "análise de caso",
+      "relação filosofia-ética médica"
+    ],
+    "statement": "Uma das formulações do imperativo categórico de Immanuel Kant pode ser parafraseada assim:\n\n> \"Age de tal maneira que trates a humanidade, tanto na tua pessoa quanto na de qualquer outro, sempre ao mesmo tempo como fim e nunca apenas como meio.\"\n\nConsidere os casos:\n\nI. Um pesquisador inclui pacientes em um estudo sem informá-los, argumentando que os resultados beneficiarão milhares de pessoas no futuro.\nII. Uma médica é paga pelo seu trabalho e atende pacientes que a procuram, respeitando as decisões informadas de cada um sobre o próprio tratamento.\nIII. Um hospital omite de um paciente informações sobre os riscos de uma cirurgia para garantir que ele aceite o procedimento, considerado lucrativo.\n\nÀ luz da formulação kantiana, violam o imperativo categórico",
+    "alternatives": [
+      {
+        "key": "A",
+        "text": "apenas I."
+      },
+      {
+        "key": "B",
+        "text": "apenas II."
+      },
+      {
+        "key": "C",
+        "text": "apenas III."
+      },
+      {
+        "key": "D",
+        "text": "apenas II e III."
+      },
+      {
+        "key": "E",
+        "text": "apenas I e III."
+      }
+    ],
+    "answer": "E",
+    "explanation": "Kant não proíbe que as pessoas sirvam umas às outras como meio (por exemplo, numa relação de trabalho), mas proíbe tratá-las apenas como meio, desconsiderando sua dignidade e autonomia racional. Em I, os pacientes são usados como instrumento para benefícios futuros sem seu conhecimento; o argumento das boas consequências não justifica a ação para Kant. Em III, o engano impede o paciente de decidir, transformando-o em meio para o lucro. Em II, há uma relação de troca em que a autonomia dos pacientes é respeitada, ou seja, eles são tratados também como fins. Conceito-chave: o imperativo categórico exige respeitar cada pessoa como fim em si mesma, nunca apenas como meio.",
+    "wrong_notes": {
+      "A": "Deixa de reconhecer que, em III, a omissão de riscos também usa o paciente apenas como meio (para lucro).",
+      "B": "Em II, a relação de trabalho não viola a fórmula, pois a autonomia dos pacientes é respeitada; usar alguém como meio não é proibido se ele também for tratado como fim.",
+      "C": "Esquece o caso I: boas consequências futuras não justificam, para Kant, usar pessoas sem seu consentimento.",
+      "D": "Inclui indevidamente II, confundindo \"usar como meio\" com \"usar apenas como meio\", e exclui I, que é violação clara."
+    },
+    "concept": "Imperativo categórico: tratar a humanidade sempre como fim, nunca apenas como meio."
+  },
+  {
+    "id": "fil-contemporanea_fil-001",
+    "discipline": "filosofia",
+    "topic": "contemporanea_fil",
+    "subtopic": "existencialismo",
+    "difficulty": 1,
+    "type": "multipla_escolha",
+    "origin": "inedita_ia",
+    "style_ref": "ENEM",
+    "skills": [
+      "interpretação de texto filosófico"
+    ],
+    "statement": "Jean-Paul Sartre afirmou que, no ser humano, \"a existência precede a essência\". Para ele, o ser humano primeiro existe, surge no mundo, e só depois se define pelos atos que realiza. Não há uma natureza humana fixa que determine previamente o que cada um será.\n\nUma consequência dessa ideia é que o ser humano",
+    "alternatives": [
+      {
+        "key": "A",
+        "text": "tem seu destino definido desde o nascimento pela vontade divina."
+      },
+      {
+        "key": "B",
+        "text": "é responsável pelo que faz de si mesmo, pois está condenado a ser livre e a escolher."
+      },
+      {
+        "key": "C",
+        "text": "não pode ser responsabilizado por nada, já que não possui uma essência."
+      },
+      {
+        "key": "D",
+        "text": "é inteiramente determinado pela biologia e pelo ambiente."
+      },
+      {
+        "key": "E",
+        "text": "possui uma essência racional imutável que deve apenas descobrir."
+      }
+    ],
+    "answer": "B",
+    "explanation": "Se não há essência prévia, cabe a cada pessoa construir o que é por meio de suas escolhas. Para Sartre, isso significa que o ser humano está \"condenado a ser livre\": não pode deixar de escolher e é responsável pelo que faz de si. A ausência de essência não elimina a responsabilidade; ao contrário, aumenta-a. Conceito-chave: no existencialismo sartriano, liberdade implica responsabilidade.",
+    "wrong_notes": {
+      "A": "Sartre, ateu, rejeita um destino definido por Deus; o ser humano se faz pelas próprias escolhas.",
+      "C": "Inverte a tese: sem essência prévia, a pessoa é plenamente responsável pelo que se torna.",
+      "D": "O determinismo contradiz a ideia de que o ser humano se define por seus atos livres.",
+      "E": "Sartre nega justamente uma essência fixa anterior à existência."
+    },
+    "concept": "Existencialismo: a existência precede a essência; liberdade e responsabilidade."
+  },
+  {
+    "id": "fil-contemporanea_fil-002",
+    "discipline": "filosofia",
+    "topic": "contemporanea_fil",
+    "subtopic": "Nietzsche",
+    "difficulty": 2,
+    "type": "multipla_escolha",
+    "origin": "inedita_ia",
+    "style_ref": "ENEM",
+    "skills": [
+      "interpretação de texto filosófico",
+      "análise de conceito"
+    ],
+    "statement": "Leia o trecho, inspirado em Friedrich Nietzsche:\n\n> \"Aquilo que hoje chamamos de 'bom' nem sempre teve esse sentido. Os valores morais têm uma história: foram criados por homens, em certas condições, para servir a certas formas de vida. É preciso perguntar qual é o valor desses valores e se eles fortalecem ou enfraquecem a vida.\"\n\nA proposta presente no trecho é",
+    "alternatives": [
+      {
+        "key": "A",
+        "text": "aceitar os valores morais como verdades eternas, válidas para todos os tempos."
+      },
+      {
+        "key": "B",
+        "text": "abandonar toda reflexão sobre a moral, pois os valores são indiferentes à vida."
+      },
+      {
+        "key": "C",
+        "text": "fundamentar a moral exclusivamente em um imperativo racional universal."
+      },
+      {
+        "key": "D",
+        "text": "investigar a origem histórica dos valores morais e avaliá-los criticamente segundo seu efeito sobre a vida."
+      },
+      {
+        "key": "E",
+        "text": "demonstrar que a moral cristã é a expressão mais elevada da força vital humana."
+      }
+    ],
+    "answer": "D",
+    "explanation": "O trecho afirma que os valores morais têm história e foram criados por seres humanos, ou seja, não são eternos. Propõe, então, avaliar \"o valor desses valores\", perguntando se fortalecem ou enfraquecem a vida. Esse é o projeto genealógico de Nietzsche, que critica, por exemplo, a moral que ele chamou de moral de rebanho, vista como negadora da vida. Conceito-chave: a genealogia da moral examina a origem histórica dos valores e os submete à crítica.",
+    "wrong_notes": {
+      "A": "O trecho nega o caráter eterno dos valores, afirmando que eles têm história.",
+      "B": "Nietzsche não abandona a reflexão moral; propõe avaliá-la a partir de seus efeitos sobre a vida.",
+      "C": "A fundamentação em imperativo racional universal é kantiana; Nietzsche critica esse tipo de moral.",
+      "E": "Nietzsche criticou a moral cristã como negadora da vida, e não a exaltou."
+    },
+    "concept": "Genealogia da moral: valores têm história e devem ser avaliados criticamente."
+  },
+  {
+    "id": "fil-contemporanea_fil-003",
+    "discipline": "filosofia",
+    "topic": "contemporanea_fil",
+    "subtopic": "Escola de Frankfurt",
+    "difficulty": 3,
+    "type": "multipla_escolha",
+    "origin": "inedita_ia",
+    "style_ref": "ENEM",
+    "skills": [
+      "interpretação de texto filosófico",
+      "aplicação a fenômeno atual"
+    ],
+    "statement": "Theodor Adorno e Max Horkheimer, da Escola de Frankfurt, criaram o conceito de indústria cultural. Segundo eles, filmes, músicas e programas de rádio passaram a ser produzidos como mercadorias em série, com fórmulas padronizadas, para entreter o público e garantir lucro, o que tenderia a reduzir a reflexão crítica.\n\nUma situação atual que pode ser analisada à luz desse conceito é",
+    "alternatives": [
+      {
+        "key": "A",
+        "text": "um grupo de agricultores que troca sementes tradicionais em uma feira comunitária."
+      },
+      {
+        "key": "B",
+        "text": "uma comunidade quilombola que transmite oralmente suas histórias aos mais jovens."
+      },
+      {
+        "key": "C",
+        "text": "uma plataforma digital que produz e recomenda conteúdos padronizados, otimizados para prender a atenção e aumentar o consumo, com pouco espaço para a reflexão."
+      },
+      {
+        "key": "D",
+        "text": "um debate público em que cidadãos analisam criticamente propostas para o sistema de saúde."
+      },
+      {
+        "key": "E",
+        "text": "um músico que compõe sem objetivo comercial e distribui suas obras gratuitamente em sua cidade."
+      }
+    ],
+    "answer": "C",
+    "explanation": "O conceito de indústria cultural descreve a produção da cultura segundo a lógica da mercadoria: padronização, produção em série, busca de lucro e entretenimento que favorece a passividade. Uma plataforma que produz e recomenda conteúdos padronizados para maximizar atenção e consumo segue essa lógica. As demais situações descrevem práticas culturais comunitárias, não comerciais ou críticas, que não se enquadram no conceito. Conceito-chave: indústria cultural é a cultura transformada em mercadoria padronizada.",
+    "wrong_notes": {
+      "A": "Troca comunitária de sementes não é produção cultural em série voltada ao lucro.",
+      "B": "Transmissão oral comunitária é cultura tradicional, não mercadoria padronizada.",
+      "D": "Um debate crítico é o oposto da passividade que, segundo os autores, a indústria cultural estimula.",
+      "E": "A produção sem fins comerciais foge da lógica de mercadoria que define o conceito."
+    },
+    "concept": "Indústria cultural (Adorno e Horkheimer): cultura como mercadoria padronizada."
+  },
+  {
+    "id": "fil-contemporanea_fil-004",
+    "discipline": "filosofia",
+    "topic": "contemporanea_fil",
+    "subtopic": "filosofia política contemporânea (Hannah Arendt)",
+    "difficulty": 4,
+    "type": "multipla_escolha",
+    "origin": "inedita_ia",
+    "style_ref": "ENEM",
+    "skills": [
+      "interpretação de texto filosófico",
+      "análise de argumento",
+      "relação ética-política"
+    ],
+    "statement": "Ao acompanhar o julgamento de Adolf Eichmann, funcionário nazista responsável pela logística da deportação de judeus para campos de extermínio, Hannah Arendt surpreendeu-se: ele não parecia um monstro movido por ódio, mas um burocrata que repetia clichês, dizia apenas cumprir ordens e parecia incapaz de pensar do ponto de vista dos outros. Arendt chamou esse fenômeno de \"banalidade do mal\".\n\nA partir do conceito de Arendt, é correto concluir que",
+    "alternatives": [
+      {
+        "key": "A",
+        "text": "grandes crimes podem ser cometidos por pessoas comuns que renunciam a pensar e a julgar por si mesmas, limitando-se a cumprir funções e obedecer."
+      },
+      {
+        "key": "B",
+        "text": "o mal só é praticado por indivíduos com distúrbios mentais graves e intenções sádicas."
+      },
+      {
+        "key": "C",
+        "text": "Eichmann deveria ser considerado inocente, pois apenas obedecia a ordens superiores."
+      },
+      {
+        "key": "D",
+        "text": "o mal é banal no sentido de ter pouca gravidade e consequências pequenas."
+      },
+      {
+        "key": "E",
+        "text": "a obediência às normas de uma instituição sempre garante comportamentos éticos."
+      }
+    ],
+    "answer": "A",
+    "explanation": "Arendt não diminui a gravidade dos crimes nem absolve Eichmann. O que ela chama de banal é a origem do mal: a ausência de pensamento e de juízo próprio, a adesão acrítica a ordens e rotinas burocráticas. Isso mostra que pessoas comuns podem participar de atrocidades quando deixam de refletir sobre o sentido e as consequências de suas ações. A lição tem alcance ético amplo, inclusive para profissionais de instituições como hospitais. Conceito-chave: a banalidade do mal está na renúncia ao pensamento e ao juízo, não em uma natureza monstruosa.",
+    "wrong_notes": {
+      "B": "Contradiz a observação de Arendt de que Eichmann não parecia um monstro, mas uma pessoa comum.",
+      "C": "Arendt não considerou a obediência uma justificativa; ela apoiou a responsabilização de Eichmann.",
+      "D": "\"Banal\" refere-se à origem do mal na irreflexão, não ao tamanho dos crimes, que foram gigantescos.",
+      "E": "O caso mostra o contrário: obedecer a normas institucionais sem pensar pode levar a crimes."
+    },
+    "concept": "Banalidade do mal (Arendt): mal cometido pela ausência de pensamento e juízo."
+  },
+  {
+    "id": "fil-etica-001",
+    "discipline": "filosofia",
+    "topic": "etica",
+    "subtopic": "ética e moral",
+    "difficulty": 1,
+    "type": "multipla_escolha",
+    "origin": "inedita_ia",
+    "style_ref": "ENEM",
+    "skills": [
+      "distinção conceitual"
+    ],
+    "statement": "Em uma aula, o professor explicou: \"Em uma comunidade, há costumes e normas sobre como agir, transmitidos de geração em geração. Quando refletimos criticamente sobre essas normas, perguntando se são justas e por que devemos segui-las, estamos fazendo outra coisa\".\n\nNa distinção apresentada pelo professor, a reflexão crítica e fundamentada sobre as normas de conduta corresponde à",
+    "alternatives": [
+      {
+        "key": "A",
+        "text": "moral, que é o conjunto de costumes de um grupo."
+      },
+      {
+        "key": "B",
+        "text": "lei penal, que define os crimes e as punições."
+      },
+      {
+        "key": "C",
+        "text": "etiqueta, que regula as boas maneiras sociais."
+      },
+      {
+        "key": "D",
+        "text": "religião, que estabelece verdades reveladas."
+      },
+      {
+        "key": "E",
+        "text": "ética, entendida como reflexão filosófica sobre a moral."
+      }
+    ],
+    "answer": "E",
+    "explanation": "Na distinção usual em filosofia, a moral designa o conjunto de normas, costumes e valores que orientam a conduta em um grupo. A ética é a reflexão filosófica sobre esses valores, que pergunta por seus fundamentos e por sua justiça. O texto descreve justamente essa reflexão crítica. Conceito-chave: moral é o conjunto de normas vividas; ética é a reflexão crítica sobre elas.",
+    "wrong_notes": {
+      "A": "No texto, a moral corresponde aos costumes transmitidos, e não à reflexão sobre eles.",
+      "B": "A lei penal é norma jurídica, não a reflexão filosófica sobre as normas.",
+      "C": "Etiqueta trata de convenções de comportamento, não da justificação das normas.",
+      "D": "A religião pode fundamentar normas, mas o texto descreve a reflexão crítica, racional, sobre elas."
+    },
+    "concept": "Distinção entre ética (reflexão) e moral (normas e costumes)."
+  },
+  {
+    "id": "fil-etica-002",
+    "discipline": "filosofia",
+    "topic": "etica",
+    "subtopic": "bioética",
+    "difficulty": 2,
+    "type": "multipla_escolha",
+    "origin": "inedita_ia",
+    "style_ref": "ENEM",
+    "skills": [
+      "aplicação de princípios bioéticos",
+      "análise de caso clínico"
+    ],
+    "statement": "Um paciente adulto, lúcido e bem informado sobre os riscos, recusa uma transfusão de sangue em uma cirurgia eletiva por convicção pessoal. A equipe explica as consequências possíveis, verifica que ele compreendeu as informações e registra sua decisão, buscando alternativas terapêuticas aceitáveis para ele.\n\nConsiderando os princípios da bioética (autonomia, beneficência, não maleficência e justiça), a conduta da equipe valoriza principalmente o princípio da",
+    "alternatives": [
+      {
+        "key": "A",
+        "text": "justiça, pois distribui igualmente os recursos de saúde entre os pacientes."
+      },
+      {
+        "key": "B",
+        "text": "não maleficência, pois a equipe deixa de realizar qualquer procedimento."
+      },
+      {
+        "key": "C",
+        "text": "beneficência, pois a equipe impõe o tratamento que considera melhor."
+      },
+      {
+        "key": "D",
+        "text": "autonomia, pois respeita a decisão informada de um adulto capaz sobre o próprio corpo."
+      },
+      {
+        "key": "E",
+        "text": "paternalismo, pois a equipe decide pelo paciente o que é melhor para ele."
+      }
+    ],
+    "answer": "D",
+    "explanation": "O caso descreve um adulto capaz, informado e que compreendeu as consequências. A equipe respeita sua escolha, registra-a e busca alternativas, em vez de impor a transfusão. Isso corresponde ao princípio da autonomia: o direito de a pessoa decidir sobre o próprio corpo, desde que tenha capacidade e informação adequada. Conceito-chave: autonomia é o respeito à decisão livre e esclarecida do paciente capaz.",
+    "wrong_notes": {
+      "A": "O caso não envolve distribuição de recursos entre pacientes, tema do princípio da justiça.",
+      "B": "A equipe não abandona o paciente; continua buscando alternativas. O foco da conduta é respeitar a escolha.",
+      "C": "A equipe não impõe o tratamento; impor seria contrariar a autonomia.",
+      "E": "Paternalismo seria decidir pelo paciente, o oposto do que o texto descreve; além disso, não é um dos quatro princípios citados."
+    },
+    "concept": "Bioética: princípio da autonomia e consentimento esclarecido."
+  },
+  {
+    "id": "fil-etica-003",
+    "discipline": "filosofia",
+    "topic": "etica",
+    "subtopic": "bioética",
+    "difficulty": 3,
+    "type": "multipla_escolha",
+    "origin": "inedita_ia",
+    "style_ref": "ENEM",
+    "skills": [
+      "análise de dilema ético",
+      "comparação de teorias éticas"
+    ],
+    "statement": "Durante uma emergência sanitária, um hospital tem apenas um leito de UTI disponível e dois pacientes que precisam dele. Dois membros do comitê de ética argumentam:\n\n**Argumento I.** \"Devemos escolher com base em critérios clínicos objetivos e públicos, como a probabilidade de sobrevivência, aplicados igualmente a todos, sem levar em conta renda, cor, religião ou relações pessoais.\"\n\n**Argumento II.** \"Devemos dar o leito ao paciente que tem plano de saúde particular, pois ele poderá pagar pelo tratamento depois.\"\n\nÀ luz do princípio bioético da justiça, é correto afirmar que",
+    "alternatives": [
+      {
+        "key": "A",
+        "text": "os dois argumentos são igualmente justos, pois ambos estabelecem um critério de escolha."
+      },
+      {
+        "key": "B",
+        "text": "apenas o argumento II é justo, pois considera a sustentabilidade financeira do hospital."
+      },
+      {
+        "key": "C",
+        "text": "o argumento I está de acordo com o princípio da justiça, pois propõe critérios impessoais e relevantes para a decisão, enquanto o II discrimina com base na condição econômica."
+      },
+      {
+        "key": "D",
+        "text": "nenhum critério de alocação pode ser justificado, devendo a decisão ser deixada ao acaso em qualquer circunstância."
+      },
+      {
+        "key": "E",
+        "text": "o princípio da justiça exige atender sempre o paciente que chegou primeiro, independentemente de seu quadro clínico."
+      }
+    ],
+    "answer": "C",
+    "explanation": "O princípio da justiça, em bioética, refere-se à distribuição equitativa de recursos escassos, com critérios relevantes, públicos e aplicados igualmente. O argumento I usa critérios clínicos ligados à finalidade do recurso (salvar vidas) e exclui características irrelevantes, como renda ou religião. O argumento II usa a capacidade de pagamento, critério alheio à necessidade clínica e discriminatório. Ter um critério não basta: ele precisa ser moralmente relevante. Conceito-chave: justiça distributiva exige critérios relevantes e imparciais na alocação de recursos.",
+    "wrong_notes": {
+      "A": "Ter um critério não garante justiça; o critério precisa ser relevante e não discriminatório.",
+      "B": "A capacidade de pagamento não é critério clínico relevante e viola a equidade no acesso.",
+      "D": "Existem critérios defensáveis, como os clínicos; o sorteio pode ser usado em empate, mas não substitui sempre a análise.",
+      "E": "A ordem de chegada pode ser critério de desempate, mas ignorar o quadro clínico não é exigência do princípio da justiça."
+    },
+    "concept": "Bioética: princípio da justiça na alocação de recursos escassos."
+  },
+  {
+    "id": "fil-etica-004",
+    "discipline": "filosofia",
+    "topic": "etica",
+    "subtopic": "bioética",
+    "difficulty": 4,
+    "type": "multipla_escolha",
+    "origin": "inedita_ia",
+    "style_ref": "ENEM",
+    "skills": [
+      "distinção conceitual",
+      "análise de caso clínico",
+      "aplicação de princípios bioéticos"
+    ],
+    "statement": "Uma paciente de 82 anos, com câncer avançado e sem possibilidade de cura, havia manifestado, quando lúcida, o desejo de não ser submetida a medidas invasivas que apenas prolongassem o processo de morte. A equipe médica, em acordo com ela e com a família, decide não iniciar ventilação mecânica nem reanimação em caso de parada, mantendo analgesia, sedação se necessária, higiene, conforto e apoio emocional, isto é, cuidados paliativos.\n\nConsidere as definições:\n\n- **Eutanásia**: ação deliberada para provocar a morte do paciente a fim de abreviar seu sofrimento.\n- **Distanásia**: prolongamento artificial e obstinado da vida, com tratamentos fúteis que aumentam o sofrimento.\n- **Ortotanásia**: morte no tempo natural, sem abreviá-la nem prolongá-la artificialmente, com garantia de cuidados que aliviem o sofrimento.\n\nA conduta da equipe caracteriza",
+    "alternatives": [
+      {
+        "key": "A",
+        "text": "eutanásia, pois a equipe age para provocar a morte da paciente."
+      },
+      {
+        "key": "B",
+        "text": "ortotanásia, pois evita tratamentos fúteis sem provocar a morte, respeitando a autonomia da paciente e mantendo cuidados para aliviar o sofrimento."
+      },
+      {
+        "key": "C",
+        "text": "distanásia, pois mantém a paciente sob cuidados até o fim da vida."
+      },
+      {
+        "key": "D",
+        "text": "abandono de paciente, pois a equipe deixa de oferecer qualquer tipo de cuidado."
+      },
+      {
+        "key": "E",
+        "text": "violação do princípio da beneficência, pois toda tecnologia disponível deve ser usada em qualquer situação."
+      }
+    ],
+    "answer": "B",
+    "explanation": "A equipe não realiza nenhuma ação para causar a morte, o que exclui a eutanásia. Também não prolonga artificialmente a vida com intervenções que só aumentariam o sofrimento, o que exclui a distanásia. Ao respeitar a vontade expressa da paciente (autonomia), evitar medidas fúteis (não maleficência) e manter cuidados de conforto (beneficência), a conduta corresponde à ortotanásia, associada aos cuidados paliativos. Conceito-chave: ortotanásia é permitir a morte em seu tempo natural, sem obstinação terapêutica e com cuidado integral.",
+    "wrong_notes": {
+      "A": "A equipe não pratica nenhum ato para provocar a morte; apenas deixa de iniciar medidas fúteis.",
+      "C": "Distanásia é o prolongamento obstinado com tratamentos fúteis, justamente o que a equipe evita.",
+      "D": "A paciente continua recebendo analgesia, conforto e apoio; não há abandono.",
+      "E": "Beneficência não significa usar toda tecnologia sempre; tratamentos fúteis podem causar dano e contrariar a vontade da paciente."
+    },
+    "concept": "Ortotanásia x eutanásia x distanásia; cuidados paliativos."
+  }
+]

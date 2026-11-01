@@ -1,0 +1,898 @@
+[
+  {
+    "id": "bio-citologia-001",
+    "discipline": "biologia",
+    "topic": "citologia",
+    "subtopic": "membrana plasmática e transportes",
+    "difficulty": 1,
+    "type": "multipla_escolha",
+    "origin": "inedita_ia",
+    "style_ref": "ENEM",
+    "skills": ["aplicação de conceito", "análise de experimento"],
+    "statement": "Em uma aula prática de um laboratório de análises clínicas, um técnico colocou gotas de sangue em três tubos: o tubo I continha solução de NaCl a 0,9% (isotônica em relação ao plasma), o tubo II continha apenas água destilada e o tubo III continha solução de NaCl a 3%. Após alguns minutos, as hemácias de cada tubo foram observadas ao microscópio.\n\nNo tubo II, espera-se que as hemácias tenham",
+    "alternatives": [
+      {"key": "A", "text": "murchado (crenação), porque perderam água para o meio hipotônico."},
+      {"key": "B", "text": "mantido o volume, porque a membrana plasmática é impermeável à água."},
+      {"key": "C", "text": "inchado e, em grande parte, se rompido (hemólise), porque a água entrou por osmose, do meio hipotônico para o citoplasma, mais concentrado."},
+      {"key": "D", "text": "inchado, porque o NaCl do meio entrou nas células por difusão simples."},
+      {"key": "E", "text": "murchado, porque o transporte ativo bombeou água para fora da célula."}
+    ],
+    "answer": "C",
+    "explanation": "Na osmose, a água atravessa a membrana semipermeável do meio menos concentrado em solutos (hipotônico) para o mais concentrado (hipertônico). A água destilada não tem solutos, sendo hipotônica em relação ao citoplasma da hemácia. Assim, a água entra na célula, que incha; como a hemácia animal não tem parede celular, ela pode se romper, fenômeno chamado hemólise. No tubo III (hipertônico) ocorreria o inverso: saída de água e crenação. Conceito-chave: em meio hipotônico, células animais ganham água por osmose e podem sofrer lise.",
+    "wrong_notes": {
+      "A": "Inverte o sentido da osmose: a crenação ocorre em meio hipertônico (tubo III), não no hipotônico.",
+      "B": "A membrana plasmática é permeável à água (inclusive por aquaporinas); por isso há osmose.",
+      "D": "No tubo II não há NaCl; o inchaço se deve à entrada de água, não de soluto.",
+      "E": "A água não é bombeada por transporte ativo; ela se move passivamente por osmose, e no tubo II ela entra na célula."
+    },
+    "concept": "Osmose e comportamento da hemácia em meios hipotônico, isotônico e hipertônico."
+  },
+  {
+    "id": "bio-bioquimica-001",
+    "discipline": "biologia",
+    "topic": "bioquimica",
+    "subtopic": "vitaminas",
+    "difficulty": 1,
+    "type": "multipla_escolha",
+    "origin": "inedita_ia",
+    "style_ref": "ENEM",
+    "skills": ["relação entre nutriente e função"],
+    "statement": "Durante longas viagens marítimas, era comum que marinheiros apresentassem gengivas inchadas e sangrantes, queda de dentes, manchas roxas na pele e dificuldade de cicatrização de feridas. Observou-se que a inclusão de limões e laranjas na dieta prevenia esse quadro, conhecido como escorbuto.\n\nO nutriente presente nessas frutas e a função relacionada ao quadro descrito são, respectivamente,",
+    "alternatives": [
+      {"key": "A", "text": "vitamina C, necessária à síntese adequada do colágeno, proteína do tecido conjuntivo."},
+      {"key": "B", "text": "vitamina D, necessária à absorção intestinal de cálcio."},
+      {"key": "C", "text": "vitamina K, necessária à síntese de fatores de coagulação no fígado."},
+      {"key": "D", "text": "vitamina A, necessária à formação de pigmentos visuais."},
+      {"key": "E", "text": "vitamina B12, necessária à formação de hemácias."}
+    ],
+    "answer": "A",
+    "explanation": "O escorbuto é causado pela deficiência de vitamina C (ácido ascórbico), abundante em frutas cítricas. Essa vitamina atua como cofator de enzimas que modificam o colágeno, permitindo que ele forme fibras resistentes. Sem colágeno adequado, vasos sanguíneos, gengivas e cicatrizes ficam frágeis, explicando sangramentos e má cicatrização. Conceito-chave: a vitamina C é essencial para a síntese de colágeno, e sua falta causa escorbuto.",
+    "wrong_notes": {
+      "B": "A falta de vitamina D causa raquitismo/osteomalácia, não sangramento gengival, e ela não vem principalmente de frutas cítricas.",
+      "C": "A deficiência de vitamina K também causa sangramentos, mas por falha na coagulação; ela não é corrigida por frutas cítricas nem explica a má cicatrização.",
+      "D": "A falta de vitamina A causa cegueira noturna e problemas epiteliais, não escorbuto.",
+      "E": "A falta de vitamina B12 causa anemia megaloblástica; não está associada a frutas cítricas nem ao quadro descrito."
+    },
+    "concept": "Deficiência de vitamina C (escorbuto) e síntese de colágeno."
+  },
+  {
+    "id": "bio-genetica-001",
+    "discipline": "biologia",
+    "topic": "genetica",
+    "subtopic": "1ª lei de Mendel",
+    "difficulty": 1,
+    "type": "multipla_escolha",
+    "origin": "inedita_ia",
+    "style_ref": "ENEM",
+    "skills": ["cálculo de probabilidade", "cruzamento monoíbrido"],
+    "statement": "O albinismo oculocutâneo é uma condição de herança autossômica recessiva que reduz a produção de melanina. Um casal sem albinismo, atendido em um serviço de aconselhamento genético, tem um filho albino e deseja saber o risco para uma nova gestação.\n\nA probabilidade de o próximo filho desse casal ser albino é de",
+    "alternatives": [
+      {"key": "A", "text": "zero, pois os pais não são albinos."},
+      {"key": "B", "text": "1/8."},
+      {"key": "C", "text": "2/3."},
+      {"key": "D", "text": "1/4."},
+      {"key": "E", "text": "3/4."}
+    ],
+    "answer": "D",
+    "explanation": "Se o filho é albino (aa), recebeu um alelo a de cada genitor. Como os pais não são albinos, ambos são heterozigotos (Aa). O cruzamento Aa x Aa gera 1/4 AA, 1/2 Aa e 1/4 aa. Cada gestação é um evento independente, então o risco de um novo filho albino é 1/4, independentemente do filho anterior. Conceito-chave: dois heterozigotos têm 1/4 de chance de gerar um descendente com fenótipo recessivo.",
+    "wrong_notes": {
+      "A": "Ignora que pais de fenótipo dominante podem ser portadores (heterozigotos) do alelo recessivo.",
+      "B": "Multiplica indevidamente por 1/2 (como se fosse preciso definir o sexo); o enunciado não pede sexo.",
+      "C": "2/3 é a probabilidade de um filho NÃO albino ser portador, não a de ser albino.",
+      "E": "3/4 é a probabilidade de o filho ter fenótipo normal (AA ou Aa)."
+    },
+    "concept": "Cruzamento entre heterozigotos (Aa x Aa) gera 1/4 de descendentes recessivos."
+  },
+  {
+    "id": "bio-fisiologia-001",
+    "discipline": "biologia",
+    "topic": "fisiologia",
+    "subtopic": "sistema digestório",
+    "difficulty": 1,
+    "type": "multipla_escolha",
+    "origin": "inedita_ia",
+    "style_ref": "ENEM",
+    "skills": ["relação estrutura-função"],
+    "statement": "Após uma cirurgia de retirada da vesícula biliar (colecistectomia), um paciente foi orientado, nas primeiras semanas, a evitar refeições muito gordurosas, pois elas poderiam causar desconforto abdominal e diarreia.\n\nEssa orientação se justifica porque a vesícula biliar",
+    "alternatives": [
+      {"key": "A", "text": "produz a lipase pancreática, enzima que digere as gorduras no estômago."},
+      {"key": "B", "text": "armazena e concentra a bile produzida pelo fígado, liberando-a no duodeno durante as refeições; a bile emulsifica as gorduras e facilita a ação das lipases."},
+      {"key": "C", "text": "produz a bile, que deixa de existir no organismo após a cirurgia."},
+      {"key": "D", "text": "libera a bile, que contém enzimas que quebram as gorduras em ácidos graxos e glicerol."},
+      {"key": "E", "text": "é o órgão responsável pela absorção das gorduras para o sangue."}
+    ],
+    "answer": "B",
+    "explanation": "A bile é produzida pelo fígado e armazenada e concentrada na vesícula biliar, que se contrai durante a refeição e lança a bile no duodeno. Os sais biliares emulsificam as gorduras, fragmentando-as em gotículas menores e aumentando a superfície de ação das lipases pancreáticas. Sem a vesícula, a bile continua sendo produzida, mas flui de forma contínua e menos concentrada, o que dificulta a digestão de grandes cargas de gordura. Conceito-chave: a bile atua por emulsificação (ação física), e a vesícula apenas a armazena.",
+    "wrong_notes": {
+      "A": "A lipase pancreática é produzida pelo pâncreas e atua no intestino delgado, não no estômago.",
+      "C": "A bile é produzida pelo fígado; após a cirurgia ela continua existindo.",
+      "D": "A bile não contém enzimas digestivas; sua ação é de emulsificação, não de hidrólise.",
+      "E": "A absorção de gorduras ocorre no intestino delgado, principalmente pelas vilosidades."
+    },
+    "concept": "Função da bile (emulsificação) e papel de armazenamento da vesícula biliar."
+  },
+  {
+    "id": "bio-ecologia-001",
+    "discipline": "biologia",
+    "topic": "ecologia",
+    "subtopic": "cadeias e teias alimentares",
+    "difficulty": 1,
+    "type": "multipla_escolha",
+    "origin": "inedita_ia",
+    "style_ref": "ENEM",
+    "skills": ["identificação de níveis tróficos"],
+    "statement": "Em um estudo sobre a fauna de uma área de Cerrado no Tocantins, pesquisadores descreveram a seguinte cadeia alimentar:\n\ncapim → gafanhoto → sapo → serpente → seriema\n\nNessa cadeia, o sapo ocupa a posição de",
+    "alternatives": [
+      {"key": "A", "text": "produtor."},
+      {"key": "B", "text": "consumidor primário."},
+      {"key": "C", "text": "decompositor."},
+      {"key": "D", "text": "consumidor terciário."},
+      {"key": "E", "text": "consumidor secundário."}
+    ],
+    "answer": "E",
+    "explanation": "O capim é o produtor (1º nível trófico), pois realiza fotossíntese. O gafanhoto, herbívoro, é consumidor primário. O sapo, que se alimenta do gafanhoto, é consumidor secundário (3º nível trófico). A serpente é consumidora terciária e a seriema, quaternária. Conceito-chave: o nível de consumidor é contado a partir do produtor, e cada elo acima do herbívoro aumenta uma ordem.",
+    "wrong_notes": {
+      "A": "Produtores são autótrofos (como o capim); o sapo é heterótrofo.",
+      "B": "Consumidor primário é quem come o produtor (o gafanhoto).",
+      "C": "Decompositores (fungos e bactérias) degradam matéria orgânica morta e não aparecem nessa sequência.",
+      "D": "Consumidor terciário é a serpente, que come o sapo; houve erro de contagem dos elos."
+    },
+    "concept": "Níveis tróficos em uma cadeia alimentar."
+  },
+  {
+    "id": "bio-microbiologia-001",
+    "discipline": "biologia",
+    "topic": "microbiologia",
+    "subtopic": "antibióticos e resistência",
+    "difficulty": 1,
+    "type": "multipla_escolha",
+    "origin": "inedita_ia",
+    "style_ref": "ENEM",
+    "skills": ["aplicação de conceito em saúde"],
+    "statement": "Em uma unidade básica de saúde, um paciente com diagnóstico de gripe causada pelo vírus influenza pediu ao médico que lhe receitasse um antibiótico para melhorar mais rápido. O médico explicou que o antibiótico não seria indicado para tratar a gripe.\n\nA explicação correta do médico é que",
+    "alternatives": [
+      {"key": "A", "text": "os antibióticos atuam sobre estruturas e processos próprios de bactérias, como parede celular e ribossomos bacterianos, que os vírus, acelulares, não possuem."},
+      {"key": "B", "text": "os vírus possuem parede celular muito espessa, que impede a entrada do antibiótico."},
+      {"key": "C", "text": "os antibióticos destroem os vírus, mas causam efeitos colaterais graves demais."},
+      {"key": "D", "text": "a gripe é causada por uma bactéria naturalmente resistente a todos os antibióticos."},
+      {"key": "E", "text": "os antibióticos só agem contra fungos e protozoários."}
+    ],
+    "answer": "A",
+    "explanation": "Antibióticos têm como alvo componentes exclusivos de bactérias, como a parede de peptidoglicano e os ribossomos 70S. Os vírus não têm metabolismo próprio nem essas estruturas: são acelulares e se replicam usando a maquinaria da célula hospedeira. Por isso, antibióticos não têm efeito sobre o vírus da gripe, e seu uso desnecessário ainda favorece a seleção de bactérias resistentes. Conceito-chave: antibióticos combatem bactérias, não vírus.",
+    "wrong_notes": {
+      "B": "Vírus não possuem parede celular; possuem capsídeo proteico e, alguns, envelope lipídico.",
+      "C": "Antibióticos não destroem vírus; o problema não é o efeito colateral, mas a ausência de alvo.",
+      "D": "A gripe é causada por vírus (influenza), não por bactéria.",
+      "E": "Antibióticos são definidos justamente por agirem contra bactérias."
+    },
+    "concept": "Antibióticos atuam em bactérias e não têm efeito sobre vírus."
+  },
+  {
+    "id": "bio-histologia-001",
+    "discipline": "biologia",
+    "topic": "histologia",
+    "subtopic": "sangue",
+    "difficulty": 1,
+    "type": "multipla_escolha",
+    "origin": "inedita_ia",
+    "style_ref": "ENEM",
+    "skills": ["interpretação de exame laboratorial"],
+    "statement": "O hemograma de um paciente apresentou o seguinte resultado parcial:\n\n| Componente | Resultado | Valor de referência |\n|---|---|---|\n| Hemácias | 4,9 milhões/mm³ | 4,5 a 5,9 milhões/mm³ |\n| Leucócitos | 7.000/mm³ | 4.000 a 11.000/mm³ |\n| Plaquetas | 40.000/mm³ | 150.000 a 450.000/mm³ |\n\nCom base nesse resultado, o paciente apresenta maior risco de",
+    "alternatives": [
+      {"key": "A", "text": "anemia, por deficiência no transporte de oxigênio."},
+      {"key": "B", "text": "infecções bacterianas, por deficiência de células de defesa."},
+      {"key": "C", "text": "sangramentos e hematomas, por dificuldade na coagulação sanguínea."},
+      {"key": "D", "text": "formação de trombos, por excesso de coagulação."},
+      {"key": "E", "text": "reações alérgicas, por excesso de eosinófilos."}
+    ],
+    "answer": "C",
+    "explanation": "Apenas as plaquetas estão fora da faixa de referência, muito abaixo do normal (plaquetopenia). As plaquetas são fragmentos celulares que formam o tampão plaquetário e participam da cascata de coagulação. Com poucas plaquetas, o sangue coagula com dificuldade, aumentando o risco de sangramentos, manchas roxas e hemorragias. Hemácias e leucócitos estão normais. Conceito-chave: plaquetas atuam na hemostasia; sua redução favorece sangramentos.",
+    "wrong_notes": {
+      "A": "Anemia relaciona-se a hemácias/hemoglobina, que estão normais no exame.",
+      "B": "A defesa depende dos leucócitos, que estão dentro da referência.",
+      "D": "Trombos se associam a excesso de atividade de coagulação; o exame mostra o contrário (plaquetas baixas).",
+      "E": "O exame não informa eosinófilos elevados e o leucograma total está normal."
+    },
+    "concept": "Função das plaquetas na coagulação e consequência da plaquetopenia."
+  },
+  {
+    "id": "bio-zoologia-001",
+    "discipline": "biologia",
+    "topic": "zoologia",
+    "subtopic": "artrópodes",
+    "difficulty": 1,
+    "type": "multipla_escolha",
+    "origin": "inedita_ia",
+    "style_ref": "ENEM",
+    "skills": ["relação estrutura-função"],
+    "statement": "No início da estação chuvosa, é comum encontrar em troncos de árvores do Cerrado cascas vazias de cigarras, com o formato exato do corpo do inseto, fendidas nas costas. Essas cascas são deixadas pelas ninfas quando passam à fase adulta.\n\nEsse fenômeno ocorre porque os artrópodes",
+    "alternatives": [
+      {"key": "A", "text": "trocam periodicamente de pele para eliminar células mortas, como ocorre nos mamíferos."},
+      {"key": "B", "text": "possuem exoesqueleto rígido de quitina, que limita o crescimento e precisa ser trocado periodicamente (muda ou ecdise)."},
+      {"key": "C", "text": "eliminam o exoesqueleto para se livrar de parasitas externos."},
+      {"key": "D", "text": "possuem endoesqueleto calcário que é expelido durante a metamorfose."},
+      {"key": "E", "text": "abandonam a casca para entrar em período de hibernação."}
+    ],
+    "answer": "B",
+    "explanation": "Os artrópodes têm um exoesqueleto formado principalmente por quitina, que protege, sustenta e reduz a perda de água. Por ser rígido, ele não acompanha o crescimento do animal. Assim, periodicamente o artrópode produz um novo revestimento por baixo, abandona o antigo (ecdise) e cresce antes de o novo endurecer. As cascas vazias de cigarra são exúvias resultantes dessa muda. Conceito-chave: o exoesqueleto quitinoso exige mudas para que o artrópode cresça.",
+    "wrong_notes": {
+      "A": "A descamação dos mamíferos é contínua e microscópica; a muda dos artrópodes envolve todo o exoesqueleto e está ligada ao crescimento.",
+      "C": "A eliminação de parasitas não é a função da muda.",
+      "D": "Artrópodes possuem exoesqueleto, não endoesqueleto calcário.",
+      "E": "A muda não está relacionada à hibernação, e sim ao crescimento e à mudança de fase."
+    },
+    "concept": "Exoesqueleto de quitina e ecdise nos artrópodes."
+  },
+  {
+    "id": "bio-genetica-002",
+    "discipline": "biologia",
+    "topic": "genetica",
+    "subtopic": "polialelia e grupos sanguíneos",
+    "difficulty": 2,
+    "type": "multipla_escolha",
+    "origin": "inedita_ia",
+    "style_ref": "ENEM",
+    "skills": ["dedução de genótipos", "cálculo de probabilidade"],
+    "statement": "Em um banco de sangue, uma doadora do grupo A, casada com um homem do grupo B, relatou que o primeiro filho do casal é do grupo O. Curiosa, ela perguntou qual seria a chance de um próximo filho ter um tipo sanguíneo diferente de todos os membros atuais da família.\n\nA probabilidade de o próximo filho do casal ser do grupo AB e do sexo feminino é de",
+    "alternatives": [
+      {"key": "A", "text": "1/2."},
+      {"key": "B", "text": "1/4."},
+      {"key": "C", "text": "zero."},
+      {"key": "D", "text": "1/16."},
+      {"key": "E", "text": "1/8."}
+    ],
+    "answer": "E",
+    "explanation": "O filho O tem genótipo ii, logo recebeu um alelo i de cada genitor. Portanto, a mãe (grupo A) é IAi e o pai (grupo B) é IBi. O cruzamento IAi x IBi gera, com 1/4 de chance cada, IAIB (AB), IAi (A), IBi (B) e ii (O). A chance de ser AB é 1/4 e a de ser menina é 1/2; como os eventos são independentes, multiplica-se: 1/4 x 1/2 = 1/8. Conceito-chave: o fenótipo recessivo de um filho revela que os pais são heterozigotos, e eventos independentes têm probabilidades multiplicadas.",
+    "wrong_notes": {
+      "A": "Considera apenas o sexo ou supõe 1/2 para AB sem montar o quadro de Punnett.",
+      "B": "1/4 é a chance de ser AB, mas falta multiplicar pela chance de ser do sexo feminino (1/2).",
+      "C": "Supõe erroneamente que pais A e B não podem ter filho AB; IA e IB são codominantes e podem ser herdados juntos.",
+      "D": "Não usa a informação do filho O e trata os genótipos dos pais como incertos (1/2 cada), multiplicando fatores desnecessários."
+    },
+    "concept": "Polialelia no sistema ABO, codominância e regra do produto."
+  },
+  {
+    "id": "bio-citologia-002",
+    "discipline": "biologia",
+    "topic": "citologia",
+    "subtopic": "organelas citoplasmáticas",
+    "difficulty": 2,
+    "type": "multipla_escolha",
+    "origin": "inedita_ia",
+    "style_ref": "ENEM",
+    "skills": ["análise de experimento", "relação estrutura-função"],
+    "statement": "Para estudar a produção de enzimas digestivas, pesquisadores forneceram a células do pâncreas exócrino um aminoácido marcado com isótopo radioativo e acompanharam, ao longo do tempo, em quais estruturas celulares a radioatividade se concentrava. Inicialmente, ela apareceu em uma organela formada por membranas associadas a ribossomos; depois, em pilhas de sacos achatados; por fim, em vesículas próximas à membrana plasmática, antes de ser detectada fora da célula.\n\nA sequência de estruturas percorridas pelas proteínas marcadas foi",
+    "alternatives": [
+      {"key": "A", "text": "retículo endoplasmático liso → complexo golgiense → lisossomos."},
+      {"key": "B", "text": "complexo golgiense → retículo endoplasmático rugoso → vesículas de secreção."},
+      {"key": "C", "text": "núcleo → ribossomos livres → mitocôndrias."},
+      {"key": "D", "text": "retículo endoplasmático rugoso → complexo golgiense → vesículas (grânulos) de secreção."},
+      {"key": "E", "text": "retículo endoplasmático rugoso → lisossomos → membrana plasmática."}
+    ],
+    "answer": "D",
+    "explanation": "Proteínas destinadas à secreção são sintetizadas por ribossomos aderidos ao retículo endoplasmático rugoso (membranas associadas a ribossomos). Em seguida, seguem para o complexo golgiense (pilhas de sacos achatados), onde são modificadas, concentradas e empacotadas. Do Golgi saem vesículas de secreção, que se fundem à membrana plasmática e liberam o conteúdo por exocitose. Conceito-chave: a via secretora segue RER → Golgi → vesículas de secreção → meio externo.",
+    "wrong_notes": {
+      "A": "O REL não possui ribossomos e não é o local de síntese de proteínas de secreção; lisossomos não liberam enzimas digestivas para o exterior.",
+      "B": "Inverte a ordem: as proteínas são produzidas no RER antes de chegar ao Golgi.",
+      "C": "Mitocôndrias não participam da via de secreção; o enunciado descreve membranas com ribossomos, e não ribossomos livres.",
+      "E": "Lisossomos são destino de enzimas de digestão intracelular, não etapa da via de secreção."
+    },
+    "concept": "Via secretora: retículo rugoso, complexo golgiense e exocitose."
+  },
+  {
+    "id": "bio-fisiologia-002",
+    "discipline": "biologia",
+    "topic": "fisiologia",
+    "subtopic": "sistema endócrino",
+    "difficulty": 2,
+    "type": "multipla_escolha",
+    "origin": "inedita_ia",
+    "style_ref": "ENEM",
+    "skills": ["interpretação de tabela", "relação hormônio-função"],
+    "statement": "Duas pessoas realizaram um teste de tolerância à glicose: em jejum, mediu-se a glicemia; depois, ingeriram uma solução de glicose, e novas medidas foram feitas.\n\n| Tempo | Pessoa X (mg/dL) | Pessoa Y (mg/dL) |\n|---|---|---|\n| Jejum | 88 | 160 |\n| 1 hora | 140 | 290 |\n| 2 horas | 95 | 270 |\n\nA pessoa Y é uma criança de 9 anos que vinha apresentando sede intensa, urina abundante e perda de peso, e em seu sangue foram detectados anticorpos contra as células beta das ilhotas pancreáticas.\n\nA explicação mais adequada para a curva de Y e o tratamento compatível são:",
+    "alternatives": [
+      {"key": "A", "text": "deficiência na produção de insulina pelas células beta, hormônio que promove a captação de glicose pelas células; tratamento com reposição de insulina."},
+      {"key": "B", "text": "excesso de insulina, que impede a entrada de glicose nas células; tratamento com glucagon."},
+      {"key": "C", "text": "deficiência de glucagon, hormônio que reduz a glicemia; tratamento com reposição de glucagon."},
+      {"key": "D", "text": "deficiência de hormônio antidiurético, que causa urina abundante; tratamento com ADH."},
+      {"key": "E", "text": "deficiência de adrenalina, que normalmente retira glicose do sangue; tratamento com adrenalina."}
+    ],
+    "answer": "A",
+    "explanation": "Na pessoa X, a glicemia sobe após a ingestão e volta ao normal em 2 horas, graças à insulina. Na pessoa Y, a glicemia já é alta em jejum e permanece elevada, indicando que a glicose não está sendo retirada do sangue. Os anticorpos contra células beta indicam destruição autoimune dessas células, típica do diabetes tipo 1, com falta de insulina. A insulina favorece a entrada de glicose nas células e seu armazenamento como glicogênio; por isso o tratamento é a reposição de insulina. Conceito-chave: a insulina reduz a glicemia, e sua falta causa hiperglicemia persistente.",
+    "wrong_notes": {
+      "B": "Excesso de insulina causaria hipoglicemia, não hiperglicemia; além disso, a insulina facilita (e não impede) a entrada de glicose.",
+      "C": "O glucagon eleva a glicemia; sua falta tenderia a reduzi-la.",
+      "D": "A urina abundante em Y decorre da glicose na urina (diurese osmótica), não da falta de ADH; a curva glicêmica não se explica por ADH.",
+      "E": "A adrenalina eleva a glicemia; não é o hormônio que retira glicose do sangue."
+    },
+    "concept": "Insulina, células beta e diabetes tipo 1."
+  },
+  {
+    "id": "bio-bioquimica-002",
+    "discipline": "biologia",
+    "topic": "bioquimica",
+    "subtopic": "proteínas e enzimas",
+    "difficulty": 2,
+    "type": "multipla_escolha",
+    "origin": "inedita_ia",
+    "style_ref": "ENEM",
+    "skills": ["interpretação de tabela", "integração com fisiologia"],
+    "statement": "A tabela mostra a atividade relativa (%) de duas enzimas digestivas humanas, a pepsina e a tripsina, em diferentes valores de pH, mantida a temperatura de 37 °C.\n\n| pH | Pepsina | Tripsina |\n|---|---|---|\n| 1 | 60 | 0 |\n| 2 | 100 | 5 |\n| 4 | 40 | 15 |\n| 7 | 2 | 80 |\n| 8 | 0 | 100 |\n\nA análise desses dados, associada à fisiologia do sistema digestório, permite concluir que",
+    "alternatives": [
+      {"key": "A", "text": "a tripsina atua predominantemente no estômago, onde o pH é muito ácido."},
+      {"key": "B", "text": "as duas enzimas apresentam o mesmo pH ótimo, diferindo apenas no substrato."},
+      {"key": "C", "text": "a pepsina atua no estômago e perde atividade ao chegar ao duodeno, onde o pH próximo da neutralidade ou levemente alcalino favorece a tripsina."},
+      {"key": "D", "text": "a variação de pH altera a sequência de aminoácidos das enzimas, o que explica a perda de atividade."},
+      {"key": "E", "text": "a pepsina é consumida durante a digestão, por isso sua atividade cai em pH elevado."}
+    ],
+    "answer": "C",
+    "explanation": "A pepsina tem atividade máxima em pH 2, compatível com o suco gástrico ácido, e é praticamente inativa em pH 7 a 8. A tripsina, produzida pelo pâncreas, tem atividade máxima em pH 8, compatível com o duodeno, onde o bicarbonato pancreático neutraliza o quimo ácido. Mudanças de pH alteram cargas elétricas e a conformação tridimensional da enzima, afetando o sítio ativo. Conceito-chave: cada enzima tem um pH ótimo, relacionado ao ambiente onde atua.",
+    "wrong_notes": {
+      "A": "A tabela mostra que a tripsina é quase inativa em pH ácido (1 a 2).",
+      "B": "Os pH ótimos são diferentes: 2 para a pepsina e 8 para a tripsina.",
+      "D": "O pH altera a estrutura espacial (terciária) da enzima, não a sequência de aminoácidos (estrutura primária).",
+      "E": "Enzimas são catalisadores e não são consumidas na reação; a queda de atividade se deve à mudança de conformação."
+    },
+    "concept": "Influência do pH na atividade enzimática e pH ótimo das enzimas digestivas."
+  },
+  {
+    "id": "bio-evolucao-001",
+    "discipline": "biologia",
+    "topic": "evolucao",
+    "subtopic": "teorias evolutivas (Lamarck, Darwin)",
+    "difficulty": 2,
+    "type": "multipla_escolha",
+    "origin": "inedita_ia",
+    "style_ref": "ENEM",
+    "skills": ["aplicação de teoria evolutiva", "saúde pública"],
+    "statement": "Em um hospital, o uso frequente e, por vezes, inadequado de um antibiótico foi seguido, alguns anos depois, pelo aumento da proporção de infecções causadas por bactérias resistentes a esse medicamento. A comissão de controle de infecção hospitalar elaborou um material educativo explicando o fenômeno à luz da teoria evolutiva moderna.\n\nA explicação correta para esse fenômeno é:",
+    "alternatives": [
+      {"key": "A", "text": "o antibiótico induziu nas bactérias mutações direcionadas, que as tornaram resistentes para sobreviver."},
+      {"key": "B", "text": "bactérias resistentes já existiam na população, por mutações ao acaso; o antibiótico eliminou as sensíveis, e as resistentes sobreviveram e se reproduziram, aumentando sua frequência."},
+      {"key": "C", "text": "as bactérias se acostumaram ao antibiótico pelo uso contínuo, e o hábito adquirido foi transmitido aos descendentes."},
+      {"key": "D", "text": "o sistema imunológico dos pacientes passou a produzir bactérias resistentes."},
+      {"key": "E", "text": "as bactérias resistentes surgiram porque o antibiótico perdeu a validade e ficou mais fraco ao longo dos anos."}
+    ],
+    "answer": "B",
+    "explanation": "Segundo a teoria sintética da evolução, a variabilidade surge por mutações ao acaso, que não são provocadas pela necessidade do organismo. O antibiótico atua como agente de seleção: elimina as bactérias sensíveis e permite que as resistentes, que já existiam, sobrevivam e se multipliquem. Com o uso repetido, a frequência de resistentes aumenta na população. Conceito-chave: o ambiente seleciona variantes preexistentes; não as cria de forma direcionada.",
+    "wrong_notes": {
+      "A": "Visão lamarckista: as mutações não são direcionadas pela necessidade; o antibiótico seleciona, não induz resistência específica.",
+      "C": "Corresponde à herança de caracteres adquiridos (Lamarck), não aceita pela biologia moderna.",
+      "D": "O sistema imunológico não produz bactérias; ele combate microrganismos.",
+      "E": "O aumento de resistência ocorre mesmo com antibiótico de boa qualidade, por seleção natural."
+    },
+    "concept": "Seleção natural de bactérias resistentes a antibióticos."
+  },
+  {
+    "id": "bio-parasitologia-001",
+    "discipline": "biologia",
+    "topic": "parasitologia",
+    "subtopic": "doenças negligenciadas (Chagas, leishmaniose)",
+    "difficulty": 2,
+    "type": "multipla_escolha",
+    "origin": "inedita_ia",
+    "style_ref": "ENEM",
+    "skills": ["epidemiologia", "profilaxia"],
+    "statement": "A vigilância epidemiológica de um município da região amazônica registrou um surto de doença de Chagas aguda em pessoas que haviam consumido suco de açaí preparado artesanalmente em um mesmo ponto de venda. A investigação constatou que os frutos eram armazenados em local aberto, próximo à mata, e processados sem higienização adequada nem tratamento térmico.\n\nA forma de transmissão e uma medida preventiva adequada para esse surto são:",
+    "alternatives": [
+      {"key": "A", "text": "picada do mosquito Aedes aegypti; uso de repelente pelos consumidores."},
+      {"key": "B", "text": "picada do mosquito-palha; uso de mosquiteiros nas residências."},
+      {"key": "C", "text": "ingestão de bactérias presentes no fruto; adição de antibiótico ao suco."},
+      {"key": "D", "text": "ingestão de ovos de vermes presentes no solo; uso de calçados."},
+      {"key": "E", "text": "ingestão do Trypanosoma cruzi, presente em barbeiros (ou em suas fezes) triturados junto com os frutos; higienização e tratamento térmico (branqueamento) dos frutos antes do processamento."}
+    ],
+    "answer": "E",
+    "explanation": "A doença de Chagas é causada pelo protozoário Trypanosoma cruzi, cujo vetor é o inseto barbeiro (triatomíneo). Além da transmissão clássica pelas fezes do barbeiro em contato com a pele lesada ou mucosas, existe a transmissão oral, quando insetos infectados ou suas fezes contaminam alimentos como o açaí e são triturados com eles. Por isso, recomenda-se armazenar bem os frutos, higienizá-los e aplicar tratamento térmico (branqueamento), que inativa o parasito. Conceito-chave: a doença de Chagas pode ser transmitida por via oral, por alimentos contaminados com T. cruzi.",
+    "wrong_notes": {
+      "A": "O Aedes aegypti transmite arboviroses (dengue, zika, chikungunya), não a doença de Chagas.",
+      "B": "O mosquito-palha (flebotomíneo) é vetor das leishmanioses.",
+      "C": "Chagas é causada por protozoário, não por bactéria; antibiótico no suco não é medida adequada.",
+      "D": "Ovos de vermes no solo relacionam-se a verminoses como ascaridíase, não à doença de Chagas."
+    },
+    "concept": "Transmissão oral da doença de Chagas e sua prevenção."
+  },
+  {
+    "id": "bio-botanica-001",
+    "discipline": "biologia",
+    "topic": "botanica",
+    "subtopic": "hormônios vegetais",
+    "difficulty": 2,
+    "type": "multipla_escolha",
+    "origin": "inedita_ia",
+    "style_ref": "ENEM",
+    "skills": ["aplicação de conceito no cotidiano"],
+    "statement": "Um feirante de Imperatriz (MA) costuma guardar pencas de banana ainda verdes em sacos fechados junto com algumas frutas já maduras, para que amadureçam mais rapidamente antes da venda. Quando quer retardar o amadurecimento, ele deixa as bananas em local ventilado e separadas das frutas maduras.\n\nO procedimento funciona porque as frutas maduras liberam",
+    "alternatives": [
+      {"key": "A", "text": "auxina, hormônio que estimula o alongamento celular do fruto."},
+      {"key": "B", "text": "giberelina, hormônio que promove a germinação das sementes."},
+      {"key": "C", "text": "citocinina, hormônio que estimula a divisão celular e retarda o envelhecimento."},
+      {"key": "D", "text": "etileno, hormônio gasoso que estimula o amadurecimento dos frutos e se acumula no ambiente fechado."},
+      {"key": "E", "text": "ácido abscísico, hormônio que induz a dormência e o fechamento dos estômatos."}
+    ],
+    "answer": "D",
+    "explanation": "O etileno é um hormônio vegetal gasoso produzido em grande quantidade por frutos em amadurecimento. Ele estimula processos como a conversão de amido em açúcares, o amolecimento e a mudança de cor dos frutos. Em saco fechado, o gás se acumula e acelera o amadurecimento das bananas verdes; em local ventilado, ele se dispersa. Conceito-chave: o etileno é o hormônio gasoso do amadurecimento dos frutos.",
+    "wrong_notes": {
+      "A": "A auxina atua no crescimento e alongamento celular, nos tropismos e na dominância apical, não sendo o gás do amadurecimento.",
+      "B": "A giberelina atua na germinação e no alongamento do caule.",
+      "C": "A citocinina tende a retardar a senescência, efeito oposto ao observado.",
+      "E": "O ácido abscísico está ligado à dormência e ao estresse hídrico, não à aceleração do amadurecimento."
+    },
+    "concept": "Etileno e amadurecimento de frutos."
+  },
+  {
+    "id": "bio-embriologia-001",
+    "discipline": "biologia",
+    "topic": "embriologia",
+    "subtopic": "gametogênese",
+    "difficulty": 2,
+    "type": "multipla_escolha",
+    "origin": "inedita_ia",
+    "style_ref": "ENEM",
+    "skills": ["comparação de processos", "raciocínio quantitativo"],
+    "statement": "Em um material de estudo sobre reprodução humana, um professor propôs a seguinte situação: 100 espermatócitos primários e 100 ovócitos primários completam normalmente todas as etapas da meiose (considere que todos os ovócitos completam a segunda divisão).\n\nO número de gametas funcionais formados ao final do processo será, respectivamente,",
+    "alternatives": [
+      {"key": "A", "text": "400 espermatozoides e 100 óvulos."},
+      {"key": "B", "text": "100 espermatozoides e 100 óvulos."},
+      {"key": "C", "text": "400 espermatozoides e 400 óvulos."},
+      {"key": "D", "text": "200 espermatozoides e 100 óvulos."},
+      {"key": "E", "text": "800 espermatozoides e 200 óvulos."}
+    ],
+    "answer": "A",
+    "explanation": "Na espermatogênese, cada espermatócito primário sofre meiose e origina quatro espermátides, que se diferenciam em quatro espermatozoides: 100 x 4 = 400. Na ovogênese, as divisões do citoplasma são desiguais: cada ovócito primário origina apenas um gameta funcional e corpúsculos polares, que degeneram. Assim, 100 ovócitos primários originam 100 óvulos. Conceito-chave: a meiose masculina gera 4 gametas por célula; a feminina gera 1 gameta e corpúsculos polares.",
+    "wrong_notes": {
+      "B": "Ignora que cada espermatócito primário gera quatro espermatozoides.",
+      "C": "Trata a ovogênese como igual à espermatogênese, desconsiderando os corpúsculos polares.",
+      "D": "Considera apenas a primeira divisão meiótica na espermatogênese (2 células por espermatócito).",
+      "E": "Conta células como se houvesse divisões adicionais ou confunde cromátides com gametas."
+    },
+    "concept": "Diferença de rendimento entre espermatogênese e ovogênese."
+  },
+  {
+    "id": "bio-genetica-003",
+    "discipline": "biologia",
+    "topic": "genetica",
+    "subtopic": "herança ligada ao sexo",
+    "difficulty": 3,
+    "type": "multipla_escolha",
+    "origin": "inedita_ia",
+    "style_ref": "ENEM",
+    "skills": ["análise de heredograma", "cálculo de probabilidade"],
+    "statement": "A hemofilia A é uma doença de herança recessiva ligada ao cromossomo X, que compromete a coagulação sanguínea. Em um ambulatório de hematologia, foi construído o heredograma de uma família:\n\n- Geração I: homem hemofílico casado com mulher sem hemofilia e sem histórico familiar da doença.\n- Geração II: a filha desse casal, sem hemofilia, casou-se com um homem sem hemofilia.\n\nO casal da geração II deseja ter um filho. A probabilidade de esse casal ter uma criança do sexo masculino e hemofílica é de",
+    "alternatives": [
+      {"key": "A", "text": "zero, pois a mãe não é hemofílica."},
+      {"key": "B", "text": "1/8."},
+      {"key": "C", "text": "1/4."},
+      {"key": "D", "text": "1/2."},
+      {"key": "E", "text": "3/4."}
+    ],
+    "answer": "C",
+    "explanation": "O pai da mulher (XhY) transmite obrigatoriamente seu cromossomo X a todas as filhas; como a mulher não é hemofílica, ela é portadora: XHXh. O marido é XHY. Do cruzamento resultam: XHXH, XHXh, XHY e XhY, cada um com 1/4. Portanto, a chance de nascer um menino hemofílico (XhY) é 1/4. Se a pergunta fosse a chance de um filho, já sabendo que é menino, ser hemofílico, a resposta seria 1/2. Conceito-chave: filhas de homem afetado por doença recessiva ligada ao X são portadoras obrigatórias.",
+    "wrong_notes": {
+      "A": "Ignora que mulheres heterozigotas (portadoras) não manifestam a doença, mas podem transmiti-la.",
+      "B": "Multiplica por 1/2 a chance de a mãe ser portadora, mas ela é portadora com certeza, pois recebeu o X do pai hemofílico.",
+      "D": "1/2 é a probabilidade condicional de um menino ser hemofílico, não a de nascer um menino hemofílico.",
+      "E": "Não corresponde a nenhuma combinação do cruzamento XHXh x XHY."
+    },
+    "concept": "Herança recessiva ligada ao X e portadora obrigatória."
+  },
+  {
+    "id": "bio-fisiologia-003",
+    "discipline": "biologia",
+    "topic": "fisiologia",
+    "subtopic": "sistema respiratório",
+    "difficulty": 3,
+    "type": "multipla_escolha",
+    "origin": "inedita_ia",
+    "style_ref": "ENEM",
+    "skills": ["raciocínio fisiológico", "relação causa-efeito"],
+    "statement": "Alguns praticantes de mergulho em apneia fazem várias respirações rápidas e profundas (hiperventilação) antes de submergir, acreditando que assim conseguem ficar mais tempo debaixo d'água. Médicos do esporte alertam que essa prática é perigosa, pois pode levar à perda de consciência sob a água antes que o mergulhador sinta necessidade urgente de respirar.\n\nO risco descrito se explica porque",
+    "alternatives": [
+      {"key": "A", "text": "a hiperventilação aumenta muito o estoque de oxigênio ligado à hemoglobina, que se torna tóxico durante a apneia."},
+      {"key": "B", "text": "o principal estímulo para a respiração é a queda de oxigênio no sangue, detectada pelo cerebelo, que é inibido pela hiperventilação."},
+      {"key": "C", "text": "a hiperventilação aumenta a concentração de CO2 no sangue, causando acidose e desmaio imediato."},
+      {"key": "D", "text": "a hiperventilação paralisa o diafragma, impedindo a respiração após o mergulho."},
+      {"key": "E", "text": "a hiperventilação reduz a concentração de CO2 no sangue; como o principal estímulo do centro respiratório do bulbo é o aumento de CO2 (e de H+), a vontade de respirar demora a surgir, e o oxigênio pode cair a níveis críticos antes disso."}
+    ],
+    "answer": "E",
+    "explanation": "O centro respiratório localizado no bulbo é estimulado principalmente pelo aumento da concentração de CO2 e de íons H+ no sangue e no líquor. A hiperventilação elimina muito CO2, reduzindo sua concentração. Durante a apneia, o CO2 demora mais para atingir o nível que provoca a vontade de respirar, enquanto o O2 continua sendo consumido. Assim, o O2 cerebral pode cair a ponto de causar desmaio antes do impulso respiratório. Além disso, a hemoglobina já está quase saturada em repouso, então a hiperventilação pouco aumenta o estoque de O2. Conceito-chave: o controle da respiração é guiado principalmente pelo CO2/pH, percebido no bulbo.",
+    "wrong_notes": {
+      "A": "A hemoglobina já está quase totalmente saturada em condições normais; a hiperventilação acrescenta pouco O2, e não há toxicidade nesse contexto.",
+      "B": "O centro respiratório está no bulbo, não no cerebelo, e o principal estímulo é o CO2/H+, não a queda de O2.",
+      "C": "A hiperventilação reduz o CO2 (tende à alcalose), não o aumenta.",
+      "D": "A hiperventilação não paralisa o diafragma."
+    },
+    "concept": "Controle bulbar da respiração pelo CO2 e riscos da hiperventilação."
+  },
+  {
+    "id": "bio-citologia-003",
+    "discipline": "biologia",
+    "topic": "citologia",
+    "subtopic": "metabolismo energético: respiração e fermentação",
+    "difficulty": 3,
+    "type": "multipla_escolha",
+    "origin": "inedita_ia",
+    "style_ref": "ENEM",
+    "skills": ["integração de conceitos", "raciocínio clínico"],
+    "statement": "A mandioca-brava, muito cultivada no Norte e no Nordeste, contém compostos que liberam cianeto, por isso precisa ser processada corretamente antes do consumo. O cianeto também pode ser inalado em incêndios. Ele se liga à enzima citocromo c oxidase, componente final da cadeia transportadora de elétrons nas mitocôndrias, inibindo-a. Pacientes intoxicados apresentam aumento de lactato no sangue, embora o sangue continue contendo oxigênio.\n\nOs achados clínicos se explicam porque o cianeto",
+    "alternatives": [
+      {"key": "A", "text": "bloqueia a glicólise no citosol, impedindo a formação de piruvato e, portanto, de lactato."},
+      {"key": "B", "text": "impede a transferência de elétrons para o O2 na cadeia respiratória, reduzindo drasticamente a produção de ATP por fosforilação oxidativa; as células recorrem à fermentação lática, elevando o lactato mesmo com O2 disponível."},
+      {"key": "C", "text": "impede a ligação do O2 à hemoglobina, causando falta de oxigênio no sangue."},
+      {"key": "D", "text": "bloqueia o ciclo de Krebs no citosol, aumentando a produção de ATP pela fermentação alcoólica."},
+      {"key": "E", "text": "acelera a cadeia respiratória, produzindo excesso de ATP e de lactato."}
+    ],
+    "answer": "B",
+    "explanation": "Na respiração aeróbia, os elétrons de NADH e FADH2 percorrem a cadeia transportadora até o O2, aceptor final, e essa passagem gera o gradiente de prótons que produz a maior parte do ATP. O cianeto inibe a citocromo c oxidase, então o O2 não recebe elétrons e não é usado, embora esteja presente no sangue. Sem a cadeia funcionando, o ciclo de Krebs também para, e a célula depende da glicólise, regenerando NAD+ pela fermentação lática, o que eleva o lactato. Conceito-chave: o O2 só é útil como aceptor final de elétrons; bloquear a cadeia respiratória impede seu uso e força o metabolismo anaeróbio.",
+    "wrong_notes": {
+      "A": "Se a glicólise fosse bloqueada, não haveria aumento de lactato; o alvo do cianeto é a cadeia respiratória mitocondrial.",
+      "C": "Impedir a ligação do O2 à hemoglobina descreve melhor a intoxicação por monóxido de carbono; no caso do cianeto, o sangue ainda transporta O2.",
+      "D": "O ciclo de Krebs ocorre na matriz mitocondrial, e células humanas fazem fermentação lática, não alcoólica.",
+      "E": "A inibição da enzima reduz, e não aumenta, a produção de ATP."
+    },
+    "concept": "Cadeia respiratória, papel do O2 como aceptor final e fermentação lática."
+  },
+  {
+    "id": "bio-bioquimica-003",
+    "discipline": "biologia",
+    "topic": "bioquimica",
+    "subtopic": "síntese proteica",
+    "difficulty": 3,
+    "type": "multipla_escolha",
+    "origin": "inedita_ia",
+    "style_ref": "ENEM",
+    "skills": ["leitura do código genético", "análise de mutações"],
+    "statement": "Um trecho codificante de um RNA mensageiro tem a sequência:\n\n5'-AUG GCU UGG AAA GAU UAG-3'\n\nConsidere a tabela parcial do código genético:\n\n| Códon | Significado |\n|---|---|\n| AUG | Metionina (início) |\n| GCU, GCC | Alanina |\n| UGG | Triptofano |\n| AAA, AAG | Lisina |\n| GAU | Ácido aspártico |\n| GAA | Ácido glutâmico |\n| UAG, UGA | Parada |\n\nForam analisadas três mutações pontuais independentes no gene, que alteraram uma única base no RNAm:\n\n- I: GCU → GCC (2º códon)\n- II: UGG → UGA (3º códon)\n- III: GAU → GAA (5º códon)\n\nSobre os efeitos dessas mutações no polipeptídio, é correto afirmar que",
+    "alternatives": [
+      {"key": "A", "text": "I e III não alteram o polipeptídio, e II troca o triptofano por outro aminoácido."},
+      {"key": "B", "text": "apenas I altera o polipeptídio, pois afeta um códon próximo ao início."},
+      {"key": "C", "text": "II produz um polipeptídio com um único aminoácido trocado, e III encurta o polipeptídio."},
+      {"key": "D", "text": "I é silenciosa; II gera um polipeptídio interrompido precocemente, com apenas dois aminoácidos; III troca um aminoácido (ácido aspártico por ácido glutâmico)."},
+      {"key": "E", "text": "as três mutações alteram todos os aminoácidos seguintes, pois mudam a fase de leitura."}
+    ],
+    "answer": "D",
+    "explanation": "O polipeptídio original é Met-Ala-Trp-Lis-Asp, seguido do códon de parada UAG. Na mutação I, GCC continua codificando alanina: é uma mutação silenciosa, favorecida pela degeneração do código. Na mutação II, UGG (Trp) vira UGA, códon de parada; a tradução termina após Met-Ala, gerando um polipeptídio truncado (mutação sem sentido). Na mutação III, GAU (Asp) vira GAA (Glu): troca de um aminoácido (mutação de sentido trocado). Como são substituições, não há mudança na fase de leitura. Conceito-chave: substituições de base podem ser silenciosas, de sentido trocado ou sem sentido (criando parada).",
+    "wrong_notes": {
+      "A": "III troca Asp por Glu, alterando o polipeptídio; II não troca o aminoácido, mas cria um códon de parada.",
+      "B": "I é justamente a única que não altera o polipeptídio, pois GCC também codifica alanina.",
+      "C": "Inverte os efeitos: II cria parada (encurta) e III troca um aminoácido.",
+      "E": "Mudança de fase de leitura ocorre com inserções ou deleções (não múltiplas de três), não com substituições."
+    },
+    "concept": "Tipos de mutação pontual: silenciosa, de sentido trocado e sem sentido."
+  },
+  {
+    "id": "bio-ecologia-002",
+    "discipline": "biologia",
+    "topic": "ecologia",
+    "subtopic": "ciclos biogeoquímicos",
+    "difficulty": 3,
+    "type": "multipla_escolha",
+    "origin": "inedita_ia",
+    "style_ref": "ENEM",
+    "skills": ["integração ecologia-agricultura", "ciclo do nitrogênio"],
+    "statement": "Na região do MATOPIBA (Maranhão, Tocantins, Piauí e Bahia), produtores de soja costumam inocular as sementes com bactérias do gênero Bradyrhizobium antes do plantio. Essa prática permite reduzir drasticamente ou dispensar o uso de adubos nitrogenados industriais, diminuindo custos e impactos ambientais, como a contaminação de águas por nitrato.\n\nO processo biológico que fundamenta essa prática é a",
+    "alternatives": [
+      {"key": "A", "text": "fixação biológica do nitrogênio: bactérias que vivem em nódulos das raízes convertem o N2 atmosférico em amônia, utilizada pela planta na síntese de compostos nitrogenados, como aminoácidos, em uma relação mutualística."},
+      {"key": "B", "text": "nitrificação: bactérias inoculadas transformam o nitrato do solo em N2, que é absorvido pela planta pelas folhas."},
+      {"key": "C", "text": "desnitrificação: bactérias convertem nitrato em N2, aumentando o nitrogênio disponível para a planta."},
+      {"key": "D", "text": "absorção direta do N2 do ar pelos estômatos da soja, estimulada pelas bactérias."},
+      {"key": "E", "text": "decomposição: bactérias degradam restos de plantas e liberam fósforo, que substitui o nitrogênio."}
+    ],
+    "answer": "A",
+    "explanation": "O nitrogênio atmosférico (N2) é muito abundante, mas as plantas não conseguem utilizá-lo diretamente. Bactérias fixadoras, como Bradyrhizobium e Rhizobium, associam-se a raízes de leguminosas formando nódulos, onde a enzima nitrogenase converte N2 em amônia (NH3/NH4+). A planta usa essa amônia para produzir aminoácidos, proteínas e ácidos nucleicos, e fornece às bactérias compostos orgânicos: é uma relação mutualística. Conceito-chave: a fixação biológica do nitrogênio torna o N2 atmosférico disponível aos seres vivos.",
+    "wrong_notes": {
+      "B": "Nitrificação é a conversão de amônia em nitrito e nitrato; além disso, plantas não absorvem N2 pelas folhas.",
+      "C": "A desnitrificação devolve N2 à atmosfera, reduzindo o nitrogênio disponível no solo.",
+      "D": "Plantas não assimilam N2 diretamente, mesmo que ele entre pelos estômatos.",
+      "E": "Decomposição não substitui o nitrogênio por fósforo; são nutrientes diferentes, com funções distintas."
+    },
+    "concept": "Fixação biológica do nitrogênio por bactérias associadas a leguminosas."
+  },
+  {
+    "id": "bio-microbiologia-002",
+    "discipline": "biologia",
+    "topic": "microbiologia",
+    "subtopic": "bactérias",
+    "difficulty": 3,
+    "type": "multipla_escolha",
+    "origin": "inedita_ia",
+    "style_ref": "ENEM",
+    "skills": ["interpretação de tabela", "mecanismo de fármaco"],
+    "statement": "As penicilinas, como a amoxicilina, pertencem ao grupo dos betalactâmicos. Em uma aula de farmacologia, o professor apresentou a tabela:\n\n| Célula | Possui parede de peptidoglicano? | Efeito da amoxicilina |\n|---|---|---|\n| Streptococcus pyogenes (bactéria) | Sim | Morte das bactérias em multiplicação |\n| Mycoplasma pneumoniae (bactéria) | Não | Nenhum efeito |\n| Células humanas | Não | Nenhum efeito relevante |\n\nUm paciente com pneumonia causada por Mycoplasma pneumoniae não melhorou com amoxicilina. A conclusão compatível com a tabela é que",
+    "alternatives": [
+      {"key": "A", "text": "Mycoplasma pneumoniae é um vírus e, por isso, não responde a antibióticos."},
+      {"key": "B", "text": "Mycoplasma pneumoniae adquiriu resistência por mutação durante o tratamento desse paciente."},
+      {"key": "C", "text": "a amoxicilina atua inibindo a síntese da parede de peptidoglicano; sem essa parede, o Mycoplasma não possui o alvo do fármaco, o que também explica a baixa toxicidade para células humanas."},
+      {"key": "D", "text": "a amoxicilina atua nos ribossomos 80S, presentes apenas em bactérias com parede."},
+      {"key": "E", "text": "a amoxicilina é destruída no estômago e nunca atinge os pulmões."}
+    ],
+    "answer": "C",
+    "explanation": "Os betalactâmicos inibem enzimas que montam o peptidoglicano da parede bacteriana; sem parede íntegra, bactérias em crescimento sofrem lise. A tabela mostra que só a célula com peptidoglicano foi afetada. Mycoplasma não possui parede celular, portanto é naturalmente (intrinsecamente) insensível a esses fármacos, e o tratamento exige antibióticos com outro alvo. As células humanas também não têm peptidoglicano, o que explica a seletividade das penicilinas. Conceito-chave: um antibiótico só age se o microrganismo possuir seu alvo molecular.",
+    "wrong_notes": {
+      "A": "Mycoplasma é uma bactéria, como indica a tabela; sua falta de resposta se deve à ausência de parede, não a ser vírus.",
+      "B": "A tabela indica insensibilidade intrínseca (falta de alvo), e não resistência adquirida durante o tratamento.",
+      "D": "Ribossomos 80S são de eucariotos; bactérias têm ribossomos 70S, e a amoxicilina age na parede.",
+      "E": "A amoxicilina é usada por via oral justamente por ser absorvida; a tabela mostra eficácia contra Streptococcus."
+    },
+    "concept": "Mecanismo dos betalactâmicos e resistência intrínseca de bactérias sem parede."
+  },
+  {
+    "id": "bio-biotecnologia-001",
+    "discipline": "biologia",
+    "topic": "biotecnologia",
+    "subtopic": "PCR e eletroforese",
+    "difficulty": 3,
+    "type": "multipla_escolha",
+    "origin": "inedita_ia",
+    "style_ref": "ENEM",
+    "skills": ["interpretação de dados", "raciocínio lógico"],
+    "statement": "Em um teste de paternidade, dois locos de DNA altamente variáveis foram amplificados por PCR e analisados por eletroforese. Cada pessoa apresenta duas bandas por loco (uma herdada de cada genitor). Os números indicam as bandas observadas:\n\n| Pessoa | Loco X | Loco Y |\n|---|---|---|\n| Mãe | 1 e 4 | 7 e 8 |\n| Criança | 1 e 3 | 8 e 9 |\n| Suposto pai 1 | 3 e 5 | 9 e 10 |\n| Suposto pai 2 | 3 e 6 | 7 e 10 |\n| Suposto pai 3 | 2 e 4 | 9 e 11 |\n\nCom base nos dados, o pai biológico compatível é o",
+    "alternatives": [
+      {"key": "A", "text": "suposto pai 2, pois possui a banda 3 e a banda 7, ambas presentes na família."},
+      {"key": "B", "text": "suposto pai 1, único que possui as bandas paternas da criança nos dois locos (3 no loco X e 9 no loco Y)."},
+      {"key": "C", "text": "suposto pai 3, pois possui a banda 9, presente na criança."},
+      {"key": "D", "text": "nenhum dos três, pois nenhum apresenta bandas idênticas às da criança nos dois locos."},
+      {"key": "E", "text": "impossível de determinar sem o DNA dos avós da criança."}
+    ],
+    "answer": "B",
+    "explanation": "Primeiro, identificam-se as bandas maternas da criança: no loco X, a banda 1 (a mãe tem 1 e 4); no loco Y, a banda 8 (a mãe tem 7 e 8). As bandas restantes, 3 (loco X) e 9 (loco Y), devem ter vindo do pai. O suposto pai 1 possui a banda 3 e a banda 9. O suposto pai 2 tem a banda 3, mas não a 9; o suposto pai 3 tem a banda 9, mas não a 3. Assim, apenas o suposto pai 1 é compatível. Conceito-chave: em testes de paternidade, cada banda não materna da criança precisa estar presente no pai biológico em todos os locos.",
+    "wrong_notes": {
+      "A": "A banda 7 é materna e não aparece na criança; o suposto pai 2 não tem a banda paterna 9 do loco Y.",
+      "C": "Analisa apenas o loco Y; no loco X, o suposto pai 3 não tem a banda 3, que a criança herdou do pai.",
+      "D": "O filho herda apenas uma banda de cada genitor por loco; não se espera que o pai tenha bandas idênticas às da criança.",
+      "E": "Os dados da mãe e da criança já permitem identificar as bandas paternas; os avós não são necessários."
+    },
+    "concept": "Análise de bandas de DNA para determinação de paternidade."
+  },
+  {
+    "id": "bio-evolucao-002",
+    "discipline": "biologia",
+    "topic": "evolucao",
+    "subtopic": "especiação",
+    "difficulty": 3,
+    "type": "multipla_escolha",
+    "origin": "inedita_ia",
+    "style_ref": "ENEM",
+    "skills": ["aplicação de modelo evolutivo", "biogeografia"],
+    "statement": "No século XIX, o naturalista Alfred Russel Wallace observou que espécies de macacos encontradas em margens opostas de grandes rios da Amazônia eram frequentemente diferentes, embora muito aparentadas. Estudos genéticos atuais indicam que muitas dessas espécies descendem de populações ancestrais comuns que ficaram separadas pelos rios.\n\nO mecanismo que melhor explica a formação dessas espécies é:",
+    "alternatives": [
+      {"key": "A", "text": "o rio provocou mutações iguais em todos os indivíduos de cada margem, transformando-os imediatamente em nova espécie."},
+      {"key": "B", "text": "especiação simpátrica, pois as populações sempre ocuparam a mesma área geográfica."},
+      {"key": "C", "text": "os macacos de cada margem modificaram seu corpo pela necessidade de viver em ambientes distintos e transmitiram essas mudanças aos filhos."},
+      {"key": "D", "text": "hibridação entre as populações das duas margens, que gerou espécies intermediárias."},
+      {"key": "E", "text": "especiação alopátrica: o rio atuou como barreira geográfica, interrompendo o fluxo gênico; mutações, deriva genética e seleção natural diferentes acumularam diferenças até o surgimento de isolamento reprodutivo."}
+    ],
+    "answer": "E",
+    "explanation": "Na especiação alopátrica, uma barreira geográfica separa populações de uma espécie. Sem cruzamentos entre elas, não há fluxo gênico. Cada população acumula mutações próprias e sofre deriva genética e seleção natural sob condições distintas. Com o tempo, as diferenças genéticas podem ser tão grandes que, mesmo que a barreira desapareça, as populações não se reproduzem mais entre si com sucesso: surge o isolamento reprodutivo, e elas passam a ser espécies diferentes. Conceito-chave: isolamento geográfico seguido de divergência genética e isolamento reprodutivo caracteriza a especiação alopátrica.",
+    "wrong_notes": {
+      "A": "Mutações são aleatórias e não são causadas pela barreira; a especiação é gradual, não imediata.",
+      "B": "As populações estão em margens diferentes, separadas geograficamente, o que define a especiação alopátrica, não a simpátrica.",
+      "C": "Explicação lamarckista (uso e desuso e herança de caracteres adquiridos), não aceita pela teoria sintética.",
+      "D": "O rio reduz o contato entre as populações; a hibridação não explica a origem de espécies distintas em cada margem."
+    },
+    "concept": "Especiação alopátrica por barreira geográfica."
+  },
+  {
+    "id": "bio-genetica-004",
+    "discipline": "biologia",
+    "topic": "genetica",
+    "subtopic": "genética de populações (Hardy-Weinberg)",
+    "difficulty": 4,
+    "type": "multipla_escolha",
+    "origin": "inedita_ia",
+    "style_ref": "ENEM",
+    "skills": ["equilíbrio de Hardy-Weinberg", "probabilidade condicional", "aconselhamento genético"],
+    "statement": "Em uma população em equilíbrio de Hardy-Weinberg, o albinismo (autossômico recessivo) ocorre em 1 a cada 10.000 pessoas. Uma mulher sem albinismo, cujos pais também não são albinos, tem um irmão albino. Ela se casa com um homem sem albinismo, dessa mesma população, sem nenhum caso conhecido da condição na família.\n\nA probabilidade de o primeiro filho do casal ser albino é de",
+    "alternatives": [
+      {"key": "A", "text": "1/6."},
+      {"key": "B", "text": "1/202."},
+      {"key": "C", "text": "1/600."},
+      {"key": "D", "text": "1/303."},
+      {"key": "E", "text": "1/10.000."}
+    ],
+    "answer": "D",
+    "explanation": "Pela população: q² = 1/10.000, então q = 1/100 e p = 99/100. Entre pessoas não albinas, a chance de ser heterozigota é 2pq/(p² + 2pq) = (198/10.000)/(9.999/10.000) = 198/9.999 = 2/101. A mulher tem irmão albino e pais normais, logo os pais são Aa x Aa; sendo ela não albina, sua chance de ser Aa é 2/3. Para o filho ser albino, ambos devem ser portadores e transmitir o alelo a (1/4): 2/3 x 2/101 x 1/4 = 4/1212 = 1/303. Conceito-chave: em aconselhamento genético, combinam-se probabilidades condicionais (2/3 para irmão de afetado e 2pq/(1 - q²) para a população) com o risco de 1/4.",
+    "wrong_notes": {
+      "A": "Considera o homem portador com certeza (2/3 x 1 x 1/4); ele vem da população geral, com risco de cerca de 2/101.",
+      "B": "Considera a mulher portadora com certeza (1 x 2/101 x 1/4), ignorando o fator 2/3.",
+      "C": "Usa q = 1/100 como chance de o homem ser portador; a frequência de heterozigotos é 2pq, cerca de 2/100.",
+      "E": "Usa a frequência populacional da doença, ignorando o histórico familiar da mulher."
+    },
+    "concept": "Hardy-Weinberg combinado com probabilidade condicional em heredogramas."
+  },
+  {
+    "id": "bio-genetica-005",
+    "discipline": "biologia",
+    "topic": "genetica",
+    "subtopic": "interação gênica e epistasia",
+    "difficulty": 4,
+    "type": "multipla_escolha",
+    "origin": "inedita_ia",
+    "style_ref": "ENEM",
+    "skills": ["epistasia", "cruzamento diíbrido", "cálculo de proporções"],
+    "statement": "Na pelagem de cães da raça labrador, o gene B determina a cor do pigmento: o alelo dominante B produz pigmento preto e o recessivo b, chocolate. Outro gene, E, de segregação independente, controla a deposição do pigmento nos pelos: indivíduos ee não depositam pigmento e são amarelos, qualquer que seja o genótipo para o gene B.\n\nUm canil cruzou um macho preto de genótipo BbEe com uma fêmea amarela de genótipo Bbee.\n\nA proporção fenotípica esperada na descendência é de",
+    "alternatives": [
+      {"key": "A", "text": "3 pretos : 1 chocolate : 4 amarelos."},
+      {"key": "B", "text": "9 pretos : 3 chocolates : 4 amarelos."},
+      {"key": "C", "text": "1 preto : 1 chocolate : 2 amarelos."},
+      {"key": "D", "text": "3 pretos : 1 amarelo."},
+      {"key": "E", "text": "1 preto : 1 chocolate : 1 amarelo : 1 branco."}
+    ],
+    "answer": "A",
+    "explanation": "Analisam-se os genes separadamente. Bb x Bb gera 3/4 B_ e 1/4 bb. Ee x ee gera 1/2 Ee e 1/2 ee. Como os genes segregam independentemente, multiplicam-se as probabilidades: preto (B_E_) = 3/4 x 1/2 = 3/8; chocolate (bbE_) = 1/4 x 1/2 = 1/8; amarelo (__ee) = 1/2 = 4/8. A proporção é 3 : 1 : 4. Trata-se de epistasia recessiva: o genótipo ee mascara a expressão do gene B. Conceito-chave: em epistasia, um gene altera a manifestação de outro; as proporções saem do produto das probabilidades de cada gene.",
+    "wrong_notes": {
+      "B": "9 : 3 : 4 vale para o cruzamento entre dois diíbridos (BbEe x BbEe), não para BbEe x Bbee.",
+      "C": "Seria obtida se o gene B se comportasse como no cruzamento-teste (Bb x bb), o que não é o caso.",
+      "D": "Ignora a cor chocolate (bb) e trata o problema como monoibridismo.",
+      "E": "Não existe fenótipo branco nesse sistema, e a proporção 1:1:1:1 corresponde a um cruzamento-teste diíbrido sem epistasia."
+    },
+    "concept": "Epistasia recessiva e cálculo de proporções em diibridismo."
+  },
+  {
+    "id": "bio-fisiologia-004",
+    "discipline": "biologia",
+    "topic": "fisiologia",
+    "subtopic": "sistema excretor",
+    "difficulty": 4,
+    "type": "multipla_escolha",
+    "origin": "inedita_ia",
+    "style_ref": "ENEM",
+    "skills": ["cálculo com unidades", "raciocínio fisiológico", "integração com diabetes"],
+    "statement": "Em um modelo simplificado do néfron, considere os valores hipotéticos: taxa de filtração glomerular de 120 mL/min e capacidade máxima de reabsorção tubular de glicose (transporte máximo) de 360 mg/min. Toda a glicose filtrada é reabsorvida até esse limite; o excedente é eliminado na urina.\n\nUm paciente com diabetes descompensado apresenta glicemia de 400 mg/dL. De acordo com o modelo, a quantidade de glicose excretada na urina e uma consequência esperada são, respectivamente,",
+    "alternatives": [
+      {"key": "A", "text": "0 mg/min, pois toda a glicose filtrada é sempre reabsorvida; não há alteração no volume urinário."},
+      {"key": "B", "text": "480 mg/min, pois a glicose acima do normal não é reabsorvida; aumento do volume urinário."},
+      {"key": "C", "text": "120 mg/min; redução do volume urinário, pois a glicose atrai água dos túbulos para o sangue."},
+      {"key": "D", "text": "360 mg/min; aumento do volume urinário."},
+      {"key": "E", "text": "120 mg/min; aumento do volume urinário (poliúria), pois a glicose que permanece nos túbulos retém água por efeito osmótico."}
+    ],
+    "answer": "E",
+    "explanation": "A glicemia de 400 mg/dL equivale a 4 mg/mL. A carga filtrada é 4 mg/mL x 120 mL/min = 480 mg/min. Os túbulos reabsorvem no máximo 360 mg/min, então 480 - 360 = 120 mg/min são excretados (glicosúria). A glicose que fica no filtrado aumenta sua osmolaridade e reduz a reabsorção de água, produzindo diurese osmótica: urina abundante, que leva à sede intensa típica do diabetes. Nesse modelo, a glicosúria começa quando a glicemia supera 360/120 = 3 mg/mL (300 mg/dL). Conceito-chave: quando a carga filtrada supera o transporte máximo, surge glicosúria e poliúria por efeito osmótico.",
+    "wrong_notes": {
+      "A": "Ignora que a reabsorção tubular tem limite (transporte máximo).",
+      "B": "480 mg/min é a carga filtrada; os túbulos ainda reabsorvem 360 mg/min.",
+      "C": "O valor está correto, mas a consequência está invertida: a glicose no túbulo retém água no filtrado, aumentando o volume urinário.",
+      "D": "Confunde o transporte máximo (o que é reabsorvido) com o que é excretado."
+    },
+    "concept": "Carga filtrada, transporte máximo de glicose e diurese osmótica."
+  },
+  {
+    "id": "bio-fisiologia-005",
+    "discipline": "biologia",
+    "topic": "fisiologia",
+    "subtopic": "sistema imunológico",
+    "difficulty": 4,
+    "type": "multipla_escolha",
+    "origin": "inedita_ia",
+    "style_ref": "ENEM",
+    "skills": ["interpretação de tabela", "classificação de imunização", "integração de conceitos"],
+    "statement": "Três situações foram discutidas em uma aula de imunologia:\n\nI. Uma criança recebeu duas doses de uma vacina (dia 0 e dia 30). A concentração de anticorpos específicos (unidades arbitrárias) foi:\n\n| Dia | 0 | 14 | 30 | 37 | 44 | 120 |\n|---|---|---|---|---|---|---|\n| Anticorpos | < 1 | 40 | 10 | 400 | 800 | 300 |\n\nII. Um trabalhador rural picado por uma jararaca recebeu soro antibotrópico no hospital.\n\nIII. Um recém-nascido em aleitamento materno recebe anticorpos (IgA) pelo leite.\n\nA análise correta das três situações é:",
+    "alternatives": [
+      {"key": "A", "text": "I: imunização passiva artificial; II: ativa artificial; III: ativa natural."},
+      {"key": "B", "text": "I: ativa artificial, com resposta à 2ª dose mais rápida e intensa graças aos linfócitos de memória; II: passiva artificial, com anticorpos prontos de efeito imediato e transitório; III: passiva natural."},
+      {"key": "C", "text": "I: ativa artificial, com resposta maior após a 2ª dose porque os anticorpos da 1ª dose permanecem e se somam aos novos; II: passiva artificial; III: passiva natural."},
+      {"key": "D", "text": "I: ativa natural; II: ativa artificial, pois o soro estimula a produção de anticorpos; III: passiva natural."},
+      {"key": "E", "text": "I: ativa artificial; II: passiva artificial, que gera memória duradoura contra o veneno; III: ativa natural."}
+    ],
+    "answer": "B",
+    "explanation": "Na vacina, o organismo recebe antígenos e produz os próprios anticorpos: imunização ativa artificial. A tabela mostra resposta primária lenta e baixa (pico de 40) e, após a 2ª dose, resposta secundária muito mais rápida e intensa (800), atribuída a linfócitos B de memória formados na primeira exposição; os anticorpos da 1ª dose já haviam caído para 10, portanto não explicam a elevação por simples soma. O soro antiofídico contém anticorpos prontos, produzidos em outro animal: imunização passiva artificial, de ação imediata, mas temporária e sem memória. Os anticorpos do leite materno caracterizam imunização passiva natural. Conceito-chave: imunização ativa gera memória; a passiva oferece proteção imediata e transitória.",
+    "wrong_notes": {
+      "A": "Inverte os conceitos: na vacina o corpo produz anticorpos (ativa); o soro e o leite fornecem anticorpos prontos (passiva).",
+      "C": "A classificação está certa, mas a justificativa não: os anticorpos caíram para 10 antes da 2ª dose; a resposta secundária se deve à memória imunológica.",
+      "D": "Vacina é imunização artificial, e o soro não estimula produção de anticorpos: ele os fornece prontos.",
+      "E": "O soro não gera memória (é passivo), e anticorpos do leite caracterizam imunização passiva, não ativa."
+    },
+    "concept": "Imunização ativa x passiva e resposta imune secundária."
+  },
+  {
+    "id": "bio-citologia-004",
+    "discipline": "biologia",
+    "topic": "citologia",
+    "subtopic": "divisão celular: meiose",
+    "difficulty": 4,
+    "type": "multipla_escolha",
+    "origin": "inedita_ia",
+    "style_ref": "ENEM",
+    "skills": ["análise de processos celulares", "raciocínio quantitativo", "genética médica"],
+    "statement": "A trissomia do cromossomo 21 (síndrome de Down) resulta, na maioria dos casos, de uma não disjunção durante a meiose. Considere dois espermatócitos primários humanos (2n = 46), em que todos os cromossomos se separam normalmente, exceto o par 21:\n\n- Célula 1: os cromossomos homólogos do par 21 não se separam na meiose I.\n- Célula 2: a meiose I é normal, mas, em uma das duas células formadas, as cromátides-irmãs de um cromossomo 21 não se separam na meiose II.\n\nSobre os gametas produzidos, é correto afirmar que",
+    "alternatives": [
+      {"key": "A", "text": "na célula 1, todos os gametas terão 24 cromossomos; na célula 2, todos terão 22."},
+      {"key": "B", "text": "nas duas células, metade dos gametas terá 24 cromossomos e metade terá 22."},
+      {"key": "C", "text": "na célula 1, 50% dos gametas terão 24 cromossomos e 50% terão 22; na célula 2, 50% serão normais (23), 25% terão 24 e 25% terão 22; um gameta com 24 cromossomos que fecunde um ovócito normal origina zigoto com 47 cromossomos."},
+      {"key": "D", "text": "na célula 2, todos os gametas serão normais, pois a meiose I ocorreu corretamente."},
+      {"key": "E", "text": "na célula 1, 25% dos gametas terão 24 cromossomos, 25% terão 22 e 50% serão normais; na célula 2, 50% terão 24 e 50% terão 22."}
+    ],
+    "answer": "C",
+    "explanation": "Se os homólogos do 21 não se separam na meiose I, uma célula-filha recebe os dois cromossomos 21 (com duas cromátides cada) e a outra não recebe nenhum. Na meiose II, a primeira forma dois gametas com 24 cromossomos e a segunda, dois com 22: 50% e 50%, todos anormais. Se a falha ocorre na meiose II em apenas uma das células, a outra célula forma dois gametas normais (23), enquanto a afetada forma um gameta com 24 e outro com 22. A fecundação de um gameta com 24 cromossomos por um gameta normal (23) gera um zigoto com 47 cromossomos, com trissomia do 21. Conceito-chave: não disjunção na meiose I afeta todos os gametas; na meiose II, apenas metade.",
+    "wrong_notes": {
+      "A": "Uma não disjunção sempre gera gametas com excesso e com falta do cromossomo, não todos iguais.",
+      "B": "Vale apenas para a meiose I; na meiose II, metade dos gametas é normal.",
+      "D": "A falha da meiose II também gera gametas anormais (um com 24 e outro com 22).",
+      "E": "Inverte os resultados das duas situações."
+    },
+    "concept": "Não disjunção na meiose I x meiose II e origem de aneuploidias."
+  },
+  {
+    "id": "bio-bioquimica-004",
+    "discipline": "biologia",
+    "topic": "bioquimica",
+    "subtopic": "proteínas e enzimas",
+    "difficulty": 4,
+    "type": "multipla_escolha",
+    "origin": "inedita_ia",
+    "style_ref": "ENEM",
+    "skills": ["interpretação de dados", "cinética enzimática", "farmacologia"],
+    "statement": "O metanol, presente em bebidas adulteradas, é convertido pela enzima álcool desidrogenase (ADH) do fígado em formaldeído, que é transformado em ácido fórmico, responsável por acidose metabólica e lesão do nervo óptico. Um dos tratamentos possíveis consiste em administrar etanol ao paciente. Em laboratório, mediu-se a velocidade de oxidação do metanol pela ADH, com e sem etanol no meio:\n\n| Metanol (mmol/L) | 1 | 5 | 20 | 100 |\n|---|---|---|---|---|\n| Velocidade sem etanol (relativa) | 30 | 65 | 88 | 97 |\n| Velocidade com etanol (relativa) | 8 | 30 | 65 | 94 |\n\nA interpretação correta dos dados e do tratamento é:",
+    "alternatives": [
+      {"key": "A", "text": "o etanol desnatura irreversivelmente a ADH, e por isso a velocidade cai em todas as concentrações de metanol."},
+      {"key": "B", "text": "o etanol é um inibidor não competitivo, que se liga a um sítio alostérico e reduz a velocidade máxima da enzima, independentemente da concentração de metanol."},
+      {"key": "C", "text": "o etanol reage com o ácido fórmico e o neutraliza, sem relação com a atividade da ADH."},
+      {"key": "D", "text": "o etanol compete com o metanol pelo sítio ativo da ADH (inibição competitiva), reduzindo a formação de metabólitos tóxicos; o efeito diminui quando a concentração de metanol é muito alta, pois o excesso de substrato supera a inibição."},
+      {"key": "E", "text": "o etanol acelera a conversão do metanol, permitindo que ele seja eliminado mais rapidamente."}
+    ],
+    "answer": "D",
+    "explanation": "Os dados mostram que, com etanol, a velocidade cai muito em concentrações baixas de metanol (de 30 para 8), mas quase se iguala em concentrações altas (97 x 94). Esse padrão é característico de inibição competitiva: inibidor e substrato disputam o mesmo sítio ativo, e o aumento do substrato desloca o inibidor, de modo que a velocidade máxima praticamente não muda. O etanol, também substrato da ADH, ocupa a enzima e retarda a formação de formaldeído e ácido fórmico, dando tempo para que o metanol seja eliminado sem ser metabolizado. Conceito-chave: na inibição competitiva, o efeito do inibidor é superado por altas concentrações de substrato.",
+    "wrong_notes": {
+      "A": "Se a desnaturação fosse irreversível, a velocidade não se recuperaria em alta concentração de metanol.",
+      "B": "Na inibição não competitiva, a velocidade máxima diminui; os dados mostram velocidade quase igual em alta concentração de substrato.",
+      "C": "Os dados medem a atividade da ADH e mostram que ela é afetada pelo etanol; não há reação de neutralização descrita.",
+      "E": "Os dados mostram redução, e não aumento, da velocidade de oxidação do metanol."
+    },
+    "concept": "Inibição enzimática competitiva e tratamento da intoxicação por metanol."
+  },
+  {
+    "id": "bio-parasitologia-002",
+    "discipline": "biologia",
+    "topic": "parasitologia",
+    "subtopic": "verminoses",
+    "difficulty": 4,
+    "type": "multipla_escolha",
+    "origin": "inedita_ia",
+    "style_ref": "ENEM",
+    "skills": ["análise de ciclo de vida", "planejamento de ações de saúde"],
+    "statement": "Uma equipe de saúde planeja o controle da esquistossomose mansônica em um município com lagoas usadas para banho, pesca e lavagem de roupas. O ciclo do Schistosoma mansoni foi resumido em etapas:\n\n1. Ovos são eliminados nas fezes de pessoas infectadas.\n2. Na água, os ovos liberam miracídios.\n3. Miracídios penetram em caramujos do gênero Biomphalaria.\n4. Os caramujos liberam cercárias na água.\n5. Cercárias penetram ativamente pela pele de pessoas em contato com a água.\n\nMedidas propostas: I – rede de coleta e tratamento de esgoto; II – evitar o contato direto da pele com a água das lagoas; III – tratamento dos doentes com praziquantel; IV – distribuição de mosquiteiros; V – controle das populações de caramujos.\n\nA análise correta das medidas é:",
+    "alternatives": [
+      {"key": "A", "text": "I impede a chegada de ovos à água (etapas 1→2); V interrompe a multiplicação no hospedeiro intermediário (etapas 3→4); II evita a etapa 5; III reduz a fonte de ovos; IV não tem efeito, pois não há inseto vetor nesse ciclo."},
+      {"key": "B", "text": "IV é a medida mais eficaz, pois a doença é transmitida pela picada de mosquitos que se reproduzem nas lagoas."},
+      {"key": "C", "text": "II é ineficaz, pois a infecção ocorre pela ingestão de ovos com a água, e a medida mais importante é ferver a água de beber."},
+      {"key": "D", "text": "V interrompe a etapa 1→2, pois os caramujos produzem os ovos do parasita."},
+      {"key": "E", "text": "III é desnecessária, pois as pessoas são apenas hospedeiras intermediárias e não eliminam ovos."}
+    ],
+    "answer": "A",
+    "explanation": "No ciclo do S. mansoni, o ser humano é o hospedeiro definitivo, onde vivem os vermes adultos que produzem ovos eliminados nas fezes. O saneamento (I) impede que os ovos cheguem à água. O caramujo Biomphalaria é o hospedeiro intermediário; controlá-lo (V) interrompe a produção de cercárias. A infecção humana ocorre pela penetração ativa das cercárias na pele, que é evitada pela medida II. Tratar os doentes (III) reduz a eliminação de ovos. Não existe inseto vetor, então mosquiteiros (IV) não têm efeito. Conceito-chave: compreender o ciclo do parasita permite escolher medidas que atuem em cada etapa da transmissão.",
+    "wrong_notes": {
+      "B": "A esquistossomose não é transmitida por mosquitos; o hospedeiro intermediário é um caramujo.",
+      "C": "A principal via de infecção é a penetração de cercárias pela pele, e não a ingestão de ovos.",
+      "D": "Os ovos são produzidos pelos vermes adultos no ser humano; o caramujo libera cercárias.",
+      "E": "O ser humano é o hospedeiro definitivo e elimina ovos nas fezes; tratar os doentes reduz a contaminação."
+    },
+    "concept": "Ciclo do Schistosoma mansoni e medidas de profilaxia."
+  },
+  {
+    "id": "bio-biotecnologia-002",
+    "discipline": "biologia",
+    "topic": "biotecnologia",
+    "subtopic": "DNA recombinante",
+    "difficulty": 4,
+    "type": "multipla_escolha",
+    "origin": "inedita_ia",
+    "style_ref": "ENEM",
+    "skills": ["integração genética molecular-biotecnologia", "resolução de problema"],
+    "statement": "Ao tentar produzir uma proteína humana em bactérias Escherichia coli, um grupo de pesquisa isolou o gene diretamente do DNA genômico de células humanas, inseriu-o em um plasmídeo e introduziu o plasmídeo nas bactérias. O RNA mensageiro foi transcrito, mas a proteína obtida era muito maior que a humana e não funcional. Em uma segunda tentativa, os pesquisadores extraíram o RNA mensageiro maduro das células humanas que produzem essa proteína e o utilizaram como ponto de partida.\n\nA explicação para a falha e o procedimento correto na segunda tentativa são:",
+    "alternatives": [
+      {"key": "A", "text": "as bactérias não conseguem ler o código genético humano, que é diferente do bacteriano; por isso foi necessário usar o RNA humano."},
+      {"key": "B", "text": "o gene humano possui íntrons e as bactérias não realizam o processamento (splicing) do RNA; a partir do RNAm maduro, usa-se a transcriptase reversa para produzir DNA complementar (cDNA) sem íntrons, que é inserido no plasmídeo."},
+      {"key": "C", "text": "os íntrons foram traduzidos pelas bactérias; por isso, o RNAm maduro deve ser inserido diretamente no plasmídeo, sem conversão em DNA."},
+      {"key": "D", "text": "o gene humano possui íntrons; usa-se DNA polimerase para removê-los do DNA genômico antes da clonagem."},
+      {"key": "E", "text": "as bactérias não possuem ribossomos; o RNAm humano fornece ribossomos para a tradução."}
+    ],
+    "answer": "B",
+    "explanation": "Genes eucarióticos costumam ter íntrons, que são removidos do RNA pelo splicing no núcleo, originando o RNAm maduro. As bactérias não têm essa maquinaria, então traduzem o RNA com íntrons, gerando proteína maior e não funcional. A solução é partir do RNAm maduro e convertê-lo, com a enzima transcriptase reversa, em DNA complementar (cDNA), que contém apenas a sequência codificante. O cDNA é inserido no plasmídeo com enzimas de restrição e DNA ligase. Como o código genético é praticamente universal, a bactéria traduz corretamente essa sequência. Conceito-chave: para expressar genes eucarióticos em bactérias, usa-se cDNA, obtido por transcrição reversa, sem íntrons.",
+    "wrong_notes": {
+      "A": "O código genético é praticamente universal; o problema é a presença de íntrons.",
+      "C": "Plasmídeos são moléculas de DNA; o RNA precisa antes ser convertido em cDNA.",
+      "D": "A DNA polimerase não remove íntrons; a estratégia usual é obter cDNA a partir do RNAm maduro.",
+      "E": "Bactérias possuem ribossomos (70S), e o RNAm não fornece ribossomos."
+    },
+    "concept": "Íntrons, splicing e uso de cDNA na tecnologia do DNA recombinante."
+  }
+]

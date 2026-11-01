@@ -1,0 +1,921 @@
+[
+  {
+    "id": "geo-cartografia-001",
+    "discipline": "geografia",
+    "topic": "cartografia",
+    "subtopic": "escalas",
+    "difficulty": 1,
+    "type": "multipla_escolha",
+    "origin": "inedita_ia",
+    "style_ref": "ENEM",
+    "skills": [
+      "cálculo com escala numérica"
+    ],
+    "statement": "Um agente comunitário de saúde de um município do Tocantins usa um mapa na escala 1:50.000 para planejar visitas. No mapa, a distância em linha reta entre a unidade básica de saúde e uma comunidade rural é de 4 cm.\n\nA distância real, em linha reta, entre os dois pontos é de",
+    "alternatives": [
+      {
+        "key": "A",
+        "text": "0,2 km."
+      },
+      {
+        "key": "B",
+        "text": "12,5 km."
+      },
+      {
+        "key": "C",
+        "text": "2 km."
+      },
+      {
+        "key": "D",
+        "text": "20 km."
+      },
+      {
+        "key": "E",
+        "text": "200 km."
+      }
+    ],
+    "answer": "C",
+    "explanation": "Na escala 1:50.000, cada 1 cm do mapa corresponde a 50.000 cm no terreno. Assim, 4 cm correspondem a 4 × 50.000 = 200.000 cm. Como 1 km = 100.000 cm, 200.000 cm = 2 km. Conceito-chave: distância real = distância no mapa × denominador da escala, com atenção à conversão de unidades.",
+    "wrong_notes": {
+      "A": "Erro de conversão: 200.000 cm foram divididos por 1.000.000, como se 1 km tivesse 10^6 cm.",
+      "B": "Dividiu o denominador pela medida (50.000 ÷ 4) em vez de multiplicar.",
+      "D": "Erro de conversão: considerou 1 km = 10.000 cm.",
+      "E": "Erro de conversão: considerou 1 km = 1.000 cm, confundindo com metros."
+    },
+    "concept": "Escala numérica: 1 cm no mapa = denominador em cm no terreno."
+  },
+  {
+    "id": "geo-cartografia-002",
+    "discipline": "geografia",
+    "topic": "cartografia",
+    "subtopic": "coordenadas e fusos",
+    "difficulty": 2,
+    "type": "multipla_escolha",
+    "origin": "inedita_ia",
+    "style_ref": "ENEM",
+    "skills": [
+      "cálculo de fusos horários",
+      "interpretação de situação-problema"
+    ],
+    "statement": "Uma médica residente embarca em Palmas (TO) às 10h00, horário local, em um voo para Manaus (AM), com duração de 2 horas e 30 minutos. Palmas segue o horário de Brasília (UTC−3), enquanto Manaus está no fuso UTC−4. Considere que não há horário de verão.\n\nO horário local em Manaus no momento do pouso será",
+    "alternatives": [
+      {
+        "key": "A",
+        "text": "11h30."
+      },
+      {
+        "key": "B",
+        "text": "12h30."
+      },
+      {
+        "key": "C",
+        "text": "13h30."
+      },
+      {
+        "key": "D",
+        "text": "9h30."
+      },
+      {
+        "key": "E",
+        "text": "10h30."
+      }
+    ],
+    "answer": "A",
+    "explanation": "Somando a duração do voo ao horário de partida, o pouso ocorre às 12h30 no horário de Palmas. Manaus está uma hora atrás (UTC−4 em relação a UTC−3), pois fica a oeste. Logo, o horário local em Manaus é 12h30 − 1h = 11h30. Conceito-chave: ao deslocar-se para oeste, subtrai-se a diferença de fusos; para leste, soma-se.",
+    "wrong_notes": {
+      "B": "Esqueceu a diferença de fuso: 12h30 é o horário de chegada medido no relógio de Palmas.",
+      "C": "Somou a diferença de fuso em vez de subtrair; Manaus, a oeste, tem horário atrasado.",
+      "D": "Subtraiu 3 horas, confundindo o fuso de Palmas (UTC−3) com a diferença entre as duas cidades, que é de apenas 1 hora.",
+      "E": "Considerou uma diferença de 2 horas entre as cidades; entre UTC−3 e UTC−4 a diferença é de 1 hora."
+    },
+    "concept": "Fusos horários: a oeste o horário é atrasado (Manaus = Brasília − 1 h)."
+  },
+  {
+    "id": "geo-cartografia-003",
+    "discipline": "geografia",
+    "topic": "cartografia",
+    "subtopic": "escalas",
+    "difficulty": 3,
+    "type": "multipla_escolha",
+    "origin": "inedita_ia",
+    "style_ref": "ENEM",
+    "skills": [
+      "cálculo de área com escala",
+      "raciocínio proporcional"
+    ],
+    "statement": "Em um estudo sobre risco de doenças transmitidas por mosquitos, pesquisadores mediram a área de um lago artificial em uma carta topográfica na escala 1:250.000. No mapa, o lago ocupa 8 cm².\n\nA área real aproximada do lago é de",
+    "alternatives": [
+      {
+        "key": "A",
+        "text": "20 km²."
+      },
+      {
+        "key": "B",
+        "text": "5 km²."
+      },
+      {
+        "key": "C",
+        "text": "200 km²."
+      },
+      {
+        "key": "D",
+        "text": "500 km²."
+      },
+      {
+        "key": "E",
+        "text": "50 km²."
+      }
+    ],
+    "answer": "E",
+    "explanation": "Na escala 1:250.000, 1 cm no mapa equivale a 250.000 cm = 2,5 km. Para áreas, a escala deve ser elevada ao quadrado: 1 cm² no mapa equivale a (2,5 km)² = 6,25 km². Assim, 8 cm² correspondem a 8 × 6,25 = 50 km². Conceito-chave: a razão entre áreas é o quadrado da razão linear da escala.",
+    "wrong_notes": {
+      "A": "Aplicou a escala linear (8 × 2,5) a uma medida de área, sem elevar o fator ao quadrado.",
+      "B": "Erro de conversão: tomou 1 cm² = 0,625 km², deslocando a vírgula de 6,25.",
+      "C": "Multiplicou 8 por 25, confundindo 2,5 km com 25 km² por cm².",
+      "D": "Erro de conversão de unidade: considerou 1 cm² = 62,5 km²."
+    },
+    "concept": "Escala e área: fator de área = (fator linear)^2."
+  },
+  {
+    "id": "geo-cartografia-004",
+    "discipline": "geografia",
+    "topic": "cartografia",
+    "subtopic": "escalas",
+    "difficulty": 4,
+    "type": "multipla_escolha",
+    "origin": "inedita_ia",
+    "style_ref": "ENEM",
+    "skills": [
+      "cálculo com escala",
+      "proporcionalidade",
+      "conversão de unidades de tempo"
+    ],
+    "statement": "O serviço de atendimento móvel de urgência de uma região do Tocantins precisa estimar o tempo de transferência de um paciente entre dois municípios. Em um mapa na escala 1:500.000, a distância em linha reta entre eles é de 12 cm. Sabe-se que o percurso pela rodovia é 40% maior que a distância em linha reta e que a ambulância mantém velocidade média de 80 km/h.\n\nO tempo estimado do percurso é de aproximadamente",
+    "alternatives": [
+      {
+        "key": "A",
+        "text": "45 min."
+      },
+      {
+        "key": "B",
+        "text": "63 min."
+      },
+      {
+        "key": "C",
+        "text": "1 h 05 min."
+      },
+      {
+        "key": "D",
+        "text": "6,3 min."
+      },
+      {
+        "key": "E",
+        "text": "18 min."
+      }
+    ],
+    "answer": "B",
+    "explanation": "Primeiro, a distância em linha reta: 12 cm × 500.000 = 6.000.000 cm = 60 km. O percurso rodoviário é 40% maior: 60 × 1,4 = 84 km. O tempo é distância ÷ velocidade: 84 ÷ 80 = 1,05 h. Convertendo, 0,05 h × 60 = 3 min, portanto 1 h 03 min, ou 63 min. Conceito-chave: em problemas com escala, converta unidades com cuidado e não confunda horas decimais com minutos.",
+    "wrong_notes": {
+      "A": "Calculou 60 ÷ 80 = 0,75 h, esquecendo o acréscimo de 40% do percurso pela rodovia.",
+      "C": "Leu 1,05 h como 1 h 05 min; a parte decimal da hora deve ser multiplicada por 60 (0,05 h = 3 min).",
+      "D": "Erro de conversão da escala: tomou 1 cm = 0,5 km, obtendo 6 km em vez de 60 km.",
+      "E": "Calculou apenas o acréscimo (40% de 60 km = 24 km) e o tempo correspondente, sem somar a distância básica."
+    },
+    "concept": "Escala + porcentagem + velocidade média: 1,05 h = 63 min."
+  },
+  {
+    "id": "geo-geografia_fisica-001",
+    "discipline": "geografia",
+    "topic": "geografia_fisica",
+    "subtopic": "vegetação e biomas",
+    "difficulty": 1,
+    "type": "multipla_escolha",
+    "origin": "inedita_ia",
+    "style_ref": "ENEM",
+    "skills": [
+      "relação clima-vegetação"
+    ],
+    "statement": "No Cerrado, muitas árvores e arbustos possuem raízes que alcançam vários metros de profundidade. O clima da região apresenta uma estação chuvosa, aproximadamente de outubro a abril, e uma estação seca, de maio a setembro.\n\nConsiderando o clima descrito, a principal vantagem das raízes profundas para essas plantas é",
+    "alternatives": [
+      {
+        "key": "A",
+        "text": "evitar o acúmulo de água no solo durante todo o ano, já que o Cerrado tem chuvas constantes."
+      },
+      {
+        "key": "B",
+        "text": "fixar a planta em solos congelados durante o inverno."
+      },
+      {
+        "key": "C",
+        "text": "absorver nutrientes da camada superficial do solo, que é a mais fértil."
+      },
+      {
+        "key": "D",
+        "text": "permitir o acesso à água armazenada em camadas profundas do solo durante a estação seca."
+      },
+      {
+        "key": "E",
+        "text": "impedir a ação do fogo, que atinge apenas as raízes superficiais das árvores."
+      }
+    ],
+    "answer": "D",
+    "explanation": "O clima do Cerrado é tropical com estação seca bem marcada. Durante os meses secos, a camada superficial do solo perde umidade, mas há água armazenada em profundidade. Raízes profundas permitem que as plantas continuem absorvendo água nesse período. Essa característica também faz do Cerrado uma importante área de recarga de aquíferos e de nascentes. Conceito-chave: raízes profundas são adaptação à sazonalidade das chuvas do Cerrado.",
+    "wrong_notes": {
+      "A": "Contradiz o texto: o Cerrado tem estação seca marcada, não chuvas constantes.",
+      "B": "No Cerrado não há solos congelados; o clima é tropical.",
+      "C": "Raízes profundas buscam camadas mais profundas, não a superficial.",
+      "E": "As raízes profundas ajudam a planta a rebrotar após o fogo, mas não impedem sua ação; e o fogo atinge principalmente a parte aérea."
+    },
+    "concept": "Raízes profundas no Cerrado: acesso à água na estação seca."
+  },
+  {
+    "id": "geo-geografia_fisica-002",
+    "discipline": "geografia",
+    "topic": "geografia_fisica",
+    "subtopic": "hidrografia",
+    "difficulty": 2,
+    "type": "multipla_escolha",
+    "origin": "inedita_ia",
+    "style_ref": "ENEM",
+    "skills": [
+      "análise de impacto ambiental",
+      "comparação de ambientes"
+    ],
+    "statement": "O rio Tocantins e seu principal afluente, o rio Araguaia, formam uma das maiores bacias hidrográficas inteiramente brasileiras. No Araguaia, extensos trechos mantêm fluxo livre e planícies que se inundam na cheia; ali fica a Ilha do Bananal. Já o rio Tocantins foi barrado por várias usinas hidrelétricas. Uma delas, a Usina Luís Eduardo Magalhães (Lajeado), formou o grande lago às margens do qual se localiza Palmas.\n\nUma consequência ambiental esperada da formação do reservatório no rio Tocantins é",
+    "alternatives": [
+      {
+        "key": "A",
+        "text": "o aumento da velocidade da correnteza no trecho represado."
+      },
+      {
+        "key": "B",
+        "text": "a transformação de um ambiente de águas correntes (lótico) em um ambiente de águas mais paradas (lêntico), com alteração da fauna aquática e barreira à migração de peixes."
+      },
+      {
+        "key": "C",
+        "text": "o fim da estação seca na região de Palmas, devido à evaporação do lago."
+      },
+      {
+        "key": "D",
+        "text": "a ampliação das planícies de inundação sazonal, semelhantes às do Araguaia, a jusante da barragem."
+      },
+      {
+        "key": "E",
+        "text": "a redução do tempo de permanência da água no trecho represado."
+      }
+    ],
+    "answer": "B",
+    "explanation": "Ao barrar o rio, a usina reduz a velocidade da água e aumenta o tempo de permanência dela no reservatório, transformando um ambiente lótico em lêntico. Isso altera a temperatura, a oxigenação e a fauna, e a barragem interrompe as rotas de peixes migradores que sobem o rio para se reproduzir. A jusante, a regularização da vazão tende a reduzir, e não ampliar, as cheias naturais. Conceito-chave: reservatórios transformam rios em ambientes lênticos e fragmentam o curso d'água.",
+    "wrong_notes": {
+      "A": "Inverte o efeito: a barragem diminui a velocidade da água no trecho represado.",
+      "C": "A evaporação do lago pode alterar o microclima local, mas não elimina a estação seca, controlada pela dinâmica atmosférica regional.",
+      "D": "A regularização da vazão pela barragem tende a reduzir as cheias naturais a jusante.",
+      "E": "O represamento aumenta o tempo de residência da água."
+    },
+    "concept": "Represamento: ambiente lótico vira lêntico; impactos sobre peixes migradores."
+  },
+  {
+    "id": "geo-geografia_fisica-003",
+    "discipline": "geografia",
+    "topic": "geografia_fisica",
+    "subtopic": "clima",
+    "difficulty": 3,
+    "type": "multipla_escolha",
+    "origin": "inedita_ia",
+    "style_ref": "ENEM",
+    "skills": [
+      "interpretação de dados climáticos",
+      "classificação climática"
+    ],
+    "statement": "A tabela apresenta dados médios ilustrativos de uma cidade do Brasil central, a cerca de 10° de latitude sul.\n\n| Mês | J | F | M | A | M | J | J | A | S | O | N | D |\n|---|---|---|---|---|---|---|---|---|---|---|---|---|\n| Chuva (mm) | 270 | 260 | 250 | 150 | 40 | 5 | 2 | 10 | 50 | 140 | 210 | 260 |\n| Temperatura (°C) | 26 | 26 | 26 | 27 | 27 | 26 | 26 | 27 | 28 | 28 | 27 | 26 |\n\nCom base nos dados, o clima dessa cidade é classificado como",
+    "alternatives": [
+      {
+        "key": "A",
+        "text": "equatorial, pois as chuvas são abundantes e bem distribuídas em todos os meses."
+      },
+      {
+        "key": "B",
+        "text": "semiárido, pois o total anual de chuvas é inferior a 600 mm."
+      },
+      {
+        "key": "C",
+        "text": "subtropical, pois apresenta inverno frio e chuvas regulares ao longo do ano."
+      },
+      {
+        "key": "D",
+        "text": "tropical litorâneo, pois as chuvas concentram-se no outono e no inverno."
+      },
+      {
+        "key": "E",
+        "text": "tropical com estação seca, pois as temperaturas são elevadas o ano todo e as chuvas concentram-se no verão, com inverno seco."
+      }
+    ],
+    "answer": "E",
+    "explanation": "As temperaturas variam pouco, entre 26 e 28 °C, típicas de baixa latitude. A soma das chuvas é cerca de 1.650 mm anuais, mas quase todas se concentram de outubro a abril, enquanto de junho a agosto chove menos de 10 mm por mês. Calor constante com verão chuvoso e inverno seco caracteriza o clima tropical típico do Brasil central (semiúmido, Aw na classificação de Köppen), associado ao Cerrado. Conceito-chave: a sazonalidade das chuvas distingue o clima tropical com estação seca do equatorial.",
+    "wrong_notes": {
+      "A": "No equatorial não há estação seca prolongada; a tabela mostra meses quase sem chuva.",
+      "B": "O total anual (cerca de 1.650 mm) é muito superior ao do semiárido.",
+      "C": "As temperaturas são altas o ano inteiro e as chuvas não são regulares; não é clima subtropical.",
+      "D": "Os dados mostram chuvas no verão e seca no inverno, o oposto do tropical litorâneo do Nordeste oriental."
+    },
+    "concept": "Clima tropical com estação seca (Aw): calor constante, verão chuvoso e inverno seco."
+  },
+  {
+    "id": "geo-populacao-001",
+    "discipline": "geografia",
+    "topic": "populacao",
+    "subtopic": "demografia",
+    "difficulty": 1,
+    "type": "multipla_escolha",
+    "origin": "inedita_ia",
+    "style_ref": "ENEM",
+    "skills": [
+      "interpretação de dados demográficos",
+      "relação população-saúde"
+    ],
+    "statement": "Nas últimas décadas, a pirâmide etária brasileira passou por mudanças: a base, que representa crianças, ficou mais estreita, enquanto o topo, que representa os idosos, ficou mais largo. Isso ocorreu devido à queda da taxa de fecundidade e ao aumento da expectativa de vida.\n\nPara o sistema de saúde, uma consequência esperada dessa mudança é",
+    "alternatives": [
+      {
+        "key": "A",
+        "text": "o aumento da demanda por cuidado de doenças crônicas, como hipertensão e diabetes, e por serviços de atenção ao idoso."
+      },
+      {
+        "key": "B",
+        "text": "a diminuição da necessidade de profissionais de saúde, pois a população idosa adoece menos."
+      },
+      {
+        "key": "C",
+        "text": "o crescimento da demanda por maternidades, causado pelo aumento da natalidade."
+      },
+      {
+        "key": "D",
+        "text": "a eliminação das doenças infecciosas, já que a população envelhecida é mais resistente."
+      },
+      {
+        "key": "E",
+        "text": "a redução dos gastos com medicamentos de uso contínuo."
+      }
+    ],
+    "answer": "A",
+    "explanation": "A pirâmide com base estreita e topo largo indica envelhecimento populacional. Pessoas idosas apresentam maior prevalência de doenças crônicas não transmissíveis, como hipertensão, diabetes e doenças cardiovasculares, que exigem acompanhamento e medicamentos contínuos. Isso aumenta a demanda por atenção primária, geriatria e cuidados de longa duração. Conceito-chave: o envelhecimento populacional amplia a carga de doenças crônicas.",
+    "wrong_notes": {
+      "B": "Os idosos, em média, demandam mais serviços de saúde, não menos.",
+      "C": "O texto informa queda da fecundidade e base mais estreita, ou seja, menos nascimentos.",
+      "D": "O envelhecimento não elimina doenças infecciosas; idosos são, inclusive, mais vulneráveis a algumas delas.",
+      "E": "Doenças crônicas exigem medicamentos contínuos, o que tende a aumentar esses gastos."
+    },
+    "concept": "Transição demográfica e envelhecimento: aumento das doenças crônicas."
+  },
+  {
+    "id": "geo-populacao-002",
+    "discipline": "geografia",
+    "topic": "populacao",
+    "subtopic": "migrações",
+    "difficulty": 2,
+    "type": "multipla_escolha",
+    "origin": "inedita_ia",
+    "style_ref": "ENEM",
+    "skills": [
+      "identificação de tipos de migração"
+    ],
+    "statement": "Todos os dias, milhares de trabalhadores que moram em municípios de Goiás vizinhos ao Distrito Federal, como Valparaíso de Goiás, viajam pela manhã para trabalhar em Brasília e retornam às suas casas à noite. Muitos alegam que o aluguel em Brasília é caro demais para seus salários.\n\nO deslocamento descrito é exemplo de",
+    "alternatives": [
+      {
+        "key": "A",
+        "text": "êxodo rural, pois os trabalhadores deixam o campo definitivamente."
+      },
+      {
+        "key": "B",
+        "text": "transumância, pois o deslocamento acompanha as estações do ano."
+      },
+      {
+        "key": "C",
+        "text": "migração internacional, pois envolve unidades federativas diferentes."
+      },
+      {
+        "key": "D",
+        "text": "movimento pendular, deslocamento diário entre o local de moradia e o de trabalho ou estudo."
+      },
+      {
+        "key": "E",
+        "text": "migração de retorno, pois os trabalhadores voltam à região de origem após anos."
+      }
+    ],
+    "answer": "D",
+    "explanation": "O texto descreve um vaivém diário, sem mudança de residência: os trabalhadores moram em um município e trabalham em outro, retornando no mesmo dia. Esse fenômeno é chamado de movimento pendular e é típico de regiões metropolitanas e aglomerações urbanas, onde o custo da moradia empurra a população para a periferia. Conceito-chave: movimento pendular é o deslocamento diário casa-trabalho entre municípios.",
+    "wrong_notes": {
+      "A": "Não há saída definitiva do campo; trata-se de deslocamento diário entre áreas urbanas.",
+      "B": "A transumância é sazonal e ligada a atividades como pastoreio; o texto descreve deslocamentos diários.",
+      "C": "Goiás e Distrito Federal são unidades do mesmo país; o deslocamento é interno.",
+      "E": "Migração de retorno implica mudança de residência de volta à região de origem, o que não ocorre."
+    },
+    "concept": "Movimento pendular: deslocamento diário moradia-trabalho."
+  },
+  {
+    "id": "geo-populacao-003",
+    "discipline": "geografia",
+    "topic": "populacao",
+    "subtopic": "urbanização",
+    "difficulty": 3,
+    "type": "multipla_escolha",
+    "origin": "inedita_ia",
+    "style_ref": "ENEM",
+    "skills": [
+      "interpretação de tabela",
+      "relação urbanização-saúde",
+      "análise de correlação"
+    ],
+    "statement": "Um estudo hipotético em uma capital brasileira comparou quatro áreas da cidade:\n\n| Área | Domicílios ligados à rede de esgoto (%) | Internações de crianças por diarreia (por 1.000 crianças/ano) | Renda média domiciliar |\n|---|---|---|---|\n| Centro | 98 | 2 | alta |\n| Bairro consolidado | 70 | 6 | média |\n| Periferia | 35 | 14 | baixa |\n| Ocupação irregular recente | 10 | 22 | muito baixa |\n\nA interpretação mais adequada dos dados é a de que",
+    "alternatives": [
+      {
+        "key": "A",
+        "text": "o esgotamento sanitário é a única causa das diarreias, pois a correlação é perfeita."
+      },
+      {
+        "key": "B",
+        "text": "as áreas centrais apresentam mais internações porque concentram os hospitais."
+      },
+      {
+        "key": "C",
+        "text": "a distribuição desigual da infraestrutura de saneamento acompanha a segregação socioespacial e está associada a maior ocorrência de doenças de veiculação hídrica nas áreas pobres."
+      },
+      {
+        "key": "D",
+        "text": "a renda não tem relação com a infraestrutura urbana, pois esta é distribuída igualmente pelo poder público."
+      },
+      {
+        "key": "E",
+        "text": "a urbanização elimina os problemas de saúde, já que todas as áreas são urbanas."
+      }
+    ],
+    "answer": "C",
+    "explanation": "Os dados mostram que, quanto menor a renda da área, menor a cobertura de esgoto e maior a taxa de internações por diarreia. Isso indica que a infraestrutura urbana está distribuída de forma desigual, acompanhando a segregação socioespacial típica da urbanização brasileira, com populações pobres em periferias e ocupações irregulares. A associação com doenças de veiculação hídrica é coerente com o conhecimento sanitário, mas os dados não provam que o esgoto seja a única causa, pois outros fatores ligados à renda (água tratada, nutrição, acesso à saúde) também variam. Conceito-chave: a segregação socioespacial produz desigualdades de saneamento e de saúde.",
+    "wrong_notes": {
+      "A": "Correlação não prova causa única; renda, água tratada e acesso a serviços também variam entre as áreas.",
+      "B": "Inverte os dados: o Centro tem a menor taxa de internações.",
+      "D": "Os dados mostram justamente que a cobertura de esgoto é menor nas áreas de menor renda.",
+      "E": "Todas as áreas são urbanas e há grande diferença de indicadores, o que mostra que a urbanização, por si só, não resolve os problemas."
+    },
+    "concept": "Segregação socioespacial, saneamento desigual e doenças de veiculação hídrica."
+  },
+  {
+    "id": "geo-economia-001",
+    "discipline": "geografia",
+    "topic": "economia",
+    "subtopic": "agropecuária e MATOPIBA",
+    "difficulty": 1,
+    "type": "multipla_escolha",
+    "origin": "inedita_ia",
+    "style_ref": "ENEM",
+    "skills": [
+      "leitura de informação regional"
+    ],
+    "statement": "O termo MATOPIBA é formado pelas iniciais de estados brasileiros e designa uma região onde, desde as últimas décadas do século XX, a produção de grãos, como a soja, se expandiu sobre áreas de Cerrado.\n\nOs estados que formam o MATOPIBA são",
+    "alternatives": [
+      {
+        "key": "A",
+        "text": "Mato Grosso, Tocantins, Pará e Bahia."
+      },
+      {
+        "key": "B",
+        "text": "Maranhão, Tocantins, Piauí e Bahia."
+      },
+      {
+        "key": "C",
+        "text": "Mato Grosso, Tocantins, Piauí e Bahia."
+      },
+      {
+        "key": "D",
+        "text": "Maranhão, Tocantins, Paraíba e Bahia."
+      },
+      {
+        "key": "E",
+        "text": "Maranhão, Tocantins, Pará e Bahia."
+      }
+    ],
+    "answer": "B",
+    "explanation": "MATOPIBA reúne as iniciais de Maranhão (MA), Tocantins (TO), Piauí (PI) e Bahia (BA). A região corresponde, em grande parte, a áreas de Cerrado desses estados e tornou-se uma importante fronteira agrícola de grãos, com uso intenso de mecanização e insumos. Conceito-chave: MATOPIBA = Maranhão, Tocantins, Piauí e Bahia, fronteira agrícola do Cerrado.",
+    "wrong_notes": {
+      "A": "Confunde \"MA\" com Mato Grosso e \"PI\" com Pará; Mato Grosso e Pará não compõem a sigla.",
+      "C": "Confunde \"MA\" com Mato Grosso, grande produtor de grãos, mas fora do MATOPIBA.",
+      "D": "Confunde Piauí com Paraíba; a Paraíba não tem áreas de Cerrado de fronteira agrícola na região.",
+      "E": "Confunde \"PI\" com Pará."
+    },
+    "concept": "MATOPIBA: fronteira agrícola no Cerrado de MA, TO, PI e BA."
+  },
+  {
+    "id": "geo-economia-002",
+    "discipline": "geografia",
+    "topic": "economia",
+    "subtopic": "agropecuária e MATOPIBA",
+    "difficulty": 2,
+    "type": "multipla_escolha",
+    "origin": "inedita_ia",
+    "style_ref": "ENEM",
+    "skills": [
+      "análise de logística e transporte",
+      "interpretação de texto"
+    ],
+    "statement": "Parte da soja produzida no sul do Maranhão e no Tocantins é transportada por caminhões até terminais da Ferrovia Norte-Sul e segue, por ferrovia, até o Porto do Itaqui, em São Luís (MA), de onde é exportada. Antes da consolidação dessa rota, grande parte da produção era levada por rodovia até portos do Sudeste e do Sul.\n\nA principal vantagem geográfica da rota pelo Porto do Itaqui para a produção do MATOPIBA é",
+    "alternatives": [
+      {
+        "key": "A",
+        "text": "a eliminação total do transporte rodoviário na cadeia de exportação."
+      },
+      {
+        "key": "B",
+        "text": "o acesso a um porto fluvial, que dispensa navios de grande porte."
+      },
+      {
+        "key": "C",
+        "text": "a produção de soja próxima ao litoral, sem necessidade de transporte terrestre."
+      },
+      {
+        "key": "D",
+        "text": "o fato de o porto estar localizado no Centro-Oeste, perto dos principais consumidores."
+      },
+      {
+        "key": "E",
+        "text": "a menor distância até um porto exportador e o uso do modal ferroviário, mais barato que o rodoviário em longas distâncias para cargas volumosas."
+      }
+    ],
+    "answer": "E",
+    "explanation": "Para produtores do sul do Maranhão e do Tocantins, os portos do Norte e Nordeste, como Itaqui, ficam mais próximos que Santos ou Paranaguá. Além disso, a ferrovia transporta grandes volumes com custo por tonelada menor que o caminhão em longas distâncias. A combinação reduz o custo do frete e aumenta a competitividade da soja. O texto mostra, porém, que o caminhão ainda é usado no trecho inicial. Conceito-chave: a logística por ferrovia e portos mais próximos reduz custos de exportação de grãos.",
+    "wrong_notes": {
+      "A": "O texto diz que a soja chega aos terminais ferroviários por caminhão; o rodoviário não foi eliminado.",
+      "B": "Itaqui é um porto marítimo, em São Luís, que recebe navios de grande porte.",
+      "C": "As áreas produtoras ficam no interior, longe do litoral; por isso há transporte terrestre.",
+      "D": "O Porto do Itaqui fica no Maranhão (Nordeste) e os grandes compradores estão no exterior."
+    },
+    "concept": "Logística do MATOPIBA: Ferrovia Norte-Sul e Porto do Itaqui."
+  },
+  {
+    "id": "geo-economia-003",
+    "discipline": "geografia",
+    "topic": "economia",
+    "subtopic": "indústria e energia",
+    "difficulty": 3,
+    "type": "multipla_escolha",
+    "origin": "inedita_ia",
+    "style_ref": "ENEM",
+    "skills": [
+      "interpretação de dados",
+      "relação energia-clima-ambiente"
+    ],
+    "statement": "A matriz elétrica brasileira é predominantemente renovável, com grande participação de hidrelétricas. A tabela mostra uma situação ilustrativa de dois anos em uma região do país:\n\n| Indicador | Ano chuvoso | Ano de seca severa |\n|---|---|---|\n| Nível médio dos reservatórios | 70% | 25% |\n| Participação de termelétricas a gás e óleo na geração | 10% | 30% |\n| Custo médio de geração (índice) | 100 | 160 |\n\nA partir dos dados, conclui-se que, em anos de seca severa,",
+    "alternatives": [
+      {
+        "key": "A",
+        "text": "o acionamento de termelétricas compensa a menor geração hidrelétrica, elevando o custo da energia e as emissões de gases de efeito estufa."
+      },
+      {
+        "key": "B",
+        "text": "as hidrelétricas aumentam sua produção, pois há mais espaço livre nos reservatórios."
+      },
+      {
+        "key": "C",
+        "text": "o custo da energia diminui, porque as termelétricas utilizam combustíveis renováveis."
+      },
+      {
+        "key": "D",
+        "text": "a matriz elétrica se torna mais limpa, porque se reduz o uso da água."
+      },
+      {
+        "key": "E",
+        "text": "não há relação entre o clima e a geração de energia elétrica no Brasil."
+      }
+    ],
+    "answer": "A",
+    "explanation": "Com reservatórios baixos, as hidrelétricas produzem menos e o sistema aciona termelétricas para garantir o abastecimento. Essas usinas, que queimam gás natural ou derivados de petróleo, têm custo de geração maior (índice de 100 para 160) e emitem mais gases de efeito estufa. Isso mostra a vulnerabilidade de uma matriz muito dependente de chuvas. Conceito-chave: a dependência hidrelétrica torna a geração brasileira sensível às secas.",
+    "wrong_notes": {
+      "B": "Reservatórios baixos significam menos água para gerar energia, não mais.",
+      "C": "Gás natural e óleo são combustíveis fósseis, e a tabela mostra aumento de custo.",
+      "D": "A substituição de hidreletricidade por termeletricidade fóssil torna a matriz mais poluente.",
+      "E": "A tabela mostra justamente que a seca altera a geração e o custo."
+    },
+    "concept": "Matriz elétrica hidrelétrica e vulnerabilidade às secas."
+  },
+  {
+    "id": "geo-economia-004",
+    "discipline": "geografia",
+    "topic": "economia",
+    "subtopic": "globalização",
+    "difficulty": 4,
+    "type": "multipla_escolha",
+    "origin": "inedita_ia",
+    "style_ref": "ENEM",
+    "skills": [
+      "interpretação de tabela",
+      "análise de inserção na economia global"
+    ],
+    "statement": "A tabela apresenta dados hipotéticos sobre as exportações de um estado do MATOPIBA:\n\n| Produto | Participação nas exportações do estado | Principal destino |\n|---|---|---|\n| Soja em grão | 68% | China |\n| Carne bovina | 14% | China |\n| Milho em grão | 10% | vários países |\n| Produtos industrializados | 8% | países vizinhos |\n\nEm um ano, o preço internacional da soja caiu 20% e a China reduziu suas compras do Brasil. Considerando os dados, a análise mais adequada sobre a inserção desse estado na economia globalizada é a de que",
+    "alternatives": [
+      {
+        "key": "A",
+        "text": "a diversificação da pauta exportadora protege o estado de oscilações externas, pois nenhum produto é predominante."
+      },
+      {
+        "key": "B",
+        "text": "a queda de preço da soja não afeta a economia estadual, já que a produção é destinada ao mercado interno."
+      },
+      {
+        "key": "C",
+        "text": "a exportação de produtos primários garante preços estáveis, definidos pelo governo estadual."
+      },
+      {
+        "key": "D",
+        "text": "a concentração em produtos primários e em um destino principal torna a economia estadual vulnerável às variações de preços e da demanda internacionais."
+      },
+      {
+        "key": "E",
+        "text": "o estado é um grande exportador de bens industrializados de alto valor agregado."
+      }
+    ],
+    "answer": "D",
+    "explanation": "A tabela mostra que 92% das exportações são produtos agropecuários pouco processados (68 + 14 + 10) e que os dois maiores itens têm o mesmo destino principal. Como os preços dessas commodities são definidos no mercado internacional, uma queda de preço ou da demanda chinesa afeta diretamente a renda do estado. Essa situação ilustra uma inserção na globalização baseada em commodities, com baixa agregação de valor e dependência externa. Conceito-chave: a concentração da pauta em commodities aumenta a vulnerabilidade externa.",
+    "wrong_notes": {
+      "A": "A pauta é concentrada: só a soja responde por 68% das exportações.",
+      "B": "A tabela trata de exportações; a soja é vendida principalmente ao exterior.",
+      "C": "Os preços das commodities são definidos no mercado internacional e oscilam; o texto cita queda de 20%.",
+      "E": "Os industrializados representam apenas 8% das exportações."
+    },
+    "concept": "Commodities e vulnerabilidade externa na globalização."
+  },
+  {
+    "id": "geo-ambiental-001",
+    "discipline": "geografia",
+    "topic": "ambiental",
+    "subtopic": "desmatamento",
+    "difficulty": 1,
+    "type": "multipla_escolha",
+    "origin": "inedita_ia",
+    "style_ref": "ENEM",
+    "skills": [
+      "relação ambiente-saúde"
+    ],
+    "statement": "Em vários municípios do Tocantins e do Maranhão, os serviços de saúde registram aumento de atendimentos por crises de asma e outras doenças respiratórias entre julho e setembro. Nesse período, o número de focos de queimadas cresce muito nas áreas de Cerrado.\n\nA relação entre os dois fenômenos pode ser explicada pelo fato de que",
+    "alternatives": [
+      {
+        "key": "A",
+        "text": "as queimadas aumentam a umidade do ar, favorecendo a proliferação de fungos."
+      },
+      {
+        "key": "B",
+        "text": "as chuvas intensas desse período espalham a fumaça pelas cidades."
+      },
+      {
+        "key": "C",
+        "text": "o período seco favorece a propagação do fogo, e a fumaça das queimadas eleva a concentração de partículas poluentes no ar."
+      },
+      {
+        "key": "D",
+        "text": "as queimadas ocorrem apenas em áreas desabitadas, sem efeitos sobre a população."
+      },
+      {
+        "key": "E",
+        "text": "o frio intenso do inverno no Cerrado é a única causa das doenças respiratórias."
+      }
+    ],
+    "answer": "C",
+    "explanation": "Julho a setembro corresponde ao auge da estação seca no Cerrado: a vegetação seca e a baixa umidade facilitam a propagação do fogo, natural ou provocado pelo uso agropecuário. A fumaça lança no ar partículas finas e gases que irritam as vias respiratórias, agravando asma e bronquite, efeito somado à baixa umidade do ar. Conceito-chave: queimadas na estação seca pioram a qualidade do ar e a saúde respiratória.",
+    "wrong_notes": {
+      "A": "As queimadas e o período seco estão associados à baixa umidade do ar, não ao aumento dela.",
+      "B": "Julho a setembro é a estação seca; as chuvas, ao contrário, ajudam a limpar o ar.",
+      "D": "A fumaça se desloca por longas distâncias e atinge as cidades.",
+      "E": "O Cerrado não tem inverno de frio intenso; e o texto associa as doenças às queimadas."
+    },
+    "concept": "Queimadas na estação seca e doenças respiratórias."
+  },
+  {
+    "id": "geo-ambiental-002",
+    "discipline": "geografia",
+    "topic": "ambiental",
+    "subtopic": "mudanças climáticas",
+    "difficulty": 2,
+    "type": "multipla_escolha",
+    "origin": "inedita_ia",
+    "style_ref": "ENEM",
+    "skills": [
+      "distinção de conceitos ambientais",
+      "análise de argumento"
+    ],
+    "statement": "Em uma rede social, uma pessoa escreveu:\n\n> \"O aquecimento global acontece porque o buraco na camada de ozônio deixa o calor do Sol entrar. Por isso, para combatê-lo, basta parar de usar aerossóis com CFC.\"\n\nUm estudante de Geografia corrigiu a postagem. A correção adequada é a de que",
+    "alternatives": [
+      {
+        "key": "A",
+        "text": "o efeito estufa é um fenômeno exclusivamente causado pelo ser humano, sem existência natural."
+      },
+      {
+        "key": "B",
+        "text": "a camada de ozônio é formada por gás carbônico, cuja redução causa o aquecimento."
+      },
+      {
+        "key": "C",
+        "text": "o aquecimento global é causado pelo vapor liberado por usinas nucleares."
+      },
+      {
+        "key": "D",
+        "text": "a postagem está correta, pois os CFCs são os principais gases liberados pelo desmatamento."
+      },
+      {
+        "key": "E",
+        "text": "o aquecimento global está ligado à intensificação do efeito estufa por gases como CO2 e metano, enquanto a camada de ozônio filtra a radiação ultravioleta e foi afetada principalmente por CFCs."
+      }
+    ],
+    "answer": "E",
+    "explanation": "A postagem confunde dois problemas diferentes. O efeito estufa é natural e mantém a Terra aquecida; sua intensificação por gases emitidos por atividades humanas, como CO2 (combustíveis fósseis, desmatamento) e metano (pecuária, aterros), provoca o aquecimento global. Já a camada de ozônio, na estratosfera, absorve grande parte da radiação ultravioleta, e sua destruição foi causada sobretudo por CFCs, o que aumenta o risco de câncer de pele, mas não é a causa principal do aquecimento global. Conceito-chave: efeito estufa intensificado e destruição da camada de ozônio são fenômenos distintos.",
+    "wrong_notes": {
+      "A": "O efeito estufa é natural e essencial à vida; o problema é sua intensificação por ação humana.",
+      "B": "A camada de ozônio é formada por O3, não por gás carbônico.",
+      "C": "Usinas nucleares não emitem CO2 na geração; o vapor d'água liberado não é a causa do aquecimento global.",
+      "D": "A postagem mistura os fenômenos; o desmatamento libera principalmente CO2, não CFCs."
+    },
+    "concept": "Efeito estufa x camada de ozônio."
+  },
+  {
+    "id": "geo-ambiental-003",
+    "discipline": "geografia",
+    "topic": "ambiental",
+    "subtopic": "recursos hídricos",
+    "difficulty": 4,
+    "type": "multipla_escolha",
+    "origin": "inedita_ia",
+    "style_ref": "ENEM",
+    "skills": [
+      "interpretação de tabela",
+      "formulação de hipótese",
+      "relação uso do solo-água"
+    ],
+    "statement": "No oeste da Bahia, área do MATOPIBA, rios que nascem no Cerrado são alimentados, na estação seca, pela água de um grande aquífero. A tabela traz dados hipotéticos de uma bacia da região:\n\n| Década | Área irrigada por pivôs centrais (mil ha) | Chuva média anual (mm) | Vazão média do rio no mês mais seco (m³/s) |\n|---|---|---|---|\n| 1990 | 10 | 1.150 | 60 |\n| 2000 | 45 | 1.120 | 51 |\n| 2010 | 110 | 1.140 | 38 |\n\nSabe-se que os pivôs captam água de rios e de poços profundos e que a expansão agrícola substituiu vegetação nativa de Cerrado. A interpretação mais coerente com os dados é a de que",
+    "alternatives": [
+      {
+        "key": "A",
+        "text": "a redução da vazão é explicada pela diminuição das chuvas, que caíram mais de 30% no período."
+      },
+      {
+        "key": "B",
+        "text": "a irrigação aumentou a vazão dos rios, pois a água aplicada nas lavouras retorna integralmente ao leito."
+      },
+      {
+        "key": "C",
+        "text": "os dados são compatíveis com a hipótese de que a captação para irrigação e a mudança no uso do solo reduziram a contribuição subterrânea que sustenta os rios na seca."
+      },
+      {
+        "key": "D",
+        "text": "a vazão no período seco não depende de águas subterrâneas, mas apenas da chuva do próprio mês."
+      },
+      {
+        "key": "E",
+        "text": "os dados provam que a irrigação é a única causa possível da redução da vazão, não sendo necessário nenhum outro estudo."
+      }
+    ],
+    "answer": "C",
+    "explanation": "A chuva anual permaneceu praticamente estável (entre 1.120 e 1.150 mm), enquanto a área irrigada cresceu 11 vezes e a vazão no mês mais seco caiu de 60 para 38 m³/s, cerca de 37%. Como na seca os rios dependem da água subterrânea, a retirada por poços e captações e a substituição da vegetação nativa, que influencia a infiltração, são explicações coerentes. Por se tratar de correlação, a conclusão adequada é que os dados apoiam essa hipótese, e não que a provem de forma definitiva. Conceito-chave: no Cerrado, a vazão de estiagem depende dos aquíferos, sensíveis à irrigação e ao desmatamento.",
+    "wrong_notes": {
+      "A": "A tabela mostra chuva praticamente estável; a variação é de cerca de 3%, não de 30%.",
+      "B": "A vazão caiu; grande parte da água de irrigação evapora ou é absorvida pelas plantas, não retornando ao rio.",
+      "D": "O próprio texto afirma que, na seca, os rios são alimentados pelo aquífero.",
+      "E": "Correlação não é prova de causa única; outros fatores podem contribuir e precisam ser investigados."
+    },
+    "concept": "Irrigação, uso do solo e vazão de estiagem sustentada por aquíferos no Cerrado."
+  },
+  {
+    "id": "geo-regional_br-001",
+    "discipline": "geografia",
+    "topic": "regional_br",
+    "subtopic": "Maranhão",
+    "difficulty": 3,
+    "type": "multipla_escolha",
+    "origin": "inedita_ia",
+    "style_ref": "ENEM",
+    "skills": [
+      "interpretação de texto",
+      "relação natureza-sociedade"
+    ],
+    "statement": "No Maranhão e no Piauí, extensas áreas são cobertas por palmeiras de babaçu, formação conhecida como Mata dos Cocais. Milhares de mulheres, as quebradeiras de coco babaçu, extraem amêndoas para produzir óleo, sabão e farinha. Nas últimas décadas, elas denunciaram o cercamento de terras e a derrubada de palmeiras para abrir pastagens, o que dificultou o acesso aos babaçuais.\n\nCom base no texto, é correto afirmar que a Mata dos Cocais",
+    "alternatives": [
+      {
+        "key": "A",
+        "text": "é uma floresta densa típica do Sul do Brasil, dominada por araucárias."
+      },
+      {
+        "key": "B",
+        "text": "é uma vegetação de transição entre a Amazônia e a Caatinga, cuja exploração extrativista sustenta comunidades e é afetada por conflitos pelo uso da terra."
+      },
+      {
+        "key": "C",
+        "text": "é uma área de agricultura mecanizada de soja, sem relação com populações tradicionais."
+      },
+      {
+        "key": "D",
+        "text": "é uma formação de manguezal, localizada exclusivamente no litoral maranhense."
+      },
+      {
+        "key": "E",
+        "text": "é uma vegetação protegida em toda a sua extensão, sem registros de conflitos fundiários."
+      }
+    ],
+    "answer": "B",
+    "explanation": "A Mata dos Cocais ocorre principalmente no Maranhão e no Piauí, numa faixa de transição entre a floresta Amazônica, mais úmida, a oeste, e a Caatinga, semiárida, a leste. O babaçu sustenta o trabalho de comunidades extrativistas, especialmente de mulheres quebradeiras de coco. O texto mostra que o avanço de pastagens e o cercamento de terras ameaçam esse modo de vida, caracterizando um conflito pelo uso da terra. Conceito-chave: a Mata dos Cocais é vegetação de transição com forte extrativismo tradicional do babaçu.",
+    "wrong_notes": {
+      "A": "Descreve a Mata de Araucárias, do Sul do país, sem relação com o babaçu.",
+      "C": "O texto descreve extrativismo tradicional, não agricultura mecanizada de grãos.",
+      "D": "Manguezais são formações costeiras de áreas de maré; o babaçu ocorre no interior.",
+      "E": "O texto relata justamente conflitos e derrubada de palmeiras."
+    },
+    "concept": "Mata dos Cocais: transição Amazônia-Caatinga e extrativismo do babaçu."
+  },
+  {
+    "id": "geo-regional_br-002",
+    "discipline": "geografia",
+    "topic": "regional_br",
+    "subtopic": "Tocantins",
+    "difficulty": 4,
+    "type": "multipla_escolha",
+    "origin": "inedita_ia",
+    "style_ref": "ENEM",
+    "skills": [
+      "interpretação de norma legal",
+      "cálculo de porcentagem",
+      "regionalização"
+    ],
+    "statement": "O Código Florestal brasileiro (Lei nº 12.651/2012) exige que imóveis rurais mantenham uma área de Reserva Legal com vegetação nativa. Os percentuais mínimos são:\n\n| Localização do imóvel | Reserva Legal mínima |\n|---|---|\n| Amazônia Legal, em área de florestas | 80% |\n| Amazônia Legal, em área de Cerrado | 35% |\n| Amazônia Legal, em área de campos gerais | 20% |\n| Demais regiões do país | 20% |\n\nTodo o estado do Tocantins integra a Amazônia Legal, mas grande parte de seu território é coberta por Cerrado. Goiás não faz parte da Amazônia Legal. Considere duas propriedades de 1.000 hectares, ambas cobertas por Cerrado: uma no Tocantins e outra em Goiás.\n\nA Reserva Legal mínima da propriedade no Tocantins e a diferença em relação à de Goiás são, respectivamente,",
+    "alternatives": [
+      {
+        "key": "A",
+        "text": "800 ha e 600 ha a mais."
+      },
+      {
+        "key": "B",
+        "text": "200 ha e nenhuma diferença."
+      },
+      {
+        "key": "C",
+        "text": "350 ha e 150 ha a menos."
+      },
+      {
+        "key": "D",
+        "text": "350 ha e 150 ha a mais."
+      },
+      {
+        "key": "E",
+        "text": "650 ha e 450 ha a mais."
+      }
+    ],
+    "answer": "D",
+    "explanation": "O critério legal não é apenas o bioma, mas também a localização na Amazônia Legal, uma regionalização criada para fins de planejamento. O Tocantins está na Amazônia Legal; como a propriedade é de Cerrado, aplica-se 35%: 0,35 × 1.000 = 350 ha. Goiás está fora da Amazônia Legal, então vale 20%: 0,20 × 1.000 = 200 ha. A diferença é 350 − 200 = 150 ha a mais no Tocantins. Conceito-chave: a Amazônia Legal é uma regionalização político-administrativa que inclui áreas de Cerrado, como o Tocantins.",
+    "wrong_notes": {
+      "A": "Aplicou o percentual de florestas (80%), ignorando que a propriedade é de Cerrado.",
+      "B": "Considerou apenas o bioma Cerrado e ignorou que o Tocantins está na Amazônia Legal.",
+      "C": "Calculou corretamente a área, mas inverteu o sentido da diferença: 350 ha é mais que 200 ha.",
+      "E": "Calculou a área que pode ser usada (65%), e não a Reserva Legal mínima."
+    },
+    "concept": "Amazônia Legal (inclui o Tocantins) e Reserva Legal de 35% no Cerrado."
+  },
+  {
+    "id": "geo-regional_br-003",
+    "discipline": "geografia",
+    "topic": "regional_br",
+    "subtopic": "regionalização do Brasil",
+    "difficulty": 4,
+    "type": "multipla_escolha",
+    "origin": "inedita_ia",
+    "style_ref": "ENEM",
+    "skills": [
+      "comparação de regionalizações",
+      "análise de critérios"
+    ],
+    "statement": "Imperatriz, no oeste do Maranhão, às margens do rio Tocantins, a cerca de 47° de longitude oeste, aparece de formas diferentes conforme o critério usado:\n\n- Na divisão regional oficial do IBGE, que segue os limites dos estados, o Maranhão pertence à Região Nordeste.\n- A Amazônia Legal, definida em lei para fins de planejamento, inclui a parte do Maranhão situada a oeste do meridiano de 44° O.\n- Na divisão em três complexos regionais (Amazônia, Nordeste e Centro-Sul), baseada em critérios socioeconômicos e que não respeita os limites estaduais, o oeste maranhense é incluído na Amazônia.\n\nA análise dessas informações permite concluir que",
+    "alternatives": [
+      {
+        "key": "A",
+        "text": "um mesmo lugar pode integrar regiões diferentes, porque cada regionalização adota critérios e finalidades próprios."
+      },
+      {
+        "key": "B",
+        "text": "apenas a divisão do IBGE é válida, e as demais estão erradas por não seguirem os limites estaduais."
+      },
+      {
+        "key": "C",
+        "text": "Imperatriz pertence à Região Norte do IBGE, pois está na Amazônia Legal."
+      },
+      {
+        "key": "D",
+        "text": "a Amazônia Legal coincide exatamente com a Região Norte do IBGE."
+      },
+      {
+        "key": "E",
+        "text": "Imperatriz está fora da Amazônia Legal, pois está a leste do meridiano de 44° O."
+      }
+    ],
+    "answer": "A",
+    "explanation": "Cada regionalização tem um objetivo: a do IBGE organiza estatísticas segundo os limites estaduais; a Amazônia Legal serve ao planejamento e a políticas ambientais e de desenvolvimento; os complexos regionais agrupam áreas com características socioeconômicas semelhantes. Imperatriz, a cerca de 47° O, está a oeste de 44° O, logo pertence à Amazônia Legal, ao mesmo tempo em que integra o Nordeste do IBGE e o complexo amazônico. Não há contradição: são critérios diferentes. Conceito-chave: regionalizar é escolher critérios; um lugar pode pertencer a várias regiões ao mesmo tempo.",
+    "wrong_notes": {
+      "B": "Nenhuma regionalização é a única correta; elas servem a finalidades distintas.",
+      "C": "No IBGE, o Maranhão inteiro pertence ao Nordeste, independentemente da Amazônia Legal.",
+      "D": "A Amazônia Legal inclui áreas fora da Região Norte, como Mato Grosso e o oeste do Maranhão.",
+      "E": "Erro de leitura de longitude: 47° O está a oeste de 44° O, portanto dentro da Amazônia Legal."
+    },
+    "concept": "Regionalizações diferentes (IBGE, Amazônia Legal, complexos regionais) aplicadas ao Maranhão."
+  }
+]

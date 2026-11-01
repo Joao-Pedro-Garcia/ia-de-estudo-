@@ -1,0 +1,786 @@
+[
+  {
+    "id": "qui-estrutura_atomica-001",
+    "discipline": "quimica",
+    "topic": "estrutura_atomica",
+    "subtopic": "partículas e números atômicos",
+    "difficulty": 1,
+    "type": "multipla_escolha",
+    "origin": "inedita_ia",
+    "style_ref": "ENEM",
+    "skills": ["contagem de partículas subatômicas"],
+    "statement": "O ferro é essencial ao organismo humano: na hemoglobina, ele se encontra na forma do íon Fe2+. O isótopo mais abundante do ferro é o ferro-56, cujo número atômico é 26.\n\nO número de prótons, nêutrons e elétrons do íon Fe2+ desse isótopo é, respectivamente,",
+    "alternatives": [
+      {"key": "A", "text": "26, 30 e 26."},
+      {"key": "B", "text": "26, 30 e 24."},
+      {"key": "C", "text": "24, 30 e 26."},
+      {"key": "D", "text": "26, 56 e 24."},
+      {"key": "E", "text": "26, 30 e 28."}
+    ],
+    "answer": "B",
+    "explanation": "O número atômico (Z = 26) indica o número de prótons, que define o elemento e não muda na formação de íons. O número de nêutrons é a diferença entre o número de massa e o número atômico: 56 - 26 = 30. O íon Fe2+ tem carga +2 porque perdeu 2 elétrons; o átomo neutro tem 26 elétrons, então o íon tem 24. Conceito-chave: cátions se formam pela perda de elétrons, sem alteração do número de prótons.",
+    "wrong_notes": {
+      "A": "Considera o átomo neutro, esquecendo que a carga +2 indica perda de 2 elétrons.",
+      "C": "Supõe que a carga altera o número de prótons; íons se formam por ganho ou perda de elétrons.",
+      "D": "Confunde o número de massa (56) com o número de nêutrons.",
+      "E": "Interpreta a carga positiva como ganho de elétrons; cátions perdem elétrons."
+    },
+    "concept": "Prótons, nêutrons e elétrons em íons."
+  },
+  {
+    "id": "qui-tabela_periodica-001",
+    "discipline": "quimica",
+    "topic": "tabela_periodica",
+    "subtopic": "propriedades periódicas",
+    "difficulty": 1,
+    "type": "multipla_escolha",
+    "origin": "inedita_ia",
+    "style_ref": "ENEM",
+    "skills": ["uso da tabela periódica", "propriedades periódicas"],
+    "statement": "O sódio (Z = 11) e o cloro (Z = 17), que formam o cloreto de sódio do soro fisiológico, pertencem ao 3º período da tabela periódica. O sódio é um metal alcalino (grupo 1) e o cloro, um halogênio (grupo 17).\n\nComparando os átomos neutros desses dois elementos, é correto afirmar que o cloro apresenta",
+    "alternatives": [
+      {"key": "A", "text": "menor eletronegatividade que o sódio, pois tem mais elétrons."},
+      {"key": "B", "text": "maior raio atômico que o sódio, pois tem mais elétrons."},
+      {"key": "C", "text": "o mesmo raio atômico que o sódio, pois ambos têm três camadas eletrônicas."},
+      {"key": "D", "text": "maior eletronegatividade e menor raio atômico que o sódio, pois tem maior carga nuclear atuando sobre o mesmo número de camadas."},
+      {"key": "E", "text": "menor energia de ionização que o sódio, pois perde elétrons com mais facilidade."}
+    ],
+    "answer": "D",
+    "explanation": "No mesmo período, os átomos têm o mesmo número de camadas eletrônicas. Da esquerda para a direita, aumenta o número de prótons e, com ele, a atração do núcleo sobre os elétrons. Por isso o raio atômico diminui e a eletronegatividade e a energia de ionização aumentam. O cloro, à direita do sódio, é menor, mais eletronegativo e retém seus elétrons com mais força. Conceito-chave: ao longo de um período, o aumento da carga nuclear reduz o raio e aumenta a eletronegatividade.",
+    "wrong_notes": {
+      "A": "A eletronegatividade cresce para a direita no período; o cloro é muito mais eletronegativo que o sódio.",
+      "B": "Mais elétrons na mesma camada não aumentam o raio; o maior número de prótons atrai mais os elétrons e reduz o raio.",
+      "C": "O mesmo número de camadas não implica o mesmo raio; a carga nuclear diferente altera o tamanho.",
+      "E": "O sódio é que perde elétrons com facilidade (baixa energia de ionização); o cloro tende a ganhar elétrons."
+    },
+    "concept": "Variação do raio atômico e da eletronegatividade em um período."
+  },
+  {
+    "id": "qui-ligacoes-001",
+    "discipline": "quimica",
+    "topic": "ligacoes",
+    "subtopic": "ligação iônica",
+    "difficulty": 1,
+    "type": "multipla_escolha",
+    "origin": "inedita_ia",
+    "style_ref": "ENEM",
+    "skills": ["relação estrutura-propriedade", "análise de experimento"],
+    "statement": "Em uma aula prática, estudantes testaram a condutividade elétrica de três líquidos usando um circuito com uma lâmpada. A lâmpada acendeu apenas com o soro fisiológico (solução aquosa de NaCl). Com água destilada e com solução aquosa de glicose (soro glicosado), ela permaneceu apagada.\n\nO resultado se explica porque",
+    "alternatives": [
+      {"key": "A", "text": "o NaCl é um composto iônico que, em água, se dissocia em íons Na+ e Cl- livres, capazes de conduzir corrente; a glicose é molecular e se dissolve sem formar íons."},
+      {"key": "B", "text": "a glicose forma íons em água, mas eles são grandes demais para se movimentar."},
+      {"key": "C", "text": "o NaCl é uma substância molecular que sofre ionização, enquanto a glicose é iônica e não se dissolve."},
+      {"key": "D", "text": "a água pura é boa condutora, mas a glicose bloqueia a passagem de corrente."},
+      {"key": "E", "text": "o NaCl em solução libera elétrons livres, como ocorre nos metais."}
+    ],
+    "answer": "A",
+    "explanation": "Para conduzir corrente, uma solução precisa de partículas carregadas com mobilidade. O NaCl é formado por ligação iônica; em água, os íons se separam (dissociação iônica) e ficam livres para se mover. A glicose é uma substância molecular, de ligações covalentes, que se dissolve como moléculas inteiras, sem gerar íons. A água destilada tem pouquíssimos íons e conduz muito mal. Conceito-chave: soluções eletrolíticas contêm íons livres; compostos moleculares como a glicose formam soluções não eletrolíticas.",
+    "wrong_notes": {
+      "B": "A glicose não forma íons em água; o problema não é o tamanho das partículas.",
+      "C": "Inverte a natureza dos compostos: NaCl é iônico (sofre dissociação) e a glicose é molecular e solúvel em água.",
+      "D": "A água destilada é péssima condutora, como mostrou o próprio experimento.",
+      "E": "Em soluções, a corrente é conduzida por íons, não por elétrons livres; elétrons livres caracterizam a ligação metálica."
+    },
+    "concept": "Dissociação iônica e condutividade de soluções."
+  },
+  {
+    "id": "qui-funcoes_inorganicas-001",
+    "discipline": "quimica",
+    "topic": "funcoes_inorganicas",
+    "subtopic": "bases",
+    "difficulty": 1,
+    "type": "multipla_escolha",
+    "origin": "inedita_ia",
+    "style_ref": "ENEM",
+    "skills": ["classificação de funções", "reação de neutralização"],
+    "statement": "O leite de magnésia, suspensão de hidróxido de magnésio, Mg(OH)2, é usado como antiácido para aliviar a azia, causada pelo excesso de ácido clorídrico (HCl) no estômago. A reação que ocorre é:\n\nMg(OH)2 + 2 HCl → MgCl2 + 2 H2O\n\nSobre esse processo, é correto afirmar que",
+    "alternatives": [
+      {"key": "A", "text": "o Mg(OH)2 é um ácido que reage com outro ácido, formando água."},
+      {"key": "B", "text": "o Mg(OH)2 é um óxido básico, e a reação é de decomposição."},
+      {"key": "C", "text": "o sal formado na reação é o óxido de magnésio, MgO."},
+      {"key": "D", "text": "a reação libera gás hidrogênio, responsável pelos arrotos após o uso do antiácido."},
+      {"key": "E", "text": "o Mg(OH)2 é uma base que neutraliza o HCl, formando o sal MgCl2 e água."}
+    ],
+    "answer": "E",
+    "explanation": "O Mg(OH)2 é uma base, pois libera íons OH- em meio aquoso. Ao reagir com o ácido clorídrico, ocorre uma reação de neutralização: os íons H+ do ácido reagem com os OH- da base formando água, e os íons restantes (Mg2+ e Cl-) formam o sal cloreto de magnésio. Isso reduz a acidez estomacal. Conceito-chave: ácido + base → sal + água (neutralização).",
+    "wrong_notes": {
+      "A": "O Mg(OH)2 é uma base (hidróxido), não um ácido.",
+      "B": "O Mg(OH)2 é um hidróxido, não um óxido (MgO), e a reação é de neutralização (dupla troca), não de decomposição.",
+      "C": "O sal formado é o MgCl2; MgO é um óxido.",
+      "D": "A reação não produz H2; os produtos são sal e água."
+    },
+    "concept": "Neutralização ácido-base em antiácidos."
+  },
+  {
+    "id": "qui-solucoes-001",
+    "discipline": "quimica",
+    "topic": "solucoes",
+    "subtopic": "concentração comum e molaridade",
+    "difficulty": 1,
+    "type": "multipla_escolha",
+    "origin": "inedita_ia",
+    "style_ref": "ENEM",
+    "skills": ["cálculo de concentração", "proporção"],
+    "statement": "O soro fisiológico é uma solução aquosa de cloreto de sódio a 0,9% (m/v), ou seja, contém 0,9 g de NaCl em cada 100 mL de solução. Um paciente recebeu, por via intravenosa, uma bolsa de 500 mL desse soro.\n\nA massa de NaCl administrada a esse paciente foi de",
+    "alternatives": [
+      {"key": "A", "text": "0,9 g."},
+      {"key": "B", "text": "0,45 g."},
+      {"key": "C", "text": "4,5 g."},
+      {"key": "D", "text": "9,0 g."},
+      {"key": "E", "text": "45 g."}
+    ],
+    "answer": "C",
+    "explanation": "A concentração de 0,9% (m/v) significa 0,9 g de soluto em 100 mL de solução. Como 500 mL correspondem a 5 vezes 100 mL, a massa é 5 x 0,9 g = 4,5 g. Também se pode usar a concentração comum: 0,9 g/100 mL = 9 g/L; em 0,5 L, há 9 x 0,5 = 4,5 g. Conceito-chave: porcentagem massa/volume indica gramas de soluto por 100 mL de solução.",
+    "wrong_notes": {
+      "A": "0,9 g é a massa contida em apenas 100 mL, não em 500 mL.",
+      "B": "Divide por 2 em vez de multiplicar por 5; erro de proporção.",
+      "D": "9,0 g corresponde a 1 L de soro, e não a 500 mL.",
+      "E": "Erro de fator 10, como se 0,9% significasse 9 g em 100 mL."
+    },
+    "concept": "Concentração em porcentagem massa/volume."
+  },
+  {
+    "id": "qui-funcoes_organicas-001",
+    "discipline": "quimica",
+    "topic": "funcoes_organicas",
+    "subtopic": "reconhecimento de funções em fármacos",
+    "difficulty": 1,
+    "type": "multipla_escolha",
+    "origin": "inedita_ia",
+    "style_ref": "ENEM",
+    "skills": ["reconhecimento de grupos funcionais"],
+    "statement": "O paracetamol é um analgésico e antitérmico muito utilizado. Sua molécula é formada por um anel benzênico com um grupo –OH ligado diretamente a um carbono do anel e, na posição oposta do anel, o grupo –NH–CO–CH3, em que o nitrogênio está ligado a um carbono que tem uma dupla ligação com oxigênio (C=O).\n\nAs funções orgânicas presentes no paracetamol são",
+    "alternatives": [
+      {"key": "A", "text": "fenol e amida."},
+      {"key": "B", "text": "álcool e amina."},
+      {"key": "C", "text": "fenol e amina."},
+      {"key": "D", "text": "álcool e amida."},
+      {"key": "E", "text": "ácido carboxílico e amina."}
+    ],
+    "answer": "A",
+    "explanation": "Quando o grupo –OH está ligado diretamente a um carbono de anel aromático, a função é fenol; em álcoois, o –OH está ligado a carbono saturado. O grupo em que o nitrogênio está ligado a uma carbonila (–NH–C=O) caracteriza a amida; nas aminas, o nitrogênio está ligado apenas a carbonos de cadeia ou a hidrogênios, sem carbonila adjacente. Conceito-chave: a vizinhança do grupo funcional (anel aromático, carbonila) define a função.",
+    "wrong_notes": {
+      "B": "O –OH está ligado ao anel aromático (fenol), e o N está ligado a carbonila (amida).",
+      "C": "Acerta o fenol, mas o nitrogênio ligado a C=O caracteriza amida, não amina.",
+      "D": "Acerta a amida, mas o –OH em anel aromático é fenol, não álcool.",
+      "E": "Não há grupo –COOH na molécula, e o N ligado a carbonila é amida."
+    },
+    "concept": "Diferenciar fenol de álcool e amida de amina."
+  },
+  {
+    "id": "qui-organica-001",
+    "discipline": "quimica",
+    "topic": "organica",
+    "subtopic": "petróleo e combustíveis",
+    "difficulty": 1,
+    "type": "multipla_escolha",
+    "origin": "inedita_ia",
+    "style_ref": "ENEM",
+    "skills": ["processos de separação", "propriedades físicas"],
+    "statement": "Nas refinarias, o petróleo bruto é aquecido e enviado a uma coluna de fracionamento. Ao longo da coluna, são coletadas frações como gás liquefeito, gasolina, querosene, óleo diesel e, na base, resíduos pesados, como o asfalto.\n\nA separação dessas frações baseia-se na diferença de",
+    "alternatives": [
+      {"key": "A", "text": "reatividade química, pois as moléculas grandes são quebradas em menores durante o processo."},
+      {"key": "B", "text": "densidade, pois as frações se separam por decantação dentro da coluna."},
+      {"key": "C", "text": "solubilidade em água, que é adicionada para arrastar as frações leves."},
+      {"key": "D", "text": "temperatura de ebulição, que aumenta com o tamanho da cadeia carbônica dos hidrocarbonetos."},
+      {"key": "E", "text": "propriedades magnéticas das moléculas de cada fração."}
+    ],
+    "answer": "D",
+    "explanation": "A destilação fracionada é um processo físico que separa misturas de líquidos com diferentes temperaturas de ebulição. Os hidrocarbonetos de cadeias maiores têm interações intermoleculares (dipolo induzido) mais intensas e, portanto, maiores temperaturas de ebulição, condensando nas partes inferiores e mais quentes da coluna. As cadeias menores sobem mais e são recolhidas no topo. Conceito-chave: na destilação fracionada, as frações são separadas por faixas de temperatura de ebulição.",
+    "wrong_notes": {
+      "A": "A quebra de moléculas grandes é o craqueamento, processo químico distinto da destilação fracionada.",
+      "B": "A coluna separa por vaporização e condensação, não por decantação.",
+      "C": "Hidrocarbonetos são praticamente insolúveis em água, e a separação não usa esse princípio.",
+      "E": "Propriedades magnéticas não são usadas no refino do petróleo."
+    },
+    "concept": "Destilação fracionada do petróleo."
+  },
+  {
+    "id": "qui-estequiometria-001",
+    "discipline": "quimica",
+    "topic": "estequiometria",
+    "subtopic": "cálculo estequiométrico",
+    "difficulty": 2,
+    "type": "multipla_escolha",
+    "origin": "inedita_ia",
+    "style_ref": "ENEM",
+    "skills": ["cálculo estequiométrico", "conversão massa-mol"],
+    "statement": "O etanol é usado como combustível em veículos flex. Sua combustão completa é representada por:\n\nC2H5OH + 3 O2 → 2 CO2 + 3 H2O\n\nMassas molares (g/mol): C = 12; H = 1; O = 16.\n\nA massa de CO2 emitida na combustão completa de 2,3 kg de etanol é de",
+    "alternatives": [
+      {"key": "A", "text": "2,2 kg."},
+      {"key": "B", "text": "2,3 kg."},
+      {"key": "C", "text": "4,4 kg."},
+      {"key": "D", "text": "6,6 kg."},
+      {"key": "E", "text": "8,8 kg."}
+    ],
+    "answer": "C",
+    "explanation": "A massa molar do etanol é 2(12) + 6(1) + 16 = 46 g/mol, e a do CO2 é 12 + 2(16) = 44 g/mol. Em 2.300 g de etanol há 2.300/46 = 50 mol. Pela equação, 1 mol de etanol produz 2 mol de CO2, logo são formados 100 mol de CO2, ou 100 x 44 = 4.400 g = 4,4 kg. Conceito-chave: o cálculo estequiométrico usa a proporção em mols da equação balanceada, não a proporção em massa.",
+    "wrong_notes": {
+      "A": "Usa a proporção 1 mol de etanol : 1 mol de CO2, ignorando o coeficiente 2.",
+      "B": "Supõe que a massa de CO2 é igual à de etanol, aplicando mal a conservação de massa (que vale para o total de reagentes e produtos).",
+      "D": "Usa a proporção 1 : 3, confundindo o coeficiente da água ou do O2 com o do CO2.",
+      "E": "Usa a proporção 1 : 4 ou dobra o resultado por engano."
+    },
+    "concept": "Proporção molar em cálculo estequiométrico de combustão."
+  },
+  {
+    "id": "qui-solucoes-002",
+    "discipline": "quimica",
+    "topic": "solucoes",
+    "subtopic": "diluição e mistura",
+    "difficulty": 2,
+    "type": "multipla_escolha",
+    "origin": "inedita_ia",
+    "style_ref": "ENEM",
+    "skills": ["cálculo de diluição"],
+    "statement": "Em um hospital, um técnico precisa preparar uma solução de glicose a 5% (m/v) a partir de 50 mL de uma solução estoque de glicose a 50% (m/v), adicionando água destilada. Considere que o volume final é a soma dos volumes misturados.\n\nO volume de água que deve ser adicionado é de",
+    "alternatives": [
+      {"key": "A", "text": "50 mL."},
+      {"key": "B", "text": "250 mL."},
+      {"key": "C", "text": "500 mL."},
+      {"key": "D", "text": "1.000 mL."},
+      {"key": "E", "text": "450 mL."}
+    ],
+    "answer": "E",
+    "explanation": "Na diluição, a quantidade de soluto não muda: C1 x V1 = C2 x V2. Assim, 50% x 50 mL = 5% x V2, e V2 = 500 mL (volume final). Como já existem 50 mL de solução estoque, é preciso acrescentar 500 - 50 = 450 mL de água. A massa de glicose é 25 g, tanto no início (50% de 50 mL) quanto no final (5% de 500 mL). Conceito-chave: na diluição, a massa de soluto se conserva; diferencie volume final de volume de água adicionado.",
+    "wrong_notes": {
+      "A": "Adicionar 50 mL de água dobraria o volume e reduziria a concentração apenas para 25%.",
+      "B": "Com 250 mL de água, o volume final seria 300 mL e a concentração, cerca de 8,3%.",
+      "C": "500 mL é o volume final da solução, não o volume de água a adicionar.",
+      "D": "Confunde a relação de diluição, gerando concentração final inferior a 5%."
+    },
+    "concept": "Diluição: conservação da massa de soluto (C1V1 = C2V2)."
+  },
+  {
+    "id": "qui-equilibrio-001",
+    "discipline": "quimica",
+    "topic": "equilibrio",
+    "subtopic": "pH e pOH",
+    "difficulty": 2,
+    "type": "multipla_escolha",
+    "origin": "inedita_ia",
+    "style_ref": "ENEM",
+    "skills": ["escala logarítmica", "interpretação de pH"],
+    "statement": "Em um estudo sobre antiácidos, o pH de uma amostra que simulava o suco gástrico passou de 1 para 3 após a adição de um medicamento.\n\nEssa variação indica que a concentração de íons H+ na amostra",
+    "alternatives": [
+      {"key": "A", "text": "aumentou 2 vezes."},
+      {"key": "B", "text": "diminuiu 100 vezes."},
+      {"key": "C", "text": "diminuiu 3 vezes."},
+      {"key": "D", "text": "diminuiu 2 vezes."},
+      {"key": "E", "text": "diminuiu 1.000 vezes."}
+    ],
+    "answer": "B",
+    "explanation": "O pH é definido como pH = -log[H+], ou seja, [H+] = 10^-pH. Em pH 1, [H+] = 10^-1 mol/L; em pH 3, [H+] = 10^-3 mol/L. A razão é 10^-1/10^-3 = 10^2 = 100. Como o pH aumentou, a acidez diminuiu: a concentração de H+ caiu 100 vezes. Conceito-chave: a escala de pH é logarítmica; cada unidade de pH corresponde a um fator 10 na concentração de H+.",
+    "wrong_notes": {
+      "A": "O aumento do pH indica diminuição, e não aumento, de [H+]; além disso, a escala não é linear.",
+      "C": "Trata a escala de pH como linear, usando a razão 3/1.",
+      "D": "Usa a diferença de pH (2) como fator, sem considerar a escala logarítmica.",
+      "E": "Conta três ordens de grandeza; a diferença de pH é 2, que corresponde a 10^2."
+    },
+    "concept": "Escala logarítmica de pH."
+  },
+  {
+    "id": "qui-reacoes-001",
+    "discipline": "quimica",
+    "topic": "reacoes",
+    "subtopic": "reações de oxirredução",
+    "difficulty": 2,
+    "type": "multipla_escolha",
+    "origin": "inedita_ia",
+    "style_ref": "ENEM",
+    "skills": ["determinação de número de oxidação"],
+    "statement": "Ao aplicar água oxigenada (solução de H2O2) sobre um ferimento, observa-se intensa formação de bolhas. Isso ocorre porque a enzima catalase, presente nos tecidos e no sangue, acelera a decomposição do peróxido de hidrogênio:\n\n2 H2O2 → 2 H2O + O2\n\nSobre essa reação, é correto afirmar que",
+    "alternatives": [
+      {"key": "A", "text": "o oxigênio do H2O2, com número de oxidação -1, sofre simultaneamente redução (para -2, na água) e oxidação (para 0, no O2); o H2O2 atua como oxidante e como redutor."},
+      {"key": "B", "text": "o hidrogênio sofre oxidação, passando de +1 para 0."},
+      {"key": "C", "text": "não se trata de uma reação de oxirredução, pois há apenas um reagente."},
+      {"key": "D", "text": "o oxigênio sofre redução, passando de -2 no H2O2 para 0 no O2."},
+      {"key": "E", "text": "a catalase é o agente oxidante e é consumida na reação."}
+    ],
+    "answer": "A",
+    "explanation": "No H2O2, cada hidrogênio tem nox +1; como a molécula é neutra, cada oxigênio tem nox -1 (situação típica dos peróxidos). Na água, o oxigênio tem nox -2 (redução: ganhou elétrons); no O2, tem nox 0 (oxidação: perdeu elétrons). Como o mesmo elemento da mesma substância se oxida e se reduz, a reação é uma auto-oxirredução (desproporcionamento). A catalase é um catalisador biológico e não é consumida. Conceito-chave: em peróxidos o oxigênio tem nox -1 e pode tanto se oxidar quanto se reduzir.",
+    "wrong_notes": {
+      "B": "O hidrogênio mantém nox +1 em H2O2 e em H2O.",
+      "C": "Uma reação com um único reagente pode ser de oxirredução, desde que haja variação de nox, como ocorre aqui.",
+      "D": "O nox do oxigênio no H2O2 é -1, não -2; e passar para 0 é oxidação, não redução.",
+      "E": "A catalase é uma enzima (catalisador), não participa como reagente nem é consumida."
+    },
+    "concept": "Números de oxidação em peróxidos e auto-oxirredução."
+  },
+  {
+    "id": "qui-termoquimica-001",
+    "discipline": "quimica",
+    "topic": "termoquimica",
+    "subtopic": "entalpia",
+    "difficulty": 2,
+    "type": "multipla_escolha",
+    "origin": "inedita_ia",
+    "style_ref": "ENEM",
+    "skills": ["classificação de processos térmicos"],
+    "statement": "Compressas frias instantâneas, usadas em primeiros socorros para contusões, contêm uma bolsa de água e um sal, como o nitrato de amônio (NH4NO3). Ao pressionar a compressa, a bolsa interna se rompe, o sal se dissolve e a compressa fica gelada em poucos segundos.\n\nO processo de dissolução que ocorre na compressa é",
+    "alternatives": [
+      {"key": "A", "text": "exotérmico, com ΔH < 0, pois libera frio para a pele."},
+      {"key": "B", "text": "exotérmico, com ΔH > 0, pois absorve calor da pele."},
+      {"key": "C", "text": "endotérmico, com ΔH < 0, pois a temperatura diminui."},
+      {"key": "D", "text": "endotérmico, com ΔH > 0, pois absorve calor da vizinhança, incluindo a pele."},
+      {"key": "E", "text": "sem troca de energia, pois o resfriamento se deve apenas à evaporação da água."}
+    ],
+    "answer": "D",
+    "explanation": "A dissolução do nitrato de amônio em água absorve energia. Essa energia é retirada da própria solução e da vizinhança, por isso a compressa e a pele em contato com ela esfriam. Processos que absorvem calor são endotérmicos e têm variação de entalpia positiva (ΔH > 0), pois a entalpia dos produtos é maior que a dos reagentes. Conceito-chave: endotérmico absorve calor (ΔH > 0); o frio é a percepção da retirada de calor.",
+    "wrong_notes": {
+      "A": "Frio não é uma forma de energia liberada; a sensação de frio indica que o calor foi retirado da pele.",
+      "B": "Processos exotérmicos têm ΔH < 0 e liberam calor; absorver calor caracteriza processo endotérmico.",
+      "C": "Processos endotérmicos têm ΔH > 0; a queda de temperatura não indica ΔH negativo.",
+      "E": "A compressa é fechada; o resfriamento decorre da dissolução endotérmica, não da evaporação."
+    },
+    "concept": "Processos endotérmicos e sinal do ΔH."
+  },
+  {
+    "id": "qui-cinetica-001",
+    "discipline": "quimica",
+    "topic": "cinetica",
+    "subtopic": "fatores que alteram a velocidade",
+    "difficulty": 2,
+    "type": "multipla_escolha",
+    "origin": "inedita_ia",
+    "style_ref": "ENEM",
+    "skills": ["interpretação de tabela", "fatores cinéticos"],
+    "statement": "Estudantes mediram o tempo necessário para que comprimidos efervescentes de vitamina C, de mesma composição e massa, deixassem de liberar gás em 200 mL de água, em diferentes condições:\n\n| Ensaio | Comprimido | Água | Tempo (s) |\n|---|---|---|---|\n| 1 | inteiro | 10 °C | 80 |\n| 2 | inteiro | 40 °C | 40 |\n| 3 | triturado | 10 °C | 35 |\n| 4 | triturado | 40 °C | 15 |\n\nA conclusão correta a partir desses dados é que",
+    "alternatives": [
+      {"key": "A", "text": "apenas a temperatura influencia a velocidade da reação, pois triturar não altera a quantidade de reagente."},
+      {"key": "B", "text": "triturar o comprimido diminui a velocidade da reação, pois os fragmentos se dispersam na água."},
+      {"key": "C", "text": "o aumento da temperatura e o aumento da superfície de contato aceleram a reação, pois elevam a frequência de colisões efetivas entre os reagentes."},
+      {"key": "D", "text": "o aumento da temperatura acelera a reação porque aumenta a energia de ativação."},
+      {"key": "E", "text": "a água quente atua como catalisador, sendo consumida na reação."}
+    ],
+    "answer": "C",
+    "explanation": "Comparando 1 e 2 (ou 3 e 4), o aumento da temperatura reduziu o tempo: com mais energia cinética, mais moléculas atingem a energia de ativação e as colisões efetivas ficam mais frequentes. Comparando 1 e 3 (ou 2 e 4), triturar reduziu o tempo: aumenta a superfície de contato e expõe mais reagente à água. Os dois efeitos se somam no ensaio 4, o mais rápido. Conceito-chave: temperatura e superfície de contato aumentam a velocidade por aumentarem as colisões efetivas.",
+    "wrong_notes": {
+      "A": "Os ensaios 1 e 3 mostram que triturar também acelera; a superfície de contato, não a quantidade, é o fator.",
+      "B": "Os dados mostram o contrário: o comprimido triturado reage em menos tempo.",
+      "D": "A temperatura não altera a energia de ativação; aumenta a fração de moléculas com energia suficiente para superá-la.",
+      "E": "Catalisadores não são consumidos, e a água quente não é catalisador: atua pela temperatura."
+    },
+    "concept": "Efeito da temperatura e da superfície de contato na velocidade das reações."
+  },
+  {
+    "id": "qui-isomeria-001",
+    "discipline": "quimica",
+    "topic": "isomeria",
+    "subtopic": "isomeria plana",
+    "difficulty": 2,
+    "type": "multipla_escolha",
+    "origin": "inedita_ia",
+    "style_ref": "ENEM",
+    "skills": ["identificação de isomeria", "relação estrutura-propriedade"],
+    "statement": "O etanol (CH3–CH2–OH), usado como antisséptico a 70%, e o éter dimetílico (CH3–O–CH3), usado como propelente de aerossóis, têm a mesma fórmula molecular, C2H6O. À temperatura ambiente, porém, o etanol é líquido (ebulição em torno de 78 °C) e o éter dimetílico é gasoso (ebulição em torno de -24 °C).\n\nSobre essas substâncias, é correto afirmar que",
+    "alternatives": [
+      {"key": "A", "text": "são isômeros de cadeia, pois diferem apenas no tipo de cadeia carbônica."},
+      {"key": "B", "text": "são isômeros planos de função, e a diferença de temperatura de ebulição se deve às ligações de hidrogênio entre moléculas de etanol."},
+      {"key": "C", "text": "são isômeros geométricos (cis-trans), pois têm a mesma fórmula molecular."},
+      {"key": "D", "text": "são a mesma substância em estados físicos diferentes."},
+      {"key": "E", "text": "são isômeros ópticos, pois apresentam carbono quiral."}
+    ],
+    "answer": "B",
+    "explanation": "Isômeros têm a mesma fórmula molecular e estruturas diferentes. O etanol é um álcool e o éter dimetílico é um éter: pertencem a funções diferentes, caracterizando isomeria plana de função. No etanol, o grupo –OH permite ligações de hidrogênio entre as moléculas, interações fortes que elevam a temperatura de ebulição. No éter, o oxigênio não está ligado a hidrogênio, e as interações são mais fracas. Conceito-chave: isômeros de função têm propriedades diferentes porque têm grupos funcionais e interações intermoleculares diferentes.",
+    "wrong_notes": {
+      "A": "A diferença está no grupo funcional (álcool x éter), não apenas na cadeia.",
+      "C": "Isomeria geométrica exige dupla ligação ou anel com ligantes diferentes; essas moléculas não têm essa característica.",
+      "D": "São substâncias diferentes, com estruturas e propriedades diferentes, e não estados físicos de uma mesma substância.",
+      "E": "Nenhuma das moléculas possui carbono com quatro ligantes diferentes."
+    },
+    "concept": "Isomeria plana de função e influência das ligações de hidrogênio."
+  },
+  {
+    "id": "qui-estequiometria-002",
+    "discipline": "quimica",
+    "topic": "estequiometria",
+    "subtopic": "reagente limitante e em excesso",
+    "difficulty": 3,
+    "type": "multipla_escolha",
+    "origin": "inedita_ia",
+    "style_ref": "ENEM",
+    "skills": ["reagente limitante", "cálculo estequiométrico"],
+    "statement": "O ácido acetilsalicílico (AAS) pode ser sintetizado em laboratório pela reação entre ácido salicílico e anidrido acético:\n\nC7H6O3 + C4H6O3 → C9H8O4 + C2H4O2\n(ácido salicílico + anidrido acético → AAS + ácido acético)\n\nMassas molares (g/mol): ácido salicílico = 138; anidrido acético = 102; AAS = 180.\n\nEm um experimento, misturaram-se 2,76 g de ácido salicílico e 3,06 g de anidrido acético. Considerando rendimento de 100%, é correto afirmar que",
+    "alternatives": [
+      {"key": "A", "text": "o anidrido acético é o reagente limitante, e formam-se 5,4 g de AAS."},
+      {"key": "B", "text": "o ácido salicílico é o reagente limitante, e formam-se 5,4 g de AAS."},
+      {"key": "C", "text": "o anidrido acético é o reagente limitante, e formam-se 3,6 g de AAS."},
+      {"key": "D", "text": "o ácido salicílico é o reagente limitante, e formam-se 2,76 g de AAS."},
+      {"key": "E", "text": "o ácido salicílico é o reagente limitante, formam-se 3,6 g de AAS e sobram 1,02 g de anidrido acético."}
+    ],
+    "answer": "E",
+    "explanation": "Convertem-se as massas em mols: ácido salicílico = 2,76/138 = 0,020 mol; anidrido acético = 3,06/102 = 0,030 mol. A proporção da reação é 1 : 1, então o ácido salicílico, presente em menor quantidade, é o limitante. Formam-se 0,020 mol de AAS, ou 0,020 x 180 = 3,6 g. Reagem 0,020 mol de anidrido, sobrando 0,010 mol, ou 0,010 x 102 = 1,02 g. Conceito-chave: o reagente limitante é determinado comparando quantidades em mol com a proporção da equação, não as massas.",
+    "wrong_notes": {
+      "A": "O anidrido está em excesso (0,030 mol contra 0,020 mol), e o produto não pode ser calculado pelo reagente em excesso.",
+      "B": "Identifica corretamente o limitante, mas calcula o produto a partir do reagente em excesso (0,030 x 180).",
+      "C": "A massa de AAS está correta, mas o limitante é o ácido salicílico; comparar só as massas leva ao erro.",
+      "D": "Supõe que a massa de produto é igual à do reagente limitante, ignorando as massas molares."
+    },
+    "concept": "Determinação do reagente limitante e do excesso."
+  },
+  {
+    "id": "qui-solucoes-003",
+    "discipline": "quimica",
+    "topic": "solucoes",
+    "subtopic": "titulação",
+    "difficulty": 3,
+    "type": "multipla_escolha",
+    "origin": "inedita_ia",
+    "style_ref": "ENEM",
+    "skills": ["titulação", "conversão de unidades"],
+    "statement": "Para verificar a acidez de um vinagre, um técnico de controle de qualidade titulou 10,0 mL da amostra com solução de NaOH 0,50 mol/L, usando fenolftaleína como indicador. O ponto de viragem foi atingido após a adição de 16,0 mL da base. A reação é:\n\nCH3COOH + NaOH → CH3COONa + H2O\n\nMassa molar do ácido acético: 60 g/mol.\n\nA concentração de ácido acético no vinagre é de",
+    "alternatives": [
+      {"key": "A", "text": "0,80 mol/L, o que corresponde a 4,8 g de ácido acético por 100 mL."},
+      {"key": "B", "text": "0,31 mol/L, o que corresponde a cerca de 1,9 g de ácido acético por 100 mL."},
+      {"key": "C", "text": "0,80 mol/L, o que corresponde a 48 g de ácido acético por 100 mL."},
+      {"key": "D", "text": "8,0 mol/L, o que corresponde a 48 g de ácido acético por 100 mL."},
+      {"key": "E", "text": "0,40 mol/L, o que corresponde a 2,4 g de ácido acético por 100 mL."}
+    ],
+    "answer": "A",
+    "explanation": "Quantidade de NaOH gasta: 0,50 mol/L x 0,0160 L = 0,0080 mol. Como a proporção é 1 : 1, há 0,0080 mol de ácido acético em 10,0 mL. A concentração é 0,0080 mol / 0,0100 L = 0,80 mol/L. Em massa: 0,80 mol/L x 60 g/mol = 48 g/L, o que equivale a 4,8 g por 100 mL (4,8% m/v). Conceito-chave: no ponto de equivalência, a quantidade de base adicionada corresponde estequiometricamente à quantidade de ácido.",
+    "wrong_notes": {
+      "B": "Inverte a relação de volumes (0,50 x 10/16), como se o volume de ácido fosse 16 mL.",
+      "C": "A concentração em mol/L está correta, mas 48 g é o conteúdo de 1 L, não de 100 mL.",
+      "D": "Erro de unidade ao converter mL em L, gerando concentração dez vezes maior.",
+      "E": "Usa a proporção 1 ácido : 2 bases; o ácido acético é monoprótico e a proporção é 1 : 1."
+    },
+    "concept": "Titulação ácido-base e cálculo da concentração do titulado."
+  },
+  {
+    "id": "qui-equilibrio-002",
+    "discipline": "quimica",
+    "topic": "equilibrio",
+    "subtopic": "solução-tampão",
+    "difficulty": 3,
+    "type": "multipla_escolha",
+    "origin": "inedita_ia",
+    "style_ref": "ENEM",
+    "skills": ["princípio de Le Chatelier", "integração química-fisiologia"],
+    "statement": "O pH do sangue é mantido próximo de 7,4 principalmente pelo sistema tampão bicarbonato:\n\nCO2 + H2O ⇌ H2CO3 ⇌ H+ + HCO3-\n\nUm paciente com doença pulmonar obstrutiva crônica apresenta dificuldade de eliminar CO2 pela respiração, e esse gás se acumula no sangue.\n\nCom base no equilíbrio apresentado, espera-se que esse paciente desenvolva",
+    "alternatives": [
+      {"key": "A", "text": "alcalose, pois o acúmulo de CO2 desloca o equilíbrio para a esquerda, consumindo H+."},
+      {"key": "B", "text": "aumento do pH, pois o CO2 é um óxido básico."},
+      {"key": "C", "text": "acidose respiratória, pois o acúmulo de CO2 desloca o equilíbrio para a direita, elevando a concentração de H+ e reduzindo o pH; os rins tendem a compensar eliminando H+ e retendo HCO3-."},
+      {"key": "D", "text": "acidose, porque o acúmulo de CO2 altera o valor da constante de equilíbrio do sistema."},
+      {"key": "E", "text": "nenhuma alteração de pH, pois o tampão impede qualquer variação, por maior que seja o acúmulo de CO2."}
+    ],
+    "answer": "C",
+    "explanation": "Pelo princípio de Le Chatelier, o aumento da concentração de um reagente (CO2) desloca o equilíbrio no sentido de consumi-lo, ou seja, para a direita. Com isso, forma-se mais H2CO3, que se ioniza e libera H+, diminuindo o pH: é a acidose respiratória. O tampão atenua a variação, mas tem capacidade limitada. A compensação ocorre principalmente pelos rins, que aumentam a excreção de H+ e a reabsorção de bicarbonato. A constante de equilíbrio só muda com a temperatura. Conceito-chave: o acúmulo de CO2 acidifica o sangue por deslocamento do equilíbrio do tampão bicarbonato.",
+    "wrong_notes": {
+      "A": "Inverte o sentido do deslocamento: acrescentar reagente desloca o equilíbrio para os produtos.",
+      "B": "O CO2 é um óxido ácido; em água forma ácido carbônico.",
+      "D": "A conclusão de acidose está certa, mas a justificativa não: a constante só depende da temperatura; o que muda é a posição do equilíbrio.",
+      "E": "Tampões reduzem, mas não impedem totalmente, variações de pH; sua capacidade é limitada."
+    },
+    "concept": "Tampão bicarbonato, Le Chatelier e acidose respiratória."
+  },
+  {
+    "id": "qui-funcoes_organicas-002",
+    "discipline": "quimica",
+    "topic": "funcoes_organicas",
+    "subtopic": "ácidos carboxílicos e ésteres",
+    "difficulty": 3,
+    "type": "multipla_escolha",
+    "origin": "inedita_ia",
+    "style_ref": "ENEM",
+    "skills": ["reconhecimento de funções", "reatividade de grupos funcionais"],
+    "statement": "O ácido acetilsalicílico (AAS) é formado por um anel benzênico ligado a um grupo –COOH e, em posição vizinha, a um grupo –O–CO–CH3. Farmacêuticos orientam que comprimidos de AAS sejam guardados em locais secos, pois, em ambiente úmido, eles podem se degradar, e a embalagem passa a ter cheiro de vinagre.\n\nA explicação química para esse fenômeno é:",
+    "alternatives": [
+      {"key": "A", "text": "o AAS possui um grupo amida que, em contato com a água, libera amônia, de odor característico."},
+      {"key": "B", "text": "o AAS possui um grupo éter que sofre oxidação pelo oxigênio do ar, formando etanol."},
+      {"key": "C", "text": "o grupo ácido carboxílico do AAS sofre hidrólise, liberando ácido acético e um álcool."},
+      {"key": "D", "text": "o AAS possui as funções ácido carboxílico e éster; a umidade promove a hidrólise do éster, que libera ácido acético (cheiro de vinagre) e ácido salicílico."},
+      {"key": "E", "text": "o grupo fenol do AAS se oxida em contato com a água, formando ácido acético."}
+    ],
+    "answer": "D",
+    "explanation": "O grupo –COOH caracteriza um ácido carboxílico, e o grupo –O–CO–CH3 ligado ao anel caracteriza um éster (o oxigênio liga o anel a uma carbonila). Ésteres podem sofrer hidrólise, reação com água que os converte em ácido carboxílico e álcool ou fenol. No AAS, a hidrólise do éster produz ácido acético, responsável pelo cheiro de vinagre, e ácido salicílico, que tem um grupo fenol e um grupo ácido carboxílico. Conceito-chave: ésteres sofrem hidrólise, formando ácido carboxílico e álcool ou fenol.",
+    "wrong_notes": {
+      "A": "O AAS não possui nitrogênio, portanto não tem amida nem libera amônia.",
+      "B": "O grupo –O–CO– é éster, não éter, e o processo é uma hidrólise, não uma oxidação.",
+      "C": "Quem sofre hidrólise é o éster; o grupo ácido carboxílico permanece na molécula.",
+      "E": "O AAS não possui fenol livre (ele se forma após a hidrólise), e água não oxida fenóis a ácido acético."
+    },
+    "concept": "Funções éster e ácido carboxílico no AAS e hidrólise de ésteres."
+  },
+  {
+    "id": "qui-eletroquimica-001",
+    "discipline": "quimica",
+    "topic": "eletroquimica",
+    "subtopic": "pilhas",
+    "difficulty": 3,
+    "type": "multipla_escolha",
+    "origin": "inedita_ia",
+    "style_ref": "ENEM",
+    "skills": ["potenciais de redução", "funcionamento de pilhas"],
+    "statement": "Em uma feira de ciências, estudantes montaram uma pilha de Daniell: uma placa de zinco mergulhada em solução de ZnSO4 e uma placa de cobre mergulhada em solução de CuSO4, ligadas por um fio externo e por uma ponte salina. São dados os potenciais-padrão de redução:\n\nZn2+ + 2 e- → Zn   E° = -0,76 V\nCu2+ + 2 e- → Cu   E° = +0,34 V\n\nSobre o funcionamento dessa pilha em condições-padrão, é correto afirmar que",
+    "alternatives": [
+      {"key": "A", "text": "o cobre é o ânodo, pois tem maior potencial de redução, e sua placa sofre corrosão."},
+      {"key": "B", "text": "o zinco é o ânodo e sofre oxidação, e a massa da placa de zinco diminui; os elétrons fluem pelo fio do zinco para o cobre, e a diferença de potencial é de 1,10 V."},
+      {"key": "C", "text": "o zinco sofre oxidação, e a diferença de potencial é de 0,42 V."},
+      {"key": "D", "text": "os elétrons fluem do zinco para o cobre através da ponte salina."},
+      {"key": "E", "text": "a massa da placa de cobre diminui, pois os íons Cu2+ são formados no cátodo."}
+    ],
+    "answer": "B",
+    "explanation": "A espécie com maior potencial de redução (Cu2+, +0,34 V) se reduz no cátodo: Cu2+ + 2 e- → Cu, depositando cobre e aumentando a massa dessa placa. O zinco, de menor potencial, se oxida no ânodo: Zn → Zn2+ + 2 e-, e a placa se desgasta. Os elétrons percorrem o fio externo do ânodo (Zn) para o cátodo (Cu); a ponte salina conduz íons, não elétrons. A diferença de potencial é ΔE° = E°(cátodo) - E°(ânodo) = 0,34 - (-0,76) = 1,10 V. Conceito-chave: na pilha, quem tem maior potencial de redução se reduz, e ΔE° = E°red(cátodo) - E°red(ânodo).",
+    "wrong_notes": {
+      "A": "Maior potencial de redução indica o cátodo (onde ocorre redução), não o ânodo.",
+      "C": "Soma os potenciais com o sinal errado (0,34 - 0,76 em módulo); o correto é 0,34 - (-0,76) = 1,10 V.",
+      "D": "Pela ponte salina migram íons; os elétrons passam pelo fio externo.",
+      "E": "No cátodo, os íons Cu2+ são consumidos e o cobre se deposita, aumentando a massa da placa."
+    },
+    "concept": "Ânodo, cátodo, fluxo de elétrons e ddp em pilhas."
+  },
+  {
+    "id": "qui-ligacoes-002",
+    "discipline": "quimica",
+    "topic": "ligacoes",
+    "subtopic": "forças intermoleculares",
+    "difficulty": 3,
+    "type": "multipla_escolha",
+    "origin": "inedita_ia",
+    "style_ref": "ENEM",
+    "skills": ["polaridade e solubilidade", "integração química-saúde"],
+    "statement": "A vitamina C (C6H8O6) é uma molécula pequena com quatro grupos –OH. A vitamina A (C20H30O), por sua vez, possui uma longa cadeia de carbonos e hidrogênios e apenas um grupo –OH. Nutricionistas alertam que o consumo excessivo de suplementos de vitamina A pode causar intoxicação (hipervitaminose), enquanto o excesso de vitamina C tende a ser eliminado mais facilmente na urina.\n\nA diferença de comportamento entre as vitaminas se explica porque",
+    "alternatives": [
+      {"key": "A", "text": "a vitamina A é mais polar que a C, pois tem mais átomos de carbono, e por isso se acumula na água corporal."},
+      {"key": "B", "text": "a vitamina C se dissolve em gorduras graças a interações do tipo dipolo induzido, que predominam em sua molécula."},
+      {"key": "C", "text": "a solubilidade depende apenas da massa molar: moléculas mais pesadas são sempre menos solúveis em água."},
+      {"key": "D", "text": "a vitamina C é um composto iônico, que se dissocia completamente na urina."},
+      {"key": "E", "text": "a vitamina C, com vários grupos –OH, forma ligações de hidrogênio com a água e é hidrossolúvel, sendo eliminada na urina; a vitamina A, predominantemente apolar, é lipossolúvel e se acumula no tecido adiposo e no fígado."}
+    ],
+    "answer": "E",
+    "explanation": "A solubilidade segue a regra semelhante dissolve semelhante. A vitamina C tem vários grupos –OH em uma molécula pequena, o que a torna polar e capaz de formar ligações de hidrogênio com a água; por isso é hidrossolúvel e o excesso é excretado pelos rins. A vitamina A tem uma longa cadeia hidrocarbônica apolar, em que predominam interações do tipo dipolo induzido; o único –OH pouco altera esse caráter. Ela é lipossolúvel, armazena-se em tecidos gordurosos e no fígado e pode se acumular até níveis tóxicos. Conceito-chave: polaridade e capacidade de formar ligações de hidrogênio determinam a solubilidade em água ou em gordura.",
+    "wrong_notes": {
+      "A": "Mais carbonos e hidrogênios tornam a molécula mais apolar, não mais polar.",
+      "B": "A vitamina C é polar, com ligações de hidrogênio predominando; é hidrossolúvel, não lipossolúvel.",
+      "C": "A massa molar não é o fator principal; a polaridade e os grupos capazes de formar ligações de hidrogênio são determinantes.",
+      "D": "A vitamina C é um composto molecular (covalente), não iônico."
+    },
+    "concept": "Polaridade, ligações de hidrogênio e vitaminas hidrossolúveis x lipossolúveis."
+  },
+  {
+    "id": "qui-isomeria-002",
+    "discipline": "quimica",
+    "topic": "isomeria",
+    "subtopic": "isomeria óptica",
+    "difficulty": 3,
+    "type": "multipla_escolha",
+    "origin": "inedita_ia",
+    "style_ref": "ENEM",
+    "skills": ["isomeria óptica", "química e saúde"],
+    "statement": "A talidomida foi comercializada no fim da década de 1950 como sedativo e utilizada inclusive por gestantes, e foi associada a graves malformações congênitas. Sua molécula possui um átomo de carbono ligado a quatro grupos diferentes, e o medicamento era vendido como mistura das duas formas espaciais da molécula. Estudos indicaram que essas formas têm ações biológicas diferentes e que, no organismo, uma se converte na outra.\n\nSobre as duas formas da talidomida, é correto afirmar que",
+    "alternatives": [
+      {"key": "A", "text": "são enantiômeros, devido ao carbono quiral; têm as mesmas propriedades físicas, exceto o sentido do desvio da luz polarizada, mas podem interagir de modo diferente com receptores e enzimas do organismo, que também são quirais."},
+      {"key": "B", "text": "são isômeros geométricos cis e trans, pois o carbono possui quatro grupos diferentes."},
+      {"key": "C", "text": "são enantiômeros com temperaturas de fusão e solubilidades em água muito diferentes, o que explica suas ações biológicas distintas."},
+      {"key": "D", "text": "a mistura das duas formas em quantidades iguais desvia fortemente o plano da luz polarizada."},
+      {"key": "E", "text": "são isômeros de função, pois pertencem a funções orgânicas diferentes."}
+    ],
+    "answer": "A",
+    "explanation": "Um carbono ligado a quatro grupos diferentes é chamado de quiral ou assimétrico e origina duas estruturas que são imagens especulares não sobreponíveis: os enantiômeros. Eles têm propriedades físicas iguais (temperatura de fusão, solubilidade em solventes comuns), mas desviam o plano da luz polarizada em sentidos opostos. Em sistemas biológicos, que também são quirais, cada enantiômero pode se encaixar de forma diferente em receptores e enzimas, causando efeitos distintos. Como no organismo uma forma se converte na outra, administrar apenas um enantiômero não eliminaria o risco. A mistura com quantidades iguais (racêmica) não desvia a luz polarizada. Conceito-chave: enantiômeros diferem na interação com ambientes quirais, como o corpo humano.",
+    "wrong_notes": {
+      "B": "Isomeria geométrica exige dupla ligação ou anel com ligantes diferentes; carbono com quatro grupos diferentes gera isomeria óptica.",
+      "C": "Enantiômeros têm as mesmas propriedades físicas em ambiente não quiral; a diferença biológica decorre da interação com moléculas quirais.",
+      "D": "Uma mistura racêmica é opticamente inativa, pois os desvios se compensam.",
+      "E": "As duas formas têm os mesmos grupos funcionais; diferem apenas no arranjo espacial."
+    },
+    "concept": "Carbono quiral, enantiômeros e atividade biológica."
+  },
+  {
+    "id": "qui-estequiometria-003",
+    "discipline": "quimica",
+    "topic": "estequiometria",
+    "subtopic": "rendimento e pureza",
+    "difficulty": 4,
+    "type": "multipla_escolha",
+    "origin": "inedita_ia",
+    "style_ref": "ENEM",
+    "skills": ["pureza", "cálculo estequiométrico", "análise de rótulo"],
+    "statement": "O rótulo de um suplemento de cálcio informa que cada comprimido contém 500 mg de cálcio na forma de carbonato de cálcio (CaCO3). Para verificar essa informação, um laboratório reagiu um comprimido de 1,50 g com excesso de ácido clorídrico, coletando todo o gás liberado:\n\nCaCO3 + 2 HCl → CaCl2 + H2O + CO2\n\nForam obtidos 0,528 g de CO2. Considere que apenas o CaCO3 reage liberando gás.\nMassas molares (g/mol): Ca = 40; C = 12; O = 16.\n\nO resultado da análise indica que o comprimido contém",
+    "alternatives": [
+      {"key": "A", "text": "1,20 g de cálcio, o que corresponde a 240% do valor declarado."},
+      {"key": "B", "text": "0,24 g de cálcio, 48% do valor declarado, e o CaCO3 representa 40% da massa do comprimido."},
+      {"key": "C", "text": "0,48 g de cálcio, 96% do valor declarado, e o CaCO3 representa 32% da massa do comprimido."},
+      {"key": "D", "text": "0,48 g de cálcio, 96% do valor declarado, e o CaCO3 representa 80% da massa do comprimido."},
+      {"key": "E", "text": "0,528 g de cálcio, 105,6% do valor declarado, e o comprimido é formado apenas por CaCO3."}
+    ],
+    "answer": "D",
+    "explanation": "A massa molar do CO2 é 44 g/mol, logo 0,528 g correspondem a 0,528/44 = 0,012 mol. Pela proporção 1 : 1, havia 0,012 mol de CaCO3 (massa molar 100 g/mol), ou 1,20 g. Cada mol de CaCO3 contém 1 mol de Ca: 0,012 x 40 = 0,48 g = 480 mg de cálcio, ou 480/500 = 96% do declarado. A pureza em CaCO3 é 1,20/1,50 = 80%. Conceito-chave: em análises de pureza, calcula-se a quantidade do componente ativo pelo produto medido e compara-se com a massa total da amostra.",
+    "wrong_notes": {
+      "A": "1,20 g é a massa de CaCO3, não de cálcio; falta considerar que o cálcio é 40% da massa do carbonato.",
+      "B": "Usa proporção 2 : 1 entre CO2 e CaCO3; a equação indica 1 mol de CO2 por mol de CaCO3.",
+      "C": "Calcula a pureza dividindo a massa de cálcio, e não a de CaCO3, pela massa do comprimido.",
+      "E": "Supõe que a massa de cálcio é igual à massa de CO2 liberada, sem fazer a conversão em mols."
+    },
+    "concept": "Cálculo de pureza e de teor de elemento a partir de produto gasoso."
+  },
+  {
+    "id": "qui-equilibrio-003",
+    "discipline": "quimica",
+    "topic": "equilibrio",
+    "subtopic": "produto de solubilidade",
+    "difficulty": 4,
+    "type": "multipla_escolha",
+    "origin": "inedita_ia",
+    "style_ref": "ENEM",
+    "skills": ["produto de solubilidade", "quociente de reação", "integração química-saúde"],
+    "statement": "Cálculos renais de oxalato de cálcio (CaC2O4) são frequentes. Em um modelo simplificado, considere o equilíbrio:\n\nCaC2O4(s) ⇌ Ca2+(aq) + C2O4^2-(aq)   Kps = 2,0 x 10^-9\n\nNa urina de um paciente foram medidas [Ca2+] = 4,0 x 10^-3 mol/L e [C2O4^2-] = 1,0 x 10^-6 mol/L. O médico recomendou aumentar a ingestão de água, o que, no modelo, dobraria o volume de urina, reduzindo as duas concentrações à metade.\n\nA análise correta da situação é:",
+    "alternatives": [
+      {"key": "A", "text": "o produto das concentrações iônicas é 4,0 x 10^-9, menor que o Kps; não há tendência de precipitação, e a recomendação é desnecessária."},
+      {"key": "B", "text": "o produto das concentrações iônicas é 4,0 x 10^-9, maior que o Kps, e há tendência de precipitação; com as concentrações reduzidas à metade, o produto passa a 1,0 x 10^-9, menor que o Kps, e deixa de haver tendência de precipitação."},
+      {"key": "C", "text": "o produto das concentrações é maior que o Kps; com a diluição, ele cai à metade, 2,0 x 10^-9, ficando exatamente igual ao Kps."},
+      {"key": "D", "text": "a ingestão de água aumenta o valor do Kps, o que impede a precipitação."},
+      {"key": "E", "text": "o produto das concentrações é maior que o Kps, e a ingestão de água não altera a situação, pois o Kps é constante."}
+    ],
+    "answer": "B",
+    "explanation": "Compara-se o produto das concentrações dos íons (quociente Q) com o Kps. Inicialmente, Q = (4,0 x 10^-3)(1,0 x 10^-6) = 4,0 x 10^-9, maior que 2,0 x 10^-9: a solução está supersaturada e há tendência de precipitação. Ao dobrar o volume, cada concentração cai à metade: Q = (2,0 x 10^-3)(5,0 x 10^-7) = 1,0 x 10^-9, ou seja, Q cai para um quarto e fica abaixo do Kps, sem tendência de precipitação. O Kps só depende da temperatura. Conceito-chave: há precipitação quando Q > Kps; diluir reduz Q sem alterar o Kps.",
+    "wrong_notes": {
+      "A": "O cálculo de Q está correto, mas a comparação está invertida: 4,0 x 10^-9 é maior que 2,0 x 10^-9.",
+      "C": "Esquece que as duas concentrações caem à metade; Q diminui quatro vezes, não duas.",
+      "D": "O Kps é constante a uma dada temperatura; a diluição altera Q, não o Kps.",
+      "E": "Embora o Kps seja constante, a diluição reduz Q e altera a tendência de precipitação."
+    },
+    "concept": "Comparação entre Q e Kps e efeito da diluição na precipitação."
+  },
+  {
+    "id": "qui-organica-002",
+    "discipline": "quimica",
+    "topic": "organica",
+    "subtopic": "polímeros",
+    "difficulty": 4,
+    "type": "multipla_escolha",
+    "origin": "inedita_ia",
+    "style_ref": "ENEM",
+    "skills": ["classificação de polímeros", "relação estrutura-propriedade", "química e saúde"],
+    "statement": "Fios de sutura absorvíveis podem ser feitos de poli(ácido lático), o PLA, polímero obtido a partir do ácido lático, CH3–CH(OH)–COOH, que pode ser produzido pela fermentação de açúcares do milho ou da cana. No organismo, o fio se degrada lentamente e seus produtos são metabolizados. Já materiais de polietileno, obtido do eteno (CH2=CH2), praticamente não se degradam no corpo.\n\nA diferença de comportamento entre esses polímeros se explica porque",
+    "alternatives": [
+      {"key": "A", "text": "o PLA é um polímero de adição, formado pela abertura de duplas ligações, e o polietileno é um polímero de condensação."},
+      {"key": "B", "text": "o PLA é uma poliamida, como as proteínas, e é degradado por enzimas digestivas."},
+      {"key": "C", "text": "o PLA é um poliéster formado por condensação, com eliminação de água; suas ligações éster sofrem hidrólise, liberando ácido lático, que é metabolizado; o polietileno é um polímero de adição com cadeia formada só por ligações C–C e C–H, sem grupos hidrolisáveis."},
+      {"key": "D", "text": "o polietileno também é biodegradável no corpo, pois vem do eteno, que é um hormônio vegetal natural."},
+      {"key": "E", "text": "o PLA é degradado pela adição de H2 às suas duplas ligações, reação que ocorre naturalmente no organismo."}
+    ],
+    "answer": "C",
+    "explanation": "O ácido lático tem um grupo –OH e um grupo –COOH na mesma molécula. O –OH de uma molécula reage com o –COOH de outra formando ligação éster e liberando água: é uma polimerização por condensação, que gera um poliéster. Ligações éster podem ser hidrolisadas no ambiente aquoso do organismo, liberando ácido lático, que entra no metabolismo celular. O polietileno é formado por adição, com abertura da dupla ligação do eteno, resultando em cadeia apenas de C–C e C–H, muito estável e sem grupos hidrolisáveis. Conceito-chave: polímeros de condensação com ligações éster ou amida podem ser hidrolisados; poliolefinas de adição são muito resistentes à degradação.",
+    "wrong_notes": {
+      "A": "Inverte as classificações: o polietileno é de adição (eteno tem dupla ligação), e o PLA é de condensação.",
+      "B": "O PLA não tem nitrogênio; suas ligações são éster, não amida.",
+      "D": "Ser derivado de uma substância natural não torna o polímero biodegradável; o polietileno é muito estável.",
+      "E": "O PLA não possui duplas ligações C=C na cadeia, e sua degradação é por hidrólise, não por adição de H2."
+    },
+    "concept": "Polímeros de condensação (poliésteres) x adição e biodegradabilidade."
+  },
+  {
+    "id": "qui-funcoes_organicas-003",
+    "discipline": "quimica",
+    "topic": "funcoes_organicas",
+    "subtopic": "aminas e amidas",
+    "difficulty": 4,
+    "type": "multipla_escolha",
+    "origin": "inedita_ia",
+    "style_ref": "ENEM",
+    "skills": ["acidez e basicidade de funções", "equilíbrio ácido-base", "farmacologia"],
+    "statement": "Fármacos atravessam as membranas celulares por difusão passiva mais facilmente na forma não ionizada, que é mais lipossolúvel. Considere:\n\n- Fármaco 1: o AAS, que possui grupo ácido carboxílico (–COOH), com pKa ≈ 3,5.\n- Fármaco 2: um fármaco com grupo amina (–NH2), cujo ácido conjugado (–NH3+) tem pKa ≈ 9,5.\n\nO pH do suco gástrico é cerca de 2. Quando o pH do meio é menor que o pKa, predomina a forma protonada do grupo; quando é maior, predomina a forma desprotonada.\n\nNo estômago, a forma predominante e a facilidade de difusão de cada fármaco são:",
+    "alternatives": [
+      {"key": "A", "text": "o AAS predomina na forma ionizada (–COO-), o que facilita sua difusão; o fármaco 2 predomina na forma neutra (–NH2), também com difusão facilitada."},
+      {"key": "B", "text": "os dois fármacos predominam na forma ionizada, que atravessa as membranas mais facilmente por ser solúvel em água."},
+      {"key": "C", "text": "o grupo amina tem caráter ácido e o carboxílico, básico; por isso o AAS se ioniza no estômago e o fármaco 2 não."},
+      {"key": "D", "text": "os dois fármacos se comportam da mesma forma, pois o pH não influencia a ionização de grupos orgânicos."},
+      {"key": "E", "text": "o AAS predomina na forma não ionizada (–COOH), o que favorece sua difusão pela membrana nesse local; o fármaco 2 predomina como cátion (–NH3+), o que dificulta sua difusão no estômago."}
+    ],
+    "answer": "E",
+    "explanation": "No estômago, o pH (cerca de 2) é menor que o pKa dos dois grupos, então ambos ficam majoritariamente protonados. Para o ácido carboxílico, a forma protonada é –COOH, neutra e mais lipossolúvel, o que favorece a difusão. Para a amina, que tem caráter básico, a forma protonada é –NH3+, um cátion, pouco lipossolúvel, o que dificulta a difusão. No intestino, com pH mais próximo da neutralidade, a situação do AAS se inverte em grande parte (predomina –COO-), enquanto a amina continua predominantemente protonada, mas com fração neutra maior que no estômago. Conceito-chave: o grau de ionização de grupos ácidos e básicos depende da relação entre pH e pKa, e a forma neutra atravessa membranas mais facilmente.",
+    "wrong_notes": {
+      "A": "Inverte as formas: com pH menor que o pKa, os grupos ficam protonados (–COOH neutro e –NH3+ catiônico).",
+      "B": "Formas ionizadas são pouco lipossolúveis e atravessam a bicamada lipídica com dificuldade.",
+      "C": "Aminas têm caráter básico e ácidos carboxílicos, caráter ácido; a afirmação inverte as funções.",
+      "D": "O pH influencia diretamente a ionização de grupos ácidos e básicos, conforme a relação entre pH e pKa."
+    },
+    "concept": "Ionização de ácidos carboxílicos e aminas conforme pH e pKa e absorção de fármacos."
+  },
+  {
+    "id": "qui-termoquimica-002",
+    "discipline": "quimica",
+    "topic": "termoquimica",
+    "subtopic": "lei de Hess",
+    "difficulty": 4,
+    "type": "multipla_escolha",
+    "origin": "inedita_ia",
+    "style_ref": "ENEM",
+    "skills": ["lei de Hess", "integração química-biologia"],
+    "statement": "Leveduras podem obter energia da glicose por fermentação alcoólica, enquanto células musculares, em presença de oxigênio, realizam a oxidação completa da glicose. Considere os dados aproximados:\n\nI. C6H12O6(s) + 6 O2(g) → 6 CO2(g) + 6 H2O(l)   ΔH = -2.800 kJ/mol\nII. C2H5OH(l) + 3 O2(g) → 2 CO2(g) + 3 H2O(l)   ΔH = -1.368 kJ/mol\n\nA fermentação alcoólica é representada por: C6H12O6(s) → 2 C2H5OH(l) + 2 CO2(g).\n\nCom base na lei de Hess, a variação de entalpia da fermentação alcoólica é de",
+    "alternatives": [
+      {"key": "A", "text": "-64 kJ/mol, energia muito menor que a liberada na oxidação completa da glicose."},
+      {"key": "B", "text": "+64 kJ/mol, o que indica que a fermentação absorve energia."},
+      {"key": "C", "text": "-1.432 kJ/mol, cerca de metade da energia da oxidação completa."},
+      {"key": "D", "text": "-4.168 kJ/mol, energia maior que a da oxidação completa."},
+      {"key": "E", "text": "-5.536 kJ/mol, energia cerca do dobro da oxidação completa."}
+    ],
+    "answer": "A",
+    "explanation": "Pela lei de Hess, a fermentação pode ser obtida somando a equação I com a equação II invertida e multiplicada por 2. Invertendo II e multiplicando por 2: 4 CO2 + 6 H2O → 2 C2H5OH + 6 O2, com ΔH = +2.736 kJ. Somando com I, cancelam-se 6 O2, 6 H2O e 4 CO2, restando C6H12O6 → 2 C2H5OH + 2 CO2. Assim, ΔH = -2.800 + 2.736 = -64 kJ/mol. A fermentação libera bem menos energia que a oxidação completa, pois grande parte da energia química permanece no etanol. Conceito-chave: na lei de Hess, ao inverter uma equação troca-se o sinal de ΔH, e ao multiplicá-la multiplica-se o ΔH.",
+    "wrong_notes": {
+      "B": "Erro de sinal na combinação das equações: o correto é -2.800 + 2.736 = -64 kJ/mol.",
+      "C": "Inverte a equação II, mas esquece de multiplicá-la por 2: -2.800 + 1.368 = -1.432 kJ/mol.",
+      "D": "Soma as equações sem inverter a II e sem multiplicá-la: -2.800 - 1.368.",
+      "E": "Multiplica a equação II por 2, mas não a inverte: -2.800 - 2.736."
+    },
+    "concept": "Lei de Hess aplicada ao metabolismo energético."
+  },
+  {
+    "id": "qui-eletroquimica-002",
+    "discipline": "quimica",
+    "topic": "eletroquimica",
+    "subtopic": "eletrólise",
+    "difficulty": 4,
+    "type": "multipla_escolha",
+    "origin": "inedita_ia",
+    "style_ref": "ENEM",
+    "skills": ["leis de Faraday", "conversão de unidades"],
+    "statement": "Uma empresa que fabrica instrumentos metálicos realiza a niquelação de peças por eletrólise de uma solução contendo íons Ni2+. A peça é ligada a um dos polos do gerador, e a reação de interesse é:\n\nNi2+(aq) + 2 e- → Ni(s)\n\nEm um processo, foi aplicada corrente constante de 5,0 A durante 32 minutos e 10 segundos. Considere: carga de 1 mol de elétrons = 96.500 C; massa molar do Ni = 59 g/mol; eficiência de 100%.\n\nA massa de níquel depositada e o eletrodo em que a peça deve estar são:",
+    "alternatives": [
+      {"key": "A", "text": "5,9 g, na peça ligada ao cátodo."},
+      {"key": "B", "text": "2,95 g, na peça ligada ao ânodo."},
+      {"key": "C", "text": "2,95 g, na peça ligada ao cátodo."},
+      {"key": "D", "text": "0,05 g, na peça ligada ao cátodo."},
+      {"key": "E", "text": "5,9 g, na peça ligada ao ânodo."}
+    ],
+    "answer": "C",
+    "explanation": "O tempo é 32 x 60 + 10 = 1.930 s. A carga é Q = i x t = 5,0 x 1.930 = 9.650 C, que corresponde a 9.650/96.500 = 0,10 mol de elétrons. Como cada Ni2+ precisa de 2 elétrons, depositam-se 0,050 mol de Ni, ou 0,050 x 59 = 2,95 g. A deposição do metal é uma redução, que ocorre no cátodo; por isso a peça deve ser ligada ao polo negativo, atuando como cátodo. Conceito-chave: na eletrólise, mols de elétrons = Q/96.500, e a redução de íons metálicos ocorre no cátodo.",
+    "wrong_notes": {
+      "A": "Considera 1 elétron por íon Ni2+; são necessários 2 elétrons por átomo de Ni depositado.",
+      "B": "A massa está correta, mas a deposição (redução) ocorre no cátodo, não no ânodo.",
+      "D": "Usa o tempo em minutos em vez de segundos ao calcular a carga.",
+      "E": "Combina dois erros: ignora os 2 elétrons por íon e coloca a peça no ânodo, onde ocorre oxidação."
+    },
+    "concept": "Leis de Faraday e eletrodeposição no cátodo."
+  },
+  {
+    "id": "qui-reacoes_organicas-001",
+    "discipline": "quimica",
+    "topic": "reacoes_organicas",
+    "subtopic": "esterificação e saponificação",
+    "difficulty": 4,
+    "type": "multipla_escolha",
+    "origin": "inedita_ia",
+    "style_ref": "ENEM",
+    "skills": ["identificação de reação orgânica", "cálculo estequiométrico"],
+    "statement": "O óleo extraído das amêndoas do babaçu, palmeira abundante no Maranhão e no Tocantins, pode ser usado para produzir biodiesel. No processo, os triglicerídeos (triésteres do glicerol) do óleo reagem com metanol, na presença de catalisador básico, formando ésteres metílicos de ácidos graxos (o biodiesel) e glicerol (C3H8O3). Uma reação paralela indesejada, que ocorre quando há água no meio, é a formação de sabão.\n\nMassas molares (g/mol): metanol = 32; glicerol = 92.\n\nPara a conversão completa de 10 mol de triglicerídeos, o tipo de reação principal, a massa mínima de metanol e a massa de glicerol formada são:",
+    "alternatives": [
+      {"key": "A", "text": "esterificação; 320 g de metanol; 2.760 g de glicerol."},
+      {"key": "B", "text": "transesterificação; 960 g de metanol; 920 g de glicerol."},
+      {"key": "C", "text": "saponificação; 960 g de metanol; 2.760 g de glicerol."},
+      {"key": "D", "text": "transesterificação; 320 g de metanol; 920 g de glicerol."},
+      {"key": "E", "text": "hidrogenação; 960 g de metanol; 920 g de glicerol."}
+    ],
+    "answer": "B",
+    "explanation": "Um triglicerídeo é um triéster: o glicerol está ligado a três cadeias de ácidos graxos. Na transesterificação, cada ligação éster troca o glicerol pelo metanol: triglicerídeo + 3 CH3OH → 3 ésteres metílicos + 1 glicerol. Para 10 mol de triglicerídeos, são necessários 30 mol de metanol (30 x 32 = 960 g), e formam-se 10 mol de glicerol (10 x 92 = 920 g). A presença de água favorece a hidrólise dos ésteres e a reação dos ácidos graxos com a base, formando sais de ácidos graxos (sabão), o que reduz o rendimento. Conceito-chave: biodiesel é obtido por transesterificação, na proporção de 3 mol de álcool por mol de triglicerídeo.",
+    "wrong_notes": {
+      "A": "Esterificação é a reação entre ácido carboxílico e álcool; além disso, usa proporção 1 : 1 para o metanol e inverte as proporções do glicerol.",
+      "C": "Saponificação é a reação de ésteres com base forte, formando sabão (a reação indesejada); e cada triglicerídeo libera apenas 1 glicerol.",
+      "D": "Identifica a reação, mas usa 1 mol de metanol por mol de triglicerídeo; são necessários 3, um para cada ligação éster.",
+      "E": "Hidrogenação é a adição de H2 a duplas ligações (usada na produção de gorduras hidrogenadas), não a reação com metanol."
+    },
+    "concept": "Transesterificação de triglicerídeos na produção de biodiesel."
+  }
+]

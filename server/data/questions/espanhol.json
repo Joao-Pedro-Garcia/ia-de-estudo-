@@ -1,0 +1,226 @@
+[
+  {
+    "id": "esp-leitura_es-001",
+    "discipline": "espanhol",
+    "topic": "leitura_es",
+    "subtopic": "estratégias de leitura",
+    "difficulty": 1,
+    "type": "multipla_escolha",
+    "origin": "inedita_ia",
+    "style_ref": "ENEM",
+    "skills": ["identificação da finalidade do texto"],
+    "statement": "Leia o cartaz de um centro de saúde:\n\n> **¡Vacúnate contra el sarampión!**\n> El sarampión es una enfermedad muy contagiosa que puede causar complicaciones graves en niños pequeños. La vacuna es gratuita y segura. Acércate a tu centro de salud de lunes a viernes, de 8 a 16 horas, con el carné de vacunación.\n\nO cartaz tem como principal objetivo:",
+    "alternatives": [
+      {"key": "A", "text": "explicar a origem histórica do sarampo."},
+      {"key": "B", "text": "estimular a população a se vacinar contra o sarampo, informando onde e quando ir."},
+      {"key": "C", "text": "anunciar o fechamento do centro de saúde nos fins de semana."},
+      {"key": "D", "text": "informar que a vacina contra o sarampo passou a ser paga."},
+      {"key": "E", "text": "recrutar profissionais de saúde para uma campanha."}
+    ],
+    "answer": "B",
+    "explanation": "O título no imperativo (\"¡Vacúnate!\" = \"Vacine-se!\") e o verbo \"acércate\" (\"aproxime-se\", \"vá até\") convidam o leitor à ação. O texto justifica a vacinação (doença muito contagiosa, com complicações em crianças), afirma que a vacina é gratuita e segura e informa dias, horários e documento necessário. Conceito-chave: textos de campanha combinam apelo ao leitor e informações práticas para estimular uma ação.",
+    "wrong_notes": {
+      "A": "O cartaz não trata da história da doença.",
+      "C": "O horário de funcionamento aparece como informação prática, não como anúncio de fechamento.",
+      "D": "O texto diz que a vacina é \"gratuita\".",
+      "E": "O cartaz se dirige à população, não a profissionais."
+    },
+    "concept": "Finalidade de um cartaz de campanha."
+  },
+  {
+    "id": "esp-leitura_es-002",
+    "discipline": "espanhol",
+    "topic": "leitura_es",
+    "subtopic": "heterosemânticos",
+    "difficulty": 1,
+    "type": "multipla_escolha",
+    "origin": "inedita_ia",
+    "style_ref": "ENEM",
+    "skills": ["heterossemânticos", "vocabulário em contexto"],
+    "statement": "Leia o trecho de um folheto de atenção pré-natal:\n\n> Si estás **embarazada**, es importante comenzar los controles prenatales lo antes posible. Durante el primer **rato** de la consulta, la enfermera tomará tu presión arterial y te hará algunas preguntas sobre tu salud.\n\nNo contexto, as palavras destacadas significam, respectivamente:",
+    "alternatives": [
+      {"key": "A", "text": "envergonhada — rato (animal)"},
+      {"key": "B", "text": "envergonhada — momento"},
+      {"key": "C", "text": "grávida — momento"},
+      {"key": "D", "text": "grávida — rato (animal)"},
+      {"key": "E", "text": "cansada — retrato"}
+    ],
+    "answer": "C",
+    "explanation": "\"Embarazada\" e \"rato\" são heterossemânticos (falsos amigos): palavras parecidas com o português, mas com sentido diferente. \"Embarazada\" significa \"grávida\" — o contexto de controles pré-natais confirma. \"Rato\" significa \"momento\", \"período curto de tempo\"; o animal, em espanhol, é \"ratón\" ou \"rata\". Conceito-chave: heterossemânticos exigem atenção ao contexto, e não à semelhança com o português.",
+    "wrong_notes": {
+      "A": "Cai nos dois falsos amigos: \"envergonhada\" em espanhol seria \"avergonzada\", e o animal é \"ratón\".",
+      "B": "Acerta \"rato\", mas traduz \"embarazada\" pela semelhança com \"embaraçada\".",
+      "D": "Acerta \"embarazada\", mas interpreta \"rato\" como o animal, o que não faz sentido na consulta.",
+      "E": "Não há base no texto para \"cansada\" nem para \"retrato\"."
+    },
+    "concept": "Heterossemânticos: embarazada e rato."
+  },
+  {
+    "id": "esp-leitura_es-003",
+    "discipline": "espanhol",
+    "topic": "leitura_es",
+    "subtopic": "estratégias de leitura",
+    "difficulty": 2,
+    "type": "multipla_escolha",
+    "origin": "inedita_ia",
+    "style_ref": "ENEM",
+    "skills": ["ideia central", "compreensão geral"],
+    "statement": "Leia o trecho de uma reportagem (texto original):\n\n> En varias ciudades de América Latina, los casos de dengue aumentaron en los últimos años. Los especialistas explican que el calor más intenso y las lluvias irregulares favorecen la reproducción del mosquito. Pero recuerdan que el clima no lo explica todo: la falta de agua corriente obliga a muchas familias a guardar agua en recipientes abiertos, que se convierten en criaderos.\n\nSegundo o texto, o aumento dos casos de dengue está relacionado:",
+    "alternatives": [
+      {"key": "A", "text": "exclusivamente às mudanças no clima da região."},
+      {"key": "B", "text": "à resistência do mosquito aos inseticidas."},
+      {"key": "C", "text": "à chegada de uma nova variante do vírus."},
+      {"key": "D", "text": "a fatores climáticos e também a condições sociais, como a falta de água encanada."},
+      {"key": "E", "text": "ao excesso de água encanada nas cidades."}
+    ],
+    "answer": "D",
+    "explanation": "O texto apresenta duas causas: o clima (calor intenso e chuvas irregulares) e uma condição social (falta de \"agua corriente\", isto é, água encanada, que leva as famílias a armazenar água em recipientes abertos). A conjunção \"pero\" (\"mas\") e a frase \"el clima no lo explica todo\" indicam que o clima não é a única explicação. Conceito-chave: identificar a ideia central exige perceber como o texto relaciona as diferentes causas apresentadas.",
+    "wrong_notes": {
+      "A": "O texto afirma que \"el clima no lo explica todo\".",
+      "B": "Resistência a inseticidas não é mencionada.",
+      "C": "Nenhuma variante do vírus é citada.",
+      "E": "O problema é a falta (\"falta\") de água corrente, não o excesso."
+    },
+    "concept": "Multicausalidade em texto informativo em espanhol."
+  },
+  {
+    "id": "esp-leitura_es-004",
+    "discipline": "espanhol",
+    "topic": "leitura_es",
+    "subtopic": "gramática em contexto",
+    "difficulty": 2,
+    "type": "multipla_escolha",
+    "origin": "inedita_ia",
+    "style_ref": "ENEM",
+    "skills": ["conectivos", "relações lógicas"],
+    "statement": "Leia o trecho de um texto sobre alimentação:\n\n> Los alimentos ultraprocesados son prácticos y sabrosos; **sin embargo**, suelen contener mucha sal, azúcar y grasas. **Aunque** no es necesario eliminarlos por completo, los nutricionistas recomiendan consumirlos con moderación.\n\nOs conectivos destacados expressam, respectivamente, relações de:",
+    "alternatives": [
+      {"key": "A", "text": "conclusão e causa."},
+      {"key": "B", "text": "adição e tempo."},
+      {"key": "C", "text": "causa e finalidade."},
+      {"key": "D", "text": "explicação e condição."},
+      {"key": "E", "text": "oposição e concessão."}
+    ],
+    "answer": "E",
+    "explanation": "\"Sin embargo\" equivale a \"no entanto\", \"contudo\": opõe as vantagens dos ultraprocessados (práticos e saborosos) às desvantagens (muito sal, açúcar e gordura). \"Aunque\" equivale a \"embora\": introduz uma concessão — não é necessário eliminá-los, mas recomenda-se moderação. Um erro comum é associar \"sin embargo\" à ideia de \"sem embargo\" ou de causa. Conceito-chave: sin embargo = oposição; aunque = concessão.",
+    "wrong_notes": {
+      "A": "\"Sin embargo\" não introduz conclusão, e \"aunque\" não indica causa (\"porque\").",
+      "B": "Adição seria \"además\"; tempo seria \"cuando\", \"mientras\".",
+      "C": "Causa seria \"porque\"; finalidade seria \"para que\".",
+      "D": "Condição seria \"si\"; \"aunque\" admite um obstáculo, não impõe condição."
+    },
+    "concept": "Conectivos de oposição e concessão em espanhol."
+  },
+  {
+    "id": "esp-leitura_es-005",
+    "discipline": "espanhol",
+    "topic": "leitura_es",
+    "subtopic": "estratégias de leitura",
+    "difficulty": 3,
+    "type": "multipla_escolha",
+    "origin": "inedita_ia",
+    "style_ref": "ENEM",
+    "skills": ["ponto de vista do autor", "argumentação"],
+    "statement": "Leia o trecho de um artigo de opinião (texto original):\n\n> Nos dicen que cuidar la salud es una decisión individual: comer bien, hacer ejercicio, dormir ocho horas. Pero ¿cómo duerme ocho horas quien trabaja en dos empleos? ¿Cómo come verduras frescas quien vive lejos de cualquier mercado? La salud no se compra en el gimnasio; se construye también con transporte, salario digno y agua potable.\n\nO autor do texto defende que:",
+    "alternatives": [
+      {"key": "A", "text": "os hábitos individuais não têm nenhuma influência sobre a saúde."},
+      {"key": "B", "text": "a frequência a academias é a principal forma de garantir a saúde."},
+      {"key": "C", "text": "a saúde depende também de condições sociais, e não apenas de escolhas individuais."},
+      {"key": "D", "text": "as pessoas com dois empregos devem dormir menos para manter a renda."},
+      {"key": "E", "text": "os governos devem proibir a venda de alimentos industrializados."}
+    ],
+    "answer": "C",
+    "explanation": "O autor parte de um discurso comum (a saúde como decisão individual) e o questiona por meio de perguntas retóricas que mostram obstáculos sociais: jornadas duplas de trabalho, distância dos mercados. A conclusão (\"se construye también con transporte, salario digno y agua potable\") afirma que a saúde depende de condições coletivas. A palavra \"también\" (também) indica que ele não nega o papel dos hábitos, mas os considera insuficientes. Conceito-chave: o ponto de vista do autor se reconhece na tese final e nas perguntas retóricas que a preparam.",
+    "wrong_notes": {
+      "A": "O uso de \"también\" mostra que o autor não descarta os hábitos individuais.",
+      "B": "O texto afirma que \"la salud no se compra en el gimnasio\".",
+      "D": "As perguntas denunciam a dificuldade de quem tem dois empregos; não recomendam dormir menos.",
+      "E": "Não há proposta de proibição de alimentos."
+    },
+    "concept": "Determinantes sociais da saúde em texto argumentativo."
+  },
+  {
+    "id": "esp-leitura_es-006",
+    "discipline": "espanhol",
+    "topic": "leitura_es",
+    "subtopic": "heterosemânticos",
+    "difficulty": 3,
+    "type": "multipla_escolha",
+    "origin": "inedita_ia",
+    "style_ref": "ENEM",
+    "skills": ["heterossemânticos", "vocabulário em contexto"],
+    "statement": "Leia as orientações dadas a um paciente após uma cirurgia (texto original):\n\n> Durante la primera semana, evite los paseos **largos** y no levante objetos pesados. Puede **borrar** las marcas de bolígrafo de la piel con agua y jabón. Si nota un **olor** fuerte en la herida, acuda de inmediato a urgencias.\n\nNo contexto, as palavras destacadas significam, respectivamente:",
+    "alternatives": [
+      {"key": "A", "text": "largos — borrar (manchar) — calor"},
+      {"key": "B", "text": "compridos (longos) — apagar — cheiro"},
+      {"key": "C", "text": "largos — apagar — calor"},
+      {"key": "D", "text": "compridos (longos) — manchar — cheiro"},
+      {"key": "E", "text": "rápidos — cobrir — cor"}
+    ],
+    "answer": "B",
+    "explanation": "\"Largo\" em espanhol significa \"comprido\", \"longo\" (\"largo\" em português corresponde a \"ancho\"); a orientação é evitar passeios longos. \"Borrar\" significa \"apagar\", e não \"manchar\" — o paciente pode remover as marcas de caneta com água e sabão. \"Olor\" significa \"cheiro\"; um cheiro forte na ferida pode indicar infecção, por isso a orientação de procurar a urgência. Conceito-chave: heterossemânticos como largo, borrar e olor exigem leitura atenta ao contexto.",
+    "wrong_notes": {
+      "A": "Traduz pela semelhança com o português: \"largo\" não é \"amplo\", \"borrar\" não é \"manchar\" e \"olor\" não é \"calor\".",
+      "C": "Acerta \"borrar\", mas erra \"largos\" e confunde \"olor\" com \"calor\".",
+      "D": "Acerta \"largos\" e \"olor\", mas cai no falso amigo \"borrar\".",
+      "E": "Nenhum dos sentidos propostos corresponde às palavras ou ao contexto."
+    },
+    "concept": "Heterossemânticos: largo, borrar, olor."
+  },
+  {
+    "id": "esp-leitura_es-007",
+    "discipline": "espanhol",
+    "topic": "leitura_es",
+    "subtopic": "estratégias de leitura",
+    "difficulty": 4,
+    "type": "multipla_escolha",
+    "origin": "inedita_ia",
+    "style_ref": "Vestibular federal",
+    "skills": ["inferência", "leitura de texto literário"],
+    "statement": "Leia o microconto (texto original):\n\n> La doctora Ríos llegó al pueblo un martes de lluvia. El primer mes, nadie entró al consultorio: preferían a doña Tula, que curaba con hierbas desde hacía cuarenta años. El segundo mes, la doctora fue a visitarla con un cuaderno. El tercer mes, en la sala de espera había dos sillas nuevas: una decía \"Consultorio\" y la otra, \"Doña Tula\".\n\nO desfecho do microconto permite inferir que:",
+    "alternatives": [
+      {"key": "A", "text": "a médica desistiu de atender no povoado e foi substituída por Doña Tula."},
+      {"key": "B", "text": "Doña Tula passou a frequentar o consultório como paciente da médica."},
+      {"key": "C", "text": "a médica proibiu o uso de ervas medicinais no povoado."},
+      {"key": "D", "text": "a médica conquistou a confiança da comunidade ao dialogar com o saber tradicional, e as duas passaram a atuar lado a lado."},
+      {"key": "E", "text": "os moradores deixaram de procurar Doña Tula e passaram a ir apenas ao consultório."}
+    ],
+    "answer": "D",
+    "explanation": "A narrativa avança em três meses. No primeiro, a comunidade rejeita a médica e prefere a curandeira. No segundo, a médica visita Doña Tula com um caderno, gesto que indica disposição para aprender e dialogar. No terceiro, as duas cadeiras na sala de espera — uma para o consultório e outra para Doña Tula — sugerem que ambas passaram a atender no mesmo espaço, de forma complementar. O texto não afirma isso diretamente; o leitor infere pela progressão e pelo símbolo das cadeiras. Conceito-chave: em microcontos, o sentido final costuma depender de inferências a partir de poucos elementos simbólicos.",
+    "wrong_notes": {
+      "A": "A cadeira com o nome \"Consultorio\" indica que a médica continua atendendo.",
+      "B": "A cadeira com o nome de Doña Tula sugere que ela atende, não que seja paciente.",
+      "C": "Nada indica proibição; a visita com o caderno sugere diálogo.",
+      "E": "A cadeira de Doña Tula mostra que ela continua sendo procurada."
+    },
+    "concept": "Inferência em microconto e diálogo entre saberes."
+  },
+  {
+    "id": "esp-leitura_es-008",
+    "discipline": "espanhol",
+    "topic": "leitura_es",
+    "subtopic": "gramática em contexto",
+    "difficulty": 4,
+    "type": "multipla_escolha",
+    "origin": "inedita_ia",
+    "style_ref": "Vestibular federal",
+    "skills": ["ironia", "modo verbal", "leitura crítica"],
+    "statement": "Leia o trecho de uma coluna de humor (texto original):\n\n> Felicito a las autoridades por su nuevo plan contra la obesidad infantil: carteles con frutas sonrientes en las escuelas. Es una idea brillante, sobre todo porque en esas mismas escuelas la cantina solo vende gaseosas y papas fritas. Ojalá los niños aprendan a comer los carteles.\n\nA crítica do autor se constrói principalmente por meio de:",
+    "alternatives": [
+      {"key": "A", "text": "ironia, pois ele elogia o plano, mas mostra que ele é ineficaz diante da oferta de alimentos nas escolas, culminando no desejo absurdo de que as crianças \"comam os cartazes\"."},
+      {"key": "B", "text": "elogio sincero, pois considera os cartazes suficientes para mudar a alimentação."},
+      {"key": "C", "text": "dados estatísticos sobre a obesidade infantil no país."},
+      {"key": "D", "text": "defesa da venda de refrigerantes e batatas fritas nas cantinas."},
+      {"key": "E", "text": "descrição neutra do plano, sem expressar opinião."}
+    ],
+    "answer": "A",
+    "explanation": "O autor usa expressões de elogio (\"Felicito\", \"idea brillante\"), mas logo revela a contradição: a cantina das escolas só vende refrigerantes (\"gaseosas\") e batatas fritas (\"papas fritas\"). O desejo final, introduzido por \"Ojalá\" (\"tomara que\", seguido de subjuntivo: \"aprendan\"), é absurdo — comer os cartazes — e evidencia que o plano é apenas simbólico. Dizer o contrário do que se pensa para criticar é ironia. Conceito-chave: a ironia é reconhecida pelo contraste entre o elogio aparente e os fatos apresentados.",
+    "wrong_notes": {
+      "B": "Lê o elogio literalmente e ignora o contraste com a cantina e o desejo absurdo final.",
+      "C": "Não há dados numéricos no texto.",
+      "D": "A menção à cantina serve para criticar a incoerência, não para defender esses produtos.",
+      "E": "O texto é opinativo e irônico, não neutro."
+    },
+    "concept": "Ironia em texto de humor em espanhol."
+  }
+]
